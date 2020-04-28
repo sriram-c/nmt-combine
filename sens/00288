@@ -1,0 +1,7 @@
+ENG: The data structure for a node will keep track of not only the state, but also the parent state or the operator that was applied to get this state.
+ANU: gAzTa ke lie AzkadA saMracanA na kevala ke rAjya, balki BI mAz bApa rAjya yA saFcAlaka trEka ko raKegI jo yaha rAjya pahuzcane ke lie Avexana kiyA gayA WA .
+NMT: eka noda ke lie detA saMracanA na kevala rAjya , balki mUla rAjya yA oYparetara hE ki isa rAjya ko prApwa karane ke lie lAgU kiyA gayA WA kI jAnakArI raKeMge .
+NMT: eka noda ke lie detA saMracanA na kevala rAjya , balki mUla rAjya yA oYparetara hE ki isa rAjya ko prApwa karane ke lie lAgU kiyA gayA WA kI jAnakArI raKegA .
+NMT: eka noda ke lie detA saMracanA na kevala sWiwi , lekina BI mAwA piwA rAjya yA oYparetara hE ki isa sWiwi ko prApwa karane ke lie lAgU kiyA gayA WA kA trEka raKane jAegA .
+NMT: eka noda ke lie detA saMracanA na kevala sWiwi , balki janaka sWiwi yA oYparetara hE ki isa sWiwi ko prApwa karane ke lie lAgU kiyA gayA WA kI jAnakArI raKegA .
+NMT: eka noda ke lie detA saMracanA na kevala rAjya , balki mAwA piwA rAjya yA oYparetara hE ki isa rAjya ko prApwa karane ke lie lAgU kiyA gayA WA kA trEka raKeMge .

@@ -1,0 +1,7 @@
+ENG: How do we formulate this in terms of a state space search problem? The problem formulation involves deciding the representation of the states, selecting the initial state representation, the description of the operators, and the successor states.
+ANU: hama eka avasWA sWAna walASa samasyA ke anusAra yaha kEse sUwra rUpa meM banAwe hEM? xa samasyA sUwrIkaraNa AramBika avasWA prawiniXiwva, saFcAlakoM kA varNana, Ora vArisa rAjya cunawA huA rAjyoM kA prawiniXiwva PEsalA xenA, sammiliwa hE .
+NMT: ?
+NMT: hama ise eka rAjya aMwarikRa Koja samasyA ke saMxarBa meM kEse wEyAra karawe hEM ? samasyA nirUpaNa meM rAjyoM kA prawiniXiwva waya karanA , AraMBika rAjya kA prawiniXiwva , saMcAlakoM kA vivaraNa Ora uwwarAXikArI rAjyoM kA cayana SAmila hE .
+NMT: hama ise rAjya aMwarikRa Koja samasyA ke saMxarBa meM kEse banAeM ?
+NMT: rAjya aMwarikRa Koja samasyA ke saMxarBa meM hama ise kEse wEyAra karawe hEM ? samasyA nirUpaNa meM rAjyoM ke prawiniXiwva kA nirNaya karanA , prAraMBika rAjyoM ke prawiniXiwva kA cayana karanA , oYparetaroM kA varNana waWA uwwarAXikArI rAjyoM kA cayana karanA SAmila hE .
+NMT: rAjya aMwarikRa Koja samasyA ke saMxarBa meM hama ise kEse wEyAra kareM ? samasyA nirUpaNa meM rAjyoM kA prawiniXiwva waya karanA , prAraMBika rAjya prawiniXiwva kA cayana karanA , oYparetaroM kA varNana , Ora uwwarAXikArI rAjyoM kA cayana karanA SAmila hE .

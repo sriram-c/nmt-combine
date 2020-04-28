@@ -1,0 +1,11 @@
+ENG: If the search space is not a tree, but a graph, the search tree may contain different nodes corresponding to the same state.
+ANU: yaxi Koja sWala peda, paranwu grAPa nahIM hE, wo Koja waru meM samAna avasWA alaga alaga gAzTa jo samawulya ho hEM .
+NMT: yaxi Koja sWAna eka vqkRa nahIM hE , lekina eka grAPa , Koja vqkRa eka hI rAjya ke anurUpa viBinna nodsa ho sakawA hE .
+NMT: yaxi Koja sWAna eka pedZa nahIM hE , lekina eka grAPa , Koja pedZa eka hI rAjya ke anurUpa viBinna nodsa ho sakawA hE .
+NMT: yaxi Koja sWAna eka vqkRa nahIM hE , lekina eka grAPa , Koja vqkRa eka hI sWiwi ke anurUpa viBinna nodsa ho sakawA hE .
+NMT: yaxi Koja sWAna eka pedZa nahIM hE , lekina eka grAPa hE , Koja vqkRa eka hI sWiwi ke anurUpa viBinna nodsa ho sakawA hE .
+NMT: yaxi Koja sWAna eka pedZa nahIM hE , lekina eka grAPa hE , Koja pedZa eka hI sWiwi ke anurUpa viBinna nodsa ho sakawA hE .
+NMT: yaxi Koja sWAna eka vqkRa nahIM hE , lekina eka grAPa hE , Koja vqkRa eka hI sWiwi ke anurUpa viBinna nodsa ho sakawA hE .
+NMT: yaxi Koja sWAna eka pedZa nahIM hE , lekina eka grAPa , Koja pedZa eka hI sWiwi ke anurUpa viBinna nodsa ho sakawA hE .
+NMT: yaxi Koja sWAna eka vqkRa nahIM hE , lekina eka grAPa , Koja vqkRa viBinna nodsa eka hI sWiwi ke anurUpa ho sakawA hE .
+NMT: yaxi Koja sWAna eka vqkRa nahIM hE , balki eka grAPa hE , wo Koja vqkRa viBinna nodsa eka hI sWiwi ke anurUpa ho sakawA hE .

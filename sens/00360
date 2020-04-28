@@ -1,0 +1,15 @@
+ENG: The newly generated node is checked with the nodes in CLOSED too, and it is put in OPEN if the corresponding state cannot be found in CLOSED.
+ANU: nayI uwpanna kara gAzTa BI klovjZda meM gAzTa se jAzcI huI hE, Ora yaha ovpana meM dAlA huA hE yaxi jo samawulya ho avasWA klovjZda meM nahIM milI jA sakawI hE .
+NMT: nava uwpanna noda ko CLOSED meM BI nodsa ke sAWa jAzcA jAwA hE , Ora yaha opIena meM raKA jAwA hE yaxi waxanurUpa sWiwi CLOSED meM nahIM pAI jA sakawI hE .
+NMT: nava sqjiwa noda ko BI CLOSED meM nodsa ke sAWa jAzcA jAwA hE , Ora yaxi waxanurUpa sWiwi CLOSED meM nahIM pAI jA sakawI hE wo ise opIena meM raKA jAwA hE .
+NMT: nava uwpanna noda ko CLOSED meM BI nodsa ke sAWa jAzcA jAwA hE , Ora yaxi waxanurUpa sWiwi CLOSED meM nahIM pAI jA sakawI hE wo ise opIena meM raKA jAwA hE .
+NMT: nava uwpanna noda CLOSED meM BI nodsa ke sAWa jAzca kI jAwI hE , Ora yaha opIna meM raKA jAwA hE agara saMgawa sWiwi CLOSED meM nahIM pAyA jA sakawA hE .
+NMT: nava uwpanna noda CLOSED meM BI nodsa ke sAWa jAzca kI jAwI hE , Ora yaha opena meM raKA jAwA hE agara saMgawa sWiwi CLOSED meM nahIM pAyA jA sakawA hE .
+NMT: nava janiwa noda CLOSED meM BI nodsa ke sAWa jAzca kI jAwI hE , Ora yaha opena meM raKA jAwA hE agara saMgawa sWiwi CLOSED meM nahIM pAyA jA sakawA hE .
+NMT: nava janiwa noda ko CLOSED meM BI nodsa ke sAWa jAzcA jAwA hE , Ora yaxi saMgawa sWiwi CLOSED meM nahIM pAI jA sakawI hE wo ise opIena meM raKA jAwA hE .
+NMT: nava janiwa noda CLOSED meM BI nodsa ke sAWa jAzca kI jAwI hE , Ora yaha opena meM raKA jAwA hE agara waxanurUpa sWiwi CLOSED meM nahIM pAyA jA sakawA hE .
+NMT: nava janiwa noda ko CLOSED meM BI nodsa ke sAWa jAzcA jAwA hE , Ora yaxi saMgawa sWiwi CLOSED meM nahIM pAI jA sakawI hE wo ise opena meM raKA jAwA hE .
+NMT: navanirmiwa noda ko BI CLOSED meM nodsa ke sAWa jAzcA jAwA hE , Ora ise opIna meM raKA jAwA hE yaxi isI sWiwi ko CLOSED meM nahIM pAyA jA sakawA hE .
+NMT: CLOSED meM BI nodsa ke sAWa nava - janiwa noda jAzcA jAwA hE , Ora ise OPEN meM raKA jAwA hE yaxi CLOSED meM wawsaMbaMXI sWiwi nahIM pAI jA sakawI hE .
+NMT: nava janiwa noda CLOSED meM BI nodsa ke sAWa jAzcA jAwA hE , Ora ise OPEN meM raKA jAwA hE yaxi isI sWiwi ko CLOSED meM nahIM pAyA jA sakawA hE .
+NMT: CLOSED meM BI noda ke sAWa nava janiwa noda kI jAzca kI jAwI hE , Ora yaha OPEN meM raKA jAwA hE agara isI rAjya CLOSED meM nahIM pAyA jA sakawA hE .

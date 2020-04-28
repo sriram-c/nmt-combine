@@ -1,0 +1,10 @@
+ENG: One may list all possible paths, eliminating cycles from the paths, and we would get the complete search tree from a state space graph.
+ANU: eka paWoM se cakra Kawma karawe hue saba samBava paWa, sUcIbaxXa kara sakawA hE, Ora hama eka avasWA sWAna grAPa se pUrA Koja waru prApwa kareMge .
+NMT: saBI saMBava rAswoM kI sUcI ho sakawI hE , rAswoM se cakroM ko samApwa kara sakawe hEM , Ora hama eka rAjya aMwarikRa grAPa se pUrNa Koja pedZa mila jAegA
+NMT: saBI saMBava rAswoM kI sUcI ho sakawI hE , rAswoM se cakroM ko samApwa karane , Ora hama eka rAjya aMwarikRa grAPa se pUrNa Koja pedZa mila jAegA
+NMT: eka saBI saMBava rAswoM kI sUcI kara sakawe hEM , rAswoM se cakroM ko samApwa , Ora hama eka rAjya aMwarikRa grAPa se pUrNa Koja pedZa mila jAegA
+NMT: saBI saMBava rAswoM kI sUcI ho sakawI hE , rAswoM se cakra samApwa , Ora hama eka rAjya aMwarikRa grAPa se pUrNa Koja pedZa mila jAegA
+NMT: saBI saMBava rAswoM kI sUcI kara sakawe hEM , rAswoM se cakroM ko samApwa kara sakawe hEM , Ora hama eka rAjya aMwarikRa grAPa se pUrNa Koja pedZa mila jAegA .
+NMT: eka saBI saMBava rAswoM kI sUcI kara sakawe hEM , rAswoM se cakra ko Kawma , Ora hama eka rAjya aMwarikRa grAPa se pUrNa Koja pedZa mila jAegA .
+NMT: eka saBI saMBava rAswoM , rAswoM se cakra ko Kawma karane kI sUcI ho sakawA hE , Ora hama eka rAjya aMwarikRa grAPa se pUrNa Koja pedZa mila jAegA .
+NMT: eka saBI saMBava rAswoM , rAswoM se cakra ko Kawma karane kI sUcI ho sakawA hE , Ora hama eka rAjya aMwarikRa grAPa se pUrI Koja pedZa mila jAegA .

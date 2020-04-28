@@ -1,0 +1,9 @@
+ENG: This algorithm only needs to check the nodes in the current path so is much more efficient than the full checking algorithm.
+ANU: yaha praNAlI kevala varwamAna paWa meM gAzTa jAzca isalie pUrI parIkRaNa praNAlI kI apekRA Ora aXika sakRama hE .
+NMT: yaha elgoriWma kevala varwamAna paWa meM nodsa kI jAzca karane kI jarUrawa hE wo pUrNa jAzca elgoriWma kI wulanA meM kahIM aXika kuSala hE .
+NMT: isa elgoriWma kevala varwamAna paWa meM nodsa kI jAzca karane kI jarUrawa hE wo pUrNa jAzca elgoriWma kI wulanA meM kahIM aXika kuSala hE .
+NMT: yaha elgoriWma kevala varwamAna paWa meM nodsa kI jAzca karane kI jarUrawa hE wo pUrI jAzca elgoriWma kI wulanA meM bahuwa aXika kuSala hE .
+NMT: isa elgoriWma kevala varwamAna paWa meM nodsa kI jAzca karane kI jarUrawa hE wo pUrNa jAzca elgoriWma kI wulanA meM bahuwa aXika kuSala hE .
+NMT: isa elgoriWma kevala varwamAna paWa meM nodsa kI jAzca kI jarUrawa hE wo pUrI jAzca elgoriWma kI wulanA meM bahuwa aXika kuSala hE .
+NMT: isa elgoriWma kevala varwamAna paWa meM nodsa kI jAzca kI jarUrawa hE wo bahuwa aXika hE pUrNa jAzca elgoriWma kI wulanA meM kuSala .
+NMT: yaha elgoriWma kevala varwamAna paWa meM nodsa kI jAzca kI jarUrawa hE wo bahuwa aXika pUrNa jAzca elgoriWma se aXika kuSala hE .

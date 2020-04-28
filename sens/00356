@@ -1,0 +1,12 @@
+ENG: The way to avoid generating the same state again when not required, the search algorithm can be modified to check a node when it is being generated.
+ANU: jaba nahIM AvaSyakawA huI Pira se samAna avasWA uwpanna kara tAlane kA mArga, walASa praNAlI gAzTa jAzcane ke lie suXArI jA sakawI hE jaba yaha uwpanna kiyA jA rahA hE .
+NMT: eka hI sWiwi ko Pira se uwpanna karane se bacane ke lie warIkA jaba AvaSyaka nahIM hE , Koja elgoriWma eka noda kI jAzca karane ke lie saMSoXiwa kiyA jA sakawA hE jaba yaha uwpanna kiyA jA rahA hE .
+NMT: eka hI sWiwi ko Pira se uwpanna karane se bacane ke lie jaba AvaSyaka nahIM hE , Koja elgoriWma eka noda kI jAzca karane ke lie saMSoXiwa kiyA jA sakawA hE jaba yaha uwpanna kiyA jA rahA hE .
+NMT: eka hI sWiwi uwpanna karane se bacane kA warIkA Pira se jaba AvaSyaka nahIM hE , Koja elgoriWma eka noda kI jAzca karane ke lie saMSoXiwa kiyA jA sakawA hE jaba yaha uwpanna kiyA jA rahA hE .
+NMT: eka hI rAjya Pira se uwpanna karane se bacane kA warIkA jaba AvaSyaka nahIM hE , Koja elgoriWma eka noda kI jAzca karane ke lie saMSoXiwa kiyA jA sakawA hE jaba yaha uwpanna kiyA jA rahA hE .
+NMT: eka hI sWiwi ko Pira se uwpanna karane se bacane kA warIkA jaba AvaSyaka nahIM hE , Koja elgoriWma eka noda kI jAzca karane ke lie saMSoXiwa kiyA jA sakawA hE jaba yaha uwpanna kiyA jA rahA hE .
+NMT: eka hI sWiwi Pira se uwpanna karane se bacane ke lie warIkA jaba AvaSyaka nahIM hE , Koja elgoriWma eka noda kI jAzca karane ke lie saMSoXiwa kiyA jA sakawA hE jaba yaha uwpanna kiyA jA rahA hE .
+NMT: jisa waraha se eka hI rAjya Pira se uwpanna karane se bacane ke lie jaba AvaSyaka nahIM hE , Koja elgoriWma eka noda kI jAzca karane ke lie saMSoXiwa kiyA jA sakawA hE jaba yaha uwpanna kiyA jA rahA hE .
+NMT: eka hI sWiwi punaH uwpanna karane se bacane ke warIke jaba AvaSyaka nahIM hE , Koja elgoriWma eka noda kI jAzca karane ke lie saMSoXiwa kiyA jA sakawA hE jaba yaha uwpanna kiyA jA rahA hE .
+NMT: eka hI rAjya punaH uwpanna karane se bacane ke warIke jaba AvaSyaka nahIM hE , Koja elgoriWma eka noda kI jAzca karane ke lie saMSoXiwa kiyA jA sakawA hE jaba yaha uwpanna kiyA jA rahA hE .
+NMT: eka hI sWiwi punaH uwpanna karane se bacane ke lie rAswA jaba AvaSyaka nahIM hE , Koja elgoriWma eka noda kI jAzca karane ke lie saMSoXiwa kiyA jA sakawA hE jaba yaha uwpanna kiyA jA rahA hE .

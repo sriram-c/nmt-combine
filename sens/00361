@@ -1,0 +1,14 @@
+ENG: Apart from the fact that the CLOSED list has to be maintained, the algorithm is required to check every generated node to see if it is already there in OPEN or CLOSED.
+ANU: jo klovjZda sUcI banAe raKanA hI hE, waWya ke alAvA praNAlI xeKane ke lie prawyeka uwpanna kara gAzTa jAzcane ke lie AvaSyaka huI hE yaxi yaha ovpana yA klovjZda meM vahAz para pahale se hI hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAMca karane ke lie AvaSyaka hE xeKane ke lie agara yaha pahale se hI opIena yA CLOSED meM hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE xeKane ke lie agara yaha pahale se hI OPEN yA CLOSED meM hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE xeKane ke lie agara yaha pahale se hI opIena yA CLOSED meM hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE xeKane ke lie ki kyA yaha pahale se hI opIena yA CLOSED meM hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma ko prawyeka uwpanna noda kI jAzca karane kI AvaSyakawA hE yaha xeKane ke lie ki kyA yaha pahale se hI opIna yA CLOSED meM hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE yaha xeKane ke lie ki kyA yaha pahale se hI opIena yA CLOSED meM hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE yaha xeKane ke lie ki kyA yaha pahale se hI opIniyana yA CLOSED meM hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE yaha xeKane ke lie ki kyA yaha pahale se hI opena yA CLOSED meM hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgorixama ko yaha xeKane ke lie ki kyA yaha pahale se hI opIniyana yA CLOSED meM mOjUxa hE , prawyeka uwpanna noda kI jAzca karane kI AvaSyakawA hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma ko yaha xeKane ke lie ki kyA yaha pahale se hI OOPEN yA CLOSED meM mOjUxa hE , hara uwpanna noda kI jAzca karane ke lie AvaSyaka hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE xeKane ke lie agara yaha pahale se hI opena yA CLOSED meM mOjUxa hE .
+NMT: isa waWya ke alAvA ki CLOSED sUcI banAe raKanA hE , elgoriWma agara yaha pahale se hI OOPEN yA CLOSED meM mOjUxa hE xeKane ke lie hara uwpanna noda kI jAzca karane ke lie AvaSyaka hE .

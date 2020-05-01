@@ -1,8 +1,19 @@
-isa	saMskaraNa	meM	hama	kevala	opIena	OPEN	opIna	OOPEN	opena	sUcI	yA	JAlara	PrAI	PriMga	kA	upayoga	kareM	karawe	.	hEM
-1	1	1	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1	0	1	0
-1	1	1	1	1	1	0	0	0	0	1	1	1	0	0	1	1	0	1	1	1
-1	1	1	1	1	0	0	0	0	1	1	1	1	0	0	1	1	1	0	1	0
-1	1	1	1	1	0	0	0	0	1	1	1	0	1	0	1	1	0	1	1	1
-1	1	1	1	1	0	0	1	0	0	1	1	0	0	1	1	1	0	1	1	1
-1	1	1	1	1	0	0	0	1	0	1	1	0	0	1	1	1	1	0	1	0
-1	1	1	1	1	0	1	0	0	0	1	1	1	0	0	1	1	1	0	1	0
+ENG: In this version we use only the OPEN list or fringe.
+
+ANU: isa saMskaraNa meM hama sirPa KulA mExAna sUcI yA kinAre kA upayoga karawe hEM .
+
+0 NMT: isa saMskaraNa meM hama kevala opIena sUcI yA JAlara kA upayoga kareM .
+
+1 NMT: isa saMskaraNa meM hama kevala opIena sUcI yA JAlara kA upayoga karawe hEM .
+
+2 NMT: isa saMskaraNa meM hama kevala opena sUcI yA JAlara kA upayoga kareM .
+
+3 NMT: isa saMskaraNa meM hama kevala opena sUcI yA PrAI kA upayoga karawe hEM .
+
+4 NMT: isa saMskaraNa meM hama kevala opIna sUcI yA PriMga kA upayoga karawe hEM .
+
+5 NMT: isa saMskaraNa meM hama kevala OOPEN sUcI yA PriMga kA upayoga kareM .
+
+6 NMT: isa saMskaraNa meM hama kevala OPEN sUcI yA JAlara kA upayoga kareM .
+
+isa_0+1+2+3+4+5+6 saMskaraNa_0+1+2+3+4+5+6 meM_0+1+2+3+4+5+6 hama_0+1+2+3+4+5+6 kevala_0+1+2+3+4+5+6 opena_2+3/opIena_0+1/OPEN_6/OOPEN_5/opIna_4 sUcI_0+1+2+3+4+5+6 yA_0+1+2+3+4+5+6 JAlara_0+1+2+6/PriMga_4+5/PrAI_3 kA_0+1+2+3+4+5+6 upayoga_0+1+2+3+4+5+6 kareM_0+2+5+6/karawe_1+3+4 ._0+2+5+6/hEM_1+3+4 ._1+3+4

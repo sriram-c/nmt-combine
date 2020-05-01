@@ -1,7 +1,17 @@
-xUsarA	xqRtikoNa	tyUriMga	tEna	testa	kI	avaXAraNA	saMkalpanA	ke	xvArA	sarvowwama	xvArA	rUpa	sabase	se	acCA	samAviRta	sannihiwa	vyakwa	samAhiwa	hE	kiyA	hE	.	gayA	.
-1	1	1	0	1	1	1	0	0	1	1	1	1	0	1	0	1	0	0	0	1	0	1	1	0	1
-1	1	1	0	1	1	1	0	0	1	1	1	1	0	1	0	0	0	0	1	1	0	1	1	0	1
-1	1	0	1	1	1	1	0	1	1	0	1	0	1	0	1	0	0	0	0	1	0	1	1	0	1
-1	1	1	0	1	1	1	0	0	1	1	1	1	0	1	0	0	1	0	0	1	0	1	1	0	1
-1	1	1	0	1	1	0	1	0	1	1	1	1	0	1	0	1	0	0	0	1	1	1	1	1	1
-1	1	1	0	1	1	0	1	0	1	1	1	1	0	1	0	0	0	1	0	1	1	1	1	1	1
+ENG: The second approach is best embodied by the concept of the Turing Test.
+
+ANU: xUsarA warIkA turifa testa kI XAraNA ke xvArA sammiliwa kiyA gayA hE sabase acCe warIke se .
+
+0 NMT: xUsarA xqRtikoNa tyUriMga testa kI avaXAraNA xvArA sarvowwama rUpa se samAviRta hE .
+
+1 NMT: xUsarA xqRtikoNa tyUriMga testa kI avaXAraNA xvArA sarvowwama rUpa se samAhiwa hE .
+
+2 NMT: xUsarA xqRtikoNa tEna testa kI avaXAraNA ke xvArA sabase acCA hE .
+
+3 NMT: xUsarA xqRtikoNa tyUriMga testa kI avaXAraNA xvArA sarvowwama rUpa se sannihiwa hE .
+
+4 NMT: xUsarA xqRtikoNa tyUriMga testa kI saMkalpanA xvArA sarvowwama rUpa se samAviRta kiyA gayA hE .
+
+5 NMT: xUsarA xqRtikoNa tyUriMga testa kI saMkalpanA xvArA sarvowwama rUpa se vyakwa kiyA gayA hE .
+
+xUsarA_0+1+2+3+4+5 xqRtikoNa_0+1+2+3+4+5 tyUriMga_0+1+3+4+5/tEna_2 testa_0+1+2+3+4+5 kI_0+1+2+3+4+5 avaXAraNA_0+1+2+3/saMkalpanA_4+5 xvArA_0+1+3+4+5/ke_2 xvArA_2/sarvowwama_0+1+3+4+5 rUpa_0+1+3+4+5/sabase_2 se_0+1+3+4+5/acCA_2 hE_2/samAviRta_0+4/vyakwa_5/sannihiwa_3/samAhiwa_1 hE_0+1+3/._2/kiyA_4+5 ._0+1+3/gayA_4+5 hE_4+5 ._4+5

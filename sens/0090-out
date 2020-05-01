@@ -1,6 +1,15 @@
-17vIM	SawAbxI	ke	prAraMBa	meM	,>>	dekaratsa>>	ne}	praswAva	praswAviwa	raKA	raKA	kiyA	ki	ki	paSuoM	jAnavaroM>>	ke}	SarIra	jatila	jatila	maSInoM	maSInoM	se	se	aXika	aXika	kuCa	kuCa	nahIM	nahIM	hEM	hEM	.	.
-1	1	1	1	1	0	0	0	1	0	1	1	0	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	0	0	1	0	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	0	0	1	0	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	0	0	1	0	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Early in the 17th century, Descartes proposed that bodies of animals are nothing more than complex machines.
+
+ANU: jalxI 17th SawAbxI meM, xakArwe ne praswAva raKA ki paSuoM ke SarIra jatila maSInoM se jyAxA kuCa BI nahIM hEM .
+
+0 NMT: 17vIM SawAbxI ke prAraMBa meM , dekaratsa ne praswAva raKA ki jAnavaroM ke SarIra jatila maSInoM se aXika kuCa nahIM hEM .
+
+1 NMT: 17vIM SawAbxI ke prAraMBa meM desketa ne praswAva raKA ki paSuoM ke SarIra jatila maSInoM se aXika kuCa nahIM hEM .
+
+2 NMT: 17vIM SawAbxI ke prAraMBa meM dekaretsa ne yaha praswAva raKA ki paSuoM ke SarIra jatila maSInoM se aXika kuCa nahIM hEM .
+
+3 NMT: 17vIM SawAbxI ke prAraMBa meM desakArtesa ne praswAva raKA ki paSuoM ke SarIra jatila maSInoM se aXika kuCa nahIM hEM .
+
+4 NMT: 17vIM SawAbxI ke prAraMBa meM desakArtesa ne yaha praswAviwa kiyA ki paSuoM ke SarIra jatila maSInoM se aXika kuCa nahIM hEM .
+
+17vIM_0+1+2+3+4 SawAbxI_0+1+2+3+4 ke_0+1+2+3+4 prAraMBa_0+1+2+3+4 meM_0+1+2+3+4 desakArtesa_3+4/dekaretsa_2/desketa_1/,_0 ne_1+2+3+4/dekaratsa_0 ne_0/praswAva_1+3/yaha_2+4 praswAva_0+2/raKA_1+3/praswAviwa_4 ki_1+3/raKA_0+2/kiyA_4 ki_0+2+4/paSuoM_1+3 ke_1+3/paSuoM_2+4/jAnavaroM_0 ke_0+2+4/SarIra_1+3 SarIra_0+2+4/jatila_1+3 jatila_0+2+4/maSInoM_1+3 maSInoM_0+2+4/se_1+3 se_0+2+4/aXika_1+3 aXika_0+2+4/kuCa_1+3 kuCa_0+2+4/nahIM_1+3 nahIM_0+2+4/hEM_1+3 hEM_0+2+4/._1+3 ._0+2+4

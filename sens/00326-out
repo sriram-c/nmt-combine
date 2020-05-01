@@ -1,3 +1,9 @@
-samAXAna]	kI]	lAgawa]	samAXAna}	paWa]	para]	cApa]	lAgawa}	kA]	yoga]	hE]	.]
-0	0	0	0	0	0	0	0	0	0	0	0
-0	0	0	0	0	0	0	0	0	0	0	0
+ENG: The cost of a solution is the sum of the arc costs on the solution path.
+
+ANU: hala kI kImawa hala paWa para vqwwAMSa KarcoM kA joda howA hE .
+
+0 NMT: samAXAna kI lAgawa samAXAna paWa para cApa lAgawa kA yoga hE .
+
+1 NMT: eka samAXAna kI lAgawa samAXAna paWa para cApa lAgawa kA yoga hE .
+
+samAXAna_0/eka_1 samAXAna_1/kI_0 lAgawa_0/kI_1 lAgawa_1/samAXAna_0 samAXAna_1/paWa_0 paWa_1/para_0 para_1/cApa_0 lAgawa_0/cApa_1 lAgawa_1/kA_0 kA_1/yoga_0 yoga_1/hE_0 hE_1/._0 ._1

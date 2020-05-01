@@ -1,10 +1,23 @@
-prAkqwika	svABAvika	sahaja	BARA	ko	suxqDZawA>>	se	waraha	rUpa	samaJanA	samaJa	se	samaJeM	,	samaJeM	samaJanA	lenA	(	samAcAra	,	(	pawra	jEse	kisI	eka	uxAharaNa	samAcAra	meM	pawra	samAcAra	ke	,	leKa	leKoM	pawra	aKabAra	lie	meM	paDZanA	ko	leKa	paDZeM	meM	,	Ora	paDZanA	leKa	samAcArapawroM	samaJanA	Ora	paDZanA	samaJeM	meM
-1	0	0	1	1	0	1	0	0	1	0	1	0	1	0	1	0	0	1	1	0	1	0	0	0	0	1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1
-1	0	0	1	1	0	1	0	1	1	0	1	0	1	0	1	0	0	1	1	0	1	0	0	0	0	1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1
-1	0	0	1	1	0	1	0	1	1	0	1	0	1	0	1	0	0	1	1	0	1	0	1	0	0	1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1
-1	0	0	1	1	0	1	0	1	1	0	1	0	1	0	1	0	0	1	1	0	1	0	1	0	0	1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1
-1	0	0	1	1	0	1	0	1	1	0	1	0	1	0	1	0	0	1	1	0	1	0	0	1	0	1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1
-1	0	0	1	1	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	1	0	0	0	0	1	1	1	1	0	0	1	0	1	0	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	1	1
-0	0	1	1	1	0	0	1	0	1	1	0	0	1	0	1	1	1	0	1	1	0	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1
-0	1	0	1	1	0	1	1	0	1	0	1	1	1	1	1	0	1	0	1	1	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1
-0	1	0	1	1	0	1	0	1	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1
+ENG: Understand natural language robustly (e.g., read and understand articles in a newspaper).
+
+ANU: samaJa prAkqwika BARA saKwI se ( samAcArapawra meM vaswuez uxAharaNArWa, paDawA hE Ora samaJawA hE.)
+
+0 NMT: prAkqwika BARA ko suxqDZawA se samaJanA , samAcAra pawra meM leKa paDZanA Ora samaJanA
+
+1 NMT: prAkqwika BARA ko puRta rUpa se samaJanA , samAcAra pawra meM leKa paDZanA Ora samaJanA .
+
+2 NMT: prAkqwika BARA ko saSakwa rUpa se samaJanA , kisI samAcAra pawra meM leKa paDZanA Ora samaJanA
+
+3 NMT: prAkqwika BARA ko suxqDZa rUpa se samaJanA , kisI samAcAra pawra meM leKa paDZanA Ora samaJanA
+
+4 NMT: prAkqwika BARA ko puRta rUpa se samaJanA , eka samAcAra pawra meM leKa paDZanA Ora samaJanA .
+
+5 NMT: prAkqwika BARA ko acCI waraha samaJeM ( samAcAra pawra meM leKa paDZeM Ora samaJeM )
+
+6 NMT: sahaja BARA ko acCI waraha samaJa lenA ( jEse , aKabAra meM leKa paDZanA Ora samaJanA )
+
+7 NMT: svABAvika BARA ko acCI waraha se samaJeM ( jEse , leKoM ko samAcArapawroM meM paDZanA Ora samaJanA .
+
+8 NMT: svABAvika BARA ko saSakwa rUpa se samaJeM ( uxAharaNa ke lie , samAcArapawroM meM leKa paDZanA Ora samaJanA .
+
+prAkqwika_0+1+2+3+4+5/svABAvika_7+8/sahaja_6 BARA_0+1+2+3+4+5+6+7+8 ko_0+1+2+3+4+5+6+7+8 acCI_5+6+7/saSakwa_2+8/puRta_1+4/suxqDZa_3/suxqDZawA_0 se_0/rUpa_1+2+3+4+8/waraha_5+6+7 samaJanA_0/se_1+2+3+4+7+8/samaJeM_5/samaJa_6 samaJanA_1+2+3+4/,_0/(_5/samaJeM_7+8/lenA_6 ,_1+2+3+4/samAcAra_0+5/(_6+7+8 samAcAra_1/pawra_0+5/jEse_6+7/kisI_2+3/uxAharaNa_8/eka_4 meM_0+5/,_6+7/samAcAra_2+3+4/pawra_1/ke_8 meM_1/leKa_0+5/pawra_2+3+4/lie_8/leKoM_7/aKabAra_6 ko_7/meM_2+3+4+6/paDZanA_0/leKa_1/,_8/paDZeM_5 Ora_0+5/paDZanA_1/leKa_2+3+4+6/samAcArapawroM_7+8 samaJanA_0/Ora_1/meM_7+8/paDZanA_2+3+4+6/samaJeM_5 samaJanA_1/Ora_2+3+4+6/paDZanA_7/leKa_8/)_5 samaJanA_2+3+4+6/Ora_7/paDZanA_8/._1 samaJanA_7/Ora_8/._4/)_6 samaJanA_8/._7 ._8

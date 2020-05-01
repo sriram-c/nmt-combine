@@ -1,7 +1,17 @@
-eAI	kyA	sistama	waMwra	eAI	aBI	sistama	waka	aBI	kyA	kyA	waka	nahIM	nahIM	kara	kara	sakawA	sakawA	hE	?	?	hE
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0
-1	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0
+ENG: What can AI systems not do yet?
+
+ANU: e. AI. praNAliyAz aBI waka kyA nahIM kara sakawIM hEM?
+
+0 NMT: eAI sistama aBI waka kyA nahIM kara sakawA ?
+
+1 NMT: kyA eAI sistama aBI waka nahIM kara sakawA hE ?
+
+2 NMT: eAI sistama aBI kyA nahIM kara sakawA hE ?
+
+3 NMT: eAI sistama aBI waka kyA nahIM kara sakawA hE ?
+
+4 NMT: eAI sistama aBI kyA nahIM kara sakawA ?
+
+5 NMT: eAI waMwra aBI kyA nahIM kara sakawA ?
+
+kyA_1/eAI_0+2+3+4+5 eAI_1/sistama_0+2+3+4/waMwra_5 aBI_0+2+3+4+5/sistama_1 kyA_2+4+5/aBI_1/waka_0+3 nahIM_2+4+5/kyA_0+3/waka_1 nahIM_0+1+3/kara_2+4+5 kara_0+1+3/sakawA_2+4+5 sakawA_0+1+3/?_4+5/hE_2 ?_0+2/hE_1+3 ?_1+3

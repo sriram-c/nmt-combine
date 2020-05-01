@@ -1,6 +1,15 @@
-AMSika	rUpa	se	xeKane	prekRiwa	xeKe	yogya	jA	vAwAvaraNa	vAwAvaraNa	sakane	meM	meM	vAle	,	,	vAwAvaraNa	paryAvaraNa	paryAvaraNa	vAwAvaraNa	meM	kI	kI	paryAvaraNa	saMbaMXiwa	prAsaMgika	kI	viSeRawAeM	saMbaMXiwa	viSeRawAeM	AMSika	kevala	viSeRawAeM	rUpa	AMSika	AMSika}	rUpa}	se}	xeKane	se	jA	xeKI	yogya	jA	xeKI	sakawI	howI	jA	sakawI	hEM	sakawI	hEM	.	.	hEM
-1	1	1	1	0	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	0	0	1	1	0	0	1	0	0	0	1	0	0	1	0	1	1	1	1
-1	1	1	1	0	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	0	0	0	1	1	0	0	1	0	0	0	1	0	0	1	0	1	1	1	1
-1	1	1	0	0	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	0	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	0	0	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+ENG: In a partially observable environment, the relevant features of the environment are only partially observable.
+
+ANU: eka AMSika rUpa se avalokanIya vAwAvaraNa meM, paryAvaraNa kI prAsafgika viSeRawAez sirPa AMSika rUpa se avalokanIya hEM .
+
+0 NMT: AMSika rUpa se xeKane yogya vAwAvaraNa meM , paryAvaraNa kI prAsaMgika viSeRawAeM kevala AMSika rUpa se xeKane yogya howI hEM .
+
+1 NMT: AMSika rUpa se xeKane yogya vAwAvaraNa meM , paryAvaraNa kI prAsaMgika viSeRawAeM AMSika rUpa se hI xeKane yogya howI hEM .
+
+2 NMT: AMSika rUpa se xeKe jA sakane vAle vAwAvaraNa meM paryAvaraNa kI saMbaMXiwa viSeRawAeM kevala AMSika rUpa se xeKI jA sakawI hEM .
+
+3 NMT: AMSika rUpa se prekRiwa vAwAvaraNa meM , paryAvaraNa kI saMbaMXiwa viSeRawAeM AMSika rUpa se hI xeKI jA sakawI hEM .
+
+4 NMT: AMSika rUpa se xeKane yogya vAwAvaraNa meM , vAwAvaraNa kI prAsaMgika viSeRawAeM kevala AMSika rUpa se xeKI jA sakawI hEM .
+
+AMSika_0+1+2+3+4 rUpa_0+1+2+3+4 se_0+1+2+3+4 xeKane_0+1+4/prekRiwa_3/xeKe_2 vAwAvaraNa_3/yogya_0+1+4/jA_2 vAwAvaraNa_0+1+4/meM_3/sakane_2 meM_0+1+4/,_3/vAle_2 vAwAvaraNa_2/,_0+1+4/paryAvaraNa_3 vAwAvaraNa_4/meM_2/kI_3/paryAvaraNa_0+1 kI_0+1+4/paryAvaraNa_2/saMbaMXiwa_3 viSeRawAeM_3/kI_2/prAsaMgika_0+1+4 AMSika_3/viSeRawAeM_0+1+4/saMbaMXiwa_2 AMSika_1/rUpa_3/viSeRawAeM_2/kevala_0+4 AMSika_0+4/rUpa_1/se_3/kevala_2 AMSika_2/rUpa_0+4/se_1/hI_3 rUpa_2/se_0+4/xeKI_3/hI_1 se_2/xeKane_0+1/jA_3/xeKI_4 yogya_0+1/jA_4/xeKI_2/sakawI_3 hEM_3/jA_2/sakawI_4/howI_0+1 hEM_0+1+4/._3/sakawI_2 hEM_2/._0+1+4 ._2

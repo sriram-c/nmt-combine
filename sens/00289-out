@@ -1,8 +1,19 @@
-isake	alAvA	awirikwa	Koja	elgoriWma	elgorixama	JAlara	,	nAmaka	JAlara	PriMga	PrAI	nAmaka	kahalAwe	nodsa	kI	nodsa	eka	kI	sUcI	eka	banAe	ko	sUcI	raKawA	banAe	ko	raKawA	hE	hE	raKawA	banAe	.	.	hE	raKawA
-1	1	0	1	1	0	1	0	1	1	0	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	0	1	1	0	0	1	0	1	1	1	1	1	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1
-1	0	1	1	1	0	1	1	1	1	0	0	1	0	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	0	1	1	1	1	0	0	1	0	1	1	1	0	1	1	0	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1
-1	0	1	1	1	0	0	1	0	0	0	1	0	1	1	1	1	0	1	1	0	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1
-1	1	0	1	1	0	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	1	0	0	1	1	0	1	0	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: In addition the search algorithm maintains a list of nodes called the fringe.
+
+ANU: joda meM walASa praNAlI kinArA bulAI huIM gAzTa kI eka sUcI raKawI hE .
+
+0 NMT: isake alAvA Koja elgoriWma JAlara nAmaka nodsa kI eka sUcI banAe raKawA hE .
+
+1 NMT: isake awirikwa Koja elgorixama JAlara nAmaka nodsa kI eka sUcI raKawA hE .
+
+2 NMT: isake awirikwa Koja elgoriWma , JAlara nAmaka nodsa kI sUcI banAe raKawA hE .
+
+3 NMT: isake awirikwa Koja elgoriWma , JAlara nAmaka nodsa kI sUcI raKawA hE .
+
+4 NMT: isake awirikwa Koja elgoriWma , PrAI kahalAwe nodsa kI sUcI raKawA hE .
+
+5 NMT: isake alAvA Koja elgoriWma , JAlara nAmaka nodsa kI eka sUcI ko banAe raKawA hE .
+
+6 NMT: isake alAvA Koja elgoriWma , PriMga nAmaka nodsa kI sUcI ko banAe raKawA hE .
+
+isake_0+1+2+3+4+5+6 awirikwa_1+2+3+4/alAvA_0+5+6 Koja_0+1+2+3+4+5+6 elgoriWma_0+2+3+4+5+6/elgorixama_1 ,_2+3+4+5+6/JAlara_0+1 nAmaka_0+1/JAlara_2+3+5/PriMga_6/PrAI_4 nodsa_0+1/nAmaka_2+3+5+6/kahalAwe_4 nodsa_2+3+4+5+6/kI_0+1 kI_2+3+4+5+6/eka_0+1 sUcI_0+1+2+3+4+6/eka_5 raKawA_1+3+4/sUcI_5/banAe_0+2/ko_6 raKawA_0+2/hE_1+3+4/banAe_6/ko_5 raKawA_6/hE_0+2/._1+3+4/banAe_5 raKawA_5/hE_6/._0+2 hE_5/._6 ._5

@@ -1,7 +1,17 @@
-yaha	isa	1956	Sabxa	meM	mEkkeraWa	ko	mEkArWI	1956	meM	mEkakrWI	ne	mEkakarWI>>	ne	Sabxa	meM	1956	gaDZA	meM	ko	kA	WA	gaDZA	prayoga	banAyA	.	WA	kiyA
-1	0	1	1	1	0	0	0	1	1	0	1	0	1	1	1	1	1	1	0	0	1	1	0	0	1	1	0
-0	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	0	1	1	0
-1	0	1	1	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	0	0	1	1	0
-1	0	1	1	1	1	0	0	1	1	0	1	0	1	1	1	1	1	1	0	0	1	1	0	0	1	1	0
-0	1	1	1	1	0	0	1	1	1	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	1	0	1
-0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	0	1	1	0	0	0	0	1	1	0	0
+ENG: The term was coined by McCarthy in 1956.
+
+ANU: avaXi 1956 meM makoYrWI ke xvArA gaDI gayI WI .
+
+0 NMT: yaha Sabxa 1956 meM mEkakarWI ne gaDZA WA .
+
+1 NMT: isa Sabxa ko mEkakrWI ne 1956 meM gaDZA WA .
+
+2 NMT: yaha Sabxa 1956 meM mEkakrWI ne gaDZA WA .
+
+3 NMT: yaha Sabxa mEkkeraWa ne 1956 meM gaDZA WA .
+
+4 NMT: 1956 meM mEkArWI ne isa Sabxa kA prayoga kiyA .
+
+5 NMT: 1956 meM mEkArWI ne isa Sabxa ko banAyA .
+
+1956_4+5/isa_1/yaha_0+2+3 meM_4+5/Sabxa_0+1+2+3 1956_0+2/mEkArWI_4+5/ko_1/mEkkeraWa_3 meM_0+2/ne_3+4+5/mEkakrWI_1 1956_3/ne_1/isa_4+5/mEkakrWI_2/mEkakarWI_0 1956_1/meM_3/ne_0+2/Sabxa_4+5 meM_1/gaDZA_0+2+3/ko_5/kA_4 gaDZA_1/WA_0+2+3/banAyA_5/prayoga_4 ._0+2+3+5/WA_1/kiyA_4 ._1+4

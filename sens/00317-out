@@ -1,7 +1,17 @@
-hama	Aie	Koja]	vqkRa]	se]	judZI	vqkRa	se	Koja	kuCa]	SabxAvalI]	kI]	jAMca]	kareM]	.]
-1	0	0	0	0	1	1	1	1	0	0	0	0	0	0
-0	1	0	0	0	1	1	1	1	0	0	0	0	0	0
-1	0	0	0	0	1	1	1	1	0	0	0	0	0	0
-0	1	0	0	0	0	1	1	1	0	0	0	0	0	0
-1	1	0	0	0	1	1	1	1	0	0	0	0	0	0
-0	1	0	0	0	1	1	1	1	0	0	0	0	0	0
+ENG: Let us examine certain terminology associated with a search tree.
+
+ANU: caliye hama eka Koja waru ke sAWa sambaxXa kuCa SabxAvalI jAzca kara .
+
+0 NMT: hama Koja vqkRa se judZI kuCa SabxAvalI kI jAMca kareM .
+
+1 NMT: Aie , Koja vqkRa se judZI kuCa SabxAvalI kI jAMca kareM .
+
+2 NMT: hama eka Koja vqkRa se judZI kuCa SabxAvalI kI jAMca kareM .
+
+3 NMT: Aie , Koja vqkRa se saMbaMXiwa kuCa SabxAvalI kI jAMca kareM .
+
+4 NMT: Aie , hama kisI Koja vqkRa se judZI kuCa SabxAvalI kI jAMca kareM .
+
+5 NMT: Aie , kisI Koja vqkRa se judZI kuCa SabxAvalI kI jAMca kareM .
+
+Aie_1+3+4+5/hama_0+2 Koja_0/,_1+3+4+5/eka_2 Koja_1+2+3/vqkRa_0/kisI_5/hama_4 Koja_5/vqkRa_1+2+3/se_0/kisI_4 Koja_4/vqkRa_5/se_1+2+3/judZI_0 kuCa_0/vqkRa_4/se_5/judZI_1+2/saMbaMXiwa_3 kuCa_1+2+3/SabxAvalI_0/se_4/judZI_5 kuCa_5/SabxAvalI_1+2+3/kI_0/judZI_4 kuCa_4/SabxAvalI_5/kI_1+2+3/jAMca_0 SabxAvalI_4/kI_5/jAMca_1+2+3/kareM_0 kI_4/jAMca_5/kareM_1+2+3/._0 jAMca_4/kareM_5/._1+2+3 kareM_4/._5 ._4

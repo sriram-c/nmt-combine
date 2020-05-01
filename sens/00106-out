@@ -1,5 +1,13 @@
-1985	ke	AsapAsa	,	waMwrikA	waMwrika	netavarka	lokapriyawA	meM	kI	lOta	ora	vApasa	Awe	A	lOta	lOtawA	hEM	hE	Awe	jAwe	.	hEM
-1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	1	0	1	0	1	0	1	1
-1	1	1	1	1	0	1	1	1	0	0	0	1	0	1	0	0	1	0	0	1	1	1
-1	1	1	1	0	1	1	1	0	1	0	1	0	0	0	0	1	0	1	0	0	1	0
-1	1	1	1	1	0	1	1	0	1	1	1	0	1	0	1	0	1	0	1	0	1	1
+ENG: Around 1985, neural networks return to popularity.
+
+ANU: 1985 lagaBaga, snAyu sambanXI jAla lokapriyawA vApasa Awe hEM .
+
+0 NMT: 1985 ke AsapAsa , waMwrikA netavarka lokapriyawA meM lOta Awe hEM .
+
+1 NMT: 1985 ke AsapAsa , waMwrikA netavarka lokapriyawA meM vApasa A jAwe hEM .
+
+2 NMT: 1985 ke AsapAsa , waMwrika netavarka lokapriyawA kI ora lOtawA hE .
+
+3 NMT: 1985 ke AsapAsa , waMwrikA netavarka lokapriyawA kI ora lOta Awe hEM .
+
+1985_0+1+2+3 ke_0+1+2+3 AsapAsa_0+1+2+3 ,_0+1+2+3 waMwrikA_0+1+3/waMwrika_2 netavarka_0+1+2+3 lokapriyawA_0+1+2+3 kI_2+3/meM_0+1 ora_2+3/lOta_0/vApasa_1 lOta_3/Awe_0/lOtawA_2/A_1 hEM_0/Awe_3/hE_2/jAwe_1 ._0+2/hEM_1+3 ._1+3

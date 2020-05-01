@@ -1,7 +1,17 @@
-JAlara	sImAMwa	PrAI	bAharI	uwpanna	xvArA	BAga	Koja	Koja	uwpanna	vqkRa	vqkRa	uwpanna	Koja	kI	kI	ke	vqkRa	sImA	sImA	uwpanna	kI	kA	kA	sImA	ko	prawiniXiwva	prawiniXiwva	kA	xarSAwA	karawA	karawA	prawiniXiwva	hE	karawA	hE	.	hE	.
-1	0	0	0	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	0	0	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	0	0	0	1	0	0	0	1	0	1	1	1	1
-1	0	0	0	0	0	0	1	1	0	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-0	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-0	0	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
+ENG: The fringe represents the frontier of the search tree generated.
+
+ANU: kinArA uwpanna kiyA huA Koja waru kA sImAnwa vyakwa kara .
+
+0 NMT: JAlara uwpanna Koja vqkRa kI sImA kA prawiniXiwva karawA hE .
+
+1 NMT: JAlara uwpanna Koja vqkRa kI sImA ko xarSAwA hE .
+
+2 NMT: JAlara Koja vqkRa kI sImA kA prawiniXiwva karawA hE .
+
+3 NMT: PrAI xvArA uwpanna Koja vqkRa kI sImA kA prawiniXiwva karawA hE .
+
+4 NMT: sImAMwa Koja vqkRa uwpanna kI sImA kA prawiniXiwva karawA hE .
+
+5 NMT: bAharI BAga Koja vqkRa ke uwpanna sImA kA prawiniXiwva karawA hE .
+
+bAharI_5/sImAMwa_4/PrAI_3/JAlara_0+1+2 Koja_2+4/uwpanna_0+1/BAga_5/xvArA_3 Koja_0+1+5/vqkRa_2+4/uwpanna_3 Koja_3/vqkRa_0+1+5/kI_2/uwpanna_4 vqkRa_3/sImA_2/kI_0+1+4/ke_5 sImA_0+1+4/kA_2/kI_3/uwpanna_5 sImA_3+5/kA_0+4/prawiniXiwva_2/ko_1 kA_3+5/prawiniXiwva_0+4/karawA_2/xarSAwA_1 hE_1+2/prawiniXiwva_3+5/karawA_0+4 hE_0+4/._1+2/karawA_3+5 hE_3+5/._0+4 ._3+5

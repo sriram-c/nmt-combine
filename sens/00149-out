@@ -1,6 +1,15 @@
-eka	samaJaxAra	warkasaMgawa	warkasaMgawa	samaJaxAra	ejeMta	ejeMta	hameSA	hameSA	sahI	sahI	kAma	kAma	bAwa	karawA	karawA	hE	hE	.	.
-1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1
-0	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-0	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
+ENG: A rational agent always does the right thing.
+
+ANU: eka warkasafgawa prawiniXi hameSA uciwa kAma karawA hE .
+
+0 NMT: eka warkasaMgawa ejeMta hameSA sahI kAma karawA hE .
+
+1 NMT: eka warkasaMgawa ejeMta hameSA sahI bAwa karawA hE .
+
+2 NMT: samaJaxAra ejeMta hameSA sahI kAma karawA hE .
+
+3 NMT: warkasaMgawa ejeMta hameSA sahI kAma karawA hE .
+
+4 NMT: eka samaJaxAra ejeMta hameSA sahI kAma karawA hE .
+
+warkasaMgawa_3/eka_0+1+4/samaJaxAra_2 ejeMta_2+3/warkasaMgawa_0+1/samaJaxAra_4 ejeMta_0+1+4/hameSA_2+3 hameSA_0+1+4/sahI_2+3 sahI_0+1+4/kAma_2+3 karawA_2+3/kAma_0+4/bAwa_1 karawA_0+1+4/hE_2+3 hE_0+1+4/._2+3 ._0+1+4

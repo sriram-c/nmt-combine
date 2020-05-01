@@ -1,6 +1,15 @@
-lakRya	avasWA	meM	saBI	KUMtI	suI	bI	meM}	howe>>	hEM	ke	hE	jEsA	jEsA	rUpa	ki	ki	meM	nIce	nIce	xie	Akqwi	kI	gae	meM	AMkadZA	Akqwi	ciwra	meM	xiKAyA	meM}	xiKAyA	hE	gayA	gayA	.	hE	hE	.	.
-1	1	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1	0	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1	0	1	0	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	1	1	1	1	0	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1	1	0	0	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	0	0	1	1	1	0	0	1	0	0	1	1	1	0	0	0	0	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1
+ENG: In the goal state all the pegs are in the needle B as shown in the figure below.
+
+ANU: lakRya rAjya meM saBI KUztiyAz suI bI meM hEM jEsA ki nIce ciwra meM xiKAyA huA .
+
+0 NMT: lakRya avasWA meM saBI KUMtI suI bI meM howe hEM jEsA ki nIce kI Akqwi meM xiKAyA gayA hE .
+
+1 NMT: lakRya avasWA meM saBI KUMtI suI bI meM hEM jEsA ki nIce Akqwi meM xiKAyA gayA hE .
+
+2 NMT: lakRya avasWA meM saBI KUMtI suI bI meM howI hE jEsA ki nIce kI Akqwi meM xiKAyA gayA hE .
+
+3 NMT: lakRya avasWA meM saBI KUMtI suI bI meM hEM jEsA ki nIce xie gae ciwra meM xiKAyA gayA hE .
+
+4 NMT: lakRya avasWA meM saBI KUMtI suI bI meM hEM ke rUpa meM nIce AMkadZA meM xiKAyA gayA hE .
+
+lakRya_0+1+2+3+4 avasWA_0+1+2+3+4 meM_0+1+2+3+4 saBI_0+1+2+3+4 KUMtI_0+1+2+3+4 suI_0+1+2+3+4 bI_0+1+2+3+4 meM_0+1+2+3+4 hEM_1+3+4/howI_2/howe_0 hE_2/jEsA_1+3/hEM_0/ke_4 jEsA_0+2/ki_1+3/rUpa_4 meM_4/nIce_1+3/ki_0+2 nIce_0+2+4/Akqwi_1/xie_3 meM_1/kI_0+2/AMkadZA_4/gae_3 meM_4/xiKAyA_1/Akqwi_0+2/ciwra_3 meM_0+2+3/xiKAyA_4/gayA_1 hE_1/xiKAyA_0+2+3/gayA_4 hE_4/gayA_0+2+3/._1 hE_0+2+3/._4 ._0+2+3

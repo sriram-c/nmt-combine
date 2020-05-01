@@ -1,5 +1,13 @@
-yaha	eka	xeKane	rogAwmaka	ke	uxAharaNa	lie	para	eka	vicAra	ki	karanA	rogAwmaka	Koja	uxAharaNa	AsAna	aMwarikRa	para	AkAra	hE	vicAra	wAki	rAjyoM	karane	yaha	kI	ke	xeKA	kula	lie	jA	saMKyA	AsAna	sake	meM	hE	ki	GAwIya	ki}	Koja}	aMwarikRa}	AkAra	eka	rAjyoM	rogAwmaka	kI	uxAharaNa	kula	para	saMKyA	vicAra	meM	karane	karanA	GAwIya	ke	AsAna	ho	hE	lie	sakawA	AsAna	.	hE}	.
-1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1
-1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1
-1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	0	1
+ENG: It is easy to consider a pathological example to see that the search space size may be exponential in the total number of states.
+
+ANU: xeKane ke lie eka warkahIna uxAharaNa ko mAnanA ki AsAna hE ki Koja sWala AkAra kula safKyA meM rAjyoM kI caraGAwAfkI ho sakawA hE .
+
+0 NMT: yaha xeKane ke lie eka rogAwmaka uxAharaNa para vicAra karane ke lie AsAna hE ki Koja aMwarikRa AkAra rAjyoM kI kula saMKyA meM GAwIya ho sakawA hE .
+
+1 NMT: yaha xeKane ke lie ki Koja aMwarikRa AkAra rAjyoM kI kula saMKyA meM GAwIya ho sakawA hE eka rogAwmaka uxAharaNa para vicAra karane ke lie AsAna hE .
+
+2 NMT: yaha xeKane ke lie ki Koja aMwarikRa AkAra rAjyoM kI kula saMKyA meM GAwIya ho sakawA hE eka rogAwmaka uxAharaNa para vicAra karanA AsAna hE .
+
+3 NMT: eka rogAwmaka uxAharaNa para vicAra karanA AsAna hE wAki yaha xeKA jA sake ki Koja aMwarikRa kA AkAra rAjyoM kI kula saMKyA meM GAwIya ho sakawA hE .
+
+eka_3/yaha_0+1+2 rogAwmaka_3/xeKane_0+1+2 uxAharaNa_3/ke_0+1+2 para_3/lie_0+1+2 eka_0/vicAra_3/ki_1+2 rogAwmaka_0/Koja_1+2/karanA_3 uxAharaNa_0/aMwarikRa_1+2/AsAna_3 hE_3/AkAra_1+2/para_0 rAjyoM_1+2/vicAra_0/wAki_3 kI_1+2/yaha_3/karane_0 kula_1+2/ke_0/xeKA_3 saMKyA_1+2/lie_0/jA_3 meM_1+2/AsAna_0/sake_3 hE_0/GAwIya_1+2/ki_3 ho_1+2/ki_0/Koja_3 sakawA_1+2/Koja_0/aMwarikRa_3 hE_1+2/aMwarikRa_0/kA_3 AkAra_0+3/eka_1+2 rAjyoM_0+3/rogAwmaka_1+2 kI_0+3/uxAharaNa_1+2 kula_0+3/para_1+2 saMKyA_0+3/vicAra_1+2 meM_0+3/karanA_2/karane_1 GAwIya_0+3/AsAna_2/ke_1 hE_2/ho_0+3/lie_1 sakawA_0+3/._2/AsAna_1 hE_0+1+3 ._0+1+3

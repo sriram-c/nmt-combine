@@ -1,12 +1,27 @@
-JAlara	PrAI	una	nodsa	uwpanna	nodsa	nodoM	ki	kie	kI	para	kA	uwpanna	gae	jAnakArI	kiyA	trEka	najara	nodsa	raKawA	kI	gayA	para	raKawI	jAnakArI	najZara	hE	jo	kI	raKawA	uwpanna	hE	trEka	kie	raKawA	lekina	gae	hE	aBI	hEM	Koja	lekina	kI	,	lekina	aBI	lekina	aBI	kI	jAnI	Koja	unakA	bAkI	hE	KojA	aBI	Koje	kI	pawA	jAne	jAnA	KojA	hE	.	jAnI	bAkI	lagAnA	jAnA	.	hE}	.	hE
-1	0	1	1	1	1	0	0	1	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	0	1	0	1	0	0	0	0	1	1	1	0	0	0	1	0	1	1
-1	0	1	1	1	1	0	0	1	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	0	0	1	1	1	1	0	1	0	0	1	1	1	1	0	1	0	1	1	0	1	1
-1	0	0	1	1	1	0	0	1	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	0	1	0	0	0	0	1	1	1	1	0	0	1	0	1	1
-1	0	0	1	1	1	0	0	1	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	0	1	0	1	0	1	0	0	0	0	1	1	1	0	0	0	1	0	1	1
-1	0	1	1	1	1	0	0	1	0	1	0	1	1	0	0	0	1	1	0	0	0	1	1	0	0	1	1	0	0	1	1	0	1	0	1	1	1	1	1	0	1	0	0	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	1	1	1	1	0	1	0	1	1	0	1	1
-1	0	0	1	1	1	0	0	1	1	1	0	1	1	0	0	0	0	1	1	1	0	1	0	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	0	1	0	0	0	0	1	1	1	1	0	0	1	0	1	1
-1	0	0	1	1	1	0	1	0	1	0	0	1	0	0	1	1	0	1	1	1	1	0	0	0	0	1	0	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	0	1	0	1	0	1	0	0	0	0	1	1	1	0	0	0	1	0	1	1
-0	1	1	1	1	1	0	0	1	0	0	1	1	1	0	0	1	0	1	1	0	0	0	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	0	0	0	1	1	1	0	1	0	0	1	0	0	0	1	1	0	1	1	0	1	0	1	1
-1	0	1	1	1	1	0	0	1	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	0	0	1	1	0	1	1	1	0	1	0	0	1	1	0	1	0	0	1	0	1	1
-1	0	1	1	1	1	0	0	1	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	0	1	0	0	1	1	1	1	0	1	0	1	1	0	1	1
-1	0	1	0	1	0	1	0	1	0	0	1	1	1	0	0	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	1	1	1	1	0	1	0	1	1	0	1	1
+ENG: The fringe keeps track of the nodes that have been generated but are yet to be explored.
+
+ANU: jo uwpanna kiyA gayA hE kinArA una gAzTa ke trEka ko raKawA hE paranwu anveRaNa karane ke lie howA hE aBI waka hEM .
+
+0 NMT: JAlara una nodsa kI jAnakArI raKawA hE jo uwpanna kie gae hEM lekina aBI Koja kI jAnI hE .
+
+1 NMT: JAlara una nodsa kI jAnakArI raKawA hE jo uwpanna kie gae hEM lekina aBI KojA jAnA bAkI hE .
+
+2 NMT: JAlara uwpanna kie gae nodsa kI jAnakArI raKawA hE lekina aBI Koja kI jAnI bAkI hE .
+
+3 NMT: JAlara uwpanna kie gae nodsa kI jAnakArI raKawA hE lekina aBI Koja kI jAnI hE .
+
+4 NMT: JAlara una nodsa para najara raKawI hE jo uwpanna kie gae hEM lekina aBI KojA jAnA bAkI hE .
+
+5 NMT: JAlara uwpanna kie gae nodsa para najZara raKawA hE lekina aBI Koja kI jAnI bAkI hE .
+
+6 NMT: JAlara nodsa ki uwpanna kiyA gayA hE kI trEka raKawA hE lekina aBI kI Koja kI jAnI hE .
+
+7 NMT: PrAI una nodsa kA trEka raKawA hE jo uwpanna kie gae hEM lekina aBI unakA pawA lagAnA bAkI hE .
+
+8 NMT: JAlara una nodsa kI jAnakArI raKawA hE jo uwpanna kie gae hEM lekina aBI Koje jAne bAkI hEM .
+
+9 NMT: JAlara una nodsa kI jAnakArI raKawA hE jo uwpanna kie gae hEM , lekina aBI KojA jAnA bAkI hE .
+
+10 NMT: JAlara una nodoM kA trEka raKawA hE jo uwpanna kie gae hEM lekina aBI KojA jAnA bAkI hE .
+
+JAlara_0+1+2+3+4+5+6+8+9+10/PrAI_7 uwpanna_2+3+5/una_0+1+4+7+8+9+10/nodsa_6 kie_2+3+5/nodsa_0+1+4+7+8+9/nodoM_10/ki_6 uwpanna_6/gae_2+3+5/kI_0+1+8+9/kA_7+10/para_4 nodsa_2+3+5/jAnakArI_0+1+8+9/trEka_7+10/kiyA_6/najara_4 raKawA_0+1+7+8+9+10/kI_2+3/gayA_6/para_5/raKawI_4 hE_0+1+4+6+7+8+9+10/jAnakArI_2+3/najZara_5 raKawA_2+3+5/jo_0+1+4+7+8+9+10/kI_6 hE_2+3+5/uwpanna_0+1+4+7+8+9+10/trEka_6 lekina_2+3+5/kie_0+1+4+7+8+9+10/raKawA_6 hE_6/aBI_2+3+5/gae_0+1+4+7+8+9+10 lekina_6/hEM_0+1+4+7+8+9+10/Koja_2+3+5 lekina_0+1+4+7+8+10/aBI_6/kI_2+3+5/,_9 lekina_9/aBI_0+1+4+7+8+10/kI_6/jAnI_2+3+5 hE_3/aBI_9/bAkI_2+5/KojA_1+4+10/Koje_8/unakA_7/Koja_0+6 hE_2+5/._3/kI_0+6/KojA_9/jAnA_1+4+10/jAne_8/pawA_7 ._2+5/bAkI_1+4+8+10/jAnA_9/lagAnA_7/jAnI_0+6 hE_0+1+4+6+10/bAkI_7+9/hEM_8 hE_7+9/._0+1+4+6+8+10 ._7+9

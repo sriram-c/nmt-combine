@@ -1,10 +1,23 @@
-eka	aBikarwA	ejeMta	ejeMta	Palana	kriyA	PaMkSana	prakArya	samAroha	,	boXa	anuBava	XAraNA	boXa	iwihAsa	iwihAsa	se	se	kriyA	kArravAI	waka	kArya	ke	karane>>	ke	eka	ko	lie	mAnaciwraNa	lie	kriyAnviwa	eka	kAryAnviwa	ko	mAnaciwraNa	eka	kAryAnviwa	karawI	mAnaciwraNa	karawA	lAgU	mAnaciwraNa}	lAgU	hE	karawA	.	karawA	hE	.	hE}
-1	0	1	1	0	0	0	0	1	0	0	0	1	0	1	1	1	1	0	1	0	0	1	0	1	1	0	1	1	1	0	1	0	0	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0
-1	0	1	1	0	0	0	0	1	0	0	0	1	0	1	1	1	1	0	1	0	0	1	0	1	1	0	1	1	1	0	1	0	0	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0
-0	0	1	1	0	1	1	0	0	0	1	0	0	1	1	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	1	1	1	0	1	0	1	1	0	0	0	1	1	1	1	1	1	0
-0	0	1	1	1	1	0	0	0	0	1	0	0	1	1	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	1	1	1	0	1	0	1	1	0	0	0	1	1	1	1	1	1	0
-0	1	0	0	1	1	0	0	0	0	1	0	0	1	1	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	1	1	1	0	1	0	1	1	0	0	0	1	1	1	1	1	1	0
-0	0	1	1	1	0	0	0	0	1	1	0	0	1	1	1	1	1	0	0	1	1	0	0	0	0	1	0	1	0	0	0	1	1	1	0	1	0	1	1	0	0	0	1	1	1	1	1	1	0
-1	0	1	1	0	1	1	0	0	0	0	1	0	0	1	1	1	1	1	0	0	0	1	0	1	1	0	1	1	1	0	1	0	0	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0
-0	1	0	0	0	1	0	0	0	0	1	0	0	1	1	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	1	1	1	0	1	1	1	0	0	0	0	1	0	1	0	1	1	0
-0	1	0	0	0	1	0	1	0	0	1	0	0	1	1	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	1	0	0	1	1	0	0	0	1	1	0	0	0	1	1	1	1	1	1	0
+ENG: An agent function implements a mapping from perception history to action.
+
+ANU: prawiniXi samAroha kriyA prawyakRa jFAna iwihAsa se prawiciwraNa kAryAnviwa karawA hE .
+
+0 NMT: eka ejeMta samAroha XAraNA iwihAsa se kArravAI karane ke lie eka mAnaciwraNa lAgU karawA hE .
+
+1 NMT: eka ejeMta samAroha XAraNA iwihAsa se kArravAI ke lie eka mAnaciwraNa lAgU karawA hE .
+
+2 NMT: ejeMta PaMkSana boXa iwihAsa se kriyA waka mAnaciwraNa ko kAryAnviwa karawA hE .
+
+3 NMT: ejeMta Palana boXa iwihAsa se kriyA waka mAnaciwraNa ko kAryAnviwa karawA hE .
+
+4 NMT: aBikarwA Palana boXa iwihAsa se kriyA waka mAnaciwraNa ko kAryAnviwa karawA hE .
+
+5 NMT: ejeMta Palana , boXa iwihAsa se kArya waka mAnaciwraNa ko kAryAnviwa karawA hE .
+
+6 NMT: ejeMta PaMkSana anuBava iwihAsa se kriyA ke lie eka mAnaciwraNa lAgU karawA hE .
+
+7 NMT: aBikarwA kriyA boXa iwihAsa se kriyA waka mAnaciwraNa ko kAryAnviwa karawI hE .
+
+8 NMT: aBikarwA prakArya boXa iwihAsa se kriyA waka mAnaciwraNa ko kriyAnviwa karawA hE .
+
+aBikarwA_4+7+8/eka_0+1/ejeMta_2+3+5+6 kriyA_7/ejeMta_0+1/prakArya_8/PaMkSana_2+6/Palana_3+4+5 boXa_2+3+4+7+8/samAroha_0+1/anuBava_6/,_5 iwihAsa_2+3+4+6+7+8/boXa_5/XAraNA_0+1 iwihAsa_0+1+5/se_2+3+4+6+7+8 se_0+1+5/kriyA_2+3+4+6+7+8 waka_2+3+4+7+8/ke_6/kArravAI_0+1/kArya_5 mAnaciwraNa_2+3+4+7+8/waka_5/ke_1/lie_6/karane_0 mAnaciwraNa_5/ko_2+3+4+7+8/ke_0/lie_1/eka_6 mAnaciwraNa_6/ko_5/kAryAnviwa_2+3+4+7/lie_0/eka_1/kriyAnviwa_8 mAnaciwraNa_1/karawA_2+3+4+8/kAryAnviwa_5/eka_0/lAgU_6/karawI_7 hE_2+3+4+7+8/mAnaciwraNa_0/karawA_5+6/lAgU_1 hE_5+6/._2+3+4+7+8/karawA_1/lAgU_0 hE_1/._5+6/karawA_0 hE_0/._1 ._0

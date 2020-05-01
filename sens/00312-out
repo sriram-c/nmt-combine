@@ -1,6 +1,15 @@
-Koja]	samasyA]	kA]	uxxeSya]	prAraMBika]	avasWA	{	6	se]	lakRya]	avasWA	<	waka	{	1	kA}	rAswA	ke	waka	KojanA	kA	eka	lie	hE]	.]
-0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	1	1	1	0	0	0	0
-0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1	1	0	0
-0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	1	1	1	1	0	0	0
-0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	1	1	1	1	0	0	0
-0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	1	1	1	1	0	0	0
+ENG: The objective of a search problem is to find a path from the initial state to a goal state.
+
+ANU: eka walASa samasyA kA uxxeSya AramBika avasWA se eka lakRya rAjya paWa ko pAne ke lie howA hE .
+
+0 NMT: Koja samasyA kA uxxeSya prAraMBika avasWA se lakRya avasWA waka kA rAswA KojanA hE .
+
+1 NMT: eka Koja samasyA kA uxxeSya prAraMBika rAjya se eka lakRya rAjya ke lie eka rAswA Kojane ke lie hE .
+
+2 NMT: eka Koja samasyA kA uxxeSya prAraMBika avasWA se eka lakRya avasWA waka eka rAswA KojanA hE .
+
+3 NMT: eka Koja samasyA kA uxxeSya prAraMBika avasWA se eka lakRya avasWA waka eka mArga KojanA hE .
+
+4 NMT: eka Koja samasyA kA uxxeSya prAraMBika avasWA se eka lakRya avasWA waka kA rAswA KojanA hE .
+
+Koja_0/eka_1+2+3+4 Koja_1+2+3+4/samasyA_0 kA_0/samasyA_1+2+3+4 kA_1+2+3+4/uxxeSya_0 uxxeSya_1+2+3+4/prAraMBika_0 avasWA_0/prAraMBika_1+2+3+4 avasWA_2+3+4/se_0/rAjya_1 lakRya_0/se_1+2+3+4 avasWA_0/eka_1+2+3+4 lakRya_1+2+3+4/waka_0 avasWA_2+3+4/kA_0/rAjya_1 waka_2+3+4/rAswA_0/ke_1 kA_4/KojanA_0/eka_2+3/lie_1 hE_0/rAswA_2+4/eka_1/mArga_3 ._0/KojanA_2+3+4/rAswA_1 hE_2+3+4/Kojane_1 ._2+3+4/ke_1 lie_1 hE_1 ._1

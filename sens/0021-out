@@ -1,4 +1,11 @@
-vahAz	xo	kamare	xo	kamare	hEM	,	hEM	,	e	Ora	e	Ora	bI
-0	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: There are two rooms, A and B.
+
+ANU: xo kamare, e Ora bI hEM .
+
+0 NMT: xo kamare hEM , e Ora bI
+
+1 NMT: xo kamare hEM , e Ora bI .
+
+2 NMT: vahAz xo kamare hEM , e Ora bI .
+
+xo_0+1/vahAz_2 xo_2/kamare_0+1 kamare_2/hEM_0+1 hEM_2/,_0+1 ,_2/e_0+1 e_2/Ora_0+1 Ora_2/bI_0+1 bI_2/._1 ._2

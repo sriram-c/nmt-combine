@@ -1,9 +1,21 @@
-yaxi	viSiRta	pqWaka	alaga	boXoM	boXa	-	saMgrAhakoM	Ora	alaga	kriyAoM	parikalpanAoM	kAryoM	kriyA	Ora	kI	kAryoM	saMKyA	sImiwa	kI	ho	hE	saMKyA	,	sImiwa	wo	wo	hE	pariveSa	vAwAvaraNa	pariveSa	paryAvaraNa	,	asawawa	asawawa	wo	rahawA	hE	rahawA	pariveSa	,	asawawa	hE	anyaWA	hE	,	yaha	,	vaha	anyaWA	anyaWA	sawawa	hE}	.	sawawa	hE
-1	1	0	0	1	0	0	0	1	0	1	0	0	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1
-1	1	0	0	1	0	0	0	1	0	1	0	0	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1
-1	1	0	0	0	1	0	0	1	0	0	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1
-1	1	0	0	0	1	0	0	1	0	0	0	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1
-1	1	0	0	0	0	0	1	1	0	0	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1
-1	0	0	1	0	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1
-1	0	1	0	1	0	0	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1
-1	0	1	0	1	0	0	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1
+ENG: If the number of distinct percepts and actions is limited, the environment is discrete, otherwise it is continuous.
+
+ANU: yaxi safKyA sAmAnya se Binna boXa Ora kriyAoM kI sImiwa hE, ki wo paryAvaraNa vivikwa hE, anyaWA yaha lagAwAra hE .
+
+0 NMT: yaxi viSiRta boXoM Ora kriyAoM kI saMKyA sImiwa hE , wo vAwAvaraNa asawawa hE , anyaWA yaha sawawa hE .
+
+1 NMT: yaxi viSiRta boXoM Ora kriyAoM kI saMKyA sImiwa hE , wo paryAvaraNa asawawa hE , anyaWA yaha sawawa hE .
+
+2 NMT: yaxi viSiRta boXa Ora kAryoM kI saMKyA sImiwa hE , wo paryAvaraNa asawawa hE , anyaWA yaha sawawa hE .
+
+3 NMT: yaxi viSiRta boXa Ora kriyA kI saMKyA sImiwa hE , wo vAwAvaraNa asawawa hE , anyaWA yaha sawawa hE .
+
+4 NMT: yaxi viSiRta saMgrAhakoM Ora kAryoM kI saMKyA sImiwa hE , wo vAwAvaraNa asawawa hE , anyaWA yaha sawawa hE .
+
+5 NMT: yaxi alaga - alaga parikalpanAoM Ora kAryoM kI saMKyA sImiwa hE , wo pariveSa asawawa hE , anyaWA vaha sawawa hE .
+
+6 NMT: yaxi pqWaka boXoM Ora kAryoM kI saMKyA sImiwa ho , wo pariveSa asawawa rahawA hE , anyaWA sawawa rahawA hE .
+
+7 NMT: yaxi pqWaka boXoM Ora kAryoM kI saMKyA sImiwa ho wo pariveSa asawawa rahawA hE , anyaWA vaha sawawa rahawA hE .
+
+yaxi_0+1+2+3+4+5+6+7 viSiRta_0+1+2+3+4/pqWaka_6+7/alaga_5 boXoM_0+1+6+7/boXa_2+3/-_5/saMgrAhakoM_4 Ora_0+1+2+3+4+6+7/alaga_5 kAryoM_2+4+6+7/kriyAoM_0+1/parikalpanAoM_5/kriyA_3 kI_0+1+2+3+4+6+7/Ora_5 saMKyA_0+1+2+3+4+6+7/kAryoM_5 kI_5/sImiwa_0+1+2+3+4+6+7 hE_0+1+2+3+4/saMKyA_5/ho_6+7 ,_0+1+2+3+4+6/sImiwa_5/wo_7 hE_5/wo_0+1+2+3+4+6/pariveSa_7 ,_5/asawawa_7/pariveSa_6/vAwAvaraNa_0+3+4/paryAvaraNa_1+2 asawawa_0+1+2+3+4+6/wo_5/rahawA_7 hE_0+1+2+3+4+7/rahawA_6/pariveSa_5 hE_6/,_0+1+2+3+4+7/asawawa_5 hE_5/,_6/anyaWA_0+1+2+3+4+7 ,_5/anyaWA_6/yaha_0+1+2+3+4/vaha_7 anyaWA_5/sawawa_0+1+2+3+4+6+7 hE_0+1+2+3+4/rahawA_6+7/vaha_5 hE_6+7/._0+1+2+3+4/sawawa_5 hE_5/._6+7 ._5

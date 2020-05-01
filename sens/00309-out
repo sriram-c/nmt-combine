@@ -1,7 +1,17 @@
-Koja	samasyA	kI	ke	samasyA	ke	AXAra	para	AXAra	,	para	,	hama	hama	alaga	alaga	mAmaloM	mAmale	mAmale	mAmaloM	alaga	hogA	hoMge	hoMge	hogA	mAmaloM	.	hogA	.
-1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	0	0	1	0	1
-1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	0	1	1	1	1	1
-1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	0	0	1	0	1
-1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	0	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	0	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	0	1	1	1	1	1
+ENG: Depending on the search problem, we will have different cases.
+
+ANU: walASa samasyA nirBara karanA, hamAre pAsa alaga alaga mAmale hoMge .
+
+0 NMT: Koja samasyA ke AXAra para , hama alaga alaga mAmale hoMge .
+
+1 NMT: Koja samasyA ke AXAra para , hama alaga alaga mAmaloM hogA .
+
+2 NMT: Koja samasyA ke AXAra para , hama alaga mAmale hoMge .
+
+3 NMT: Koja samasyA ke AXAra para , hama alaga mAmaloM hogA .
+
+4 NMT: Koja kI samasyA ke AXAra para , hama alaga alaga mAmaloM hogA .
+
+5 NMT: Koja kI samasyA ke AXAra para , hama alaga mAmaloM hogA .
+
+Koja_0+1+2+3+4+5 samasyA_0+1+2+3/kI_4+5 samasyA_4+5/ke_0+1+2+3 ke_4+5/AXAra_0+1+2+3 AXAra_4+5/para_0+1+2+3 para_4+5/,_0+1+2+3 ,_4+5/hama_0+1+2+3 alaga_0+1+2+3/hama_4+5 alaga_0+1+4+5/mAmaloM_3/mAmale_2 alaga_4/mAmaloM_1+5/hogA_3/mAmale_0/hoMge_2 ._2+3/mAmaloM_4/hogA_1+5/hoMge_0 ._0+1+5/hogA_4 ._4

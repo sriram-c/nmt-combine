@@ -1,9 +1,21 @@
-gola	golabaMxa	golakIpara	lakRya	-	prApwa	ejeMta	kI	aBikarwA	matola	apanA	karane	prApwi	apane	aBikarwA	ejeMta	lakRya	ke	apane	pUrA	ko	hAsila	lie	lakRya	prApwa	gola	karane	kI	ko	karane	-	ke	prApwi	prApwa	matola	ke	lie	kAma	ke	aBikarwA	karane	lie	lie	ke	kArya	karawe	kArya	lie	hEM	karawe	karawe	kArya	.	hEM	hEM	karawe	.	hEM	.
-1	0	0	1	1	0	0	1	1	1	0	0	1	1	1	0	1	1	1	0	0	0	1	1	0	1	0	1	0	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	0	0	1	1	0	1	0	0	1	0	1	1	0	0	0	0	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	0	0	1	1	1	0	0	1	0	1	0	1	1	0	0	0	0	1	1	0	1	0	1	0	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	0	0	1	1	0	1	0	1	1	0	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	0	1	1	0	1	0	0	1	1	0	1	1	1	1	0	0	0	1	1	0	1	0	1	0	0	1	1	1	0	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	0	1	0	0	1	0	0	1	0	1	1	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	0	0	1	0	0	0	1	1	0	0	0	1	1	1	0	0	0	1	1	1	0	0	1	0	0	1	0	1	0	0	0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1
-0	0	1	1	0	0	1	0	0	0	1	1	0	0	0	1	1	1	0	1	0	0	1	1	0	0	1	0	0	1	0	1	0	0	0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1
+ENG: Goal-based agents act in order to achieve their goal(s).
+
+ANU: lakRya-AXAriwa prawiniXi kArya karawe hEM unakA lakRya (esa) hAsila karane ke lie .
+
+0 NMT: gola - matola aBikarwA apane lakRya kI prApwi ke lie kArya karawe hEM .
+
+1 NMT: lakRya prApwa karane ke lie gola - matola aBikarwA kArya karawe hEM .
+
+2 NMT: lakRya kI prApwi ke lie gola - matola aBikarwA kArya karawe hEM .
+
+3 NMT: gola - matola aBikarwA apane lakRya ko prApwa karane ke lie kArya karawe hEM .
+
+4 NMT: gola - matola ejeMta apane lakRya kI prApwi ke lie kArya karawe hEM .
+
+5 NMT: golabaMxa aBikarwA apane lakRya ko prApwa karane ke lie kArya karawe hEM .
+
+6 NMT: golabaMxa ejeMta apanA lakRya hAsila karane ke lie kAma karawe hEM .
+
+7 NMT: golakIpara ejeMta apanA lakRya pUrA karane ke lie kAma karawe hEM .
+
+lakRya_1+2/golakIpara_7/golabaMxa_5+6 ejeMta_6+7/prApwa_1/kI_2/aBikarwA_5 karane_1/apane_5/prApwi_2/apanA_6+7 ke_1+2/lakRya_5+6+7/ejeMta_4/aBikarwA_0+3 lie_1+2/apane_0+3+4/ko_5/pUrA_7/hAsila_6 lakRya_0+3+4/karane_6+7/prApwa_5 ke_6+7/karane_5/kI_0+4/ko_3 ke_5/lie_6+7/prApwa_3/prApwi_0+4 ke_0+4/lie_5/karane_3/kAma_6+7/aBikarwA_1+2 karawe_6+7/ke_3/lie_0+4/kArya_1+2+5 karawe_1+2+5/hEM_6+7/lie_3/kArya_0+4 karawe_0+4/hEM_1+2+5/._6+7/kArya_3 karawe_3/hEM_0+4/._1+2+5 hEM_3/._0+4 ._3

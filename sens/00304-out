@@ -1,4 +1,11 @@
-isakA	javAba>>	isa	samasyA	para	samasyA	nirBara	para	nirBara	karawA	karawA	hE	.	hE
-1	0	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	1	1	1	1	1	1	1	1
+ENG: The answer to this depends on the problem.
+
+ANU: yaha uwwara samasyA para nirBara karawA hE .
+
+0 NMT: isakA javAba samasyA para nirBara karawA hE .
+
+1 NMT: isakA uwwara isa samasyA para nirBara karawA hE .
+
+2 NMT: isakA uwwara samasyA para nirBara karawA hE .
+
+isakA_0+1+2 uwwara_1+2/javAba_0 samasyA_0+2/isa_1 samasyA_1/para_0+2 para_1/nirBara_0+2 nirBara_1/karawA_0+2 karawA_1/hE_0+2 hE_1/._0+2 ._1

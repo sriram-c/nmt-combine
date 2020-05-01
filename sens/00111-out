@@ -1,6 +1,15 @@
-maSInI	maSIna	anuvAxa	eAI	meM	ke	prayAsa	prayAsoM	ke	6	%	mahawvapUrNa	kRewroM	meM	{	9	se	eka	hE
-1	0	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1
-0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1
-1	0	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1
-0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1
-1	0	1	1	1	1	0	1	1	0	0	1	1	1	0	0	1	1	1
+ENG: Machine translation is one of the important fields of endeavour in AI.
+
+ANU: yanwra anuvAxa e. AI. meM prayawna ke mahawwvapUrNa kRewroM meM se eka hE .
+
+0 NMT: maSInI anuvAxa eAI meM prayAsa ke mahawvapUrNa kRewroM meM se eka hE
+
+1 NMT: maSIna anuvAxa eAI meM prayAsa ke mahawvapUrNa kRewroM meM se eka hE .
+
+2 NMT: maSInI anuvAxa eAI meM prayAsa ke mahawvapUrNa kRewroM meM se eka hE .
+
+3 NMT: maSIna anuvAxa eAI meM prayAsa ke mahawvapUrNa kRewroM meM se eka hE
+
+4 NMT: maSInI anuvAxa eAI ke prayAsoM ke mahawvapUrNa kRewroM meM se eka hE .
+
+maSInI_0+2+4/maSIna_1+3 anuvAxa_0+1+2+3+4 eAI_0+1+2+3+4 meM_0+1+2+3/ke_4 prayAsa_0+1+2+3/prayAsoM_4 ke_0+1+2+3+4 mahawvapUrNa_0+1+2+3+4 kRewroM_0+1+2+3+4 meM_0+1+2+3+4 se_0+1+2+3+4 eka_0+1+2+3+4 hE_0+1+2+3+4 ._1+2+4

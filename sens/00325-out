@@ -1,7 +1,17 @@
-Koja	samasyA	kA	eka	samAXAna	samAXAna	,	oYparetaroM	oYparetaroM	kA	kA}	eka	anukrama	ki	anukrama	eka	hE	hE	jo	SurU	ki	ki	eka	,	noda	eka}	SurU	eka	SuruAwa	prAraMBa	noda	noda	se	lakRya	se	eka	noda	lakRya	eka}	lakRya	waka	noda	lie	noda}	ke	eka	lie	paWa	lie	eka	ke	paWa	eka}	paWa	ke	sAWa	judZA	ke}	sAWa	hE	howA	judZA	judZA	kA	hE	.	huA	huA	eka	hE	.	hE}	.	hE
-1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	0	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	0	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	0	1	0	0	1	0	0	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	0	0	0	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	0	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	0	0	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	0	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1
+ENG: A solution to the search problem is a sequence of operators that is associated with a path from a start node to a goal node.
+
+ANU: walASa samasyA hala saFcAlaka kA eka anukrama hE arWAw eka lakRya gAzTa eka AramBa gAzTa se paWa ke sAWa sambaxXa huA hE .
+
+0 NMT: Koja samasyA kA eka samAXAna oYparetaroM kA eka anukrama hE ki eka SurU noda se eka lakRya noda ke lie eka paWa ke sAWa judZA huA hE .
+
+1 NMT: Koja samasyA kA eka samAXAna oYparetaroM hE ki eka SurU noda se eka lakRya noda ke lie eka paWa ke sAWa judZA huA hE kA eka anukrama hE .
+
+2 NMT: Koja samasyA kA eka samAXAna oYparetaroM kA eka anukrama hE ki eka SuruAwa noda se eka lakRya noda ke lie eka paWa ke sAWa judZA huA hE .
+
+3 NMT: Koja samasyA kA samAXAna oYparetaroM kA eka anukrama hE ki eka stArta noda se eka lakRya noda ke lie eka paWa ke sAWa judZA huA hE .
+
+4 NMT: Koja samasyA kA samAXAna oYparetaroM kA eka anukrama hE jo eka prAraMBa noda se lakRya noda waka eka paWa ke sAWa judZA howA hE .
+
+5 NMT: Koja samasyA kA samAXAna , oYparetaroM kA eka anukrama hE , jo prAraMBa noda se lakRya noda waka eka paWa ke sAWa judZA howA hE .
+
+Koja_0+1+2+3+4+5 samasyA_0+1+2+3+4+5 kA_0+1+2+3+4+5 eka_0+1+2/samAXAna_3+4+5 oYparetaroM_3+4/samAXAna_0+1+2/,_5 kA_3+4/oYparetaroM_0+1+2+5 eka_3+4/hE_1/kA_0+2+5 eka_0+2+5/anukrama_3+4/ki_1 eka_1/hE_3+4/anukrama_0+2+5 hE_0+2+5/ki_3/jo_4/SurU_1 eka_3+4/noda_1/ki_0+2/,_5 eka_0+2/se_1/prAraMBa_4/jo_5/stArta_3 eka_1/noda_3+4/prAraMBa_5/SurU_0/SuruAwa_2 noda_0+2+5/lakRya_1/se_3+4 eka_3/noda_1/lakRya_4/se_0+2+5 eka_0+2/noda_4/ke_1/lakRya_3+5 noda_3+5/lakRya_0+2/lie_1/waka_4 eka_1+4/noda_0+2/ke_3/waka_5 eka_5/ke_0+2/paWa_1+4/lie_3 eka_3/ke_1+4/paWa_5/lie_0+2 eka_0+2/ke_5/paWa_3/sAWa_1+4 ke_3/paWa_0+2/sAWa_5/judZA_1+4 ke_0+2/sAWa_3/judZA_5/huA_1/howA_4 hE_1+4/sAWa_0+2/judZA_3/howA_5 hE_5/kA_1/judZA_0+2/._4/huA_3 eka_1/hE_3/._5/huA_0+2 hE_0+2/anukrama_1/._3 hE_1/._0+2 ._1

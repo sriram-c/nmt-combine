@@ -1,6 +1,15 @@
-ejeMta	aBikarwA	ko	una	kAryoM	kriyAoM	ke	apekRiwa	prawyASiwa	pariNAma	pariNAmoM	se	BI	nipatanA	howA	hE	jahAM	,	kArya	kriyA	jinameM	kArravAI	praBAva	kriyA	niyawAwmaka	praBAva	niyawAwmaka	nahIM	howe	nahIM	hEM	howe	.
-1	0	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	0	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	0	1	0	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1
-1	0	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	0	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1
+ENG: An agent also has to deal with the expected outcome of the actions where the action effects are not deterministic.
+
+ANU: eka prawiniXi ko BI kriyAoM ke apekRiwa pariNAma ke sAWa varNana karanA hE jahAz kriyA praBAva niyawivAxa-sambanXI nahIM hEM .
+
+0 NMT: ejeMta ko una kAryoM ke apekRiwa pariNAma se BI nipatanA howA hE jahAM kArya praBAva niyawAwmaka nahIM howe hEM .
+
+1 NMT: ejeMta ko una kAryoM ke apekRiwa pariNAma se BI nipatanA howA hE jahAM kriyA praBAva niyawAwmaka nahIM howe hEM .
+
+2 NMT: ejeMta ko una kriyAoM ke prawyASiwa pariNAmoM se BI nipatanA howA hE , jinameM kriyA praBAva niyawAwmaka nahIM howe .
+
+3 NMT: ejeMta ko una kAryoM ke apekRiwa pariNAma se BI nipatanA howA hE jahAM kArravAI praBAva niyawAwmaka nahIM howe hEM .
+
+4 NMT: aBikarwA ko una kAryoM ke apekRiwa pariNAma se BI nipatanA howA hE jahAM kArya praBAva niyawAwmaka nahIM howe hEM .
+
+ejeMta_0+1+2+3/aBikarwA_4 ko_0+1+2+3+4 una_0+1+2+3+4 kAryoM_0+1+3+4/kriyAoM_2 ke_0+1+2+3+4 apekRiwa_0+1+3+4/prawyASiwa_2 pariNAma_0+1+3+4/pariNAmoM_2 se_0+1+2+3+4 BI_0+1+2+3+4 nipatanA_0+1+2+3+4 howA_0+1+2+3+4 hE_0+1+2+3+4 jahAM_0+1+3+4/,_2 kriyA_1/kArya_0+4/kArravAI_3/jinameM_2 praBAva_0+1+3+4/kriyA_2 praBAva_2/niyawAwmaka_0+1+3+4 niyawAwmaka_2/nahIM_0+1+3+4 nahIM_2/howe_0+1+3+4 howe_2/hEM_0+1+3+4 ._0+1+2+3+4

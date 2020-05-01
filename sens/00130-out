@@ -1,5 +1,13 @@
-ise	yaha	ejeMta	kI	gawi	yA	xakRawA	kAryakRamawA	ke	saMxarBa	AXAra	meM	para	mApA	jA	sakawA	hE	.
-1	0	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1
-1	0	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1
-1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1
-0	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1
+ENG: It can be measured in terms of speed or efficiency of the agent.
+
+ANU: yaha prawiniXi kI raPwAra ke anusAra yA kuSalawA nApA jA sakawA hE .
+
+0 NMT: ise ejeMta kI gawi yA xakRawA ke saMxarBa meM mApA jA sakawA hE .
+
+1 NMT: ise ejeMta kI gawi yA xakRawA ke AXAra para mApA jA sakawA hE .
+
+2 NMT: ise ejeMta kI gawi yA kAryakRamawA ke saMxarBa meM mApA jA sakawA hE .
+
+3 NMT: yaha ejeMta kI gawi yA xakRawA ke saMxarBa meM mApA jA sakawA hE .
+
+ise_0+1+2/yaha_3 ejeMta_0+1+2+3 kI_0+1+2+3 gawi_0+1+2+3 yA_0+1+2+3 xakRawA_0+1+3/kAryakRamawA_2 ke_0+1+2+3 saMxarBa_0+2+3/AXAra_1 meM_0+2+3/para_1 mApA_0+1+2+3 jA_0+1+2+3 sakawA_0+1+2+3 hE_0+1+2+3 ._0+1+2+3

@@ -1,8 +1,19 @@
-kisI	eka	niSciwa	niyawa	samaya	para	inaputa	xie	niveSoM	ke	gae	kA	pUrNa	inaputa	pUrA	seta	samuccaya	ke	ko	pUrNa	eka	boXa	boXa	parsepta	samuccaya	kahalAwA	kahawe	hE	kahA	ko	kahalAwA	hEM	jAwA	hE	saMsixXi	.	.	hE	kahawe
-1	0	1	0	1	1	1	0	0	1	0	0	1	1	0	1	0	1	1	1	0	1	1	0	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1
-1	0	1	0	1	1	1	0	0	1	0	0	1	1	0	1	0	1	1	1	0	1	1	0	0	0	0	1	1	1	0	0	1	1	0	1	1	1	0
-1	0	1	0	1	1	1	0	0	0	0	1	1	1	0	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	1	0	0	1	0	1	1	1	0
-1	1	1	0	1	1	1	0	0	0	0	1	0	1	1	1	0	0	0	0	1	1	1	0	0	1	0	1	0	0	1	0	0	1	0	1	1	1	0
-1	0	0	1	1	1	1	1	0	1	1	0	1	1	0	0	1	1	1	1	0	0	0	0	1	0	1	0	0	1	0	1	0	0	1	1	1	0	1
-0	1	1	0	1	1	0	0	1	1	0	0	1	0	0	0	1	1	1	1	1	0	0	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	0
-1	0	1	0	1	1	0	0	1	1	0	0	1	0	0	0	1	1	1	1	0	1	1	0	1	0	1	0	0	1	0	1	0	0	0	1	1	0	1
+ENG: The complete set of inputs at a given time is called a percept.
+
+ANU: pUrA samUha inaputa kA praxawwa samaya para boXa kahA jAwA hE .
+
+0 NMT: kisI niSciwa samaya para inaputa ke pUrNa seta ko boXa kahawe hEM .
+
+1 NMT: kisI niSciwa samaya para inaputa ke pUrNa seta ko boXa kahA jAwA hE .
+
+2 NMT: kisI niSciwa samaya para inaputa kA pUrNa samuccaya boXa kahalAwA hE .
+
+3 NMT: kisI niSciwa samaya para inaputa kA pUrA seta eka boXa kahalAwA hE .
+
+4 NMT: kisI niyawa samaya para xie gae inaputa ke pUrNa samuccaya ko saMsixXi kahawe hEM .
+
+5 NMT: eka niSciwa samaya para niveSoM ke pUrNa samuccaya ko parsepta kahA jAwA hE .
+
+6 NMT: kisI niSciwa samaya para niveSoM ke pUrNa samuccaya ko boXa kahawe hEM .
+
+kisI_0+1+2+3+4+6/eka_5 niSciwa_0+1+2+3+5+6/niyawa_4 samaya_0+1+2+3+4+5+6 para_0+1+2+3+4+5+6 niveSoM_5+6/inaputa_0+1+2+3/xie_4 ke_0+1+5+6/kA_2+3/gae_4 pUrNa_0+1+2+5+6/inaputa_4/pUrA_3 ke_4/samuccaya_2+5+6/seta_0+1+3 pUrNa_4/boXa_2/ko_0+1+5+6/eka_3 boXa_0+1+3+6/samuccaya_4/kahalAwA_2/parsepta_5 ko_4/hE_2/kahawe_0+6/kahalAwA_3/kahA_1+5 ._2/hE_3/hEM_0+6/jAwA_1+5/saMsixXi_4 ._0+3+6/hE_1+5/kahawe_4 ._1+5/hEM_4 ._4

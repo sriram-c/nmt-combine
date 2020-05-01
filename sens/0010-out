@@ -1,9 +1,21 @@
-yA	kyA	hama	hama	kevala	kevala	waMwra	usake	isake	praNAlI	isake	usake	kI	kAryoM	ke	kAryoM	aMwima	ke	ke	saMxarBa	aBivyakwiyoM	saMxarBa	meM	meM	kevala	isake	praNAlI	praNAlI	kAryoM	usakI	aMwima	kI	kI	ke	kriyAoM	aBivyakwiyoM	aMwima	aMwima	meM	saMxarBa	ke	aBivyakwiyoM	aBivyakwiyoM	meM	saMxarBa	ruci	meM}	ruci	hEM	raKawe	raKawe	hEM	?	hEM	?	?
-1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	0	0	0	0	0	1	0	1	0	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	0	0	0	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	0	0	0	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
+ENG: Or are we only interested in the final manifestations of the system in terms of its actions?
+
+ANU: hama yA usakA karmoM ke anusAra praNAlI ke anwima prawyakRIkaraNa meM sirPa ruci raKanevAlA hEM?
+
+0 NMT: yA kyA hama kevala isake kAryoM ke saMxarBa meM praNAlI kI aMwima aBivyakwiyoM meM ruci raKawe hEM ?
+
+1 NMT: yA kyA hama waMwra kI aMwima aBivyakwiyoM meM kevala usakI kriyAoM ke saMxarBa meM ruci raKawe hEM ?
+
+2 NMT: yA hama kevala isake kAryoM ke saMxarBa meM praNAlI kI aMwima aBivyakwiyoM meM ruci raKawe hEM ?
+
+3 NMT: yA hama kevala usake kAryoM ke saMxarBa meM praNAlI kI aMwima aBivyakwiyoM meM ruci raKawe hEM ?
+
+4 NMT: yA kyA hama kevala usake kAryoM ke saMxarBa meM praNAlI kI aMwima aBivyakwiyoM meM ruci raKawe hEM ?
+
+5 NMT: yA hama kevala praNAlI kI aMwima aBivyakwiyoM meM isake kAryoM ke saMxarBa meM ruci raKawe hEM ?
+
+6 NMT: yA hama kevala praNAlI ke kAryoM ke saMxarBa meM aMwima aBivyakwiyoM meM ruci raKawe hEM ?
+
+7 NMT: yA hama kevala praNAlI ke kAryoM ke saMxarBa meM usakI aMwima aBivyakwiyoM meM ruci raKawe hEM ?
+
+yA_0+1+2+3+4+5+6+7 hama_2+3+5+6+7/kyA_0+1+4 kevala_2+3+5+6+7/hama_0+1+4 kevala_0+4/praNAlI_5+6+7/isake_2/usake_3/waMwra_1 ke_6+7/kAryoM_2+3/kI_1+5/isake_0/usake_4 ke_2+3/aMwima_1+5/kAryoM_0+4+6+7 ke_0+4+6+7/aBivyakwiyoM_1+5/saMxarBa_2+3 meM_1+2+3+5/saMxarBa_0+4+6+7 meM_0+4+6+7/kevala_1/praNAlI_2+3/isake_5 aMwima_6/kAryoM_5/praNAlI_0+4/kI_2+3/usakI_1+7 ke_5/aMwima_2+3+7/aBivyakwiyoM_6/kI_0+4/kriyAoM_1 meM_6/ke_1/aMwima_0+4/aBivyakwiyoM_2+3+7/saMxarBa_5 meM_2+3+5+7/ruci_6/aBivyakwiyoM_0+4/saMxarBa_1 meM_0+1+4/ruci_2+3+5+7/raKawe_6 ruci_0+1+4/raKawe_2+3+5+7/hEM_6 raKawe_0+1+4/hEM_2+3+5+7/?_6 hEM_0+1+4/?_2+3+5+7 ?_0+1+4

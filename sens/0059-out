@@ -1,5 +1,13 @@
-anuprayukwa	eAI	pahale	<	se>>	hI	saPalawA	kAPI	mila	saPalawA	cukI	kA>>	AnaMxa>>	liyA>>	hE}
-1	1	1	0	0	1	1	1	0	1	0	0	0	0	0
-1	1	1	0	0	1	1	1	0	1	0	0	0	0	0
-1	1	1	0	0	1	1	1	1	1	1	0	0	0	0
-1	1	0	0	0	0	1	1	1	1	1	0	0	0	0
+ENG: Applied AI has already enjoyed considerable success.
+
+ANU: prayukwa e. AI. ne kAPI saPalawA kA pahale se hI Ananxa uTAyA hE .
+
+0 NMT: anuprayukwa eAI pahale se hI kAPI saPalawA kA AnaMxa liyA hE .
+
+1 NMT: anuprayukwa eAI ko pahale hI kAPI saPalawA milI hE .
+
+2 NMT: anuprayukwa eAI ko pahale hI kAPI saPalawA mila cukI hE .
+
+3 NMT: anuprayukwa eAI ko kAPI saPalawA mila cukI hE .
+
+anuprayukwa_0+1+2+3 eAI_0+1+2+3 ko_1+2+3/pahale_0 kAPI_3/pahale_1+2/se_0 saPalawA_3/hI_0+1+2 kAPI_0+1+2/mila_3 saPalawA_0+1+2/cukI_3 hE_3/mila_2/milI_1/kA_0 hE_1/._3/cukI_2/AnaMxa_0 hE_2/._1/liyA_0 hE_0/._2 ._0

@@ -1,6 +1,15 @@
-prawikriyASIla	ejeMtoM	ke	ko	iwihAsa	pAsa	kI	iwihAsa	kI	koI	XAraNA	koI	XAraNA	nahIM	hE	nahIM	howI	hE	howI	.
-1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1
-1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1
-1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1
+ENG: Reactive agents have no notion of history.
+
+ANU: prawiGAwaka prawiniXiyoM ke pAsa iwihAsa kI koI XAraNA nahIM hE .
+
+0 NMT: prawikriyASIla ejeMtoM ke iwihAsa kI koI XAraNA nahIM hE .
+
+1 NMT: prawikriyASIla ejeMtoM ke pAsa iwihAsa kI koI XAraNA nahIM hE .
+
+2 NMT: prawikriyASIla ejeMtoM ke pAsa iwihAsa kI koI XAraNA nahIM howI .
+
+3 NMT: prawikriyASIla ejeMtoM ko iwihAsa kI koI XAraNA nahIM howI .
+
+4 NMT: prawikriyASIla ejeMtoM ko iwihAsa kI koI XAraNA nahIM hE .
+
+prawikriyASIla_0+1+2+3+4 ejeMtoM_0+1+2+3+4 ke_0+1+2/ko_3+4 iwihAsa_0+3+4/pAsa_1+2 iwihAsa_1+2/kI_0+3+4 kI_1+2/koI_0+3+4 koI_1+2/XAraNA_0+3+4 XAraNA_1+2/nahIM_0+3+4 nahIM_1+2/hE_0+4/howI_3 ._0+3+4/hE_1/howI_2 ._1+2

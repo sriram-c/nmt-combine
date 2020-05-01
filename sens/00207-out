@@ -1,4 +1,11 @@
-lekina	nicale	nimnawara	jAnavara	prANI	BI	kaI	aneka	jatila	kAmoM>>	meM	sakRama	howe	hEM	.
-1	1	0	1	0	1	1	0	1	0	1	1	1	1	1
-1	1	0	1	0	1	1	0	1	0	1	1	1	1	1
-1	0	1	0	1	1	0	1	1	0	1	1	1	1	1
+ENG: But even lower animals are capable of many complex tasks.
+
+ANU: paranwu aXika kama paSu BI yahAz waka ki bahuwa jatila kAmoM ke samarWa hEM .
+
+0 NMT: lekina nicale jAnavara BI kaI jatila kAmoM meM sakRama howe hEM .
+
+1 NMT: lekina nicale jAnavara BI kaI jatila kAryoM meM sakRama howe hEM .
+
+2 NMT: lekina nimnawara prANI BI aneka jatila kAryoM meM sakRama howe hEM .
+
+lekina_0+1+2 nicale_0+1/nimnawara_2 jAnavara_0+1/prANI_2 BI_0+1+2 kaI_0+1/aneka_2 jatila_0+1+2 kAryoM_1+2/kAmoM_0 meM_0+1+2 sakRama_0+1+2 howe_0+1+2 hEM_0+1+2 ._0+1+2

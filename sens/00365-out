@@ -1,10 +1,23 @@
-eka	xUsarI	xUsarI	raNanIwi	yaha	raNanIwi	jAMca	jAzcanA	jAzcane	hE	jAMcane	hE	ki	karane	kI	hE	Apa	ki	kI	unameM	una	Apa	hE	ki	cakra	ki	meM	Apa	unameM	cakroM	ke	cakroM	Apa	unameM	cakra	sAWa	cakra	cakroM	ke	unameM	paWa	cakroM	lekara	sAWa	ke	nahIM	ke	paWa	rAheM	sAWa	banAwe	nahIM	paWa	sAWa	hEM	banAwe	paWa	nahIM	.	kI	banAwe	hEM	nahIM	.	jAzca	kI	banAwe	.	kareM	jAzca	.	.	kareM
-0	1	1	1	1	1	0	0	0	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0
-0	1	1	1	1	1	0	0	0	1	0	1	1	0	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	0	1	1	0	0	1	1	0
-0	1	1	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0
-0	1	1	1	1	1	0	1	0	1	0	1	1	0	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	0	1	1	0	0	1	1	0
-0	1	1	1	1	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0
-0	1	1	1	1	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	0	0	1	1	1	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	1	1	0	0	0	1	0	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0
-1	1	1	1	0	1	0	0	0	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	0	1	0	1	1	1	0	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	0	0	0	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: A second strategy is to check that you do not create paths with cycles in them.
+
+ANU: xUsarI yukwi jAzcane ke lie howA hE ki Apa unameM cakroM se paWa nahIM banAwe hEM .
+
+0 NMT: xUsarI raNanIwi yaha hE ki Apa unameM cakra ke sAWa paWa nahIM banAwe hEM kI jAzca kareM .
+
+1 NMT: xUsarI raNanIwi yaha jAMca karane kI hE ki Apa unameM cakroM ke sAWa paWa nahIM banAwe .
+
+2 NMT: xUsarI raNanIwi yaha hE ki Apa unameM cakroM ke sAWa paWa nahIM banAwe .
+
+3 NMT: xUsarI raNanIwi yaha jAzcane kI hE ki Apa unameM cakroM ke sAWa paWa nahIM banAwe .
+
+4 NMT: xUsarI raNanIwi yaha jAzcanA hE ki Apa unameM cakroM ke sAWa paWa nahIM banAwe .
+
+5 NMT: xUsarI raNanIwi yaha jAMcane kI hE ki Apa unameM cakroM ke sAWa paWa nahIM banAwe .
+
+6 NMT: xUsarI raNanIwi yaha jAMcane kI hE ki Apa unameM cakra lekara rAheM nahIM banAwe .
+
+7 NMT: eka xUsarI raNanIwi hE ki Apa una meM cakra ke sAWa paWa nahIM banAwe hEM kI jAzca kareM .
+
+8 NMT: eka xUsarI raNanIwi hE ki Apa unameM cakra ke sAWa paWa nahIM banAwe hEM kI jAzca kareM .
+
+xUsarI_0+1+2+3+4+5+6/eka_7+8 xUsarI_7+8/raNanIwi_0+1+2+3+4+5+6 raNanIwi_7+8/yaha_0+1+2+3+4+5+6 hE_0+2+7+8/jAMcane_5+6/jAzcanA_4/jAzcane_3/jAMca_1 hE_4/ki_0+2+7+8/kI_3+5+6/karane_1 hE_3+5+6/ki_4/Apa_0+2+7+8/kI_1 hE_1/ki_3+5+6/Apa_4/unameM_0+2+8/una_7 ki_1/Apa_3+5+6/unameM_4/cakroM_2/cakra_0+8/meM_7 Apa_1/ke_0+2+8/unameM_3+5+6/cakroM_4/cakra_7 ke_4+7/sAWa_0+2+8/unameM_1/cakroM_3+5/cakra_6 ke_3+5/sAWa_4+7/paWa_0+2+8/cakroM_1/lekara_6 nahIM_0+2+8/ke_1/sAWa_3+5/paWa_4+7/rAheM_6 nahIM_4+6+7/banAwe_0+2+8/sAWa_1/paWa_3+5 nahIM_3+5/banAwe_4+6+7/._2/paWa_1/hEM_0+8 nahIM_1/banAwe_3+5/._4+6/kI_0+8/hEM_7 banAwe_1/._3+5/kI_7/jAzca_0+8 ._1/jAzca_7/kareM_0+8 ._0+8/kareM_7 ._7

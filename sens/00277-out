@@ -1,10 +1,23 @@
-aba	hama	xeKeMge	xiKAeMge	yaha	xiKA	bawAeMge	ki	xeMge	xiKAeMge	hama}	isa	hama	Koja	isa	samasyA	ko	ke	samasyA	lie	ke	isa	lie	samasyA	kaI	kaI	alaga	ke	alaga	lie	-	warIkoM	alaga	-	kaI	se	warIkoM	alaga	Koja	se	warIkoM	-	samasyA}	kA	samasyA	warIkoM	Koja	wEyAra	samAXAna	wEyAra	ko	samasyA	kA	se	kara	wEyAra	samAXAna	kara	sakawe	sakawe	kara	hEM	hEM	sakawe	.	hEM	.
-1	1	1	0	0	0	0	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	0	0	0	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	0	0	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	0	0	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	1	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	1	0	0	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	0	0	0	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	1	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	0	0	0	0	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	0	0	0	0	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	0	0	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
+ENG: We will now show that we can formulate the search problem in several different ways for this problem.
+
+ANU: hama aba xiKAeMge ki hama isa samasyA ke lie kaI alaga alaga warIkoM meM walASa samasyA sUwra rUpa meM banA sakawe hEM .
+
+0 NMT: aba hama xeKeMge ki hama isa samasyA ke lie kaI alaga alaga warIkoM se Koja samasyA kA samAXAna kara sakawe hEM .
+
+1 NMT: aba hama xiKAeMge ki hama isa samasyA ke lie kaI alaga - alaga warIkoM se Koja samasyA kA samAXAna kara sakawe hEM .
+
+2 NMT: aba hama xiKAeMge ki hama isa samasyA ke lie kaI alaga - alaga warIkoM se Koja samasyA ko wEyAra kara sakawe hEM .
+
+3 NMT: aba hama xeKeMge ki hama isa samasyA ke lie kaI alaga alaga warIkoM se Koja samasyA wEyAra kara sakawe hEM .
+
+4 NMT: aba hama yaha xiKAeMge ki hama isa samasyA ke lie kaI alaga - alaga warIkoM se Koja samasyA wEyAra kara sakawe hEM .
+
+5 NMT: aba hama xiKA xeMge ki hama isa samasyA ke lie kaI alaga alaga warIkoM se Koja samasyA wEyAra kara sakawe hEM .
+
+6 NMT: aba hama bawAeMge ki hama isa samasyA ke lie kaI alaga - alaga warIkoM se Koja samasyA wEyAra kara sakawe hEM .
+
+7 NMT: aba hama bawAeMge ki hama isa samasyA ke lie kaI alaga - alaga warIkoM se Koja samasyA ko wEyAra kara sakawe hEM .
+
+8 NMT: aba hama xiKAeMge ki hama Koja samasyA ko isa samasyA ke lie kaI alaga - alaga warIkoM se wEyAra kara sakawe hEM .
+
+aba_0+1+2+3+4+5+6+7+8 hama_0+1+2+3+4+5+6+7+8 xiKAeMge_1+2+8/bawAeMge_6+7/xeKeMge_0+3/xiKA_5/yaha_4 ki_0+1+2+3+6+7+8/xiKAeMge_4/xeMge_5 hama_0+1+2+3+6+7+8/ki_4+5 hama_4+5/isa_0+1+2+3+6+7/Koja_8 samasyA_0+1+2+3+6+7+8/isa_4+5 samasyA_4+5/ke_0+1+2+3+6+7/ko_8 isa_8/ke_4+5/lie_0+1+2+3+6+7 samasyA_8/lie_4+5/kaI_0+1+2+3+6+7 alaga_0+1+2+3+6+7/ke_8/kaI_4+5 alaga_0+3+4+5/lie_8/-_1+2+6+7 alaga_1+2+5+6+7/kaI_8/warIkoM_0+3/-_4 alaga_4+8/warIkoM_1+2+5+6+7/se_0+3 warIkoM_4/se_1+2+5+6+7/Koja_0+3/-_8 alaga_8/samasyA_0+3/se_4/Koja_1+2+5+6+7 samasyA_1+2+5+6+7/warIkoM_8/Koja_4/wEyAra_3/kA_0 samasyA_4/kara_3/se_8/wEyAra_5+6/ko_2+7/kA_1/samAXAna_0 kara_0+5+6/sakawe_3/wEyAra_2+4+7+8/samAXAna_1 kara_1+2+4+7+8/sakawe_0+5+6/hEM_3 sakawe_1+2+4+7+8/hEM_0+5+6/._3 hEM_1+2+4+7+8/._0+5+6 ._1+2+4+7+8

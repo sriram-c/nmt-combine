@@ -1,9 +1,21 @@
-ejeMta	eka	aBikarwA	vicAra	aBikarwA	ke	-	rUpa	ke	vimarSa	meM	rUpa	ke}	rUpa}	meM}	samaya	vimarSa	ke	kA	karane	hE	bIwanA	samaya	ke	lie	.	aprAsaMgika	lie	bIwanA	samaya	hE	samaya	aprAsaMgika	kA	mArga	hE	.	nikAlanA
-1	0	0	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	0	0	1	1	1	1	0	1	1	0	1	1	1	1	1	0	0	1	1	0
-1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	1	0	1	0	0	1	1	1	1	0	1	1	0	1	1	1	1	1	0	0	1	1	0
-1	0	0	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	0
-0	0	1	0	1	1	0	1	1	0	1	1	0	0	0	1	0	1	0	0	1	1	1	1	0	1	1	0	1	1	1	1	1	0	0	1	1	0
-1	0	0	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	1	0	1	0	1	1	0	1	1	0	0	1	1	1	1	1	0	1	1	0
-1	0	0	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0
-0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1
-0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	0	0	1	0	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1
+ENG: The passage of time as an agent deliberates is irrelevant.
+
+ANU: prawiniXi suvicAriwa ke jEsA samaya kA gujaranA bemawalaba hE .
+
+0 NMT: ejeMta vicAra - vimarSa ke rUpa meM samaya bIwanA aprAsaMgika hE .
+
+1 NMT: ejeMta ke rUpa meM samaya bIwanA aprAsaMgika hE .
+
+2 NMT: ejeMta ke rUpa meM vicAra - vimarSa kA samaya bIwanA aprAsaMgika hE .
+
+3 NMT: aBikarwA ke rUpa meM samaya bIwanA aprAsaMgika hE .
+
+4 NMT: ejeMta ke rUpa meM vicAra - vimarSa kA samaya aprAsaMgika hE .
+
+5 NMT: ejeMta ke rUpa meM vicAra - vimarSa ke lie samaya kA mArga aprAsaMgika hE .
+
+6 NMT: aBikarwA ke rUpa meM vicAra - vimarSa karane ke lie samaya nikAlanA aprAsaMgika hE .
+
+7 NMT: eka aBikarwA ke rUpa meM vicAra - vimarSa ke lie samaya nikAlanA aprAsaMgika hE .
+
+aBikarwA_3+6/eka_7/ejeMta_0+1+2+4+5 ke_1+2+3+4+5+6/vicAra_0/aBikarwA_7 ke_7/rUpa_1+2+3+4+5+6/-_0 rUpa_7/meM_1+2+3+4+5+6/vimarSa_0 ke_0/meM_7/samaya_1+3/vicAra_2+4+5+6 rUpa_0/vicAra_7/-_2+4+5+6/bIwanA_1+3 aprAsaMgika_1+3/meM_0/-_7/vimarSa_2+4+5+6 ke_5/hE_1+3/samaya_0/vimarSa_7/karane_6/kA_2+4 ke_6+7/._1+3/samaya_2+4/bIwanA_0/lie_5 aprAsaMgika_0+4/samaya_5/bIwanA_2/lie_6+7 aprAsaMgika_2/hE_0+4/samaya_6+7/kA_5 hE_2/._0+4/nikAlanA_6+7/mArga_5 aprAsaMgika_5+6+7/._2 hE_5+6+7 ._5+6+7

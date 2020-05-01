@@ -1,8 +1,19 @@
-eAI	annA	ke	kA	cOWA	cOWe	mawa	xqSya	xqRtikoNa	yaha	hE	hE	ki	ki	yaha	yaha}	warkasaMgawa	ejeMtoM	ejeMtoM	kA	kA}	aXyayana	hE	hE}	.
-1	0	0	1	1	0	1	0	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1
-1	0	0	1	1	0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1
-1	0	0	1	1	0	1	0	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1
-0	1	0	1	1	0	1	0	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1
-1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1
-1	0	0	1	1	0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1
-1	0	0	1	1	0	0	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1
+ENG: The fourth view of AI is that it is the study of rational agents.
+
+ANU: e. AI. kA cOWA vicAra hE ki yaha warkasafgawa prawiniXiyoM kA aXyayana hE .
+
+0 NMT: eAI kA cOWA mawa yaha hE ki yaha warkasaMgawa ejeMtoM kA aXyayana hE .
+
+1 NMT: eAI kA cOWA xqRtikoNa yaha hE ki yaha warkasaMgawa ejeMtoM kA aXyayana hE .
+
+2 NMT: eAI kA cOWA mawa hE ki yaha warkasaMgawa ejeMtoM kA aXyayana hE .
+
+3 NMT: annA kA cOWA mawa hE ki yaha warkasaMgawa ejeMtoM kA aXyayana hE .
+
+4 NMT: eAI ke cOWe xqRtikoNa hE ki yaha warkasaMgawa ejeMtoM kA aXyayana hE .
+
+5 NMT: eAI kA cOWA xqRtikoNa hE ki yaha warkasaMgawa ejeMtoM kA aXyayana hE .
+
+6 NMT: eAI kA cOWA xqSya hE ki yaha warkasaMgawa ejeMtoM kA aXyayana hE .
+
+eAI_0+1+2+4+5+6/annA_3 kA_0+1+2+3+5+6/ke_4 cOWA_0+1+2+3+5+6/cOWe_4 mawa_0+2+3/xqSya_6/xqRtikoNa_1+4+5 hE_2+3+4+5+6/yaha_0+1 hE_0+1/ki_2+3+4+5+6 yaha_2+3+4+5+6/ki_0+1 yaha_0+1/warkasaMgawa_2+3+4+5+6 warkasaMgawa_0+1/ejeMtoM_2+3+4+5+6 kA_2+3+4+5+6/ejeMtoM_0+1 kA_0+1/aXyayana_2+3+4+5+6 hE_2+3+4+5+6/aXyayana_0+1 hE_0+1/._2+3+4+5+6 ._0+1

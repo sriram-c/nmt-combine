@@ -1,8 +1,19 @@
-kaI	samasyAoM	ko	rAjyoM	rAjyoM	ke	ke	eka	eka	seta	seta	samuccaya	Ora	ke}	rUpa	niyamoM	kA	eka	meM	kA	prawiniXiwva	seta	xarSAyA	eka	ke	kiyA	seta	jA	jA	ke	rUpa	sakawA	rUpa	sakawA	meM	hE	meM	hE	prawiniXiwva	Ora	Ora	eka	prawiniXiwva	kiyA	kiyA	kEse	jA	rAjya	eka}	rAjya	hE	sakawA	xUsare	ki	rAjya	hE	xUsare	ke}	lie	eka	meM	baxala	kEse	wabxIla	wabxIla	rUpAMwariwa	ho	eka	rAjya	jAwA	hE}	ke}	niyamoM	hE	rAjya	ke	kA	niyamoM	lie	ke	meM	eka}	eka	hE	seta	jAwA	kA	.	eka	hE	seta
-1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	0	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	0	1	1	0	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	0	1	1	0	0	0	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	0	1	1	0	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	0	1	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	0	1	1	0	1	0	0	1	0	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
+ENG: Many problems can be represented as a set of states and a set of rules of how one state is transformed to another.
+
+ANU: bahuwa samasyAez eka samUha rAjyoM kA Ora eka samUha ke jEsA niyamoM ke kA peSa kI jA sakawIM hEM eka rAjya xUsarA kEse baxala xiyA huA hE .
+
+0 NMT: kaI samasyAoM ko rAjyoM ke eka seta ke rUpa meM prawiniXiwva kiyA jA sakawA hE Ora kEse eka rAjya xUsare ke lie wabxIla hE ke niyamoM kA eka seta .
+
+1 NMT: kaI samasyAoM ko rAjyoM ke eka seta ke rUpa meM prawiniXiwva kiyA jA sakawA hE Ora kEse eka rAjya xUsare meM wabxIla ho jAwA hE ke niyamoM kA eka seta .
+
+2 NMT: kaI samasyAoM ko rAjyoM ke eka seta Ora niyamoM kA eka seta ke rUpa meM prawiniXiwva kiyA jA sakawA hE ki kEse eka rAjya xUsare rAjya meM wabxIla hE .
+
+3 NMT: kaI samasyAoM ko rAjyoM ke eka seta ke rUpa meM prawiniXiwva kiyA jA sakawA hE Ora kEse eka rAjya xUsare rAjya meM wabxIla ho jAwA hE ke niyamoM kA eka seta .
+
+4 NMT: kaI samasyAoM ko rAjyoM ke eka seta ke rUpa meM prawiniXiwva kiyA jA sakawA hE Ora kEse eka rAjya xUsare meM baxala jAwA hE ke niyamoM kA eka seta .
+
+5 NMT: kaI samasyAoM ko rAjyoM ke eka samuccaya ke rUpa meM xarSAyA jA sakawA hE Ora eka rAjya ko xUsare rAjya meM kEse rUpAMwariwa kiyA jAwA hE ke niyamoM kA eka seta .
+
+6 NMT: kaI samasyAoM rAjyoM ke eka seta Ora niyamoM kA eka seta ke rUpa meM prawiniXiwva kiyA jA sakawA hE ki kEse eka rAjya xUsare rAjya ke lie baxala jAwA hE .
+
+kaI_0+1+2+3+4+5+6 samasyAoM_0+1+2+3+4+5+6 rAjyoM_6/ko_0+1+2+3+4+5 ke_6/rAjyoM_0+1+2+3+4+5 eka_6/ke_0+1+2+3+4+5 eka_0+1+2+3+4+5/seta_6 seta_0+1+2+3+4/Ora_6/samuccaya_5 ke_0+1+3+4+5/niyamoM_6/Ora_2 niyamoM_2/kA_6/rUpa_0+1+3+4+5 eka_6/meM_0+1+3+4+5/kA_2 eka_2/seta_6/prawiniXiwva_0+1+3+4/xarSAyA_5 ke_6/seta_2/jA_5/kiyA_0+1+3+4 ke_2/jA_0+1+3+4/sakawA_5/rUpa_6 hE_5/meM_6/sakawA_0+1+3+4/rUpa_2 hE_0+1+3+4/meM_2/Ora_5/prawiniXiwva_6 eka_5/Ora_0+1+3+4/kiyA_6/prawiniXiwva_2 rAjya_5/jA_6/kEse_0+1+3+4/kiyA_2 eka_0+1+3+4/jA_2/sakawA_6/ko_5 hE_6/rAjya_0+1+3+4/sakawA_2/xUsare_5 hE_2/rAjya_5/xUsare_0+1+3+4/ki_6 ke_0/meM_1+4+5/rAjya_3/kEse_6/ki_2 eka_6/meM_3/kEse_2+5/baxala_4/wabxIla_1/lie_0 eka_2/rAjya_6/jAwA_4/wabxIla_0+3/ho_1/rUpAMwariwa_5 hE_0+4/rAjya_2/xUsare_6/kiyA_5/jAwA_1/ho_3 ke_0+4/hE_1/rAjya_6/xUsare_2/jAwA_3+5 ke_1+6/hE_3+5/rAjya_2/niyamoM_0+4 ke_3+5/meM_2/niyamoM_1/kA_0+4/lie_6 eka_0+4/niyamoM_3+5/kA_1/baxala_6/wabxIla_2 eka_1/hE_2/seta_0+4/kA_3+5/jAwA_6 eka_3+5/hE_6/seta_1/._0+2+4 seta_3+5/._1+6 ._3+5

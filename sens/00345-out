@@ -1,9 +1,21 @@
-yaxi	eka	vahAz	hI	eka	rAjya	hI	avasWA	hE	rAjya	jo	hE	ki	lakRya	ki	saMpawwi	lakRya	kI	guNa	ko	saMpawwi	ko	saMwuRta	karawA	saMwuRta	karawI	hE}	,	hE	wo	,	Koja	Koja	samasyAoM	samasyAeM	eka	kI	samasyA	samAna	samasyAoM	eka}	jEsI	eka	.	hEM	hEM	jEsI	howI	.	.	hEM	hE
-1	1	0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	1	1	1
-1	1	0	1	1	0	1	1	1	0	1	1	0	1	0	1	1	0	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	0	1	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	1
-1	1	0	1	1	0	1	1	1	0	1	1	0	1	0	0	1	0	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	0	1	0	1	0	0	0	1	1	1	0	0	1	1	1	1	0	1
-1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	0	1	0	0	1	1	0	0	1	1	1	1	0	0	1	1	1	1
-1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	0	1	0	0	1	1	0	0	1	1	1	1	0	0	1	1	1	1
-1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	0	1	0	0	1	1	0	0	1	1	1	1	0	0	1	1	1	1
-1	1	0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1	1	1	0	0	0	0	1	1	1	1	1	1	0	1	1	1	1
+ENG: If there is a single state that satisfies the goal property, the search problems are identical.
+
+ANU: yaxi eka eka hI avasWA hE, wo jo lakRya sampawwi sanwuRta karawI hE walASa samasyAez pUrNawayA samAna hEM .
+
+0 NMT: yaxi eka hI rAjya hE jo lakRya saMpawwi ko saMwuRta karawA hE , wo Koja samasyAeM eka jEsI hEM .
+
+1 NMT: yaxi eka hI avasWA hE jo lakRya saMpawwi ko saMwuRta karawI hE , wo Koja samasyAeM eka jEsI howI hEM .
+
+2 NMT: yaxi eka hI rAjya hE ki lakRya saMpawwi ko saMwuRta karawA hE , Koja samasyAoM eka jEse hEM .
+
+3 NMT: yaxi eka hI avasWA hE jo lakRya guNa ko saMwuRta karawI hE , wo Koja samasyA eka jEsI howI hE .
+
+4 NMT: yaxi eka hI rAjya hE ki lakRya saMpawwi ko saMwuRta karawA hE , Koja samasyAoM samAna hEM .
+
+5 NMT: yaxi eka hI rAjya hE ki lakRya saMpawwi ko saMwuRta karawA hE , Koja samasyAoM eka samAna hEM .
+
+6 NMT: yaxi vahAz eka hI rAjya hE ki lakRya saMpawwi ko saMwuRta karawA hE , Koja samasyAoM samAna hEM .
+
+7 NMT: yaxi eka hI rAjya hE jo lakRya kI saMpawwi ko saMwuRta karawA hE , Koja kI samasyAeM eka jEsI hEM .
+
+yaxi_0+1+2+3+4+5+6+7 eka_0+1+2+3+4+5+7/vahAz_6 eka_6/hI_0+1+2+3+4+5+7 hI_6/rAjya_0+2+4+5+7/avasWA_1+3 hE_0+1+2+3+4+5+7/rAjya_6 hE_6/ki_2+4+5/jo_0+1+3+7 lakRya_0+1+2+3+4+5+7/ki_6 lakRya_6/saMpawwi_0+1+2+4+5/kI_7/guNa_3 ko_0+1+2+3+4+5/saMpawwi_6+7 ko_6+7/saMwuRta_0+1+2+3+4+5 saMwuRta_6+7/karawA_0+2+4+5/karawI_1+3 hE_0+1+2+3+4+5/karawA_6+7 hE_6+7/,_0+1+2+3+4+5 ,_6+7/Koja_2+4+5/wo_0+1+3 Koja_0+1+3+6+7/samasyAoM_2+4+5 eka_2+5/samasyAoM_6/samAna_4/samasyAeM_0+1/kI_7/samasyA_3 eka_0+1+3/hEM_4/samAna_5+6/samasyAeM_7/jEse_2 eka_7/._4/hEM_2+5+6/jEsI_0+1+3 ._2+5+6/hEM_0/jEsI_7/howI_1+3 hE_3/._0/hEM_1+7 ._1+3+7

@@ -1,4 +1,11 @@
-kqwrima	buxXi	buxXimawwA	kqwrima}	upakaraNa]	meM]	buxXi	{	6	ke]	dijAina]	se]	saMbaMXiwa>>	hE]	.]
-1	1	0	0	0	0	1	0	0	0	0	0	0	0	0
-1	1	0	0	0	0	1	0	0	0	0	0	0	0	0
-1	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+ENG: Artificial Intelligence is concerned with the design of intelligence in an artificial device.
+
+ANU: kqwrima buxXi kqwrima upakaraNa meM jFAna kI racanA se sambanXa huI hE .
+
+0 NMT: kqwrima buxXi kqwrima upakaraNa meM buxXi ke dijAina se saMbaMXiwa hE .
+
+1 NMT: kqwrima buxXi kA saMbaMXa kqwrima upakaraNa meM buxXi ke dijAina se hE .
+
+2 NMT: kqwrima buxXimawwA kA saMbaMXa kqwrima upakaraNa meM buxXi ke dijAina se hE .
+
+kqwrima_0+1+2 buxXi_0+1/buxXimawwA_2 kqwrima_0/kA_1+2 upakaraNa_0/saMbaMXa_1+2 kqwrima_1+2/meM_0 buxXi_0/upakaraNa_1+2 meM_1+2/ke_0 buxXi_1+2/dijAina_0 ke_1+2/se_0 dijAina_1+2/saMbaMXiwa_0 se_1+2/hE_0 hE_1+2/._0 ._1+2

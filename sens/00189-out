@@ -1,9 +1,21 @@
-bahuraMgI>>	vAwAvaraNa	bahuAXArI	pariveSa	bahujaMwI	bahuAyAmI	bahu	bahusAMskqwika	meM	-	ke	vAwAvaraNa	paryAvaraNa	anya	meM	ejeMta	ke	aBikarwA	anya	aBikarwA	BI	howe	ejeMta	anya	hEM	ejeMta	howe	.	hEM	howe
-0	1	0	0	0	0	0	0	1	0	0	1	0	1	1	1	0	0	1	0	0	1	1	1	1	1	1	1	1	1
-0	1	0	0	0	1	0	0	1	0	0	1	0	1	1	1	0	0	1	0	0	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	0	0	0	1	0	0	1	0	1	1	1	0	0	1	0	0	1	1	1	1	1	1	1	1	1
-0	1	0	0	0	0	0	1	1	0	0	1	0	1	1	1	0	0	1	0	0	1	1	1	1	1	1	1	1	1
-0	0	0	1	0	1	0	0	0	0	1	0	0	1	0	0	1	1	1	1	0	1	0	1	1	0	1	1	1	1
-0	1	0	0	0	1	0	0	1	0	0	1	0	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1
-0	0	0	0	0	0	1	0	0	1	1	0	1	1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1
-0	1	1	0	0	0	0	0	1	0	0	1	0	1	1	0	0	1	1	1	0	1	0	1	1	0	1	1	1	1
+ENG: A multi-agent environment has other agents.
+
+ANU: eka FALSE-prawiniXi vAwAvaraNa meM anya prawiniXi hEM .
+
+0 NMT: bahuraMgI vAwAvaraNa meM anya ejeMta howe hEM .
+
+1 NMT: eka bahuAyAmI vAwAvaraNa meM anya ejeMta howe hEM .
+
+2 NMT: eka bahujaMwI vAwAvaraNa meM anya ejeMta howe hEM .
+
+3 NMT: eka bahusAMskqwika vAwAvaraNa meM anya ejeMta howe hEM .
+
+4 NMT: bahuAyAmI pariveSa ke anya aBikarwA howe hEM .
+
+5 NMT: bahuAyAmI vAwAvaraNa meM anya ejeMta BI howe hEM .
+
+6 NMT: eka bahu - paryAvaraNa ke anya ejeMta howe hEM .
+
+7 NMT: eka bahuAXArI vAwAvaraNa meM anya aBikarwA howe hEM .
+
+eka_1+2+3+6+7/bahuAyAmI_4+5/bahuraMgI_0 vAwAvaraNa_0+5/bahuAXArI_7/bahu_6/bahuAyAmI_1/pariveSa_4/bahusAMskqwika_3/bahujaMwI_2 vAwAvaraNa_1+2+3+7/meM_0+5/ke_4/-_6 anya_0+4+5/meM_1+2+3+7/paryAvaraNa_6 anya_1+2+3+7/ejeMta_0+5/aBikarwA_4/ke_6 howe_0+4/anya_6/ejeMta_1+2+3/aBikarwA_7/BI_5 howe_1+2+3+5+7/hEM_0+4/ejeMta_6 howe_6/hEM_1+2+3+5+7/._0+4 hEM_6/._1+2+3+5+7 ._6

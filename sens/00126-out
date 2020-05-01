@@ -1,5 +1,13 @@
-buxXimAna	ejeMta	ejeMtoM	kArya	ke	vyavahAra	saMxarBa	Ora	meM	praxarSana	buxXimAna	kA	ejeMtoM	ke	mUlyAMkana	ejeMta	vyavahAra	samAroha	kArya	Ora	ke}	saMxarBa	kA	meM	mUlyAMkana	karanA	kiyA	hogA	jAnA	.	cAhie
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	0	1	0
-1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	0	1	0
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	0	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	1	0	1	1	1
+ENG: The behaviour and performance of intelligent agents have to be evaluated in terms of the agent function.
+
+ANU: buxXimAna prawiniXiyoM kA vyavahAra Ora praxarSana prawiniXi kArya ke anusAra mUlyAfkana karanA hI hE .
+
+0 NMT: buxXimAna ejeMtoM ke vyavahAra Ora praxarSana kA mUlyAMkana ejeMta samAroha ke saMxarBa meM karanA hogA .
+
+1 NMT: ejeMta kArya ke saMxarBa meM buxXimAna ejeMtoM ke vyavahAra Ora niRpAxana kA mUlyAMkana karanA hogA .
+
+2 NMT: buxXimAna ejeMtoM ke vyavahAra Ora praxarSana kA mUlyAMkana ejeMta samAroha ke saMxarBa meM kiyA jAnA cAhie .
+
+3 NMT: buxXimAna ejeMtoM ke vyavahAra Ora praxarSana kA mUlyAMkana ejeMta kArya ke saMxarBa meM kiyA jAnA cAhie .
+
+buxXimAna_0+2+3/ejeMta_1 ejeMtoM_0+2+3/kArya_1 ke_0+1+2+3 vyavahAra_0+2+3/saMxarBa_1 Ora_0+2+3/meM_1 buxXimAna_1/praxarSana_0+2+3 ejeMtoM_1/kA_0+2+3 ke_1/mUlyAMkana_0+2+3 vyavahAra_1/ejeMta_0+2+3 Ora_1/kArya_3/samAroha_0+2 ke_0+2+3/niRpAxana_1 saMxarBa_0+2+3/kA_1 meM_0+2+3/mUlyAMkana_1 kiyA_2+3/karanA_0+1 jAnA_2+3/hogA_0+1 ._0+1/cAhie_2+3 ._2+3

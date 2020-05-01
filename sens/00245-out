@@ -1,6 +1,15 @@
-kisI	eka	rAjya	rAjya	ke	ke	meM	kaI	aneka	kaI	uwwarAXikArI	uwwarAXikArI	rAjya	rAjya}	ho	sakawe	sakawe	hEM	hEM	.	.
-1	0	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1	1	1
-1	0	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1
-0	0	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1
-1	0	1	1	0	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1
-0	1	1	1	0	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1
+ENG: A state can have a number of successor states.
+
+ANU: rAjya meM bahuwa vArisa avasWAez hEM .
+
+0 NMT: kisI rAjya ke aneka uwwarAXikArI rAjya ho sakawe hEM .
+
+1 NMT: kisI rAjya ke kaI uwwarAXikArI rAjya ho sakawe hEM .
+
+2 NMT: rAjya ke kaI uwwarAXikArI rAjya ho sakawe hEM .
+
+3 NMT: kisI rAjya meM aneka uwwarAXikArI rAjya ho sakawe hEM .
+
+4 NMT: eka rAjya meM kaI uwwarAXikArI rAjya ho sakawe hEM .
+
+rAjya_2/kisI_0+1+3/eka_4 rAjya_0+1+3+4/ke_2 kaI_2/ke_0+1/meM_3+4 uwwarAXikArI_2/kaI_1+4/aneka_0+3 rAjya_2/uwwarAXikArI_0+1+3+4 rAjya_0+1+3+4/ho_2 ho_0+1+3+4/sakawe_2 sakawe_0+1+3+4/hEM_2 hEM_0+1+3+4/._2 ._0+1+3+4

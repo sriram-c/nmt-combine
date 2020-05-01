@@ -1,6 +1,15 @@
-ejeMta	aBikarwA	ke	pAsa	Ese	lakRya	lakRya	ho	ho	sakawe	sakawe	hEM	hEM	jise	jinheM	jo	,	vaha	jinheM	vaha	hAsila	hAsila	prApwa	vaha	karane	karane	hAsila	kI	kI	karane	kA	koSiSa	koSiSa	kI	prayAsa	karawA	karawA	koSiSa	hE	hE	karawA	.	hE	.
-1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1	1	0	0	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
+ENG: The agent can have goals which it tries to achieve.
+
+ANU: prawiniXi ke lakRya jinakA vaha hAsila karane kA prayAsa karawA hE hEM .
+
+0 NMT: ejeMta ke pAsa Ese lakRya ho sakawe hEM jinheM vaha hAsila karane kI koSiSa karawA hE .
+
+1 NMT: ejeMta ke pAsa Ese lakRya ho sakawe hEM jo vaha hAsila karane kI koSiSa karawA hE .
+
+2 NMT: ejeMta ke pAsa lakRya ho sakawe hEM jise vaha hAsila karane kI koSiSa karawA hE .
+
+3 NMT: aBikarwA ke pAsa Ese lakRya ho sakawe hEM jinheM vaha prApwa karane kA prayAsa karawA hE .
+
+4 NMT: ejeMta ke pAsa Ese lakRya ho sakawe hEM , jinheM vaha hAsila karane kI koSiSa karawA hE .
+
+ejeMta_0+1+2+4/aBikarwA_3 ke_0+1+2+3+4 pAsa_0+1+2+3+4 lakRya_2/Ese_0+1+3+4 lakRya_0+1+3+4/ho_2 ho_0+1+3+4/sakawe_2 sakawe_0+1+3+4/hEM_2 hEM_0+1+3+4/jise_2 vaha_2/jinheM_0+3/,_4/jo_1 vaha_0+1+3/hAsila_2/jinheM_4 karane_2/vaha_4/hAsila_0+1/prApwa_3 karane_0+1+3/hAsila_4/kI_2 karane_4/kI_0+1/koSiSa_2/kA_3 karawA_2/kI_4/koSiSa_0+1/prayAsa_3 karawA_0+1+3/hE_2/koSiSa_4 karawA_4/hE_0+1+3/._2 hE_4/._0+1+3 ._4

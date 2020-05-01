@@ -1,7 +1,17 @@
-eka	lakRya	nirxeSiwa	ejeMta	aBikarwA	ko	ke	kuCa	kuCa	lie	lakRyoM	lakRyoM	lakRya	kuCa	ko	ko	lakRyoM	prApwa	prApwa	ko	karane	karane	prApwa	kI	kI	jarUrawa	karane	AvaSyakawA	AvaSyakawA	kI	hE	howI	howI	jarUrawa	.	hE	hE	.	.
-1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	0	1	1	1	1	1	1
-1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	0	1	1	1	1	1
-1	1	1	0	1	1	0	1	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	0	1	1	1	1	1	1
-1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1
+ENG: A goal directed agent needs to achieve certain goals.
+
+ANU: lakRya ne paWa xiKAyA prawiniXi kuCa lakRya hAsila kara .
+
+0 NMT: eka lakRya nirxeSiwa ejeMta ko kuCa lakRyoM ko prApwa karane kI AvaSyakawA howI hE .
+
+1 NMT: eka lakRya nirxeSiwa ejeMta kuCa lakRyoM ko prApwa karane kI jarUrawa hE .
+
+2 NMT: eka lakRya nirxeSiwa ejeMta ko kuCa lakRyoM ko prApwa karane kI AvaSyakawA hE .
+
+3 NMT: eka lakRya nirxeSiwa aBikarwA ko kuCa lakRya prApwa karane kI AvaSyakawA howI hE .
+
+4 NMT: eka lakRya nirxeSiwa ejeMta ke lie kuCa lakRyoM ko prApwa karane kI jarUrawa hE .
+
+5 NMT: eka lakRya nirxeSiwa aBikarwA ko kuCa lakRyoM ko prApwa karane kI AvaSyakawA howI hE .
+
+eka_0+1+2+3+4+5 lakRya_0+1+2+3+4+5 nirxeSiwa_0+1+2+3+4+5 ejeMta_0+1+2+4/aBikarwA_3+5 ko_0+2+3+5/kuCa_1/ke_4 kuCa_0+2+3+5/lakRyoM_1/lie_4 ko_1/lakRya_3/kuCa_4/lakRyoM_0+2+5 ko_0+2+5/prApwa_1+3/lakRyoM_4 ko_4/prApwa_0+2+5/karane_1+3 prApwa_4/karane_0+2+5/kI_1+3 karane_4/kI_0+2+5/AvaSyakawA_3/jarUrawa_1 kI_4/hE_1/AvaSyakawA_0+2+5/howI_3 hE_2+3/._1/howI_0+5/jarUrawa_4 hE_0+4+5/._2+3 ._0+4+5

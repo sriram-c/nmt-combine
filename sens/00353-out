@@ -1,10 +1,23 @@
-yaxi	Koja	sWAna	eka	vqkRa	pedZa	nahIM	hE	,	lekina	balki	eka}	grAPa	,}	Koja}	vqkRa	wo	Koja	pedZa	eka}	eka	hI	vqkRa	nodsa	rAjya	hI	eka	sWiwi	viBinna	hI	sWiwi	ke	nodsa	eka	anurUpa	ke	sWiwi	viBinna	ke	anurUpa	hI	anurUpa	sWiwi	viBinna	nodsa	ho	ke	nodsa	ho	anurUpa	sakawA	hE}	hE	.	sakawA
-1	1	1	1	1	0	1	1	1	1	0	0	1	0	0	1	0	1	0	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1
-1	1	1	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	1	0	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1
-1	1	1	1	1	0	1	1	1	1	0	0	1	0	0	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
-1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
-1	1	1	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
-1	1	1	1	1	0	1	1	1	1	0	0	1	0	0	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
-1	1	1	1	0	1	1	1	1	1	0	0	1	0	0	0	0	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
-1	1	1	1	1	0	1	1	1	1	0	0	1	0	0	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
-1	1	1	1	1	0	1	1	1	0	1	0	1	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
+ENG: If the search space is not a tree, but a graph, the search tree may contain different nodes corresponding to the same state.
+
+ANU: yaxi Koja sWala peda, paranwu grAPa nahIM hE, wo Koja waru meM samAna avasWA alaga alaga gAzTa jo samawulya ho hEM .
+
+0 NMT: yaxi Koja sWAna eka vqkRa nahIM hE , lekina eka grAPa , Koja vqkRa eka hI rAjya ke anurUpa viBinna nodsa ho sakawA hE .
+
+1 NMT: yaxi Koja sWAna eka pedZa nahIM hE , lekina eka grAPa , Koja pedZa eka hI rAjya ke anurUpa viBinna nodsa ho sakawA hE .
+
+2 NMT: yaxi Koja sWAna eka vqkRa nahIM hE , lekina eka grAPa , Koja vqkRa eka hI sWiwi ke anurUpa viBinna nodsa ho sakawA hE .
+
+3 NMT: yaxi Koja sWAna eka pedZa nahIM hE , lekina eka grAPa hE , Koja vqkRa eka hI sWiwi ke anurUpa viBinna nodsa ho sakawA hE .
+
+4 NMT: yaxi Koja sWAna eka pedZa nahIM hE , lekina eka grAPa hE , Koja pedZa eka hI sWiwi ke anurUpa viBinna nodsa ho sakawA hE .
+
+5 NMT: yaxi Koja sWAna eka vqkRa nahIM hE , lekina eka grAPa hE , Koja vqkRa eka hI sWiwi ke anurUpa viBinna nodsa ho sakawA hE .
+
+6 NMT: yaxi Koja sWAna eka pedZa nahIM hE , lekina eka grAPa , Koja pedZa eka hI sWiwi ke anurUpa viBinna nodsa ho sakawA hE .
+
+7 NMT: yaxi Koja sWAna eka vqkRa nahIM hE , lekina eka grAPa , Koja vqkRa viBinna nodsa eka hI sWiwi ke anurUpa ho sakawA hE .
+
+8 NMT: yaxi Koja sWAna eka vqkRa nahIM hE , balki eka grAPa hE , wo Koja vqkRa viBinna nodsa eka hI sWiwi ke anurUpa ho sakawA hE .
+
+yaxi_0+1+2+3+4+5+6+7+8 Koja_0+1+2+3+4+5+6+7+8 sWAna_0+1+2+3+4+5+6+7+8 eka_0+1+2+3+4+5+6+7+8 vqkRa_0+2+5+7+8 nahIM_0+1+2+3+4+5+6+7+8 hE_0+1+2+3+4+5+6+7+8 ,_0+1+2+3+4+5+6+7+8 lekina_0+1+2+3+4+5+6+7/balki_8 eka_0+1+2+3+4+5+6+7+8 grAPa_0+1+2+3+4+5+6+7+8 hE_3+4+5+8/,_0+1+2+6+7 ,_3+4+5+8/Koja_0+1+2+6+7 Koja_3+4+5/vqkRa_0+2+7/wo_8 eka_0+1+2+6/Koja_8/vqkRa_3+5/viBinna_7 eka_3+4+5/vqkRa_8/nodsa_7/hI_0+1+2+6 eka_7/viBinna_8/hI_3+4+5/sWiwi_2+6/rAjya_0+1 nodsa_8/ke_0+1+2+6/hI_7/sWiwi_3+4+5 eka_8/ke_3+4+5/anurUpa_0+1+2+6/sWiwi_7 viBinna_0+1+2+6/ke_7/anurUpa_3+4+5/hI_8 viBinna_3+4+5/nodsa_0+1+2+6/anurUpa_7/sWiwi_8 ho_0+1+2+6+7/nodsa_3+4+5/ke_8 ho_3+4+5/sakawA_0+1+2+6+7/anurUpa_8 hE_0+1+2+6+7/ho_8/sakawA_3+4+5 hE_3+4+5/sakawA_8/._0+1+2+6+7 hE_8/._3+4+5 ._8

@@ -1,5 +1,13 @@
-robota	robotsa	ejeMta	howe	hEM	hEM	.	.
-1	0	1	1	1	1	1	1
-0	1	1	0	1	1	1	1
-0	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	1
+ENG: Robots are agents.
+
+ANU: yanwravawa kAma karanevAle prawiniXi hEM .
+
+0 NMT: robota ejeMta howe hEM .
+
+1 NMT: robotsa ejeMta hEM .
+
+2 NMT: robotsa ejeMta howe hEM .
+
+3 NMT: robota ejeMta hEM .
+
+robotsa_1+2/robota_0+3 ejeMta_0+1+2+3 hEM_1+3/howe_0+2 hEM_0+2/._1+3 ._0+2

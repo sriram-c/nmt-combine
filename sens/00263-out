@@ -1,6 +1,15 @@
-eka	lakRya	rAjya	avasWA	pAyA>>	gayA	gaI	hE	hE	.	.
-1	1	1	0	0	1	0	1	1	1	1
-1	1	0	1	0	0	0	1	1	1	1
-1	1	0	1	0	0	1	1	1	1	1
-1	1	1	0	0	1	0	1	1	1	1
-1	1	0	1	0	0	1	1	1	1	1
+ENG: A goal state has been found.
+
+ANU: eka lakRya rAjya milA gayA hE .
+
+0 NMT: eka lakRya rAjya pAyA gayA hE .
+
+1 NMT: eka lakRya avasWA milI hE .
+
+2 NMT: eka lakRya avasWA pAI gaI hE .
+
+3 NMT: eka lakRya rAjya mila gayA hE .
+
+4 NMT: eka lakRya avasWA mila gaI hE .
+
+eka_0+1+2+3+4 lakRya_0+1+2+3+4 avasWA_1+2+4/rAjya_0+3 mila_3+4/pAI_2/milI_1/pAyA_0 hE_1/gaI_2+4/gayA_0+3 hE_0+2+3+4/._1 ._0+2+3+4

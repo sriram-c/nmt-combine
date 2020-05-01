@@ -1,6 +1,15 @@
-yaha	carcA	hameM	isa	savAla	praSna	para	vApasa	lAwI	le	hE	AwI	ki	hE	buxXimAna	ki	vyavahAra	buxXimAna	buxXimawwApUrNa	vyavahAra	kyA	howA	kyA	hE	hE}	hE	.
-1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1
-1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1
-1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1
-1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1
-1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1
+ENG: This discussion brings us back to the question of what constitutes intelligent behaviour.
+
+ANU: yaha carcA kA praSna hameM smaraNa xilAwI hE buxXimAna vyavahAra kyA banAwA hE .
+
+0 NMT: yaha carcA hameM isa savAla para vApasa lAwI hE ki buxXimAna vyavahAra kyA howA hE .
+
+1 NMT: yaha carcA hameM isa praSna para vApasa lAwI hE ki buxXimAna vyavahAra kyA howA hE .
+
+2 NMT: yaha carcA hameM isa savAla para vApasa lAwI hE ki buxXimAna vyavahAra kyA hE .
+
+3 NMT: yaha carcA hameM isa praSna para vApasa le AwI hE ki buxXimAna vyavahAra kyA howA hE .
+
+4 NMT: yaha carcA hameM isa praSna para vApasa le AwI hE ki buxXimawwApUrNa vyavahAra kyA howA hE .
+
+yaha_0+1+2+3+4 carcA_0+1+2+3+4 hameM_0+1+2+3+4 isa_0+1+2+3+4 praSna_1+3+4/savAla_0+2 para_0+1+2+3+4 vApasa_0+1+2+3+4 lAwI_0+1+2/le_3+4 hE_0+1+2/AwI_3+4 hE_3+4/ki_0+1+2 ki_3+4/buxXimAna_0+1+2 vyavahAra_0+1+2/buxXimAna_3/buxXimawwApUrNa_4 vyavahAra_3+4/kyA_0+1+2 hE_2/kyA_3+4/howA_0+1 hE_0+1/._2/howA_3+4 hE_3+4/._0+1 ._3+4

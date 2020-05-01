@@ -1,5 +1,13 @@
-yaha	suniSciwa	karawA	hE	ki	jaba	eka	noda	viswAra	ko	kA	cayana	ke	viswAra	viswAra	lie	ke	cunA	lie	ke	jAwA	lie	cunA	hE}	yaha}	opIena>>	meM	yaha	wo	opena	yaha	nodsa	ke}	meM	nodsa	bIca	sabase	ke	nodsa	bIca	saswI	ke	lAgawa	bIca	sabase	ke}	sAWa	lAgawa	saswI	eka}	noda}	hE}	eka	.	noda
-1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	1
-1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	1
-1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	1
-1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	1
+ENG: This ensures that when a node is selected for expansion it is a node with the cheapest cost among the nodes in OPEN.
+
+ANU: yaha suniSciwa karawA hE jaba gAzTa prasAra ke lie cunI gayI hE ki yaha ovpana meM gAzTa meM sabase aXika saswI kImawa vAlA gAzTa hE .
+
+0 NMT: yaha suniSciwa karawA hE ki jaba eka noda viswAra ke lie cunA jAwA hE yaha opIena meM nodsa ke bIca sabase saswI lAgawa ke sAWa eka noda hE .
+
+1 NMT: yaha suniSciwa karawA hE ki jaba eka noda viswAra ke lie cunA jAwA hE yaha opena meM nodsa ke bIca sabase saswI lAgawa ke sAWa eka noda hE .
+
+2 NMT: yaha suniSciwa karawA hE ki jaba eka noda ko viswAra ke lie cunA jAwA hE wo yaha opena meM nodsa ke bIca sabase saswI lAgawa ke sAWa eka noda hE .
+
+3 NMT: yaha suniSciwa karawA hE ki jaba eka noda kA cayana viswAra ke lie kiyA jAwA hE wo yaha opena meM nodsa ke bIca sabase saswI lAgawa ke sAWa eka noda hE .
+
+yaha_0+1+2+3 suniSciwa_0+1+2+3 karawA_0+1+2+3 hE_0+1+2+3 ki_0+1+2+3 jaba_0+1+2+3 eka_0+1+2+3 noda_0+1+2+3 viswAra_0+1/kA_3/ko_2 ke_0+1/viswAra_2/cayana_3 ke_2/viswAra_3/lie_0+1 ke_3/lie_2/cunA_0+1 lie_3/jAwA_0+1/cunA_2 hE_0+1/jAwA_2/kiyA_3 hE_2/yaha_0+1/jAwA_3 hE_3/opena_1/wo_2/opIena_0 yaha_2/meM_0+1/wo_3 yaha_3/nodsa_0+1/opena_2 ke_0+1/meM_2/opena_3 meM_3/nodsa_2/bIca_0+1 ke_2/nodsa_3/sabase_0+1 ke_3/bIca_2/saswI_0+1 bIca_3/sabase_2/lAgawa_0+1 ke_0+1/sabase_3/saswI_2 saswI_3/lAgawa_2/sAWa_0+1 ke_2/eka_0+1/lAgawa_3 ke_3/noda_0+1/sAWa_2 hE_0+1/eka_2/sAWa_3 eka_3/noda_2/._0+1 hE_2/noda_3 hE_3/._2 ._3

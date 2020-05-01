@@ -1,3 +1,9 @@
-lakRya	AXAriwa	aBikarwA	kA	koI>>	lakRya}	howA	hE	jo	usake	kAryoM	kA}	AXAra	banawA	hE}	.
-1	1	1	1	0	0	1	1	1	1	1	0	1	1	0	1
-1	1	1	1	0	0	1	1	1	1	1	0	1	1	0	1
+ENG: The goal based agent has some goal which forms a basis of its actions.
+
+ANU: prawiniXi AXAriwa lakRya meM kuCa lakRya jo usakA karmoM kA eka AXAra banAwA hE hE .
+
+0 NMT: lakRya AXAriwa aBikarwA kA koI lakRya howA hE jo usake kAryoM kA AXAra banawA hE .
+
+1 NMT: lakRya AXAriwa aBikarwA kA kuCa lakRya howA hE jo usake kAryoM kA AXAra banawA hE .
+
+lakRya_0+1 AXAriwa_0+1 aBikarwA_0+1 kA_0+1 kuCa_1/koI_0 lakRya_0+1 howA_0+1 hE_0+1 jo_0+1 usake_0+1 kAryoM_0+1 kA_0+1 AXAra_0+1 banawA_0+1 hE_0+1 ._0+1

@@ -1,6 +1,15 @@
-uccawara	ucca	paraweM	nicalI	nimna	parawoM	ko	ovararAida	aXirohiwa	kara	sakawI	hEM	.
-1	0	1	1	0	1	1	1	0	1	1	1	1
-1	0	1	0	1	1	1	1	0	1	1	1	1
-0	1	1	0	1	1	1	1	0	1	1	1	1
-1	0	1	0	1	1	1	0	1	1	1	1	1
-0	1	1	1	0	1	1	1	0	1	1	1	1
+ENG: The higher layers can override lower layers.
+
+ANU: uwanA aXika UzcI paraweM aXika kama paraweM niraswa kara xe sakawIM hEM .
+
+0 NMT: uccawara paraweM nicalI parawoM ko ovararAida kara sakawI hEM .
+
+1 NMT: uccawara paraweM nimna parawoM ko ovararAida kara sakawI hEM .
+
+2 NMT: ucca paraweM nimna parawoM ko ovararAida kara sakawI hEM .
+
+3 NMT: uccawara paraweM nimna parawoM ko aXirohiwa kara sakawI hEM .
+
+4 NMT: ucca paraweM nicalI parawoM ko ovararAida kara sakawI hEM .
+
+uccawara_0+1+3/ucca_2+4 paraweM_0+1+2+3+4 nimna_1+2+3/nicalI_0+4 parawoM_0+1+2+3+4 ko_0+1+2+3+4 ovararAida_0+1+2+4/aXirohiwa_3 kara_0+1+2+3+4 sakawI_0+1+2+3+4 hEM_0+1+2+3+4 ._0+1+2+3+4

@@ -1,5 +1,13 @@
-mAnA	yaha	mAna	mAna	lIjie	ki	cApa	ki	leM	cApa	xvixiSa	ki	hEM	hE	xvixiSa	cApa	hEM	.	xvixiSa
-1	0	0	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1
-0	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-0	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1
-1	0	0	0	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1
+ENG: Assume that the arcs are bidirectional.
+
+ANU: mAnie ki vqwwAMSa bidirectional hEM .
+
+0 NMT: mAnA ki cApa xvixiSa hEM .
+
+1 NMT: yaha mAna leM ki cApa xvixiSa hEM .
+
+2 NMT: mAna lIjie ki cApa xvixiSa hEM .
+
+3 NMT: mAnA ki cApa xvixiSa hE .
+
+mAnA_0+3/mAna_2/yaha_1 ki_0+3/mAna_1/lIjie_2 ki_2/cApa_0+3/leM_1 ki_1/cApa_2/xvixiSa_0+3 cApa_1/xvixiSa_2/hEM_0/hE_3 xvixiSa_1/._0+3/hEM_2 ._2/hEM_1 ._1

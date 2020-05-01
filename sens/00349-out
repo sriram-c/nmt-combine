@@ -1,7 +1,17 @@
-elgorixama	elgoriWma	elgoriWama	baMxa	waba	ho	baMxa	jAwA	ho	jAwA	hE	hE	jaba	sImA	jaba	prawicCexa	sImAez	intersect	sImA	eka	.	prawicCexa	kAtanA	xUsare
-1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	0	0
-0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	0	0
-1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	0	0
-1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	0
-0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	0	0	1	0	1	0
-1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	0	1	1
+ENG: The algorithm stops when the frontiers intersect.
+
+ANU: praNAlI rukawI hE jaba sImAnwa paraspara kAtawe hEM .
+
+0 NMT: elgorixama baMxa ho jAwA hE jaba sImA prawicCexa .
+
+1 NMT: elgoriWma baMxa ho jAwA hE jaba sImA prawicCexa .
+
+2 NMT: elgorixama waba baMxa ho jAwA hE jaba sImA prawicCexa .
+
+3 NMT: elgorixama baMxa ho jAwA hE jaba sImA intersect .
+
+4 NMT: elgoriWama waba baMxa ho jAwA hE jaba sImAez kAtanA baMxa kara xewI hEM .
+
+5 NMT: elgorixama baMxa ho jAwA hE jaba sImA eka xUsare ko kAtanA .
+
+elgorixama_0+2+3+5/elgoriWama_4/elgoriWma_1 baMxa_0+1+3+5/waba_2+4 baMxa_2+4/ho_0+1+3+5 ho_2+4/jAwA_0+1+3+5 jAwA_2+4/hE_0+1+3+5 hE_2+4/jaba_0+1+3+5 jaba_2+4/sImA_0+1+3+5 sImA_2/prawicCexa_0+1/eka_5/sImAez_4/intersect_3 ._0+1+3/prawicCexa_2/kAtanA_4/xUsare_5 baMxa_4/._2/ko_5 kAtanA_5/kara_4 ._5/xewI_4 hEM_4 ._4

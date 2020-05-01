@@ -1,5 +1,13 @@
-eka	prawyeka	AXA	Koja	AXe	elgoriWma	ke	prawyeka	lie	AXe	AXA	eka	ke	Koja	lie	elgoriWma	cunA	kA	jAnA	cayana	hE	kiyA	.	jAnA
-1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	0	1	1
-1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	0	1	0	1	0	1	1
-1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1
+ENG: A search algorithm has to be selected for each half.
+
+ANU: eka walASa praNAlI hara eka arXAMSa cunanI hI hE .
+
+0 NMT: eka Koja elgoriWma prawyeka AXe ke lie cunA jAnA hE .
+
+1 NMT: prawyeka AXe ke lie eka Koja elgoriWma kA cayana kiyA jAnA hE .
+
+2 NMT: eka Koja elgoriWma prawyeka AXA ke lie cunA jAnA hE .
+
+3 NMT: prawyeka AXA ke lie eka Koja elgoriWma kA cayana kiyA jAnA hE .
+
+eka_0+2/prawyeka_1+3 Koja_0+2/AXA_3/AXe_1 elgoriWma_0+2/ke_1+3 lie_1+3/prawyeka_0+2 eka_1+3/AXA_2/AXe_0 Koja_1+3/ke_0+2 elgoriWma_1+3/lie_0+2 kA_1+3/cunA_0+2 jAnA_0+2/cayana_1+3 hE_0+2/kiyA_1+3 jAnA_1+3/._0+2 hE_1+3 ._1+3

@@ -1,9 +1,21 @@
-eka	15	15	-	-	kaNa	pahelI	apajala	apajala	pahelI	samasyA	samasyA	para	para	kArya	kAma	kAma	karane	kara	kara	vAle	rahe	rahe	ejeMta	ejeMta	kA	kA	lakRya	lakRya	eka	eka}	vinyAsa	waka	waka	pahuMcanA	pahuzcane	pahuzcane	ho	ke	ke	lie	sakawA	lie	hE	ho	ho	jo	sakawA	sakawA	isa	hE	hE	Sarwa	jo	jo	isa	ko	isa	pUrA	saMwuRta	Sarwa	Sarwa	karawA	ko	ko	hE	saMwuRta	saMwuRta	ki	karawA	karawA	hE	SIrRa	hE}	ki	SIrRa	meM	SIrRa	tAila	paMkwi	paMkwi	meM	1	meM	tAila	,	tAila	1	2	1	,	Ora	,	2	3	2	hE	hEM	Ora	Ora	.	3	3	hE
-1	1	1	1	1	0	0	1	1	0	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1
-1	1	1	1	1	0	0	1	1	0	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	1	1	1	1	0	0	1	1	0	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	0	0	1	0	0	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	1	1	1	1	1	0	0	0	0	1	1	1	1	0	1	1	1	0	0	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	0	0	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	1	1	1	1	0	1	0	0	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	1	1	1	1	0	1	0	0	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
+ENG: The goal of an agent working on a 15-puzzle problem may be to reach a configuration which satisfies the condition that the top row has the tiles 1, 2 and 3.
+
+ANU: eka FALSE-samasyA samasyA para kAma karawe hue eka prawiniXi kA lakRya 1, 2 Ora 3 samAkqwi ko pahuzcAne ke lie ho sakawA hE jo sWiwi pUrI karawA hE jo Upara vAlI pafkwi ke KaparEla hEM .
+
+0 NMT: eka 15 - apajala samasyA para kAma kara rahe ejeMta kA lakRya eka vinyAsa waka pahuzcane ke lie ho sakawA hE jo isa Sarwa ko saMwuRta karawA hE ki SIrRa paMkwi meM tAila 1 , 2 Ora 3
+
+1 NMT: eka 15 - apajala samasyA para kAma kara rahe ejeMta kA lakRya eka vinyAsa waka pahuzcane ke lie ho sakawA hE jo isa Sarwa ko saMwuRta karawA hE ki SIrRa paMkwi meM tAila 1 , 2 Ora 3 hE .
+
+2 NMT: 15 - apajala samasyA para kAma kara rahe ejeMta kA lakRya eka vinyAsa waka pahuMcanA ho sakawA hE jo isa Sarwa ko saMwuRta karawA hE ki SIrRa paMkwi meM tAila 1 , 2 Ora 3 hE .
+
+3 NMT: 15 - apajala samasyA para kArya karane vAle ejeMta kA lakRya eka vinyAsa waka pahuMcanA ho sakawA hE jo isa Sarwa ko saMwuRta karawA hE ki SIrRa paMkwi meM tAila 1 , 2 Ora 3 hE .
+
+4 NMT: 15 - kaNa samasyA para kAma karane vAle ejeMta kA lakRya eka vinyAsa waka pahuMcanA ho sakawA hE jo isa Sarwa ko pUrA karawA hE ki SIrRa paMkwi meM tAila 1 , 2 Ora 3 hEM .
+
+5 NMT: eka 15 - pahelI samasyA para kAma kara rahe ejeMta kA lakRya eka vinyAsa waka pahuzcane ke lie ho sakawA hE jo isa Sarwa ko saMwuRta karawA hE ki SIrRa paMkwi meM tAila 1 , 2 Ora 3 hE .
+
+6 NMT: 15 - pahelI samasyA para kAma kara rahe ejeMta kA lakRya eka vinyAsa waka pahuzcane ke lie ho sakawA hE jo isa Sarwa ko saMwuRta karawA hE ki SIrRa paMkwi meM tAila 1 , 2 Ora 3 hE .
+
+7 NMT: eka 15 - pahelI samasyA para kAma kara rahe ejeMta kA lakRya eka vinyAsa waka pahuzcane ke lie ho sakawA hE jo isa Sarwa ko saMwuRta karawA hE ki SIrRa paMkwi tAila 1 , 2 Ora 3 hE .
+
+eka_0+1+5+7/15_2+3+4+6 15_0+1+5+7/-_2+3+4+6 -_0+1+5+7/apajala_2+3/pahelI_6/kaNa_4 samasyA_2+3+4+6/apajala_0+1/pahelI_5+7 samasyA_0+1+5+7/para_2+3+4+6 para_0+1+5+7/kAma_2+4+6/kArya_3 kAma_0+1+5+7/kara_2+6/karane_3+4 kara_0+1+5+7/rahe_2+6/vAle_3+4 ejeMta_2+3+4+6/rahe_0+1+5+7 ejeMta_0+1+5+7/kA_2+3+4+6 kA_0+1+5+7/lakRya_2+3+4+6 eka_2+3+4+6/lakRya_0+1+5+7 eka_0+1+5+7/vinyAsa_2+3+4+6 vinyAsa_0+1+5+7/waka_2+3+4+6 waka_0+1+5+7/pahuzcane_6/pahuMcanA_2+3+4 ho_2+3+4/pahuzcane_0+1+5+7/ke_6 sakawA_2+3+4/ke_0+1+5+7/lie_6 hE_2+3+4/ho_6/lie_0+1+5+7 ho_0+1+5+7/sakawA_6/jo_2+3+4 hE_6/sakawA_0+1+5+7/isa_2+3+4 hE_0+1+5+7/jo_6/Sarwa_2+3+4 jo_0+1+5+7/isa_6/ko_2+3+4 isa_0+1+5+7/Sarwa_6/saMwuRta_2+3/pUrA_4 Sarwa_0+1+5+7/ko_6/karawA_2+3+4 hE_2+3+4/ko_0+1+5+7/saMwuRta_6 karawA_6/ki_2+3+4/saMwuRta_0+1+5+7 hE_6/karawA_0+1+5+7/SIrRa_2+3+4 hE_0+1+5+7/ki_6/paMkwi_2+3+4 ki_0+1+5+7/SIrRa_6/meM_2+3+4 tAila_2+3+4/SIrRa_0+1+5+7/paMkwi_6 1_2+3+4/paMkwi_0+1+5+7/meM_6 tAila_6+7/,_2+3+4/meM_0+1+5 tAila_0+1+5/1_6+7/2_2+3+4 1_0+1+5/,_6+7/Ora_2+3+4 ,_0+1+5/2_6+7/3_2+3+4 hE_2+3/2_0+1+5/Ora_6+7/hEM_4 Ora_0+1+5/3_6+7/._2+3+4 hE_6+7/3_0+1+5 hE_1+5/._6+7 ._1+5

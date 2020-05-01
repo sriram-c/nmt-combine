@@ -1,9 +1,21 @@
-telo>>	kAMse	kAMsya	se>>	banA	banAI	banI	jAwI	WI	WA	Ora	WI	Ora	usakA	karwavya	kAma	usakA	krIta	krAita	kAma	ke	krita	watoM	ke	samuxra	para	samuxra	watoM	gaSwa	watoM	kI	para	para	karanA	gaSwa	WA	gaSwa	karanA	WA	karanA	.
-0	1	0	0	1	0	0	0	0	1	1	0	1	1	1	0	1	1	0	0	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	0	0	0	0	1	1	0	1	1	1	0	1	1	0	0	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	0	0	0	0	1	1	0	1	1	1	0	1	0	1	0	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	0	1	0	1	0	0	0	0	1	1	0	1	1	1	0	1	1	0	0	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	0	0	1	0	1	1	1	1	1	1	1	0	1	0	1	0	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	0	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1
-0	1	0	0	0	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	0	1	0	1	1	1	1	1	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Talos was made of bronze and his duty was to patrol the beaches of Crete.
+
+ANU: wAlos kAzse se banAyA gayA WA Ora usakA karwwavya krIta ke samuxrawata paharA xene ke lie WA .
+
+0 NMT: telo kAMse se banA WA Ora usakA karwavya krIta ke watoM para gaSwa karanA WA .
+
+1 NMT: telasa kAMse kA banA WA Ora usakA karwavya krIta ke watoM para gaSwa karanA WA .
+
+2 NMT: telasa kAMse kA banA WA Ora usakA karwavya krAita ke watoM para gaSwa karanA WA .
+
+3 NMT: telasa kAMsya kA banA WA Ora usakA karwavya krIta ke watoM para gaSwa karanA WA .
+
+4 NMT: waharIra kAMse kI banI WI Ora usakA karwavya krAita ke watoM para gaSwa karanA WA .
+
+5 NMT: kalama kAMse kI banI WI Ora usakA kAma krAita ke samuxra watoM kI gaSwa karanA WA .
+
+6 NMT: SarAba kAMse kI banI WI Ora usakA kAma krAita ke samuxra watoM para gaSwa karanA WA .
+
+7 NMT: SarAba kAMse kI banAI jAwI WI Ora usakA kAma krita ke samuxra watoM para gaSwa karanA howA WA .
+
+SarAba_6+7/kalama_5/waharIra_4/telasa_1+2+3/telo_0 kAMse_0+1+2+4+5+6+7/kAMsya_3 kI_4+5+6+7/kA_1+2+3/se_0 banA_0+1+2+3/banI_4+5+6/banAI_7 WA_0+1+2+3/WI_4+5+6/jAwI_7 Ora_0+1+2+3+4+5+6/WI_7 Ora_7/usakA_0+1+2+3+4+5+6 usakA_7/karwavya_0+1+2+3+4/kAma_5+6 krAita_2+4+5+6/kAma_7/krIta_0+1+3 ke_0+1+2+3+4+5+6/krita_7 watoM_0+1+2+3+4/ke_7/samuxra_5+6 watoM_5+6/para_0+1+2+3+4/samuxra_7 gaSwa_0+1+2+3+4/watoM_7/para_6/kI_5 gaSwa_5+6/karanA_0+1+2+3+4/para_7 WA_0+1+2+3+4/gaSwa_7/karanA_5+6 WA_5+6/._0+1+2+3+4/karanA_7 ._5+6/howA_7 WA_7 ._7

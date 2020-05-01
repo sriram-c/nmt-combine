@@ -1,9 +1,21 @@
-pahale	dIpWa	gaharAI	Koja	praWama	Parsta	kI	Koja	sarca	BinnawA>>	uparokwa	baxXa	eka	ko	samasyA	bAMXa	raKawe	rUpa	parivarwana	bAMXakara	ko	hue	uparokwa	uparyukwa	kara	gaharAI	samasyA	uparyukwa	uparokwa	se	samasyA	ko	bAMXakara	se	parivarjana	gaharAI	hala	karawA	paricCinna	se	bacAwA	karawI	bAMXakara	bAMXe	hE	raKane	hE	hala	.	ke	.	karawA
-1	0	1	1	0	0	1	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	0	1	0	1	1	1	0	1	0
-0	1	1	0	0	1	0	0	1	0	1	0	1	1	1	0	0	0	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	1	0	1	1	1	0	1	1
-0	1	1	0	0	1	0	0	1	0	1	0	1	1	1	0	0	1	0	1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	1	0	1	1	1	0	1	1
-1	0	1	1	0	0	1	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	0	1	0	1	1	1	0	1	0
-0	0	1	1	1	0	0	1	0	0	0	0	1	1	1	0	0	0	1	0	1	0	0	1	0	1	1	1	0	1	1	1	0	1	0	1	0	1	0	1	0	0	0	1	1	1	1	0	1	1	1	1
-0	0	1	1	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	1	0	0	1	0	1	0	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0
-0	0	1	1	1	0	0	1	0	0	1	0	0	1	1	0	0	0	0	1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	0	0	1	0	1	0	1	0	1	0	1	1
-0	0	1	1	1	0	0	1	0	0	1	0	0	1	1	1	0	0	0	0	1	0	1	0	1	1	1	0	1	1	1	1	0	1	0	1	0	0	0	1	1	0	0	0	1	0	1	0	1	0	1	0
+ENG: A variation of Depth First Search circumvents the above problem by keeping a depth bound.
+
+ANU: gamBIra praWama anveRaNa kA eka parivarwana gaharAI ko bazXA huA raKane ke xvArA Upara vAlI samasyA gawiroXa pExA karawA hE .
+
+0 NMT: pahale Koja kI BinnawA uparokwa samasyA ko gaharAI se bAMXakara hala karawI hE .
+
+1 NMT: dIpWa Parsta sarca kA eka parivarwana uparokwa samasyA ko gaharAI se bAMXakara hala karawA hE .
+
+2 NMT: dIpWa Parsta sarca kA eka rUpa uparokwa samasyA ko gaharAI se bAMXakara hala karawA hE .
+
+3 NMT: pahale Koja kI viBinnawA uparokwa samasyA ko gaharAI se bAMXakara hala karawI hE .
+
+4 NMT: gaharAI praWama Koja kA eka parivarwana uparyukwa samasyA ko gaharAI se bAMXe raKane ke xvArA pariSuxXa karawA hE .
+
+5 NMT: gaharAI praWama Koja gaharAI baxXa raKawe hue uparyukwa samasyA se paricCinna hE .
+
+6 NMT: gaharAI praWama Koja gaharAI ko bAMXakara uparokwa samasyA se parivarjana karawA hE .
+
+7 NMT: gaharAI praWama Koja gaharAI ko bAMXa kara uparokwa samasyA se bacAwA hE .
+
+gaharAI_4+5+6+7/pahale_0+3/dIpWa_1+2 Koja_0+3/praWama_4+5+6+7/Parsta_1+2 Koja_4+5+6+7/kI_0+3/sarca_1+2 gaharAI_5+6+7/kA_1+2+4/viBinnawA_3/BinnawA_0 ko_6+7/uparokwa_0+3/baxXa_5/eka_1+2+4 samasyA_0+3/bAMXakara_6/bAMXa_7/raKawe_5/parivarwana_1+4/rUpa_2 ko_0+3/uparokwa_1+2+6/uparyukwa_4/kara_7/hue_5 gaharAI_0+3/samasyA_1+2+4+6/uparokwa_7/uparyukwa_5 se_0+3+6/samasyA_5+7/ko_1+2+4 gaharAI_1+2+4/se_5+7/bAMXakara_0+3/parivarjana_6 se_1+2+4/karawA_6/hala_0+3/bacAwA_7/paricCinna_5 hE_5+6+7/bAMXakara_1+2/karawI_0+3/bAMXe_4 hE_0+3/._5+6+7/hala_1+2/raKane_4 ._0+3/karawA_1+2/ke_4 hE_1+2/xvArA_4 ._1+2/pariSuxXa_4 karawA_4 hE_4 ._4

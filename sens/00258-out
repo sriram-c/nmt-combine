@@ -1,4 +1,11 @@
-kisI	eka	yojanA	kI	lAgawa	ko	paWa	paWa	lAgawa	mArga	lAgawa}	kahA	rUpa	jAwA	meM	hE	saMxarBiwa	kiyA	.
-1	0	1	1	1	1	1	1	1	0	0	1	0	1	0	1	0	0	1
-1	0	1	1	1	1	0	0	1	1	0	1	0	1	0	1	0	0	1
-0	1	1	1	1	0	1	1	1	0	0	0	1	1	1	1	1	1	1
+ENG: The cost of a plan is referred to as the path cost.
+
+ANU: yojanA kI kImawa paWa kImawa ke jEsA sanxarBa xI huI hE .
+
+0 NMT: kisI yojanA kI lAgawa ko paWa lAgawa kahA jAwA hE .
+
+1 NMT: kisI yojanA kI lAgawa ko mArga lAgawa kahA jAwA hE .
+
+2 NMT: eka yojanA kI lAgawa paWa lAgawa ke rUpa meM saMxarBiwa kiyA jAwA hE .
+
+kisI_0+1/eka_2 yojanA_0+1+2 kI_0+1+2 lAgawa_0+1+2 ko_0+1/paWa_2 lAgawa_2/paWa_0/mArga_1 lAgawa_0+1/ke_2 kahA_0+1/rUpa_2 jAwA_0+1/meM_2 hE_0+1/saMxarBiwa_2 ._0+1/kiyA_2 jAwA_2 hE_2 ._2

@@ -1,0 +1,4500 @@
+['kyA']
+['hama']
+['waMwra']
+['kI']
+['vicAra']
+['prakriyA']
+['yA']
+['warka']
+['kRamawA']
+['ko']
+['xeKa']
+['rahe']
+['hEM']
+['?']
+['kyA', 'hama']
+['hama', 'waMwra']
+['waMwra', 'kI']
+['kI', 'vicAra']
+['vicAra', 'prakriyA']
+['prakriyA', 'yA']
+['yA', 'warka']
+['warka', 'kRamawA']
+['kRamawA', 'ko']
+['ko', 'xeKa']
+['xeKa', 'rahe']
+['rahe', 'hEM']
+['hEM', '?']
+['kyA', 'hama', 'waMwra']
+['hama', 'waMwra', 'kI']
+['waMwra', 'kI', 'vicAra']
+['kI', 'vicAra', 'prakriyA']
+['vicAra', 'prakriyA', 'yA']
+['prakriyA', 'yA', 'warka']
+['yA', 'warka', 'kRamawA']
+['warka', 'kRamawA', 'ko']
+['kRamawA', 'ko', 'xeKa']
+['ko', 'xeKa', 'rahe']
+['xeKa', 'rahe', 'hEM']
+['rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI']
+['hama', 'waMwra', 'kI', 'vicAra']
+['waMwra', 'kI', 'vicAra', 'prakriyA']
+['kI', 'vicAra', 'prakriyA', 'yA']
+['vicAra', 'prakriyA', 'yA', 'warka']
+['prakriyA', 'yA', 'warka', 'kRamawA']
+['yA', 'warka', 'kRamawA', 'ko']
+['warka', 'kRamawA', 'ko', 'xeKa']
+['kRamawA', 'ko', 'xeKa', 'rahe']
+['ko', 'xeKa', 'rahe', 'hEM']
+['xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra']
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA']
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA']
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA']
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA']
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA']
+['hama']
+['sistama']
+['kI']
+['vicAra']
+['prakriyA']
+['yA']
+['warka']
+['kRamawA']
+['ko']
+['xeKa']
+['rahe']
+['hEM']
+['?']
+['kyA', 'hama']
+['hama', 'sistama']
+['sistama', 'kI']
+['kI', 'vicAra']
+['vicAra', 'prakriyA']
+['prakriyA', 'yA']
+['yA', 'warka']
+['warka', 'kRamawA']
+['kRamawA', 'ko']
+['ko', 'xeKa']
+['xeKa', 'rahe']
+['rahe', 'hEM']
+['hEM', '?']
+['kyA', 'hama', 'sistama']
+['hama', 'sistama', 'kI']
+['sistama', 'kI', 'vicAra']
+['kI', 'vicAra', 'prakriyA']
+['vicAra', 'prakriyA', 'yA']
+['prakriyA', 'yA', 'warka']
+['yA', 'warka', 'kRamawA']
+['warka', 'kRamawA', 'ko']
+['kRamawA', 'ko', 'xeKa']
+['ko', 'xeKa', 'rahe']
+['xeKa', 'rahe', 'hEM']
+['rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI']
+['hama', 'sistama', 'kI', 'vicAra']
+['sistama', 'kI', 'vicAra', 'prakriyA']
+['kI', 'vicAra', 'prakriyA', 'yA']
+['vicAra', 'prakriyA', 'yA', 'warka']
+['prakriyA', 'yA', 'warka', 'kRamawA']
+['yA', 'warka', 'kRamawA', 'ko']
+['warka', 'kRamawA', 'ko', 'xeKa']
+['kRamawA', 'ko', 'xeKa', 'rahe']
+['ko', 'xeKa', 'rahe', 'hEM']
+['xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI', 'vicAra']
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA']
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA']
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA']
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA']
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA']
+['hama']
+['vicAra']
+['prakriyA']
+['yA']
+['waMwra']
+['kI']
+['warka']
+['kRamawA']
+['ko']
+['xeKa']
+['rahe']
+['hEM']
+['?']
+['kyA', 'hama']
+['hama', 'vicAra']
+['vicAra', 'prakriyA']
+['prakriyA', 'yA']
+['yA', 'waMwra']
+['waMwra', 'kI']
+['kI', 'warka']
+['warka', 'kRamawA']
+['kRamawA', 'ko']
+['ko', 'xeKa']
+['xeKa', 'rahe']
+['rahe', 'hEM']
+['hEM', '?']
+['kyA', 'hama', 'vicAra']
+['hama', 'vicAra', 'prakriyA']
+['vicAra', 'prakriyA', 'yA']
+['prakriyA', 'yA', 'waMwra']
+['yA', 'waMwra', 'kI']
+['waMwra', 'kI', 'warka']
+['kI', 'warka', 'kRamawA']
+['warka', 'kRamawA', 'ko']
+['kRamawA', 'ko', 'xeKa']
+['ko', 'xeKa', 'rahe']
+['xeKa', 'rahe', 'hEM']
+['rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA']
+['hama', 'vicAra', 'prakriyA', 'yA']
+['vicAra', 'prakriyA', 'yA', 'waMwra']
+['prakriyA', 'yA', 'waMwra', 'kI']
+['yA', 'waMwra', 'kI', 'warka']
+['waMwra', 'kI', 'warka', 'kRamawA']
+['kI', 'warka', 'kRamawA', 'ko']
+['warka', 'kRamawA', 'ko', 'xeKa']
+['kRamawA', 'ko', 'xeKa', 'rahe']
+['ko', 'xeKa', 'rahe', 'hEM']
+['xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA']
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra']
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI']
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka']
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA']
+['waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+['kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra']
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI']
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka']
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA']
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+['waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+['kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI']
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka']
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA']
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+['waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka']
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA']
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA']
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA']
+['hama']
+['vicAra']
+['prakriyA']
+['yA']
+['praNAlI']
+['kI']
+['warka']
+['kRamawA']
+['ko']
+['xeKawe']
+['hEM']
+['?']
+['NOWORD']
+['kyA', 'hama']
+['hama', 'vicAra']
+['vicAra', 'prakriyA']
+['prakriyA', 'yA']
+['yA', 'praNAlI']
+['praNAlI', 'kI']
+['kI', 'warka']
+['warka', 'kRamawA']
+['kRamawA', 'ko']
+['ko', 'xeKawe']
+['xeKawe', 'hEM']
+['hEM', '?']
+['?', 'NOWORD']
+['kyA', 'hama', 'vicAra']
+['hama', 'vicAra', 'prakriyA']
+['vicAra', 'prakriyA', 'yA']
+['prakriyA', 'yA', 'praNAlI']
+['yA', 'praNAlI', 'kI']
+['praNAlI', 'kI', 'warka']
+['kI', 'warka', 'kRamawA']
+['warka', 'kRamawA', 'ko']
+['kRamawA', 'ko', 'xeKawe']
+['ko', 'xeKawe', 'hEM']
+['xeKawe', 'hEM', '?']
+['hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA']
+['hama', 'vicAra', 'prakriyA', 'yA']
+['vicAra', 'prakriyA', 'yA', 'praNAlI']
+['prakriyA', 'yA', 'praNAlI', 'kI']
+['yA', 'praNAlI', 'kI', 'warka']
+['praNAlI', 'kI', 'warka', 'kRamawA']
+['kI', 'warka', 'kRamawA', 'ko']
+['warka', 'kRamawA', 'ko', 'xeKawe']
+['kRamawA', 'ko', 'xeKawe', 'hEM']
+['ko', 'xeKawe', 'hEM', '?']
+['xeKawe', 'hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA']
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI']
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI']
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka']
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA']
+['praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+['kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+['warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+['kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+['ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI']
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI']
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka']
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA']
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+['praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+['kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+['warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+['kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI']
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka']
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA']
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+['praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+['kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+['warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka']
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA']
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+['praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+['kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA']
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+['praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+['kyA']
+['hama']
+['praNAlI']
+['kI']
+['vicAra']
+['prakriyA']
+['yA']
+['warka']
+['kRamawA']
+['ko']
+['xeKa']
+['rahe']
+['hEM']
+['?']
+['kyA', 'hama']
+['hama', 'praNAlI']
+['praNAlI', 'kI']
+['kI', 'vicAra']
+['vicAra', 'prakriyA']
+['prakriyA', 'yA']
+['yA', 'warka']
+['warka', 'kRamawA']
+['kRamawA', 'ko']
+['ko', 'xeKa']
+['xeKa', 'rahe']
+['rahe', 'hEM']
+['hEM', '?']
+['kyA', 'hama', 'praNAlI']
+['hama', 'praNAlI', 'kI']
+['praNAlI', 'kI', 'vicAra']
+['kI', 'vicAra', 'prakriyA']
+['vicAra', 'prakriyA', 'yA']
+['prakriyA', 'yA', 'warka']
+['yA', 'warka', 'kRamawA']
+['warka', 'kRamawA', 'ko']
+['kRamawA', 'ko', 'xeKa']
+['ko', 'xeKa', 'rahe']
+['xeKa', 'rahe', 'hEM']
+['rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI']
+['hama', 'praNAlI', 'kI', 'vicAra']
+['praNAlI', 'kI', 'vicAra', 'prakriyA']
+['kI', 'vicAra', 'prakriyA', 'yA']
+['vicAra', 'prakriyA', 'yA', 'warka']
+['prakriyA', 'yA', 'warka', 'kRamawA']
+['yA', 'warka', 'kRamawA', 'ko']
+['warka', 'kRamawA', 'ko', 'xeKa']
+['kRamawA', 'ko', 'xeKa', 'rahe']
+['ko', 'xeKa', 'rahe', 'hEM']
+['xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra']
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA']
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA']
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA']
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA']
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+     0     1        2         3       4         5   6      7        8   9  \
+0  kyA  hama   waMwra        kI  vicAra  prakriyA  yA  warka  kRamawA  ko   
+0  kyA  hama  sistama        kI  vicAra  prakriyA  yA  warka  kRamawA  ko   
+0  kyA  hama   vicAra  prakriyA      yA    waMwra  kI  warka  kRamawA  ko   
+0  kyA  hama   vicAra  prakriyA      yA   praNAlI  kI  warka  kRamawA  ko   
+0  kyA  hama  praNAlI        kI  vicAra  prakriyA  yA  warka  kRamawA  ko   
+
+       10    11   12   13  
+0    xeKa  rahe  hEM    ?  
+0    xeKa  rahe  hEM    ?  
+0    xeKa  rahe  hEM    ?  
+0  xeKawe   hEM    ?  NaN  
+0    xeKa  rahe  hEM    ?  
+['kyA', 'hama']
+<class 'str'>
+<class 'str'>
+kyA_hama
+['hama', 'waMwra']
+<class 'str'>
+<class 'str'>
+hama_waMwra
+['waMwra', 'kI']
+<class 'str'>
+<class 'str'>
+waMwra_kI
+['kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+kI_vicAra
+['vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA
+['prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+prakriyA_yA
+['yA', 'warka']
+<class 'str'>
+<class 'str'>
+yA_warka
+['warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+warka_kRamawA
+['kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+kRamawA_ko
+['ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+ko_xeKa
+['xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+xeKa_rahe
+['rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+rahe_hEM
+['hEM', '?']
+<class 'str'>
+<class 'str'>
+hEM_?
+['kyA', 'hama', 'waMwra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra
+['hama', 'waMwra', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI
+['waMwra', 'kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_vicAra
+['kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA
+['vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA
+['prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka
+['yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA
+['warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko
+['kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa
+['ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe
+['xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+xeKa_rahe_hEM
+['rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI
+['hama', 'waMwra', 'kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI_vicAra
+['waMwra', 'kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_vicAra_prakriyA
+['kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA
+['vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka
+['prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA
+['yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko
+['warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa
+['kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe
+['ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe_hEM
+['xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+xeKa_rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI_vicAra
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI_vicAra_prakriyA
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_vicAra_prakriyA_yA
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe_hEM
+['ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI_vicAra_prakriyA
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI_vicAra_prakriyA_yA
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_vicAra_prakriyA_yA_warka
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa_rahe
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe_hEM
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI_vicAra_prakriyA_yA
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI_vicAra_prakriyA_yA_warka
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI_vicAra_prakriyA_yA_warka
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'waMwra', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_waMwra_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama']
+<class 'str'>
+<class 'str'>
+kyA_hama
+['hama', 'sistama']
+<class 'str'>
+<class 'str'>
+hama_sistama
+['sistama', 'kI']
+<class 'str'>
+<class 'str'>
+sistama_kI
+['kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+kI_vicAra
+['vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA
+['prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+prakriyA_yA
+['yA', 'warka']
+<class 'str'>
+<class 'str'>
+yA_warka
+['warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+warka_kRamawA
+['kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+kRamawA_ko
+['ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+ko_xeKa
+['xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+xeKa_rahe
+['rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+rahe_hEM
+['hEM', '?']
+<class 'str'>
+<class 'str'>
+hEM_?
+['kyA', 'hama', 'sistama']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama
+['hama', 'sistama', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI
+['sistama', 'kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+sistama_kI_vicAra
+['kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA
+['vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA
+['prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka
+['yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA
+['warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko
+['kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa
+['ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe
+['xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+xeKa_rahe_hEM
+['rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI
+['hama', 'sistama', 'kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI_vicAra
+['sistama', 'kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+sistama_kI_vicAra_prakriyA
+['kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA
+['vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka
+['prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA
+['yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko
+['warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa
+['kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe
+['ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe_hEM
+['xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+xeKa_rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI_vicAra
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI_vicAra_prakriyA
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+sistama_kI_vicAra_prakriyA_yA
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe_hEM
+['ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI_vicAra_prakriyA
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI_vicAra_prakriyA_yA
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+sistama_kI_vicAra_prakriyA_yA_warka
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa_rahe
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe_hEM
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI_vicAra_prakriyA_yA
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI_vicAra_prakriyA_yA_warka
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+sistama_kI_vicAra_prakriyA_yA_warka_kRamawA
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI_vicAra_prakriyA_yA_warka
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'sistama', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_sistama_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama']
+<class 'str'>
+<class 'str'>
+kyA_hama
+['hama', 'vicAra']
+<class 'str'>
+<class 'str'>
+hama_vicAra
+['vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA
+['prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+prakriyA_yA
+['yA', 'waMwra']
+<class 'str'>
+<class 'str'>
+yA_waMwra
+['waMwra', 'kI']
+<class 'str'>
+<class 'str'>
+waMwra_kI
+['kI', 'warka']
+<class 'str'>
+<class 'str'>
+kI_warka
+['warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+warka_kRamawA
+['kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+kRamawA_ko
+['ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+ko_xeKa
+['xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+xeKa_rahe
+['rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+rahe_hEM
+['hEM', '?']
+<class 'str'>
+<class 'str'>
+hEM_?
+['kyA', 'hama', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra
+['hama', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA
+['vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA
+['prakriyA', 'yA', 'waMwra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_waMwra
+['yA', 'waMwra', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_waMwra_kI
+['waMwra', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_warka
+['kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA
+['warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko
+['kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa
+['ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe
+['xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+xeKa_rahe_hEM
+['rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA
+['hama', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA
+['vicAra', 'prakriyA', 'yA', 'waMwra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_waMwra
+['prakriyA', 'yA', 'waMwra', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_waMwra_kI
+['yA', 'waMwra', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_waMwra_kI_warka
+['waMwra', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_warka_kRamawA
+['kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA_ko
+['warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa
+['kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe
+['ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe_hEM
+['xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+xeKa_rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_waMwra
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_waMwra_kI
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_waMwra_kI_warka
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_waMwra_kI_warka_kRamawA
+['waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_warka_kRamawA_ko
+['kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA_ko_xeKa
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe_hEM
+['ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_waMwra
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_waMwra_kI
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_waMwra_kI_warka
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_waMwra_kI_warka_kRamawA
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_waMwra_kI_warka_kRamawA_ko
+['waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_warka_kRamawA_ko_xeKa
+['kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA_ko_xeKa_rahe
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe_hEM
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_waMwra_kI
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_waMwra_kI_warka
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_waMwra_kI_warka_kRamawA_ko
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_waMwra_kI_warka_kRamawA_ko_xeKa
+['waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_warka_kRamawA_ko_xeKa_rahe
+['kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA_ko_xeKa_rahe_hEM
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_waMwra_kI_warka
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe
+['waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM
+['kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM
+['waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM
+['yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM
+['prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM
+['vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM
+['hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'waMwra', 'kI', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_waMwra_kI_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama']
+<class 'str'>
+<class 'str'>
+kyA_hama
+['hama', 'vicAra']
+<class 'str'>
+<class 'str'>
+hama_vicAra
+['vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA
+['prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+prakriyA_yA
+['yA', 'praNAlI']
+<class 'str'>
+<class 'str'>
+yA_praNAlI
+['praNAlI', 'kI']
+<class 'str'>
+<class 'str'>
+praNAlI_kI
+['kI', 'warka']
+<class 'str'>
+<class 'str'>
+kI_warka
+['warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+warka_kRamawA
+['kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+kRamawA_ko
+['ko', 'xeKawe']
+<class 'str'>
+<class 'str'>
+ko_xeKawe
+['xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+xeKawe_hEM
+['hEM', '?']
+<class 'str'>
+<class 'str'>
+hEM_?
+['?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+?_NOWORD
+['kyA', 'hama', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra
+['hama', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA
+['vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA
+['prakriyA', 'yA', 'praNAlI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_praNAlI
+['yA', 'praNAlI', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_praNAlI_kI
+['praNAlI', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_warka
+['kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA
+['warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko
+['kRamawA', 'ko', 'xeKawe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKawe
+['ko', 'xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKawe_hEM
+['xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+xeKawe_hEM_?
+['hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA
+['hama', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA
+['vicAra', 'prakriyA', 'yA', 'praNAlI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_praNAlI
+['prakriyA', 'yA', 'praNAlI', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_praNAlI_kI
+['yA', 'praNAlI', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_praNAlI_kI_warka
+['praNAlI', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_warka_kRamawA
+['kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA_ko
+['warka', 'kRamawA', 'ko', 'xeKawe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKawe
+['kRamawA', 'ko', 'xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKawe_hEM
+['ko', 'xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKawe_hEM_?
+['xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+xeKawe_hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_praNAlI
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_praNAlI_kI
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_praNAlI_kI_warka
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_praNAlI_kI_warka_kRamawA
+['praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_warka_kRamawA_ko
+['kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA_ko_xeKawe
+['warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKawe_hEM
+['kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKawe_hEM_?
+['ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKawe_hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_praNAlI
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_praNAlI_kI
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_praNAlI_kI_warka
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_praNAlI_kI_warka_kRamawA
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_praNAlI_kI_warka_kRamawA_ko
+['praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_warka_kRamawA_ko_xeKawe
+['kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA_ko_xeKawe_hEM
+['warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKawe_hEM_?
+['kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKawe_hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_praNAlI_kI
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_praNAlI_kI_warka
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_praNAlI_kI_warka_kRamawA_ko
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_praNAlI_kI_warka_kRamawA_ko_xeKawe
+['praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM
+['kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA_ko_xeKawe_hEM_?
+['warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKawe_hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_praNAlI_kI_warka
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM
+['praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?
+['kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_warka_kRamawA_ko_xeKawe_hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?
+['praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?
+['yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?
+['prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?
+['vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?
+['hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?_NOWORD
+['kyA', 'hama', 'vicAra', 'prakriyA', 'yA', 'praNAlI', 'kI', 'warka', 'kRamawA', 'ko', 'xeKawe', 'hEM', '?', 'NOWORD']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_vicAra_prakriyA_yA_praNAlI_kI_warka_kRamawA_ko_xeKawe_hEM_?_NOWORD
+['kyA', 'hama']
+<class 'str'>
+<class 'str'>
+kyA_hama
+['hama', 'praNAlI']
+<class 'str'>
+<class 'str'>
+hama_praNAlI
+['praNAlI', 'kI']
+<class 'str'>
+<class 'str'>
+praNAlI_kI
+['kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+kI_vicAra
+['vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA
+['prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+prakriyA_yA
+['yA', 'warka']
+<class 'str'>
+<class 'str'>
+yA_warka
+['warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+warka_kRamawA
+['kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+kRamawA_ko
+['ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+ko_xeKa
+['xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+xeKa_rahe
+['rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+rahe_hEM
+['hEM', '?']
+<class 'str'>
+<class 'str'>
+hEM_?
+['kyA', 'hama', 'praNAlI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI
+['hama', 'praNAlI', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI
+['praNAlI', 'kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_vicAra
+['kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA
+['vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA
+['prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka
+['yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA
+['warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko
+['kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa
+['ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe
+['xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+xeKa_rahe_hEM
+['rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI
+['hama', 'praNAlI', 'kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI_vicAra
+['praNAlI', 'kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_vicAra_prakriyA
+['kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA
+['vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka
+['prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA
+['yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko
+['warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa
+['kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe
+['ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe_hEM
+['xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+xeKa_rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI_vicAra
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI_vicAra_prakriyA
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_vicAra_prakriyA_yA
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe_hEM
+['ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI_vicAra_prakriyA
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI_vicAra_prakriyA_yA
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_vicAra_prakriyA_yA_warka
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa_rahe
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe_hEM
+['kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI_vicAra_prakriyA_yA
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI_vicAra_prakriyA_yA_warka
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI_vicAra_prakriyA_yA_warka
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM
+['hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+['kyA', 'hama', 'praNAlI', 'kI', 'vicAra', 'prakriyA', 'yA', 'warka', 'kRamawA', 'ko', 'xeKa', 'rahe', 'hEM', '?']
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+kyA_hama_praNAlI_kI_vicAra_prakriyA_yA_warka_kRamawA_ko_xeKa_rahe_hEM_?
+                   0     1    2
+0                  0   NaN  NaN
+1                  1   NaN  NaN
+2                  2   NaN  NaN
+0        hama_waMwra   2.0  1.0
+0    kyA_hama_waMwra   3.0  1.0
+0     hama_waMwra_kI   3.0  1.0
+0   waMwra_kI_vicAra   3.0  1.0
+0  kyA_hama_waMwr...   4.0  1.0
+0  hama_waMwra_kI...   4.0  1.0
+0  waMwra_kI_vicA...   4.0  1.0
+0  kyA_hama_waMwr...   5.0  1.0
+0  hama_waMwra_kI...   5.0  1.0
+0  waMwra_kI_vicA...   5.0  1.0
+0  kyA_hama_waMwr...   6.0  1.0
+0  hama_waMwra_kI...   6.0  1.0
+0  waMwra_kI_vicA...   6.0  1.0
+0  kyA_hama_waMwr...   7.0  1.0
+0  hama_waMwra_kI...   7.0  1.0
+0  waMwra_kI_vicA...   7.0  1.0
+0  kyA_hama_waMwr...   8.0  1.0
+0  hama_waMwra_kI...   8.0  1.0
+0  waMwra_kI_vicA...   8.0  1.0
+0  kyA_hama_waMwr...   9.0  1.0
+0  hama_waMwra_kI...   9.0  1.0
+0  waMwra_kI_vicA...   9.0  1.0
+0  kyA_hama_waMwr...  10.0  1.0
+0  hama_waMwra_kI...  10.0  1.0
+0  waMwra_kI_vicA...  10.0  1.0
+0  kyA_hama_waMwr...  11.0  1.0
+0  hama_waMwra_kI...  11.0  1.0
+0  waMwra_kI_vicA...  11.0  1.0
+0  kyA_hama_waMwr...  12.0  1.0
+0  hama_waMwra_kI...  12.0  1.0
+0  waMwra_kI_vicA...  12.0  1.0
+0  kyA_hama_waMwr...  13.0  1.0
+0  hama_waMwra_kI...  13.0  1.0
+0  kyA_hama_waMwr...  14.0  1.0
+0            sistama   1.0  1.0
+0       hama_sistama   2.0  1.0
+0         sistama_kI   2.0  1.0
+0   kyA_hama_sistama   3.0  1.0
+0    hama_sistama_kI   3.0  1.0
+0  sistama_kI_vicAra   3.0  1.0
+0  kyA_hama_sista...   4.0  1.0
+0  hama_sistama_k...   4.0  1.0
+0  sistama_kI_vic...   4.0  1.0
+0  kyA_hama_sista...   5.0  1.0
+0  hama_sistama_k...   5.0  1.0
+0  sistama_kI_vic...   5.0  1.0
+0  kyA_hama_sista...   6.0  1.0
+0  hama_sistama_k...   6.0  1.0
+0  sistama_kI_vic...   6.0  1.0
+0  kyA_hama_sista...   7.0  1.0
+0  hama_sistama_k...   7.0  1.0
+0  sistama_kI_vic...   7.0  1.0
+0  kyA_hama_sista...   8.0  1.0
+0  hama_sistama_k...   8.0  1.0
+0  sistama_kI_vic...   8.0  1.0
+0  kyA_hama_sista...   9.0  1.0
+0  hama_sistama_k...   9.0  1.0
+0  sistama_kI_vic...   9.0  1.0
+0  kyA_hama_sista...  10.0  1.0
+0  hama_sistama_k...  10.0  1.0
+0  sistama_kI_vic...  10.0  1.0
+0  kyA_hama_sista...  11.0  1.0
+0  hama_sistama_k...  11.0  1.0
+0  sistama_kI_vic...  11.0  1.0
+0  kyA_hama_sista...  12.0  1.0
+0  hama_sistama_k...  12.0  1.0
+0  sistama_kI_vic...  12.0  1.0
+0  kyA_hama_sista...  13.0  1.0
+0  hama_sistama_k...  13.0  1.0
+0  kyA_hama_sista...  14.0  1.0
+0          yA_waMwra   2.0  1.0
+0  prakriyA_yA_wa...   3.0  1.0
+0       yA_waMwra_kI   3.0  1.0
+0    waMwra_kI_warka   3.0  1.0
+0  vicAra_prakriy...   4.0  1.0
+0  prakriyA_yA_wa...   4.0  1.0
+0  yA_waMwra_kI_w...   4.0  1.0
+0  waMwra_kI_wark...   4.0  1.0
+0  hama_vicAra_pr...   5.0  1.0
+0  vicAra_prakriy...   5.0  1.0
+0  prakriyA_yA_wa...   5.0  1.0
+0  yA_waMwra_kI_w...   5.0  1.0
+0  waMwra_kI_wark...   5.0  1.0
+0  kI_warka_kRama...   5.0  1.0
+0  kyA_hama_vicAr...   6.0  1.0
+0  hama_vicAra_pr...   6.0  1.0
+0  vicAra_prakriy...   6.0  1.0
+0  prakriyA_yA_wa...   6.0  1.0
+0  yA_waMwra_kI_w...   6.0  1.0
+0  waMwra_kI_wark...   6.0  1.0
+0  kI_warka_kRama...   6.0  1.0
+0  kyA_hama_vicAr...   7.0  1.0
+0  hama_vicAra_pr...   7.0  1.0
+0  vicAra_prakriy...   7.0  1.0
+0  prakriyA_yA_wa...   7.0  1.0
+0  yA_waMwra_kI_w...   7.0  1.0
+0  waMwra_kI_wark...   7.0  1.0
+0  kI_warka_kRama...   7.0  1.0
+0  kyA_hama_vicAr...   8.0  1.0
+0  hama_vicAra_pr...   8.0  1.0
+0  vicAra_prakriy...   8.0  1.0
+0  prakriyA_yA_wa...   8.0  1.0
+0  yA_waMwra_kI_w...   8.0  1.0
+0  waMwra_kI_wark...   8.0  1.0
+0  kI_warka_kRama...   8.0  1.0
+0  kyA_hama_vicAr...   9.0  1.0
+0  hama_vicAra_pr...   9.0  1.0
+0  vicAra_prakriy...   9.0  1.0
+0  prakriyA_yA_wa...   9.0  1.0
+0  yA_waMwra_kI_w...   9.0  1.0
+0  waMwra_kI_wark...   9.0  1.0
+0  kyA_hama_vicAr...  10.0  1.0
+0  hama_vicAra_pr...  10.0  1.0
+0  vicAra_prakriy...  10.0  1.0
+0  prakriyA_yA_wa...  10.0  1.0
+0  yA_waMwra_kI_w...  10.0  1.0
+0  kyA_hama_vicAr...  11.0  1.0
+0  hama_vicAra_pr...  11.0  1.0
+0  vicAra_prakriy...  11.0  1.0
+0  prakriyA_yA_wa...  11.0  1.0
+0  kyA_hama_vicAr...  12.0  1.0
+0  hama_vicAra_pr...  12.0  1.0
+0  vicAra_prakriy...  12.0  1.0
+0  kyA_hama_vicAr...  13.0  1.0
+0  hama_vicAra_pr...  13.0  1.0
+0  kyA_hama_vicAr...  14.0  1.0
+0             xeKawe   1.0  1.0
+0             NOWORD   1.0  1.0
+0         yA_praNAlI   2.0  1.0
+0          ko_xeKawe   2.0  1.0
+0         xeKawe_hEM   2.0  1.0
+0           ?_NOWORD   2.0  1.0
+0  prakriyA_yA_pr...   3.0  1.0
+0      yA_praNAlI_kI   3.0  1.0
+0   praNAlI_kI_warka   3.0  1.0
+0  kRamawA_ko_xeKawe   3.0  1.0
+0      ko_xeKawe_hEM   3.0  1.0
+0       xeKawe_hEM_?   3.0  1.0
+0       hEM_?_NOWORD   3.0  1.0
+0  vicAra_prakriy...   4.0  1.0
+0  prakriyA_yA_pr...   4.0  1.0
+0  yA_praNAlI_kI_...   4.0  1.0
+0  praNAlI_kI_war...   4.0  1.0
+0  warka_kRamawA_...   4.0  1.0
+0  kRamawA_ko_xeK...   4.0  1.0
+0    ko_xeKawe_hEM_?   4.0  1.0
+0  xeKawe_hEM_?_N...   4.0  1.0
+0  hama_vicAra_pr...   5.0  1.0
+0  vicAra_prakriy...   5.0  1.0
+0  prakriyA_yA_pr...   5.0  1.0
+0  yA_praNAlI_kI_...   5.0  1.0
+0  praNAlI_kI_war...   5.0  1.0
+0  kI_warka_kRama...   5.0  1.0
+0  warka_kRamawA_...   5.0  1.0
+0  kRamawA_ko_xeK...   5.0  1.0
+0  ko_xeKawe_hEM_...   5.0  1.0
+0  kyA_hama_vicAr...   6.0  1.0
+0  hama_vicAra_pr...   6.0  1.0
+0  vicAra_prakriy...   6.0  1.0
+0  prakriyA_yA_pr...   6.0  1.0
+0  yA_praNAlI_kI_...   6.0  1.0
+0  praNAlI_kI_war...   6.0  1.0
+0  kI_warka_kRama...   6.0  1.0
+0  warka_kRamawA_...   6.0  1.0
+0  kRamawA_ko_xeK...   6.0  1.0
+0  kyA_hama_vicAr...   7.0  1.0
+0  hama_vicAra_pr...   7.0  1.0
+0  vicAra_prakriy...   7.0  1.0
+0  prakriyA_yA_pr...   7.0  1.0
+0  yA_praNAlI_kI_...   7.0  1.0
+0  praNAlI_kI_war...   7.0  1.0
+0  kI_warka_kRama...   7.0  1.0
+0  warka_kRamawA_...   7.0  1.0
+0  kyA_hama_vicAr...   8.0  1.0
+0  hama_vicAra_pr...   8.0  1.0
+0  vicAra_prakriy...   8.0  1.0
+0  prakriyA_yA_pr...   8.0  1.0
+0  yA_praNAlI_kI_...   8.0  1.0
+0  praNAlI_kI_war...   8.0  1.0
+0  kI_warka_kRama...   8.0  1.0
+0  kyA_hama_vicAr...   9.0  1.0
+0  hama_vicAra_pr...   9.0  1.0
+0  vicAra_prakriy...   9.0  1.0
+0  prakriyA_yA_pr...   9.0  1.0
+0  yA_praNAlI_kI_...   9.0  1.0
+0  praNAlI_kI_war...   9.0  1.0
+0  kyA_hama_vicAr...  10.0  1.0
+0  hama_vicAra_pr...  10.0  1.0
+0  vicAra_prakriy...  10.0  1.0
+0  prakriyA_yA_pr...  10.0  1.0
+0  yA_praNAlI_kI_...  10.0  1.0
+0  kyA_hama_vicAr...  11.0  1.0
+0  hama_vicAra_pr...  11.0  1.0
+0  vicAra_prakriy...  11.0  1.0
+0  prakriyA_yA_pr...  11.0  1.0
+0  kyA_hama_vicAr...  12.0  1.0
+0  hama_vicAra_pr...  12.0  1.0
+0  vicAra_prakriy...  12.0  1.0
+0  kyA_hama_vicAr...  13.0  1.0
+0  hama_vicAra_pr...  13.0  1.0
+0  kyA_hama_vicAr...  14.0  1.0
+0       hama_praNAlI   2.0  1.0
+0   kyA_hama_praNAlI   3.0  1.0
+0    hama_praNAlI_kI   3.0  1.0
+0  praNAlI_kI_vicAra   3.0  1.0
+0  kyA_hama_praNA...   4.0  1.0
+0  hama_praNAlI_k...   4.0  1.0
+0  praNAlI_kI_vic...   4.0  1.0
+0  kyA_hama_praNA...   5.0  1.0
+0  hama_praNAlI_k...   5.0  1.0
+0  praNAlI_kI_vic...   5.0  1.0
+0  kyA_hama_praNA...   6.0  1.0
+0  hama_praNAlI_k...   6.0  1.0
+0  praNAlI_kI_vic...   6.0  1.0
+0  kyA_hama_praNA...   7.0  1.0
+0  hama_praNAlI_k...   7.0  1.0
+0  praNAlI_kI_vic...   7.0  1.0
+0  kyA_hama_praNA...   8.0  1.0
+0  hama_praNAlI_k...   8.0  1.0
+0  praNAlI_kI_vic...   8.0  1.0
+0  kyA_hama_praNA...   9.0  1.0
+0  hama_praNAlI_k...   9.0  1.0
+0  praNAlI_kI_vic...   9.0  1.0
+0  kyA_hama_praNA...  10.0  1.0
+0  hama_praNAlI_k...  10.0  1.0
+0  praNAlI_kI_vic...  10.0  1.0
+0  kyA_hama_praNA...  11.0  1.0
+0  hama_praNAlI_k...  11.0  1.0
+0  praNAlI_kI_vic...  11.0  1.0
+0  kyA_hama_praNA...  12.0  1.0
+0  hama_praNAlI_k...  12.0  1.0
+0  praNAlI_kI_vic...  12.0  1.0
+0  kyA_hama_praNA...  13.0  1.0
+0  hama_praNAlI_k...  13.0  1.0
+0  kyA_hama_praNA...  14.0  1.0
+0             waMwra   1.0  2.0
+0          waMwra_kI   2.0  2.0
+0        hama_vicAra   2.0  2.0
+0           kI_warka   2.0  2.0
+0    kyA_hama_vicAra   3.0  2.0
+0  hama_vicAra_pr...   3.0  2.0
+0   kI_warka_kRamawA   3.0  2.0
+0  kyA_hama_vicAr...   4.0  2.0
+0  hama_vicAra_pr...   4.0  2.0
+0  kI_warka_kRama...   4.0  2.0
+0  kyA_hama_vicAr...   5.0  2.0
+0            praNAlI   1.0  2.0
+0         praNAlI_kI   2.0  2.0
+0          kI_vicAra   2.0  3.0
+0           yA_warka   2.0  3.0
+0  kI_vicAra_prak...   3.0  3.0
+0  prakriyA_yA_warka   3.0  3.0
+0   yA_warka_kRamawA   3.0  3.0
+0  kI_vicAra_prak...   4.0  3.0
+0  vicAra_prakriy...   4.0  3.0
+0  prakriyA_yA_wa...   4.0  3.0
+0  yA_warka_kRama...   4.0  3.0
+0  kI_vicAra_prak...   5.0  3.0
+0  vicAra_prakriy...   5.0  3.0
+0  prakriyA_yA_wa...   5.0  3.0
+0  yA_warka_kRama...   5.0  3.0
+0  kI_vicAra_prak...   6.0  3.0
+0  vicAra_prakriy...   6.0  3.0
+0  prakriyA_yA_wa...   6.0  3.0
+0  yA_warka_kRama...   6.0  3.0
+0  kI_vicAra_prak...   7.0  3.0
+0  vicAra_prakriy...   7.0  3.0
+0  prakriyA_yA_wa...   7.0  3.0
+0  yA_warka_kRama...   7.0  3.0
+0  kI_vicAra_prak...   8.0  3.0
+0  vicAra_prakriy...   8.0  3.0
+0  prakriyA_yA_wa...   8.0  3.0
+0  yA_warka_kRama...   8.0  3.0
+0  kI_vicAra_prak...   9.0  3.0
+0  vicAra_prakriy...   9.0  3.0
+0  prakriyA_yA_wa...   9.0  3.0
+0  kI_vicAra_prak...  10.0  3.0
+0  vicAra_prakriy...  10.0  3.0
+0  kI_vicAra_prak...  11.0  3.0
+0               xeKa   1.0  4.0
+0               rahe   1.0  4.0
+0            ko_xeKa   2.0  4.0
+0          xeKa_rahe   2.0  4.0
+0           rahe_hEM   2.0  4.0
+0    kRamawA_ko_xeKa   3.0  4.0
+0       ko_xeKa_rahe   3.0  4.0
+0      xeKa_rahe_hEM   3.0  4.0
+0         rahe_hEM_?   3.0  4.0
+0  warka_kRamawA_...   4.0  4.0
+0  kRamawA_ko_xeK...   4.0  4.0
+0   ko_xeKa_rahe_hEM   4.0  4.0
+0    xeKa_rahe_hEM_?   4.0  4.0
+0  warka_kRamawA_...   5.0  4.0
+0  kRamawA_ko_xeK...   5.0  4.0
+0  ko_xeKa_rahe_h...   5.0  4.0
+0  warka_kRamawA_...   6.0  4.0
+0  kRamawA_ko_xeK...   6.0  4.0
+0  warka_kRamawA_...   7.0  4.0
+0                kyA   1.0  5.0
+0               hama   1.0  5.0
+0                 kI   1.0  5.0
+0             vicAra   1.0  5.0
+0           prakriyA   1.0  5.0
+0                 yA   1.0  5.0
+0              warka   1.0  5.0
+0            kRamawA   1.0  5.0
+0                 ko   1.0  5.0
+0                hEM   1.0  5.0
+0                  ?   1.0  5.0
+0           kyA_hama   2.0  5.0
+0    vicAra_prakriyA   2.0  5.0
+0        prakriyA_yA   2.0  5.0
+0      warka_kRamawA   2.0  5.0
+0         kRamawA_ko   2.0  5.0
+0              hEM_?   2.0  5.0
+0  vicAra_prakriy...   3.0  5.0
+0   warka_kRamawA_ko   3.0  5.0
+sriram

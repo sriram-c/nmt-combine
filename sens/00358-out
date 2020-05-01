@@ -1,8 +1,19 @@
-lekina	kyA	rAjya	agara	huA	hogA	opena	rAjya	agara	yaxi	pahale	meM]	opIna	meM	pahale	rAjya	WA	pahale	meM	opena	lekina}	hatA	,	lekina	WA	xiyA	hatA	lekina	,	gayA	lekina	xiyA	hatA	hE	xiyA	hatA	gayA	Ora	gayA	xiyA	hE	viswAra	Ora	hE	gayA	kiyA	Ora	viswAra	hE	gayA}	hE}	kiyA	hE	gayA	?
-1	1	1	0	0	0	1	1	0	0	1	0	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1
-1	1	1	1	0	0	1	1	1	0	1	0	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1
-1	1	1	0	0	0	0	1	0	0	1	0	0	1	1	1	1	1	1	0	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1
-1	1	1	0	0	1	1	1	0	1	1	0	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1
-1	1	0	1	0	1	0	0	1	0	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1
-1	1	1	1	1	0	1	1	1	0	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	1	0	0	0	1	1	1
-1	1	1	1	1	0	1	1	1	0	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1
+ENG: But what if the state was in OPEN earlier but has been removed and expanded?
+
+ANU: paranwu wo kyA yaxi rAjya ovpana meM pahale meM WA wo paranwu hatA xiyA gayA hE Ora PElA gayA hE?
+
+0 NMT: lekina kyA rAjya opena meM pahale WA lekina hatA xiyA gayA hE Ora viswAra kiyA gayA hE ?
+
+1 NMT: lekina kyA agara rAjya opena meM pahale WA lekina hatA xiyA gayA hE Ora viswAra kiyA gayA hE ?
+
+2 NMT: lekina kyA rAjya pahale opIena meM WA lekina hatA xiyA gayA hE Ora viswAra kiyA gayA hE ?
+
+3 NMT: lekina kyA hogA yaxi rAjya pahale opena meM WA lekina hatA xiyA gayA hE Ora viswAra kiyA gayA hE ?
+
+4 NMT: lekina kyA hogA agara pahale opIna meM WA , lekina hatA xiyA gayA hE Ora viswAra kiyA gayA hE ?
+
+5 NMT: lekina kyA huA agara pahale rAjya opena meM WA , lekina hatA xiyA gayA hE Ora baDZAyA gayA hE ?
+
+6 NMT: lekina kyA huA agara pahale rAjya opena meM WA , lekina hatA xiyA gayA hE Ora viswAra kiyA gayA hE ?
+
+lekina_0+1+2+3+4+5+6 kyA_0+1+2+3+4+5+6 rAjya_0+2/agara_1/huA_5+6/hogA_3+4 pahale_2/rAjya_1/opena_0/agara_4+5+6/yaxi_3 pahale_4+5+6/meM_0/rAjya_3/opena_1/opIena_2 pahale_0+3/meM_1+2/rAjya_5+6/opIna_4 WA_0+2/pahale_1/meM_4/opena_3+5+6 lekina_0+2/WA_1+4/meM_3+5+6 lekina_1/hatA_0+2/WA_3+5+6/,_4 lekina_3+4/hatA_1/xiyA_0+2/,_5+6 gayA_0+2/lekina_5+6/hatA_3+4/xiyA_1 gayA_1/hE_0+2/hatA_5+6/xiyA_3+4 gayA_3+4/hE_1/xiyA_5+6/Ora_0+2 gayA_5+6/hE_3+4/Ora_1/viswAra_0+2 hE_5+6/Ora_3+4/viswAra_1/kiyA_0+2 gayA_0+2/Ora_5+6/viswAra_3+4/kiyA_1 gayA_1/hE_0+2/viswAra_6/kiyA_3+4/baDZAyA_5 gayA_3+4+5/hE_1/?_0+2/kiyA_6 gayA_6/hE_3+4+5/?_1 hE_6/?_3+4+5 ?_6

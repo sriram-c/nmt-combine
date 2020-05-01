@@ -1,8 +1,19 @@
-EsI	isa	praNAliyoM	vyavasWAoM	prakAra	ko	kI	meM	AmawOra	praNAliyoM	prAyaH	vyavasWAoM	para	meM	ko	kama	kama	prAyaH	AmawOra	svAyawwawA	para	svAyawwawA	WodZI	howI	prApwa	kama	svAyawwawA	hE	howI	svAyawwawA	howI	,	hE	hE	prApwa	,	kyoMki	,	howI	kyoMki	saBI	kyoMki	hE	saBI	kArya	saBI	kriyAeM	,	kArya	pUrva	kArya	kriyAeM	pUrvanirXAriwa	kyoMki	nirXAriwa	pUrva	pUrva	saBI	pUrvanirXAriwa	nirXAriwa	howe	nirXAriwa	kArya	howI	howe	hEM	howe	howI	pUrva	hEM	.	nirXAriwa	hEM	.	.	howe
-1	0	1	0	0	1	0	0	1	1	0	0	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	0	1	1	1	0	1	1	0	0	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	0	1	0	0	1	1	0	0	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	0	0	0	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-0	1	0	1	1	0	1	1	0	0	1	1	0	1	0	0	0	1	0	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	1	0	1	1	1	1	1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	0
-1	0	1	0	0	0	0	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	0	0	0	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	0	0	1	0	0	0	1	0	0	1	1	0	1	0	1	1	1	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	0	0	0	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	1	0	1	1	1	1	1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	0
+ENG: Such systems usually have little autonomy, as all actions are pre-determined.
+
+ANU: EsI praNAliyAz Ama wOra para nahIM ke barAbara svaSAsana, jEsA ki saba kriyAez FALSE-xqDa safkalpI hEM .
+
+0 NMT: EsI praNAliyoM ko AmawOra para kama svAyawwawA prApwa howI hE , kyoMki saBI kArya pUrva nirXAriwa howe hEM .
+
+1 NMT: isa prakAra kI praNAliyoM ko AmawOra para kama svAyawwawA prApwa howI hE , kyoMki saBI kArya pUrva nirXAriwa howe hEM .
+
+2 NMT: EsI praNAliyoM ko AmawOra para kama svAyawwawA prApwa howI hE , kyoMki saBI kArya pUrvanirXAriwa howe hEM .
+
+3 NMT: isa prakAra kI vyavasWAoM meM prAyaH WodZI svAyawwawA howI hE , kyoMki saBI kriyAeM pUrva nirXAriwa howI hEM .
+
+4 NMT: EsI praNAliyoM meM AmawOra para kama svAyawwawA howI hE , kyoMki saBI kArya pUrvanirXAriwa howe hEM .
+
+5 NMT: EsI vyavasWAoM meM prAyaH kama svAyawwawA howI hE , kyoMki saBI kArya pUrva nirXAriwa howe hEM .
+
+6 NMT: EsI praNAliyoM meM AmawOra para kama svAyawwawA howI hE , kyoMki saBI kriyAeM pUrva nirXAriwa howI hEM .
+
+EsI_0+2+4+5+6/isa_1+3 praNAliyoM_0+2+4+6/vyavasWAoM_5/prakAra_1+3 meM_4+5+6/ko_0+2/kI_1+3 AmawOra_0+2+4+6/praNAliyoM_1/vyavasWAoM_3/prAyaH_5 kama_5/para_0+2+4+6/meM_3/ko_1 svAyawwawA_5/kama_0+2+4+6/AmawOra_1/prAyaH_3 howI_5/svAyawwawA_0+2+4+6/para_1/WodZI_3 howI_4+6/hE_5/svAyawwawA_3/kama_1/prApwa_0+2 howI_0+2+3/hE_4+6/,_5/svAyawwawA_1 hE_0+2+3/,_4+6/kyoMki_5/prApwa_1 howI_1/,_0+2+3/kyoMki_4+6/saBI_5 hE_1/kyoMki_0+2+3/saBI_4+6/kArya_5 ,_1/saBI_0+2+3/kArya_4/pUrva_5/kriyAeM_6 kyoMki_1/kArya_0+2/pUrva_6/nirXAriwa_5/kriyAeM_3/pUrvanirXAriwa_4 saBI_1/howe_4+5/pUrva_0+3/nirXAriwa_6/pUrvanirXAriwa_2 howI_6/hEM_4+5/kArya_1/howe_2/nirXAriwa_0+3 howI_3/hEM_2+6/._4+5/howe_0/pUrva_1 hEM_0+3/._2+6/nirXAriwa_1 ._0+3/howe_1 hEM_1 ._1

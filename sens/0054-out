@@ -1,7 +1,17 @@
-1950	majabUwa	Ora	eAi	1960	se	ke	saMbaMXiwa	xaSaka	1950	meM	Ora	1960	majabUwa	awyaXika	eAI	ke	eAi	ASAvAxa	se	ke	xaSaka	saMbaMXiwa	calawe	bAre	meM	awyaXika	meM	majabUwa	ASAvAxa	eAI	awyaXika	ne	ASAvAxa	isa	samasyA	ne	kI	samasyA	awyaXika}	kaTinAI	carama	kI}	sarAhanA	mUlyAMkana	ko	kI	kI}	hE	kI	kA	hE	mArga	.
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	0	1	0	0	1	0	1	1	0	1	0	1
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	0	0	1	0	1	1	0	1	0	1
-1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	0	1	0	1	1	0	1	0	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	1	0	0	1	0	0	1	0	1	1	0	1	0	1
-1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	0	0	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	1	1	0	0	0	1	1	0	0	1	1	0	1	1
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	0	1	0	1	0	1	1	1	1	0	1
+ENG: Excessive optimism in the 1950s and 1960s concerning strong AI has given way to an appreciation of the extreme difficulty of the problem.
+
+ANU: majabUwa e. AI. ke bAre meM 1950s meM Ora 1960s aXika ASAvAxa ne samasyA kI carama kaTinAI kI eka sarAhanA ke lie mArga xiyA hE .
+
+0 NMT: 1950 Ora 1960 ke xaSaka meM majabUwa eAI se saMbaMXiwa awyaXika ASAvAxa ne samasyA kI awyaXika kaTinAI kI sarAhanA kI hE .
+
+1 NMT: 1950 Ora 1960 ke xaSaka meM majabUwa eAI se saMbaMXiwa awyaXika ASAvAxa ne samasyA kI carama kaTinAI kI sarAhanA kI hE .
+
+2 NMT: 1950 Ora 1960 ke xaSaka meM awyaXika ASAvAxa ke calawe majabUwa eAI ne isa samasyA kI carama kaTinAI kI sarAhanA kI hE .
+
+3 NMT: majabUwa eAi se saMbaMXiwa 1950 Ora 1960 ke xaSaka meM awyaXika ASAvAxa ne samasyA kI awyaXika kaTinAI kI sarAhanA kI hE .
+
+4 NMT: 1950 Ora 1960 ke xaSaka meM majabUwa eAi ke bAre meM awyaXika ASAvAxa ne samasyA kI carama kaTinAI ko samaJane kA mArga praSaswa kiyA .
+
+5 NMT: 1950 Ora 1960 ke xaSaka meM majabUwa eAI se saMbaMXiwa awyaXika ASAvAxa ne samasyA kI carama kaTinAI kA mUlyAMkana kiyA hE .
+
+1950_0+1+2+4+5/majabUwa_3 Ora_0+1+2+4+5/eAi_3 1960_0+1+2+4+5/se_3 ke_0+1+2+4+5/saMbaMXiwa_3 1950_3/xaSaka_0+1+2+4+5 meM_0+1+2+4+5/Ora_3 awyaXika_2/1960_3/majabUwa_0+1+4+5 ke_3/ASAvAxa_2/eAI_0+1+5/eAi_4 ke_2+4/xaSaka_3/se_0+1+5 meM_3/saMbaMXiwa_0+1+5/bAre_4/calawe_2 awyaXika_0+1+3+5/meM_4/majabUwa_2 awyaXika_4/ASAvAxa_0+1+3+5/eAI_2 ASAvAxa_4/ne_0+1+2+3+5 samasyA_0+1+3+5/ne_4/isa_2 kI_0+1+3+5/samasyA_2+4 kI_2+4/awyaXika_0+3/carama_1+5 kaTinAI_0+1+3+5/carama_2+4 kI_0+1+3/kaTinAI_2+4/kA_5 kI_2/sarAhanA_0+1+3/mUlyAMkana_5/ko_4 kI_0+1+3/sarAhanA_2/kiyA_5/samaJane_4 kI_2/hE_0+1+3+5/kA_4 ._0+1+3+5/hE_2/mArga_4 ._2/praSaswa_4 kiyA_4 ._4

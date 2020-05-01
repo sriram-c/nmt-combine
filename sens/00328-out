@@ -1,9 +1,21 @@
-rAjya	avasWA	aMwarikRa	sWAna	Koja	eka	,	lakRya	aMwarnihiwa	noda	rAjya	ko	aMwarikRa	Kojane	Kojane	ke	grAPa	ke	lie	kA	lie	eka	eka	paryApwa	aMwarnihiwa	aMwarnihiwa	avyakwa	rAjya	hissA	rAjya	aMwarikRa	avasWA	spaRta	aMwarikRa	sWAna	karawA	grAPa	grAPa	AreKa	hE	kA	kA	eka	eka}	paryApwa	BAga	noda	hissA	hissA	BAga	Kojane	spaRta	spaRta	banAwA	ke	karawA	karawA	banAwA	lie	hE	hE	.	.
-1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1
-1	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1
-1	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1
-1	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1
-1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1
-0	1	0	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	1	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1
-0	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	0	0	0	1	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1
+ENG: State space search makes explicit a sufficient portion of an implicit state space graph to find a goal node.
+
+ANU: avasWA sWAna walASa anwarnihiwa avasWA sWAna grAPa kA spaRta eka paryApwa BAga eka lakRya gAzTa ko pAne ke lie banAwA hE .
+
+0 NMT: rAjya aMwarikRa Koja eka lakRya noda ko Kojane ke lie eka aMwarnihiwa rAjya aMwarikRa grAPa kA eka paryApwa hissA spaRta karawA hE .
+
+1 NMT: rAjya aMwarikRa Koja eka lakRya noda Kojane ke lie eka aMwarnihiwa rAjya aMwarikRa grAPa kA eka paryApwa hissA spaRta karawA hE .
+
+2 NMT: rAjya aMwarikRa Koja eka lakRya noda Kojane ke lie eka aMwarnihiwa rAjya aMwarikRa grAPa kA eka paryApwa hissA spaRta banAwA hE .
+
+3 NMT: rAjya aMwarikRa Koja eka aMwarnihiwa rAjya aMwarikRa grAPa kA eka paryApwa hissA spaRta karawA hE eka lakRya noda Kojane ke lie .
+
+4 NMT: rAjya aMwarikRa Koja eka lakRya noda ko Kojane ke lie eka aMwarnihiwa rAjya aMwarikRa grAPa kA eka paryApwa hissA spaRta banAwA hE .
+
+5 NMT: avasWA sWAna Koja , lakRya noda ko Kojane ke lie eka avyakwa avasWA sWAna grAPa kA paryApwa BAga spaRta karawA hE .
+
+6 NMT: rAjya aMwarikRa Koja , lakRya noda ko Kojane ke lie eka aMwarnihiwa avasWA aMwarikRa grAPa kA eka paryApwa BAga spaRta karawA hE .
+
+7 NMT: avasWA sWAna Koja , lakRya noda ko Kojane ke lie eka aMwarnihiwa avasWA sWAna AreKa kA paryApwa BAga spaRta karawA hE .
+
+avasWA_5+7/rAjya_0+1+2+3+4+6 aMwarikRa_0+1+2+3+4+6/sWAna_5+7 Koja_0+1+2+3+4+5+6+7 eka_0+1+2+3+4/,_5+6+7 lakRya_0+1+2+4+5+6+7/aMwarnihiwa_3 noda_0+1+2+4+5+6+7/rAjya_3 Kojane_1+2/aMwarikRa_3/ko_0+4+5+6+7 Kojane_0+4+5+6+7/ke_1+2/grAPa_3 ke_0+4+5+6+7/lie_1+2/kA_3 eka_1+2+3/lie_0+4+5+6+7 eka_0+4+5+6+7/paryApwa_3/aMwarnihiwa_1+2 aMwarnihiwa_0+4+6+7/rAjya_1+2/hissA_3/avyakwa_5 spaRta_3/avasWA_5+6+7/rAjya_0+4/aMwarikRa_1+2 grAPa_1+2/karawA_3/aMwarikRa_0+4+6/sWAna_5+7 hE_3/kA_1+2/grAPa_0+4+5+6/AreKa_7 eka_1+2+3/kA_0+4+5+6+7 eka_0+4+6/lakRya_3/paryApwa_1+2+5+7 noda_3/paryApwa_0+4+6/hissA_1+2/BAga_5+7 Kojane_3/spaRta_1+2+5+7/hissA_0+4/BAga_6 ke_3/spaRta_0+4+6/karawA_1+5+7/banAwA_2 lie_3/hE_1+2+5+7/karawA_0+6/banAwA_4 ._1+2+3+5+7/hE_0+4+6 ._0+4+6

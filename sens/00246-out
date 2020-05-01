@@ -1,8 +1,19 @@
-yojanA	,	kAryoM	kAryoM	kriyAoM	kA	kA	eka	krama	eka	anukrama	howA	anukrama	krama	hE	hE	howA	.	.	hE
-1	1	1	1	0	1	1	0	1	0	0	1	0	1	1	1	1	1	1	1
-1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1
-1	1	0	0	1	1	1	0	1	0	0	1	0	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	0	1	1	0	1	0	1	1	0	1	1	1
-1	1	1	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1
-1	1	1	1	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1
+ENG: A plan is a sequence of actions.
+
+ANU: yojanA kriyAoM kA eka anukrama howA hE .
+
+0 NMT: yojanA , kAryoM kA krama howA hE .
+
+1 NMT: yojanA , kriyAoM kA eka anukrama howA hE .
+
+2 NMT: yojanA , kriyAoM kA krama howA hE .
+
+3 NMT: yojanA kAryoM kA eka anukrama hE .
+
+4 NMT: yojanA , kAryoM kA eka anukrama howA hE .
+
+5 NMT: yojanA , kAryoM kA anukrama howA hE .
+
+6 NMT: yojanA , kAryoM kA eka krama howA hE .
+
+yojanA_0+1+2+3+4+5+6 ,_0+1+2+4+5+6/kAryoM_3 kA_3/kAryoM_0+4+5+6/kriyAoM_1+2 kA_0+1+2+4+5+6/eka_3 eka_1+4+6/krama_0+2 hE_3/howA_0+2+5/krama_6 hE_0+2+5/._3/howA_1+4+6 hE_1+4+6/._0+2+5 ._1+4+6

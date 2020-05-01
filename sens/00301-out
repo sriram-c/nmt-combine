@@ -1,4 +1,11 @@
-yaha	BI	ho	sakawA	hE	agara	vahAz	Koja	Koja	aMwarikRa	aMwarikRa	meM	meM	lUpa	lUpa	hEM	hEM	kara	.	rahe	.
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1
+ENG: This can also happen if there are loops in the search space.
+
+ANU: yaha BI ho sakawA hE yaxi Koja sWala meM GumAvaxAra vakra hEM .
+
+0 NMT: yaha BI ho sakawA hE agara vahAz Koja aMwarikRa meM lUpa hEM .
+
+1 NMT: yaha BI ho sakawA hE agara vahAz Koja aMwarikRa meM lUpa kara rahe hEM .
+
+2 NMT: yaha BI ho sakawA hE agara Koja aMwarikRa meM lUpa hEM .
+
+yaha_0+1+2 BI_0+1+2 ho_0+1+2 sakawA_0+1+2 hE_0+1+2 agara_0+1+2 Koja_2/vahAz_0+1 Koja_0+1/aMwarikRa_2 aMwarikRa_0+1/meM_2 meM_0+1/lUpa_2 lUpa_0+1/hEM_2 hEM_0/._2/kara_1 ._0/rahe_1 hEM_1 ._1

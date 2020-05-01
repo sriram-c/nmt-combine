@@ -1,3 +1,9 @@
-nimnaliKiwa	samasyA	para	vicAra	kareM
-1	1	1	1	1
-1	1	1	1	1
+ENG: Consider the following problem.
+
+ANU: nimnaliKiwa samasyA ko mAnie .
+
+0 NMT: nimnaliKiwa samasyA para vicAra kareM .
+
+1 NMT: nimnaliKiwa samasyA para vicAra kareM
+
+nimnaliKiwa_0+1 samasyA_0+1 para_0+1 vicAra_0+1 kareM_0+1 ._0

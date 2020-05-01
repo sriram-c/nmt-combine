@@ -1,9 +1,21 @@
-isase	isane	hameM	mAnava	mAnavIya	moYdaliMga	mAnavIya	warka	ke	warka	-	kI	moYdaliMga	moYdaliMga	viwarka	kI	kI	jatilawA	jatilawA	ko	ko	samaJane	samaJane	meM	meM	BI	BI	maxaxa	maxaxa	kI	milI	milI	kI	hE	hE	.	.
-1	0	1	1	0	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	0	1	0	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1
-0	1	1	1	0	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1
-1	0	1	0	1	0	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	0	1	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1
-1	0	1	1	0	1	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1
-1	0	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: It has also helped us understand the complexity of modeling human reasoning.
+
+ANU: isane hameM mAdela mAnavIya safkewa kA jatilawA samaJawI hE BI sahAyawA kI hE .
+
+0 NMT: isase hameM mAnava warka ke moYdaliMga kI jatilawA ko samaJane meM BI maxaxa milI hE .
+
+1 NMT: isane hameM mAnavIya warka - viwarka kI jatilawA ko samaJane meM BI maxaxa kI hE .
+
+2 NMT: isane hameM mAnava warka ke moYdaliMga kI jatilawA ko samaJane meM BI maxaxa kI hE .
+
+3 NMT: isase hameM mAnavIya warka - viwarka kI jatilawA ko samaJane meM BI maxaxa milI hE .
+
+4 NMT: isane hameM mAnava warka moYdaliMga kI jatilawA ko samaJane meM BI maxaxa kI hE .
+
+5 NMT: isase hameM mAnava warka kI moYdaliMga kI jatilawA ko samaJane meM BI maxaxa milI hE .
+
+6 NMT: isane hameM moYdaliMga mAnavIya warka kI jatilawA ko samaJane meM BI maxaxa kI hE .
+
+7 NMT: isase hameM moYdaliMga mAnavIya warka kI jatilawA ko samaJane meM BI maxaxa milI hE .
+
+isane_1+2+4+6/isase_0+3+5+7 hameM_0+1+2+3+4+5+6+7 moYdaliMga_6+7/mAnavIya_1+3/mAnava_0+2+4+5 warka_0+1+2+3+4+5/mAnavIya_6+7 kI_5/warka_6+7/moYdaliMga_4/-_1+3/ke_0+2 kI_4+6+7/moYdaliMga_0+2+5/viwarka_1+3 kI_0+1+2+3+5/jatilawA_4+6+7 jatilawA_0+1+2+3+5/ko_4+6+7 ko_0+1+2+3+5/samaJane_4+6+7 samaJane_0+1+2+3+5/meM_4+6+7 meM_0+1+2+3+5/BI_4+6+7 BI_0+1+2+3+5/maxaxa_4+6+7 kI_4+6/maxaxa_0+1+2+3+5/milI_7 kI_1+2/hE_4+6+7/milI_0+3+5 hE_0+1+2+3+5/._4+6+7 ._0+1+2+3+5

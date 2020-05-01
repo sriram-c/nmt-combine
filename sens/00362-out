@@ -1,9 +1,21 @@
-jaba	waka	vahAz	sUcakAMka	sUcakAMka	nodsa	nodsa	ke	ke	lie	lie	eka	eka	bahuwa	bahuwa	hI	hI	kuSala	kuSala	warIkA	hE	warIkA	hE	,	yaha	,	prawyeka	yaha	hara	noda	hara	prawyeka	ke}	lie}	awirikwa	lie	upari>>	Upara	upariSIrRa	SIrRa	kI	AvaSyakawA	kI	AvaSyakawA	hogI	.	hogI
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	0	1	1	0	0	0	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	0	1	1	0	0	1	0	1	1	1	1	1	1	1
-1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	1	1	0	0	1	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	1	1	0	0	1	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	1	1	0	0	1	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	0	1	1	0	0	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	0	1	1	0	1	0	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	0	1	1	0	0	1	0	1	1	1	1	1	1	1
+ENG: Unless there is a very efficient way to index nodes, this will require additional overhead for every node.
+
+ANU: yaxi nahIM sUcaka gAzTa eka awyanwa sakRama mArga hE, yaha prawyeka gAzTa ke lie awirikwa bazXA Karca jarUrawa .
+
+0 NMT: jaba waka vahAz sUcakAMka nodsa ke lie eka bahuwa kuSala warIkA hE , yaha prawyeka noda ke lie awirikwa upari kI AvaSyakawA hogI .
+
+1 NMT: jaba waka vahAz sUcakAMka nodsa ke lie eka bahuwa kuSala warIkA hE , yaha prawyeka noda ke lie awirikwa upariSIrRa kI AvaSyakawA hogI .
+
+2 NMT: jaba waka sUcakAMka nodsa ke lie eka bahuwa hI kuSala warIkA hE , yaha hara noda ke lie awirikwa upariSIrRa kI AvaSyakawA hogI .
+
+3 NMT: jaba waka vahAz sUcakAMka nodsa ke lie eka bahuwa hI kuSala warIkA hE , yaha hara noda ke lie awirikwa upariSIrRa kI AvaSyakawA hogI .
+
+4 NMT: jaba waka vahAz sUcakAMka nodsa ke lie eka bahuwa kuSala warIkA hE , yaha hara noda ke lie awirikwa upariSIrRa kI AvaSyakawA hogI .
+
+5 NMT: jaba waka vahAz sUcakAMka nodsa ke lie eka bahuwa hI kuSala warIkA hE , yaha prawyeka noda ke lie awirikwa SIrRa kI AvaSyakawA hogI .
+
+6 NMT: jaba waka vahAz sUcakAMka nodsa ke lie eka bahuwa hI kuSala warIkA hE , yaha prawyeka noda ke lie awirikwa Upara kI AvaSyakawA hogI .
+
+7 NMT: jaba waka vahAz sUcakAMka nodsa ke lie eka bahuwa hI kuSala warIkA hE , yaha prawyeka noda ke lie awirikwa upariSIrRa kI AvaSyakawA hogI .
+
+jaba_0+1+2+3+4+5+6+7 waka_0+1+2+3+4+5+6+7 sUcakAMka_2/vahAz_0+1+3+4+5+6+7 sUcakAMka_0+1+3+4+5+6+7/nodsa_2 ke_2/nodsa_0+1+3+4+5+6+7 ke_0+1+3+4+5+6+7/lie_2 lie_0+1+3+4+5+6+7/eka_2 eka_0+1+3+4+5+6+7/bahuwa_2 bahuwa_0+1+3+4+5+6+7/hI_2 kuSala_0+1+2+4/hI_3+5+6+7 kuSala_3+5+6+7/warIkA_0+1+2+4 warIkA_3+5+6+7/hE_0+1+2+4 hE_3+5+6+7/,_0+1+2+4 ,_3+5+6+7/yaha_0+1+2+4 yaha_3+5+6+7/prawyeka_0+1/hara_2+4 noda_0+1+2+4/prawyeka_5+6+7/hara_3 ke_0+1+2+4/noda_3+5+6+7 ke_3+5+6+7/lie_0+1+2+4 lie_3+5+6+7/awirikwa_0+1+2+4 awirikwa_3+5+6+7/upariSIrRa_1+2+4/upari_0 kI_0+1+2+4/upariSIrRa_3+7/Upara_6/SIrRa_5 kI_3+5+6+7/AvaSyakawA_0+1+2+4 AvaSyakawA_3+5+6+7/hogI_0+1+2+4 hogI_3+5+6+7/._0+1+2+4 ._3+5+6+7

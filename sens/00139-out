@@ -1,9 +1,21 @@
-pUCeMjevsa	sejevsa	Name	.	koYma	soYPtabota	eka	kA	soYPtabota	soYPtaboYta	eka	kA	uxAharaNa	hE	.
-1	0	0	1	1	1	1	1	1	0	1	1	1	1	1
-0	1	0	1	1	1	1	1	1	0	1	1	1	1	1
-0	1	0	1	1	1	1	1	1	0	1	1	1	1	1
-0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-1	0	0	1	1	1	1	1	1	0	1	1	1	1	1
-1	0	0	1	1	1	1	1	1	0	1	1	1	1	1
-1	0	0	1	1	0	1	1	0	1	1	1	1	1	1
-1	0	0	1	1	0	1	1	0	1	1	1	1	1	1
+ENG: Askjeeves.com is an example of a softbot.
+
+ANU: Askjeeves. vyavasAyika sWala softbot kA eka uxAharaNa hE .
+
+0 NMT: pUCeMjevsa . koYma soYPtabota kA eka uxAharaNa hE .
+
+1 NMT: sejevsa . koYma eka soYPtabota kA uxAharaNa hE .
+
+2 NMT: sejevsa . koYma soYPtabota kA eka uxAharaNa hE .
+
+3 NMT: Name
+
+4 NMT: pUCeMjevsa . koYma soYPtabota kA eka uxAharaNa hE
+
+5 NMT: pUCeMjevsa . koYma eka soYPtabota kA uxAharaNa hE .
+
+6 NMT: pUCeMjevsa . koYma eka soYPtaboYta kA uxAharaNa hE .
+
+7 NMT: pUCeMjevsa . koYma eka soYPtaboYta kA uxAharaNa hE
+
+pUCeMjevsa_0+4+5+6+7/sejevsa_1+2 ._0+1+2+4+5+6+7 koYma_0+1+2+4+5+6+7 eka_1+5+6+7/soYPtabota_0+2+4 kA_0+2+4/soYPtabota_1+5/soYPtaboYta_6+7 eka_0+2+4/kA_1+5+6+7 uxAharaNa_0+1+2+4+5+6+7 hE_0+1+2+4+5+6+7 ._0+1+2+5+6

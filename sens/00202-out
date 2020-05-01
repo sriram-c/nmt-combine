@@ -1,6 +1,15 @@
-varwamAna	mOjUxA	sWiwi	seMsara	hE	ke	ke	kyoMki	rUpa	rUpa	seMsara	meM	meM	ise	seMsara	yaha	ise	seMsara	aBI	aBI	ise	xeKawe	xeKawe	aBI	xeKa	hEM	rahe	xeKawe	hEM	.	.	hEM
-1	0	1	1	0	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1
-1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1
-1	0	1	1	0	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	0	0	0	1	1	1	1	0	1	1	1	1
-1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1
-0	1	1	1	1	0	0	1	0	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1
+ENG: The current state is as the sensors see it right now.
+
+ANU: varwamAna avasWA hE jaba seMsara isa samaya isako xeKawe hEM .
+
+0 NMT: varwamAna sWiwi seMsara ke rUpa meM yaha aBI xeKawe hEM .
+
+1 NMT: varwamAna sWiwi hE ke rUpa meM seMsara ise aBI xeKawe hEM .
+
+2 NMT: varwamAna sWiwi seMsara ke rUpa meM yaha aBI xeKa rahe hEM .
+
+3 NMT: varwamAna sWiwi ke rUpa meM seMsara ise aBI xeKa rahe hEM .
+
+4 NMT: mOjUxA sWiwi hE kyoMki seMsara ise aBI xeKawe hEM .
+
+varwamAna_0+1+2+3/mOjUxA_4 sWiwi_0+1+2+3+4 seMsara_0+2/hE_1+4/ke_3 ke_0+1+2/rUpa_3/kyoMki_4 seMsara_4/rUpa_0+1+2/meM_3 seMsara_3/ise_4/meM_0+1+2 aBI_4/seMsara_1/ise_3/yaha_0+2 aBI_0+2+3/ise_1/xeKawe_4 hEM_4/aBI_1/xeKawe_0/xeKa_2+3 hEM_0/._4/xeKawe_1/rahe_2+3 hEM_1+2+3/._0 ._1+2+3

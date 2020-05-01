@@ -1,7 +1,17 @@
-rAjya	avasWA	sWAna	aMwarikRa	kA	ko	spaRta	rUpa	spaRta	grAPa	se	rUpa	xvArA	eka	spaRta	se	grAPa	rUpa	xvArA	se	prawiniXiwva	praxarSiwa	xarSAyA	kiyA	jA	jA	sakawA	sakawA	hE	hE	.	.
-1	0	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1
-1	0	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1
-0	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1
-0	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1
-0	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1
+ENG: The state space may be explicitly represented by a graph.
+
+ANU: avasWA sWAna grAPa ke xvArA spaRtawA se vyakwa kara .
+
+0 NMT: rAjya sWAna spaRta rUpa se eka grAPa xvArA prawiniXiwva kiyA jA sakawA hE .
+
+1 NMT: rAjya aMwarikRa spaRta rUpa se eka grAPa xvArA prawiniXiwva kiyA jA sakawA hE .
+
+2 NMT: rAjya sWAna kA spaRta rUpa se grAPa xvArA prawiniXiwva kiyA jA sakawA hE .
+
+3 NMT: avasWA sWAna ko spaRta rUpa se grAPa xvArA xarSAyA jA sakawA hE .
+
+4 NMT: avasWA sWAna ko grAPa xvArA spaRta rUpa se praxarSiwa kiyA jA sakawA hE .
+
+5 NMT: avasWA sWAna ko grAPa xvArA spaRta rUpa se xarSAyA jA sakawA hE .
+
+avasWA_3+4+5/rAjya_0+1+2 sWAna_0+2+3+4+5/aMwarikRa_1 spaRta_0+1/ko_3+4+5/kA_2 spaRta_2+3/rUpa_0+1/grAPa_4+5 rUpa_2+3/se_0+1/xvArA_4+5 spaRta_4+5/se_2+3/eka_0+1 rUpa_4+5/grAPa_0+1+2+3 se_4+5/xvArA_0+1+2+3 prawiniXiwva_0+1+2/xarSAyA_3+5/praxarSiwa_4 jA_3+5/kiyA_0+1+2+4 jA_0+1+2+4/sakawA_3+5 sakawA_0+1+2+4/hE_3+5 hE_0+1+2+4/._3+5 ._0+1+2+4

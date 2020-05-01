@@ -1,6 +1,15 @@
-varwamAna	mOjUxA	sWiwi	para	ke	AXAriwa	AXAra	gola	para	lakRya	nirmANa	lakRya	nirXAraNa	kaI	kaI	samasyAoM	ko	samasyAoM	ke	sulaJAne	ke	samAXAna	kA	samAXAna	eka	kA	eka	warIkA	warIkA	hE	Ora	hE	Koja	Ora	Koja	eAI	eAI	meM	eka}	sArvaBOmika	eka	samasyA	sArvaBOmika	samAXAna	samasyA	samAXAna	waMwra	hE}	.	hE
-1	0	1	1	0	1	0	1	1	0	1	0	0	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1
-1	0	1	1	1	1	0	1	1	0	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1
-1	0	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1
-1	0	1	1	1	0	1	0	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1
-0	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1
+ENG: Goal formulation based on the current situation is a way of solving many problems and search is a universal problem solving mechanism in AI.
+
+ANU: AXAriwa varwamAna sWiwi para lakRya sUwrIkaraNa bahuwa samasyAoM ko hala karane kA isa prakAra hE Ora walASa e. AI. meM yanwravinyAsa ko hala karawe hue eka viSvasambanXI samasyA hE .
+
+0 NMT: varwamAna sWiwi para AXAriwa gola nirmANa kaI samasyAoM ko sulaJAne kA eka warIkA hE Ora Koja eAI meM eka sArvaBOmika samasyA samAXAna waMwra hE .
+
+1 NMT: varwamAna sWiwi para AXAriwa gola nirmANa kaI samasyAoM ke samAXAna kA eka warIkA hE Ora Koja eAI meM eka sArvaBOmika samasyA samAXAna waMwra hE .
+
+2 NMT: varwamAna sWiwi para AXAriwa lakRya nirmANa kaI samasyAoM ko sulaJAne kA eka warIkA hE Ora Koja eAI meM eka sArvaBOmika samasyA samAXAna waMwra hE .
+
+3 NMT: varwamAna sWiwi ke AXAra para lakRya nirXAraNa kaI samasyAoM ke samAXAna kA eka warIkA hE Ora Koja eAI meM eka sArvaBOmika samasyA samAXAna waMwra hE .
+
+4 NMT: mOjUxA sWiwi ke AXAra para lakRya nirXAraNa kaI samasyAoM ke samAXAna kA eka warIkA hE Ora Koja eAI meM eka sArvaBOmika samasyA samAXAna waMwra hE .
+
+varwamAna_0+1+2+3/mOjUxA_4 sWiwi_0+1+2+3+4 ke_3+4/para_0+1+2 AXAriwa_0+1+2/AXAra_3+4 para_3+4/lakRya_2/gola_0+1 lakRya_3+4/nirmANa_0+1+2 kaI_0+1+2/nirXAraNa_3+4 kaI_3+4/samasyAoM_0+1+2 ke_1/samasyAoM_3+4/ko_0+2 samAXAna_1/ke_3+4/sulaJAne_0+2 samAXAna_3+4/kA_0+1+2 eka_0+1+2/kA_3+4 eka_3+4/warIkA_0+1+2 hE_0+1+2/warIkA_3+4 hE_3+4/Ora_0+1+2 Ora_3+4/Koja_0+1+2 Koja_3+4/eAI_0+1+2 eAI_3+4/meM_0+1+2 eka_0+1+2/meM_3+4 eka_3+4/sArvaBOmika_0+1+2 sArvaBOmika_3+4/samasyA_0+1+2 samAXAna_0+1+2/samasyA_3+4 samAXAna_3+4/waMwra_0+1+2 hE_0+1+2/waMwra_3+4 hE_3+4/._0+1+2 ._3+4

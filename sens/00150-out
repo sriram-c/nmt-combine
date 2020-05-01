@@ -1,11 +1,25 @@
-pUrNa	warkasaMgawawA	warkaSIlawA	yaha	mAna	kara	lewI	calawI	hE	hE	ki	ki	yukwisaMgawa	vivekI	yukwi	warkasaMgawa	warkasaMgawa	ejeMta	saMgawa	aBikarwA	aBikarwA	saba	ejeMta	saBI	saBI	kuCa	saba	jAnawA	ko	ko	hE	kuCa	jAnawA	jAnawA	hE	Ora	hE}	Ora	EsA	vaha	EsI	vaha	kArya	EsA	kArravAI	EsI	EsI	kArya	kArravAI	karegA	kArravAI	karegA	jo	karegA}	jo}	usakI}	upayogiwA}	ko}	aXikawama}	karawI	hE	.	hE}
-1	1	0	1	1	1	0	1	1	1	1	1	0	0	0	1	1	0	0	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	1	0	0	0	0	0	0	1	1	1	0
-1	1	0	1	1	1	0	1	1	1	1	1	0	0	0	1	1	0	0	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	0	1	0	1	1	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	1	1	0
-1	1	0	1	1	0	1	0	1	1	1	1	0	0	0	1	1	0	0	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	0	1	0	1	0	0	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	1	1	1	0
-1	0	1	1	1	0	1	0	1	1	1	1	0	0	0	1	1	0	0	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	0	1	0	1	0	0	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	1	1	1	0
-1	1	0	1	1	1	0	1	1	1	1	1	0	0	0	1	1	0	0	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	0	0	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	1	1	1	0
-1	1	0	1	1	0	1	0	1	1	1	1	0	0	0	1	1	0	0	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	1	0	0	0	0	0	0	1	1	1	0
-1	1	0	1	1	0	1	0	1	1	1	1	0	1	0	0	0	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	1	0	0	0	0	0	0	1	1	1	0
-1	1	0	1	1	0	1	0	1	1	1	1	1	0	0	0	0	1	0	0	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	0
-1	1	0	1	1	0	1	0	1	1	1	1	0	0	1	0	0	1	1	0	0	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	1	1	0
-1	1	0	1	1	0	1	0	1	1	1	1	0	0	0	1	1	1	0	0	0	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	1	1	0
+ENG: Perfect Rationality assumes that the rational agent knows all and will take the action that maximizes her utility.
+
+ANU: bilkula TIka rESanElitI mAnawA hE jo warkasafgawa prawiniXi saba jAnawA hE ki Ora vaha kAryavAhI karegA jo usakI upayogiwA uccawama sImA waka baDAnA .
+
+0 NMT: pUrNa warkasaMgawawA yaha mAna kara calawI hE ki warkasaMgawa aBikarwA saBI ko jAnawA hE Ora vaha EsI kArravAI karegA jo usakI upayogiwA ko aXikawama karawI hE .
+
+1 NMT: pUrNa warkasaMgawawA yaha mAna kara calawI hE ki warkasaMgawa aBikarwA saBI ko jAnawA hE Ora vaha kArya karegA jo usakI upayogiwA ko aXikawama karawA hE .
+
+2 NMT: pUrNa warkasaMgawawA yaha mAna lewI hE ki warkasaMgawa aBikarwA saBI ko jAnawA hE Ora vaha kArravAI karegA jo usakI upayogiwA ko aXikawama karawI hE .
+
+3 NMT: pUrNa warkaSIlawA yaha mAna lewI hE ki warkasaMgawa aBikarwA saBI ko jAnawA hE Ora vaha kArravAI karegA jo usakI upayogiwA ko aXikawama karawI hE .
+
+4 NMT: pUrNa warkasaMgawawA yaha mAna kara calawI hE ki warkasaMgawa aBikarwA saba kuCa jAnawA hE Ora vaha kArravAI karegA jo usakI upayogiwA ko aXikawama karawI hE .
+
+5 NMT: pUrNa warkasaMgawawA yaha mAna lewI hE ki warkasaMgawa aBikarwA saBI ko jAnawA hE Ora vaha EsI kArravAI karegA jo usakI upayogiwA ko aXikawama karawI hE .
+
+6 NMT: pUrNa warkasaMgawawA yaha mAna lewI hE ki vivekI ejeMta saba kuCa jAnawA hE Ora vaha EsI kArravAI karegA jo usakI upayogiwA ko aXikawama karawI hE .
+
+7 NMT: pUrNa warkasaMgawawA yaha mAna lewI hE ki yukwisaMgawa ejeMta saBI jAnawA hE Ora vaha EsI kArravAI karegA jo usakI upayogiwA ko aXikawama banAe .
+
+8 NMT: pUrNa warkasaMgawawA yaha mAna lewI hE ki yukwi saMgawa ejeMta saba jAnawA hE Ora vaha EsA kArya karegA jo usakI upayogiwA ko aXikawama banAe .
+
+9 NMT: pUrNa warkasaMgawawA yaha mAna lewI hE ki warkasaMgawa ejeMta saba jAnawA hE Ora vaha EsA kArya karegA jo usakI upayogiwA ko aXikawama banAe .
+
+pUrNa_0+1+2+3+4+5+6+7+8+9 warkasaMgawawA_0+1+2+4+5+6+7+8+9/warkaSIlawA_3 yaha_0+1+2+3+4+5+6+7+8+9 mAna_0+1+2+3+4+5+6+7+8+9 lewI_2+3+5+6+7+8+9/kara_0+1+4 hE_2+3+5+6+7+8+9/calawI_0+1+4 hE_0+1+4/ki_2+3+5+6+7+8+9 ki_0+1+4/warkasaMgawa_2+3+5+9/yukwi_8/yukwisaMgawa_7/vivekI_6 warkasaMgawa_0+1+4/aBikarwA_2+3+5/ejeMta_6+7+9/saMgawa_8 aBikarwA_0+1+4/ejeMta_8/saba_6+9/saBI_2+3+5+7 ko_2+3+5/jAnawA_7+9/saba_4+8/kuCa_6/saBI_0+1 hE_7+9/ko_0+1/jAnawA_2+3+5+6+8/kuCa_4 hE_2+3+5+6+8/jAnawA_0+1+4/Ora_7+9 hE_0+1+4/Ora_2+3+5+6+8/vaha_7+9 Ora_0+1+4/vaha_2+3+5+6+8/EsI_7/EsA_9 vaha_0+1+4/kArravAI_2+3+7/EsI_5+6/kArya_9/EsA_8 karegA_2+3+7+9/kArravAI_4+5+6/EsI_0/kArya_1+8 karegA_1+4+5+6+8/jo_2+3+7+9/kArravAI_0 karegA_0/jo_1+4+5+6+8/usakI_2+3+7+9 jo_0/usakI_1+4+5+6+8/upayogiwA_2+3+7+9 ko_2+3+7+9/usakI_0/upayogiwA_1+4+5+6+8 ko_1+4+5+6+8/upayogiwA_0/aXikawama_2+3+7+9 ko_0/aXikawama_1+4+5+6+8/karawI_2+3/banAe_7+9 hE_2+3/aXikawama_0/._7+9/karawI_4+5+6/banAe_8/karawA_1 hE_1+4+5+6/._2+3+8/karawI_0 hE_0/._1+4+5+6 ._0

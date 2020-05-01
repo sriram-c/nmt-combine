@@ -1,5 +1,13 @@
-manuRyoM	mAnava	manuRya	ko	ejeMta>>	ke	rUpa	meM	xeKA	jA	sakawA	hE	.
-1	0	0	1	0	1	1	1	1	1	1	1	1
-0	1	0	1	0	1	1	1	1	1	1	1	1
-1	0	0	1	0	1	1	1	1	1	1	1	1
-0	0	1	1	0	1	1	1	1	1	1	1	1
+ENG: Humans can be looked upon as agents.
+
+ANU: mAnava ke Upara prawiniXiyoM ke jEsA xeKe jA sakawe hEM .
+
+0 NMT: manuRyoM ko ejeMta ke rUpa meM xeKA jA sakawA hE .
+
+1 NMT: mAnava ko aBikarwA ke rUpa meM xeKA jA sakawA hE .
+
+2 NMT: manuRyoM ko aBikarwA ke rUpa meM xeKA jA sakawA hE .
+
+3 NMT: manuRya ko aBikarwA ke rUpa meM xeKA jA sakawA hE .
+
+manuRyoM_0+2/manuRya_3/mAnava_1 ko_0+1+2+3 aBikarwA_1+2+3/ejeMta_0 ke_0+1+2+3 rUpa_0+1+2+3 meM_0+1+2+3 xeKA_0+1+2+3 jA_0+1+2+3 sakawA_0+1+2+3 hE_0+1+2+3 ._0+1+2+3

@@ -1,7 +1,17 @@
-prawyeka	gawiviXi	parimiwa	eka	avasWA	parimiwa	rAjya	maSIna	avasWA	rAjya	xvArA	maSIna	moYdala	xvArA	kI	moYdala	kiyA	jAwI	kI	kiyA	jAwA	hE	hE	jAwA	jAwI	.	.	hE
-1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1
-1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1
-1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	0	0	0	0	0	1	1	0	0	1	1	1
-1	1	1	0	0	1	1	1	0	1	1	1	1	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1
-1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1
-1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1
+ENG: Each activity is modeled by a finite state machine.
+
+ANU: hara eka kriyA kalApa eka parimiwa avasWA yanwra ke pAsa mAdela hE .
+
+0 NMT: prawyeka gawiviXi parimiwa avasWA maSIna xvArA moYdala kI jAwI hE .
+
+1 NMT: prawyeka gawiviXi eka parimiwa rAjya maSIna xvArA moYdala kiyA jAwA hE .
+
+2 NMT: prawyeka gawiviXi eka parimiwa rAjya maSIna xvArA moYdala hE .
+
+3 NMT: prawyeka gawiviXi parimiwa rAjya maSIna xvArA moYdala kiyA jAwA hE .
+
+4 NMT: prawyeka gawiviXi parimiwa avasWA maSIna xvArA moYdala kiyA jAwA hE .
+
+5 NMT: prawyeka gawiviXi eka parimiwa avasWA maSIna xvArA moYdala kI jAwI hE .
+
+prawyeka_0+1+2+3+4+5 gawiviXi_0+1+2+3+4+5 parimiwa_0+3+4/eka_1+2+5 parimiwa_1+2+5/rAjya_3/avasWA_0+4 maSIna_0+3+4/rAjya_1+2/avasWA_5 maSIna_1+2+5/xvArA_0+3+4 xvArA_1+2+5/moYdala_0+3+4 moYdala_1+2+5/kiyA_3+4/kI_0 hE_2/kiyA_1/jAwA_3+4/kI_5/jAwI_0 hE_0+3+4/._2/jAwA_1/jAwI_5 hE_1+5/._0+3+4 ._1+5

@@ -1,6 +1,15 @@
-kuCa	Koja	elgorixama	CLOSED	,	baMxa	nAmaka	CLOSED	nodsa	detA	kI	nAmaka	saMracanA	detA	eka	meM	saMracanA	detA	baMxa	saMracanA	meM	nodsa	meM	baMxa	para>>	najZara>>	raKawe	trEka	hEM	hEM	jise	raKawe	CLOSED	hEM	.
-1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	0	1	1	1	1
-1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	0	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1
+ENG: Some search algorithms keep track of the closed nodes in a data structure called CLOSED.
+
+ANU: kuCa walASa praNAliyAz eka AzkadA saMracanA meM banxa gAzTa kA trEka klovjZda bulA .
+
+0 NMT: kuCa Koja elgorixama CLOSED nAmaka detA saMracanA meM baMxa nodsa para najZara raKawe hEM .
+
+1 NMT: kuCa Koja elgorixama baMxa nodsa kI eka detA saMracanA meM trEka raKawe hEM jise CLOSED kahawe hEM .
+
+2 NMT: kuCa Koja elgorixama CLOSED nAmaka detA saMracanA meM baMxa nodsa kI jAnakArI raKawe hEM .
+
+3 NMT: kuCa Koja elgorixama CLOSED nAmaka detA saMracanA meM baMxa nodsa kA trEka raKawe hEM .
+
+4 NMT: kuCa Koja elgorixama , CLOSED nAmaka detA saMracanA meM baMxa nodsa kA trEka raKawe hEM .
+
+kuCa_0+1+2+3+4 Koja_0+1+2+3+4 elgorixama_0+1+2+3+4 baMxa_1/CLOSED_0+2+3/,_4 nodsa_1/CLOSED_4/nAmaka_0+2+3 detA_0+2+3/nAmaka_4/kI_1 detA_4/saMracanA_0+2+3/eka_1 detA_1/saMracanA_4/meM_0+2+3 saMracanA_1/meM_4/baMxa_0+2+3 meM_1/baMxa_4/nodsa_0+2+3 nodsa_4/trEka_1/kA_3/kI_2/para_0 raKawe_1/trEka_3/kA_4/jAnakArI_2/najZara_0 hEM_1/raKawe_0+2+3/trEka_4 hEM_0+2+3/raKawe_4/jise_1 hEM_4/._0+2+3/CLOSED_1 ._4/kahawe_1 hEM_1 ._1

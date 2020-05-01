@@ -1,5 +1,13 @@
-robotiksa	meM	,	hama	vAhanoM	vAhana	hE	banAne	ki	meM	jyAxAwara	sakRama	svAyawwa	ho	kiyA	hEM]	banAne	hEM	rahe	hE	meM}	banAne	jyAxAwara	sakRama	kiyA	meM	svAyawwa	gayA	hEM	sakRama	howe	hE	hEM	kiyA	.	.	gayA
-1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	1	1	1	0	1	0	1	0	1	1	1	1	1	0	0	1	1	0	0	0	1	1	1	0	1	1	0	1	1	1	0	1	0	1	1	0
-1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
+ENG: In Robotics, we have been able to make vehicles that are mostly autonomous.
+
+ANU: rovboYtiksa meM, hama vAhana jo prAyaH svAyawwa hEM banAnA samarWa ho cuke hEM .
+
+0 NMT: robotiksa meM , hama vAhanoM hE ki jyAxAwara svAyawwa hEM banAne meM sakRama kiyA gayA hE .
+
+1 NMT: robotiksa meM , hama vAhana banAne meM sakRama kiyA gayA hE ki jyAxAwara svAyawwa hEM .
+
+2 NMT: robotiksa meM , hama vAhana banAne meM sakRama ho gae hEM jo jyAxAwara svAyawwa howe hEM .
+
+3 NMT: robotiksa meM , hama vAhanoM hE ki jyAxAwara svAyawwa kara rahe hEM banAne meM sakRama kiyA gayA hE .
+
+robotiksa_0+1+2+3 meM_0+1+2+3 ,_0+1+2+3 hama_0+1+2+3 vAhana_1+2/vAhanoM_0+3 hE_0+3/banAne_1+2 meM_1+2/ki_0+3 sakRama_1+2/jyAxAwara_0+3 svAyawwa_0+3/kiyA_1/ho_2 hEM_0/gayA_1/kara_3/gae_2 hEM_2/hE_1/banAne_0/rahe_3 meM_0/hEM_3/ki_1/jo_2 banAne_3/sakRama_0/jyAxAwara_1+2 meM_3/svAyawwa_1+2/kiyA_0 hEM_1/sakRama_3/gayA_0/howe_2 hEM_2/hE_0/._1/kiyA_3 ._0+2/gayA_3 hE_3 ._3

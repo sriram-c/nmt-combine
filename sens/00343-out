@@ -1,4 +1,11 @@
-yaha>>	elgoriWma	gaharAI	ko	gaharAI	asImiwa	Koja	-	ke	asImiwa	rUpa	Koja	meM	ke	jAnA	rUpa	jAwA	meM	hE	jAnA	jAwA	.
-0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: This algorithm is known as depth-limited search.
+
+ANU: yaha praNAlI gaharAI-sImiwa walASa ke nAma se jAnI jAwI hE .
+
+0 NMT: yaha elgoriWma gaharAI asImiwa Koja ke rUpa meM jAnA jAwA hE .
+
+1 NMT: isa elgoriWma gaharAI asImiwa Koja ke rUpa meM jAnA jAwA hE .
+
+2 NMT: isa elgoriWma ko gaharAI - asImiwa Koja ke rUpa meM jAnA jAwA hE .
+
+isa_1+2/yaha_0 elgoriWma_0+1+2 gaharAI_0+1/ko_2 asImiwa_0+1/gaharAI_2 Koja_0+1/-_2 asImiwa_2/ke_0+1 Koja_2/rUpa_0+1 ke_2/meM_0+1 rUpa_2/jAnA_0+1 meM_2/jAwA_0+1 jAnA_2/hE_0+1 jAwA_2/._0+1 hE_2 ._2

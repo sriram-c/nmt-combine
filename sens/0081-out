@@ -1,10 +1,23 @@
-kaMpyUtara	iMsAnoM	kI	ko	nakala	kaMpyUtara	karane	karake	kI	kA]	sapanA	iMsAnoM	banAne	kaMpyUtara	sapane	manuRyoM	BI]	manuRyoM	sapane	kA	BI	kA	sapanA	prAraMBika	bahuwa	iwihAsa	bahuwa	BI	iwihAsa	prAraMBika	prAraMBika	bahuwa	pahale	iwihAsa	hE	iwihAsa	kA	jalxI	SuruAwI	hE	.	iwihAsa	hE	.	.	bana	rahA	hE
-1	0	1	0	1	1	1	0	1	0	1	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1
-1	0	1	0	1	1	1	0	1	0	0	0	0	1	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1
-1	0	1	0	1	1	1	0	1	0	0	0	0	1	1	0	0	0	1	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1
-1	0	1	0	1	1	1	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	0	1	0	1	0	1	1	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1
-1	0	1	0	1	1	1	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	0	1
-1	1	1	0	1	1	1	0	1	0	1	1	1	1	0	0	0	0	0	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1
-1	1	1	0	1	1	1	0	1	0	0	1	0	1	1	0	0	0	1	1	1	1	0	0	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1
-1	1	1	0	1	1	0	1	1	0	0	1	1	1	1	0	0	0	1	1	1	1	0	0	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1
-1	1	1	1	1	1	0	0	1	0	0	1	1	1	1	0	0	0	1	1	1	1	0	0	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1
+ENG: The dream of making a computer imitate humans also has a very early history.
+
+ANU: safgaNaka banAne kA svapna nakala karawA hE mAnavoM ke BI eka awyanwa prAcIna iwihAsa hE .
+
+0 NMT: kaMpyUtara kI nakala karane kA sapanA BI manuRyoM kA bahuwa prAraMBika iwihAsa hE .
+
+1 NMT: kaMpyUtara kI nakala karane ke sapane kA BI bahuwa prAraMBika iwihAsa hE .
+
+2 NMT: kaMpyUtara kI nakala karane ke sapane kA BI iwihAsa bahuwa pahale kA hE .
+
+3 NMT: kaMpyUtara kI nakala karane vAle manuRyoM kA BI prAraMBika iwihAsa hE .
+
+4 NMT: kaMpyUtara kI nakala karane vAle manuRyoM kA BI iwihAsa bahuwa pahale kA hE .
+
+5 NMT: iMsAnoM kI nakala karane vAle kaMpyUtara banAne kA sapanA BI bahuwa jalxI iwihAsa bana jAwA hE .
+
+6 NMT: kaMpyUtara kI nakala karane vAle iMsAnoM ke sapane kA BI bahuwa SuruAwI iwihAsa hE .
+
+7 NMT: iMsAnoM kI nakala karake kaMpyUtara banAne ke sapane kA BI bahuwa SuruAwI iwihAsa rahA hE .
+
+8 NMT: iMsAnoM ko kaMpyUtara kI nakala banAne ke sapane kA BI bahuwa SuruAwI iwihAsa rahA hE .
+
+kaMpyUtara_0+1+2+3+4+6/iMsAnoM_5+7+8 kI_0+1+2+3+4+5+6+7/ko_8 nakala_0+1+2+3+4+5+6+7/kaMpyUtara_8 kI_8/karane_0+1+2+3+4+5+6/karake_7 kA_0/nakala_8/kaMpyUtara_7/ke_1+2/vAle_3+4+5+6 kaMpyUtara_5/sapane_1+2/iMsAnoM_6/banAne_7+8/manuRyoM_3+4/sapanA_0 kA_1+2+3+4/BI_0/ke_6+7+8/banAne_5 kA_5/BI_1+2+3+4/sapane_6+7+8/manuRyoM_0 kA_0+6+7+8/iwihAsa_2+4/bahuwa_1/prAraMBika_3/sapanA_5 iwihAsa_3/BI_5+6+7+8/bahuwa_0+2+4/prAraMBika_1 hE_3/iwihAsa_1/bahuwa_5+6+7+8/prAraMBika_0/pahale_2+4 kA_2+4/hE_1/._3/iwihAsa_0/SuruAwI_6+7+8/jalxI_5 hE_0+2+4/._1/iwihAsa_5+6+7+8 hE_6/._0+2+4/rahA_7+8/bana_5 hE_7+8/._6/jAwA_5 hE_5/._7+8 ._5

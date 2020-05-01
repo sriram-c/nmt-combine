@@ -1,7 +1,17 @@
-EsA	karane	karane	ke	ke	lie	lie	hameM	hameM	borda	naI]	rAnI]	ko>>	borda}	para}	mOjUxa	ke	KilAPa	saBI}	rAniyoM}	ke}	KilAPa}	jAMca	jAzca	karanI	karanI	hE	hogI	hogI	.	.
-1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	1	1	1	0	0	0	0	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	1	1	1	0	0	0	0	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	1	1	1	0	1	1	1	1
-0	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	1	0	1	1	1	1
-0	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	0	0	1	1
+ENG: To do that we have to check the new queen against all existing queens on the board.
+
+ANU: karane ke lie ki hama borda para saba varwamAna rAniyoM ke viruxXa nayI rAnI jAzcanI hE .
+
+0 NMT: EsA karane ke lie hameM naI rAnI ko borda para mOjUxa saBI rAniyoM ke KilAPa jAMca karanI hogI .
+
+1 NMT: EsA karane ke lie hameM borda para mOjUxa saBI rAniyoM ke KilAPa naI rAnI kI jAMca karanI hogI .
+
+2 NMT: EsA karane ke lie hameM borda para saBI mOjUxA rAniyoM ke KilAPa naI rAnI kI jAzca karanI hogI .
+
+3 NMT: karane ke lie hameM borda para saBI mOjUxA rAniyoM ke KilAPa naI rAnI kI jAzca karanI hogI .
+
+4 NMT: EsA karane ke lie hameM borda para saBI mOjUxA rAniyoM ke KilAPa naI rAnI kI jAMca karanI hogI .
+
+5 NMT: karane ke lie hameM borda para saBI mOjUxA rAniyoM ke KilAPa naI rAnI kI jAzca karanI hE .
+
+karane_3+5/EsA_0+1+2+4 ke_3+5/karane_0+1+2+4 ke_0+1+2+4/lie_3+5 lie_0+1+2+4/hameM_3+5 hameM_0+1+2+4/borda_3+5 borda_1+2+4/para_3+5/naI_0 para_1+2+4/rAnI_0/saBI_3+5 saBI_2+4/mOjUxA_3+5/mOjUxa_1/ko_0 rAniyoM_3+5/borda_0/saBI_1/mOjUxA_2+4 ke_3+5/rAniyoM_1+2+4/para_0 ke_1+2+4/KilAPa_3+5/mOjUxa_0 KilAPa_1+2+4/naI_3+5/saBI_0 rAniyoM_0/naI_1+2+4/rAnI_3+5 ke_0/rAnI_1+2+4/kI_3+5 KilAPa_0/kI_1+2+4/jAzca_3+5 karanI_3+5/jAzca_2/jAMca_0+1+4 karanI_0+1+2+4/hogI_3/hE_5 ._3+5/hogI_0+1+2+4 ._0+1+2+4

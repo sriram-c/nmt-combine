@@ -1,8 +1,19 @@
-isa	parixqSya	ko	xeKawe	hue	viBinna	SoXakarwAoM	vyAKyAoM	xvArA	ne	kA	kqwrima	prayoga	viBinna	buxXi	viBinna	vyAKyAoM	SoXakarwAoM	ke	kA	xAyare	kRewra	ne	upayoga	Ora	kqwrima	xqSya	xqRtikoNa	buxXi	buxXimawwA	ko}	pariBARiwa	kRewra	Ora	karane	ke}	ko	rUpa	meM	pariBARiwa	viBinna}	vyAKyAoM	ke	kA	rUpa	upayoga	prayoga	meM	kiyA	gayA	hE	hE	.	.
-1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	0	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	0	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	0	1	0	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1
+ENG: Given this scenario different interpretations have been used by different researchers as defining the scope and view of Artificial Intelligence.
+
+ANU: isa xqSya yojanA xe alaga alaga spaRtIkaraNa kqwrima buxXi kA kRewra Ora xqRtikoNa pariBARiwa karane vAlA alaga alaga SoXakoM ke xvArA upayoga kiyA gayA hE .
+
+0 NMT: isa parixqSya ko xeKawe hue viBinna SoXakarwAoM xvArA kqwrima buxXi ke xAyare Ora xqSya ko pariBARiwa karane ke rUpa meM viBinna vyAKyAoM kA upayoga kiyA gayA hE .
+
+1 NMT: isa parixqSya ko xeKawe hue viBinna SoXakarwAoM xvArA kqwrima buxXi ke kRewra Ora xqSya ko pariBARiwa karane ke rUpa meM viBinna vyAKyAoM kA upayoga kiyA gayA hE .
+
+2 NMT: isa parixqSya ko xeKawe hue viBinna SoXakarwAoM xvArA kqwrima buxXi ke xAyare Ora xqRtikoNa ko pariBARiwa karane ke rUpa meM viBinna vyAKyAoM kA upayoga kiyA gayA hE .
+
+3 NMT: isa parixqSya ko xeKawe hue viBinna vyAKyAoM kA prayoga viBinna SoXakarwAoM ne kqwrima buxXi ke kRewra Ora xqSya ko pariBARiwa karane ke rUpa meM kiyA hE .
+
+4 NMT: isa parixqSya ko xeKawe hue viBinna SoXakarwAoM xvArA kqwrima buxXi ke kRewra Ora xqRtikoNa ko pariBARiwa karane ke rUpa meM viBinna vyAKyAoM kA prayoga kiyA gayA hE .
+
+5 NMT: isa parixqSya ko xeKawe hue viBinna SoXakarwAoM ne kqwrima buxXi ke kRewra Ora xqRtikoNa ko pariBARiwa karane ke rUpa meM viBinna vyAKyAoM kA upayoga kiyA hE .
+
+6 NMT: isa parixqSya ko xeKawe hue viBinna SoXakarwAoM xvArA viBinna vyAKyAoM kA upayoga kqwrima buxXimawwA ke kRewra Ora xqSya ko pariBARiwa karane ke rUpa meM kiyA gayA hE .
+
+isa_0+1+2+3+4+5+6 parixqSya_0+1+2+3+4+5+6 ko_0+1+2+3+4+5+6 xeKawe_0+1+2+3+4+5+6 hue_0+1+2+3+4+5+6 viBinna_0+1+2+3+4+5+6 vyAKyAoM_3/SoXakarwAoM_0+1+2+4+5+6 kA_3/xvArA_0+1+2+4+6/ne_5 viBinna_6/kqwrima_0+1+2+4+5/prayoga_3 viBinna_3/vyAKyAoM_6/buxXi_0+1+2+4+5 ke_0+1+2+4+5/kA_6/SoXakarwAoM_3 kRewra_1+4+5/upayoga_6/ne_3/xAyare_0+2 Ora_0+1+2+4+5/kqwrima_3+6 buxXi_3/xqSya_0+1/xqRtikoNa_2+4+5/buxXimawwA_6 ke_3+6/ko_0+1+2+4+5 pariBARiwa_0+1+2+4+5/kRewra_3+6 karane_0+1+2+4+5/Ora_3+6 ke_0+1+2+4+5/xqSya_3+6 ko_3+6/rUpa_0+1+2+4+5 pariBARiwa_3+6/meM_0+1+2+4+5 viBinna_0+1+2+4+5/karane_3+6 ke_3+6/vyAKyAoM_0+1+2+4+5 rUpa_3+6/kA_0+1+2+4+5 meM_3+6/upayoga_0+1+2+5/prayoga_4 kiyA_0+1+2+3+4+5+6 hE_3+5/gayA_0+1+2+4+6 hE_0+1+2+4+6/._3+5 ._0+1+2+4+6

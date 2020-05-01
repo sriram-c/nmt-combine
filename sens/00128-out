@@ -1,12 +1,27 @@
-praxarSana	niRpAxana	eka	upAya	mApa	mApaka	ejeMta	eka	kiwanA	vyakwiparaka	saPala	upAya	hE	hE	kI	ki	,	yaha	jo	viSeRawA	ejeMta	bawAne	yaha	karane	jo	jAnane	ke	bawAwA	yaha	kA	kiwanA	viSeRawA	bawAne	ki	lie	hE	praxAna	raKawA	saPala	hE}	isakI>>	viSeRawA	eka	kiwanA	karawA	ejeMta	saPala	ki	hE}	.	ki	howA	kiwanA	upAya	hE	saPala
-1	0	1	1	0	0	1	1	1	1	1	1	1	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	0	0	1	0	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1
-0	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	0	1	0	0	0	1	0	1	1	0	1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	0	1	0	0	0	1	0	1	1	0	1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	0	1	0	0	0	1	0	1	1	0	1	0	1	0	1	1	0	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1
-0	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	0	1	0	1	0	0	1	1	0	1	0	0	1	0	1	0	0	1	0	0	0	1	1	0	1	1	1	0	1	1	0	1	1	1	1
-0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	0	1	0	1	0	0	1	1	0	1	0	0	1	0	1	0	0	1	0	0	0	1	1	0	1	1	1	0	1	1	0	1	1	1	1
-1	0	1	1	0	0	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	0	1	0	1	0	0	1	1	0	1	0	0	1	0	1	0	0	1	0	0	0	1	1	0	1	1	1	0	1	1	0	1	1	1	1
-1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	1	0	0	1	0	0	0	1	1	0	0	1	1	0	0	1	0	0	1	1	1	0	1	1	0	0	1	0	0	1	1	1	1
-0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	0	0	0	1	1	1	0	1	1	0	1	0	0	1	0	0	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	0	1	1	0	0	1	1	1	1	1	1	1	1	0	1	0	1	0	0	1	1	1	0	0	0	0	0	1	1	1	0	1	1	0	1	0	0	1	0	0	0	1	1	0	1	1	1	0	1	1	0	1	1	1	1
-1	0	1	1	0	0	1	1	1	1	1	1	1	1	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	1	0	0	1	1	1	0	0	1	0	0	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1
+ENG: The performance measure is a subjective measure to characterize how successful an agent is.
+
+ANU: praxarSana upAya cariwra ciwraNa karanA eka vyakwiparaka upAya hE ki eka prawiniXi kiwanA saPala hE .
+
+0 NMT: praxarSana upAya eka vyakwiparaka upAya hE ki ejeMta kiwanA saPala hE isakI viSeRawA hE .
+
+1 NMT: niRpAxana upAya eka vyakwiparaka upAya hE jo yaha viSeRawA praxAna karawA hE ki ejeMta kiwanA saPala hE .
+
+2 NMT: niRpAxana mApa eka vyakwiparaka upAya hE jo yaha viSeRawA praxAna karawA hE ki ejeMta kiwanA saPala hE .
+
+3 NMT: niRpAxana mApa eka vyakwiparaka upAya hE jo yaha viSeRawA raKawA hE ki ejeMta kiwanA saPala hE .
+
+4 NMT: niRpAxana upAya eka vyakwiparaka upAya hE jo yaha bawAwA hE ki ejeMta kiwanA saPala hE .
+
+5 NMT: niRpAxana mApa eka vyakwiparaka upAya hE jo yaha bawAwA hE ki ejeMta kiwanA saPala hE .
+
+6 NMT: praxarSana upAya eka vyakwiparaka upAya hE jo yaha bawAwA hE ki ejeMta kiwanA saPala hE .
+
+7 NMT: eka ejeMta kiwanA saPala hE kI viSeRawA karane ke lie praxarSana mApa eka vyakwiparaka upAya hE .
+
+8 NMT: niRpAxana mApaka eka vyakwiparaka upAya hE , jo yaha bawAne kA prayAsa karawA hE ki ejeMta kiwanA saPala hE .
+
+9 NMT: praxarSana upAya eka vyakwiparaka upAya hE yaha bawAne kA ki ejeMta kiwanA saPala hE .
+
+10 NMT: praxarSana upAya eka vyakwiparaka upAya hE yaha jAnane ke lie ki ejeMta kiwanA saPala howA hE .
+
+eka_7/praxarSana_0+6+9+10/niRpAxana_1+2+3+4+5+8 upAya_0+1+4+6+9+10/ejeMta_7/mApa_2+3+5/mApaka_8 eka_0+1+2+3+4+5+6+8+9+10/kiwanA_7 vyakwiparaka_0+1+2+3+4+5+6+8+9+10/saPala_7 hE_7/upAya_0+1+2+3+4+5+6+8+9+10 hE_0+1+2+3+4+5+6+8+9+10/kI_7 ki_0/yaha_9+10/jo_1+2+3+4+5+6/viSeRawA_7/,_8 ejeMta_0/yaha_1+2+3+4+5+6/jo_8/bawAne_9/jAnane_10/karane_7 kiwanA_0/yaha_8/bawAwA_4+5+6/kA_9/ke_7+10/viSeRawA_1+2+3 hE_4+5+6/saPala_0/ki_9/bawAne_8/lie_7+10/praxAna_1+2/raKawA_3 hE_0+3/ejeMta_9/ki_4+5+6+10/praxarSana_7/karawA_1+2/kA_8 hE_1+2/ejeMta_4+5+6+10/kiwanA_9/ki_3/mApa_7/prayAsa_8/isakI_0 eka_7/ejeMta_3/kiwanA_4+5+6+10/saPala_9/ki_1+2/karawA_8/viSeRawA_0 hE_0+8+9/vyakwiparaka_7/ejeMta_1+2/kiwanA_3/saPala_4+5+6+10 hE_4+5+6/upAya_7/kiwanA_1+2/saPala_3/._0+9/ki_8/howA_10 hE_3+7+10/ejeMta_8/saPala_1+2/._4+5+6 hE_1+2/kiwanA_8/._3+7+10 saPala_8/._1+2 hE_8 ._8

@@ -1,6 +1,15 @@
-eka	koI	kriyA	kArravAI	yA	pracAlaka	oYparetara	aBikarwA>>	ko	eka	{	7	avasWA	rAjya	se	xUsare	avasWA	rAjya	meM	le	jAwA	hE	.
-1	0	1	0	1	1	0	0	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1
-1	0	1	0	1	1	0	0	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1
-1	0	0	1	1	0	1	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1
-1	0	1	0	1	0	1	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1
-1	1	0	1	1	0	1	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1
+ENG: An action or operator takes the agent from one state to another state.
+
+ANU: eka kAryavAhI yA saFcAlaka eka rAjya eka Ora rAjya se prawiniXi lewA hE .
+
+0 NMT: eka kriyA yA pracAlaka aBikarwA ko eka avasWA se xUsare avasWA meM le jAwA hE .
+
+1 NMT: eka kriyA yA pracAlaka ejeMta ko eka avasWA se xUsare avasWA meM le jAwA hE .
+
+2 NMT: eka kArravAI yA oYparetara ejeMta ko eka rAjya se xUsare rAjya meM le jAwA hE .
+
+3 NMT: eka kriyA yA oYparetara ejeMta ko eka rAjya se xUsare rAjya meM le jAwA hE .
+
+4 NMT: koI kArravAI yA oYparetara ejeMta ko eka rAjya se xUsare rAjya meM le jAwA hE .
+
+eka_0+1+2+3/koI_4 kriyA_0+1+3/kArravAI_2+4 yA_0+1+2+3+4 oYparetara_2+3+4/pracAlaka_0+1 ejeMta_1+2+3+4/aBikarwA_0 ko_0+1+2+3+4 eka_0+1+2+3+4 rAjya_2+3+4/avasWA_0+1 se_0+1+2+3+4 xUsare_0+1+2+3+4 rAjya_2+3+4/avasWA_0+1 meM_0+1+2+3+4 le_0+1+2+3+4 jAwA_0+1+2+3+4 hE_0+1+2+3+4 ._0+1+2+3+4

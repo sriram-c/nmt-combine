@@ -1,3 +1,9 @@
-hama	lUpa	kEse]	saMBAla]	sakawe]	hEM]	?]
-1	1	0	0	0	0	0
-1	1	0	0	0	0	0
+ENG: How can we handle loops?
+
+ANU: hama GumAvaxAra vakra kEse samBAla sakawe hEM?
+
+0 NMT: hama lUpa kEse saMBAla sakawe hEM ?
+
+1 NMT: hama lUpa ko kEse saMBAla sakawe hEM ?
+
+hama_0+1 lUpa_0+1 kEse_0/ko_1 kEse_1/saMBAla_0 saMBAla_1/sakawe_0 sakawe_1/hEM_0 hEM_1/?_0 ?_1

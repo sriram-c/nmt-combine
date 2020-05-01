@@ -1,6 +1,15 @@
-?]
-0
-0
-0
-0
-0
+ENG: How do we formulate this in terms of a state space search problem? The problem formulation involves deciding the representation of the states, selecting the initial state representation, the description of the operators, and the successor states.
+
+ANU: hama eka avasWA sWAna walASa samasyA ke anusAra yaha kEse sUwra rUpa meM banAwe hEM? xa samasyA sUwrIkaraNa AramBika avasWA prawiniXiwva, saFcAlakoM kA varNana, Ora vArisa rAjya cunawA huA rAjyoM kA prawiniXiwva PEsalA xenA, sammiliwa hE .
+
+0 NMT: ?
+
+1 NMT: hama ise eka rAjya aMwarikRa Koja samasyA ke saMxarBa meM kEse wEyAra karawe hEM ? samasyA nirUpaNa meM rAjyoM kA prawiniXiwva waya karanA , AraMBika rAjya kA prawiniXiwva , saMcAlakoM kA vivaraNa Ora uwwarAXikArI rAjyoM kA cayana SAmila hE .
+
+2 NMT: hama ise rAjya aMwarikRa Koja samasyA ke saMxarBa meM kEse banAeM ?
+
+3 NMT: rAjya aMwarikRa Koja samasyA ke saMxarBa meM hama ise kEse wEyAra karawe hEM ? samasyA nirUpaNa meM rAjyoM ke prawiniXiwva kA nirNaya karanA , prAraMBika rAjyoM ke prawiniXiwva kA cayana karanA , oYparetaroM kA varNana waWA uwwarAXikArI rAjyoM kA cayana karanA SAmila hE .
+
+4 NMT: rAjya aMwarikRa Koja samasyA ke saMxarBa meM hama ise kEse wEyAra kareM ? samasyA nirUpaNa meM rAjyoM kA prawiniXiwva waya karanA , prAraMBika rAjya prawiniXiwva kA cayana karanA , oYparetaroM kA varNana , Ora uwwarAXikArI rAjyoM kA cayana karanA SAmila hE .
+
+?_0/rAjya_3+4/hama_1+2 aMwarikRa_3+4/ise_1+2 rAjya_2/Koja_3+4/eka_1 rAjya_1/aMwarikRa_2/samasyA_3+4 aMwarikRa_1/Koja_2/ke_3+4 Koja_1/samasyA_2/saMxarBa_3+4 samasyA_1/ke_2/meM_3+4 ke_1/saMxarBa_2/hama_3+4 saMxarBa_1/meM_2/ise_3+4 meM_1/kEse_2+3+4 kEse_1/wEyAra_3+4/banAeM_2 ?_2/wEyAra_1/karawe_3/kareM_4 ?_4/karawe_1/hEM_3 ?_3/samasyA_4/hEM_1 ?_1/samasyA_3/nirUpaNa_4 samasyA_1/meM_4/nirUpaNa_3 meM_3/nirUpaNa_1/rAjyoM_4 meM_1/rAjyoM_3/kA_4 ke_3/rAjyoM_1/prawiniXiwva_4 kA_1/prawiniXiwva_3/waya_4 kA_3/prawiniXiwva_1/karanA_4 ,_4/waya_1/nirNaya_3 karanA_1+3/prAraMBika_4 rAjya_4/,_1+3 prawiniXiwva_4/prAraMBika_3/AraMBika_1 rAjya_1/rAjyoM_3/kA_4 ke_3/kA_1/cayana_4 prawiniXiwva_1+3/karanA_4 kA_3/,_1+4 cayana_3/oYparetaroM_4/saMcAlakoM_1 kA_1+4/karanA_3 ,_3/varNana_4/vivaraNa_1 ,_4/oYparetaroM_3/Ora_1 uwwarAXikArI_1/kA_3/Ora_4 rAjyoM_1/uwwarAXikArI_4/varNana_3 rAjyoM_4/kA_1/waWA_3 uwwarAXikArI_3/kA_4/cayana_1 rAjyoM_3/cayana_4/SAmila_1 kA_3/hE_1/karanA_4 cayana_3/SAmila_4/._1 hE_4/karanA_3 SAmila_3/._4 hE_3 ._3

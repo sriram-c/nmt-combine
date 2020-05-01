@@ -1,7 +1,17 @@
-yaxi	rAjya	sWiwi	ke	anurUpa	eka	koI	Ora>>	noda	pahale	opena	se	meM	hI	pahale	opIena>>	meM	hI	hE	,	wo	nae	noda}	wyAga	noda	kA	xiyA	ko	kA	wyAga	kiyA	CodZa	jAnA	wyAga	cAhie	kiyA	xiyA	jAnA	.	jAnA	cAhie
-1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	1	0	0	1	0	0	1	1	1	0	1	1	1	1	1
-1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	1	0	0	1	0	0	1	1	1	0	1	1	1	1	1
-1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1
-1	1	0	1	1	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1
-1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	0	1	1	0	0	0	1	1	0	1	0	1	1	1	1	1
-1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	0	0	1	1	1	0	1	1	1	1	1
+ENG: If another node corresponding to the state is already in OPEN, the new node should be discarded.
+
+ANU: yaxi rAjya eka Ora gAzTa anurupa honA ovpana meM pahale se hI hE, wo nayI gAzTa PeMka xI jAnI cAhie .
+
+0 NMT: yaxi rAjya ke anurUpa eka Ora noda pahale se hI opIena meM hE , nae noda wyAga xiyA jAnA cAhie .
+
+1 NMT: yaxi rAjya ke anurUpa eka anya noda opena meM pahale se hI hE , nae noda wyAga xiyA jAnA cAhie .
+
+2 NMT: yaxi rAjya ke anurUpa eka anya noda opena meM pahale se hI hE , nae noda kA wyAga kiyA jAnA cAhie .
+
+3 NMT: yaxi rAjya ke anurUpa koI anya noda pahale se hI opIna meM hE , wo nae noda kA wyAga kiyA jAnA cAhie .
+
+4 NMT: yaxi sWiwi ke anurUpa koI anya noda pahale se hI opena meM hE , wo nae noda ko CodZa xiyA jAnA cAhie .
+
+5 NMT: yaxi sWiwi ke anurUpa koI anya noda pahale se hI opena meM hE , wo nae noda ko wyAga xiyA jAnA cAhie .
+
+yaxi_0+1+2+3+4+5 rAjya_0+1+2+3/sWiwi_4+5 ke_0+1+2+3+4+5 anurUpa_0+1+2+3+4+5 koI_3+4+5/eka_0+1+2 anya_1+2+3+4+5/Ora_0 noda_0+1+2+3+4+5 pahale_0+3+4+5/opena_1+2 se_0+3+4+5/meM_1+2 pahale_1+2/hI_0+3+4+5 se_1+2/opena_4+5/opIna_3/opIena_0 hI_1+2/meM_0+3+4+5 hE_0+1+2+3+4+5 ,_0+1+2+3+4+5 nae_0+1+2/wo_3+4+5 noda_0+1+2/nae_3+4+5 noda_3+4+5/wyAga_0+1/kA_2 wyAga_2/xiyA_0+1/ko_4+5/kA_3 jAnA_0+1/wyAga_3+5/kiyA_2/CodZa_4 jAnA_2/cAhie_0+1/xiyA_4+5/kiyA_3 jAnA_3+4+5/cAhie_2/._0+1 cAhie_3+4+5/._2 ._3+4+5

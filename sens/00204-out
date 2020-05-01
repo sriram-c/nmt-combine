@@ -1,8 +1,19 @@
-aba	hama	upaXAraNA	upa	sabasampanna	saMkRepa	vAswukalA	meM	-	vAswuSilpa	(	upaXAraNA	prayoga	prawisWApana	kA	Rodney	Arkitekcara	saMkRepa	vAswukalA	vAswuSilpa	bruksa	meM	(	kA	,	Rodney	roYdnI	saMkRepa	varNana	1986	meM	bruksa	kareMge	)	,	(	.	varNana	kA	1986	roYdanI	kareMge	saMkRipwa	bruksa	(	saMkRepa	)	varNana	,	roYdanI	kA	meM	kareMge	1986	bruksa	varNana	saMkRipwa	varNana	,	kareMge	)	.
-1	1	1	0	0	0	1	0	0	0	1	1	0	0	1	1	0	0	1	0	1	0	1	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	1	1	1	0	0	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	1	0	0	1	1	1	0	0	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	0	0	0	1	1	1	0	0	0	0	0	1	1	0	0	1	1	0	0	1	0	1	0	0	0	1	1	0	1	0	1	0	0	0	1	1	1	0	0	1	0	0	0	1	0	1	0	0	1	1	1	0	0	1	0	1	0	1	0	1
-1	1	0	0	1	1	0	1	0	1	1	0	0	0	1	0	0	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	0	1	0	0	0	0	1	0	1	0	1	0	1	0	1	0	0	0	1	0	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
+ENG: We will now briefly describe the subsumption architecture (Rodney Brooks, 1986).
+
+ANU: hama subsumption vAswukalA (roYdnI bruksa ke bAre meM, 1986) aba safkRipwa rUpa meM bawAeMge .
+
+0 NMT: aba hama upaXAraNA vAswukalA ( Rodney bruksa , 1986 ) kA saMkRipwa varNana kareMge .
+
+1 NMT: aba hama saMkRepa meM upaXAraNA vAswukalA ( Rodney bruksa , 1986 ) kA varNana kareMge .
+
+2 NMT: aba hama upaXAraNA vAswukalA ( Rodney bruksa , 1986 ) kA saMkRepa meM varNana kareMge .
+
+3 NMT: aba hama saMkRepa meM prawisWApana vAswukalA kA varNana kareMge .
+
+4 NMT: aba hama sabasampanna vAswuSilpa kA saMkRepa meM varNana kareMge ( roYdanI bruksa , 1986 ) .
+
+5 NMT: aba hama upa - prayoga Arkitekcara ( roYdnI bruksa , 1986 ) kA saMkRipwa varNana kareMge .
+
+6 NMT: aba hama upa - prayoga vAswuSilpa kA saMkRepa meM varNana kareMge ( roYdanI bruksa , 1986 ) .
+
+aba_0+1+2+3+4+5+6 hama_0+1+2+3+4+5+6 saMkRepa_1+3/upaXAraNA_0+2/upa_5+6/sabasampanna_4 meM_1+3/vAswukalA_0+2/-_5+6/vAswuSilpa_4 kA_4/(_0+2/upaXAraNA_1/prayoga_5+6/prawisWApana_3 saMkRepa_4/vAswukalA_1+3/Rodney_0+2/vAswuSilpa_6/Arkitekcara_5 kA_3+6/bruksa_0+2/(_1+5/meM_4 varNana_3+4/,_0+2/saMkRepa_6/Rodney_1/roYdnI_5 kareMge_3+4/bruksa_1+5/1986_0+2/meM_6 varNana_6/._3/,_1+5/)_0+2/(_4 kareMge_6/kA_0+2/1986_1+5/roYdanI_4 bruksa_4/)_1+5/(_6/saMkRepa_2/saMkRipwa_0 varNana_0/kA_1+5/,_4/meM_2/roYdanI_6 varNana_1+2/kareMge_0/bruksa_6/1986_4/saMkRipwa_5 varNana_5/kareMge_1+2/._0/,_6/)_4 kareMge_5/._1+2+4/1986_6 ._5/)_6 ._6

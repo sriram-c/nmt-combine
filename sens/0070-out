@@ -1,11 +1,25 @@
-vAk	BARaNa	samaJa	boXa	praNAliyAM	praNAlI	kaI	aneka	hajAra	SabxoM	ko	niraMwara	sawawa	lagAwAra	bolane	vAk	vANI	se	ko	vAle	kI	pahacAnane	pahacAnane	ko	pahacAna	meM	meM	karane	pahacAnane	sakRama	sakRama	meM	hEM	howI	sakRama	hEM	.	hEM	hE	howI	.	.	hEM
-1	0	1	0	1	0	1	0	1	1	1	1	0	0	1	1	0	1	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1
-0	1	1	0	0	1	1	0	1	1	1	0	0	1	1	0	0	1	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1
-1	0	1	0	1	0	1	0	1	1	1	1	0	0	1	1	0	0	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1
-1	0	1	0	1	0	1	0	1	1	1	1	0	0	1	1	0	0	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	1
-1	0	1	0	1	0	1	0	1	1	1	0	1	0	0	1	1	0	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1
-0	1	1	0	0	1	1	0	1	1	1	1	0	0	1	0	0	0	1	0	1	0	0	1	1	1	1	1	0	1	1	1	0	0	1	0	1	0	1	0	1	1	0
-1	0	1	0	1	0	1	0	1	1	1	0	1	0	0	1	0	0	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1
-1	0	0	1	1	0	0	1	1	1	1	0	0	1	1	1	0	0	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1
-1	0	0	1	1	0	1	0	1	1	1	0	0	1	1	1	0	0	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1
-1	0	0	1	1	0	1	0	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1
+ENG: Speech understanding systems are capable of recognizing several thousand words continuous speech.
+
+ANU: bAwa kara samaJa praNAliyAz kaI hajAra Sabxa lagAwAra BARaNa svIkAra karane ke samarWa hEM .
+
+0 NMT: vAk samaJa praNAliyAM kaI hajAra SabxoM ko niraMwara bolane se pahacAnane meM sakRama howI hEM .
+
+1 NMT: BARaNa samaJa praNAlI kaI hajAra SabxoM ko lagAwAra bolane se pahacAnane meM sakRama hEM .
+
+2 NMT: vAk samaJa praNAliyAM kaI hajAra SabxoM ko niraMwara bolane kI pahacAna karane meM sakRama howI hEM .
+
+3 NMT: vAk samaJa praNAliyAM kaI hajAra SabxoM ko niraMwara bolane kI pahacAna karane meM sakRama hEM .
+
+4 NMT: vAk samaJa praNAliyAM kaI hajAra SabxoM ko sawawa vANI ko pahacAnane meM sakRama howI hEM .
+
+5 NMT: BARaNa samaJa praNAlI kaI hajAra SabxoM ko niraMwara bolane kI pahacAna karane meM sakRama hE .
+
+6 NMT: vAk samaJa praNAliyAM kaI hajAra SabxoM ko sawawa vAk pahacAnane meM sakRama hEM .
+
+7 NMT: vAk boXa praNAliyAM aneka hajAra SabxoM ko lagAwAra bolane kI pahacAna karane meM sakRama howI hEM .
+
+8 NMT: vAk boXa praNAliyAM kaI hajAra SabxoM ko lagAwAra bolane kI pahacAna karane meM sakRama howI hEM .
+
+9 NMT: vAk boXa praNAliyAM kaI hajAra SabxoM ko lagAwAra bolane vAle ko pahacAnane meM sakRama howI hEM .
+
+vAk_0+2+3+4+6+7+8+9/BARaNa_1+5 boXa_7+8+9/samaJa_0+1+2+3+4+5+6 praNAliyAM_0+2+3+4+6+7+8+9/praNAlI_1+5 kaI_0+1+2+3+4+5+6+8+9/aneka_7 hajAra_0+1+2+3+4+5+6+7+8+9 SabxoM_0+1+2+3+4+5+6+7+8+9 ko_0+1+2+3+4+5+6+7+8+9 lagAwAra_1+7+8+9/niraMwara_0+2+3+5/sawawa_4+6 vAk_6/bolane_0+1+2+3+5+7+8+9/vANI_4 ko_4/kI_2+3+5+7+8/pahacAnane_6/se_0+1/vAle_9 ko_9/meM_6/pahacAna_2+3+5+7+8/pahacAnane_0+1+4 meM_0+1+4/sakRama_6/karane_2+3+5+7+8/pahacAnane_9 meM_2+3+5+7+8+9/sakRama_0+1+4/hEM_6 sakRama_2+3+5+7+8+9/._6/hEM_1/howI_0+4 ._1/hEM_0+3+4/howI_2+7+8+9/hE_5 ._0+3+4+5/hEM_2+7+8+9 ._2+7+8+9

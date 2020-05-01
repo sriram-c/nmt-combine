@@ -1,3 +1,9 @@
-prawiniXiwva]	jFAna]	saPala}	ejeMta}	dijAina}	ke}	lie}	mahawvapUrNa	hE	.
-0	0	0	0	0	0	0	1	1	1
-0	0	0	0	0	0	0	1	1	1
+ENG: Representing knowledge is important for successful agent design.
+
+ANU: xarSAwA huA jFAna saPala prawiniXi dijAina ke lie mahawwvapUrNa hE .
+
+0 NMT: prawiniXiwva jFAna saPala ejeMta dijAina ke lie mahawvapUrNa hE .
+
+1 NMT: saPala ejeMta dijAina ke lie prawiniXiwva jFAna mahawvapUrNa hE .
+
+saPala_1/prawiniXiwva_0 ejeMta_1/jFAna_0 saPala_0/dijAina_1 ejeMta_0/ke_1 dijAina_0/lie_1 ke_0/prawiniXiwva_1 lie_0/jFAna_1 mahawvapUrNa_0+1 hE_0+1 ._0+1

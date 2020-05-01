@@ -1,4 +1,11 @@
-eka	lakRya	xuniyA	hE	ke]	vAMCanIya	ke	vAMCanIya	rAjyoM	ke	rAjyoM	eka}	seta	eka	kA	seta	varNana	kA	hE	varNana	hE	.
-1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1
+ENG: A goal is a description of a set of desirable states of the world.
+
+ANU: lakRya eka samUha kA vAFCiwa avasWAoM ke viSva kI eka varNana howA hE .
+
+0 NMT: eka lakRya xuniyA ke vAMCanIya rAjyoM ke eka seta kA varNana hE .
+
+1 NMT: eka lakRya xuniyA kI vAMCanIya rAjyoM ke eka seta kA varNana hE .
+
+2 NMT: eka lakRya hE xuniyA ke vAMCanIya rAjyoM ke eka seta kA varNana hE .
+
+eka_0+1+2 lakRya_0+1+2 hE_2/xuniyA_0+1 ke_0/xuniyA_2/kI_1 ke_2/vAMCanIya_0+1 vAMCanIya_2/rAjyoM_0+1 ke_0+1/rAjyoM_2 eka_0+1/ke_2 eka_2/seta_0+1 seta_2/kA_0+1 kA_2/varNana_0+1 hE_0+1/varNana_2 hE_2/._0+1 ._2

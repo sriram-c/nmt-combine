@@ -1,0 +1,19 @@
+ENG: The mapping is implicitly defined by a program.
+
+ANU: prawiciwraNa progrAma ke xvArA avyakwa rUpa se pariBARiwa kiyA gayA hE .
+
+0 NMT: mAnaciwraNa aMwarnihiwa rUpa se eka progrAma xvArA pariBARiwa hE .
+
+1 NMT: mAnaciwraNa ko eka progrAma xvArA aMwarnihiwa rUpa se pariBARiwa kiyA jAwA hE .
+
+2 NMT: mAnaciwraNa ko kisI progrAma xvArA aMwarnihiwa rUpa se pariBARiwa kiyA jAwA hE .
+
+3 NMT: mAnaciwraNa ko progrAma xvArA aMwarnihiwa rUpa se pariBARiwa kiyA jAwA hE .
+
+4 NMT: mAnaciwraNa kisI progrAma xvArA parokRa rUpa se pariBARiwa kiyA jAwA hE .
+
+5 NMT: mAnaciwraNa ko eka progrAma xvArA niSciwa rUpa se pariBARiwa kiyA gayA hE .
+
+6 NMT: mAnaciwraNa kisI progrAma xvArA aMwarnihiwa rUpa se pariBARiwa howA hE .
+
+mAnaciwraNa_0+1+2+3+4+5+6 aMwarnihiwa_0/ko_1+2+3+5/kisI_4+6 progrAma_3+4+6/rUpa_0/kisI_2/eka_1+5 progrAma_1+2+5/xvArA_3+4+6/se_0 xvArA_1+2+5/aMwarnihiwa_3+6/eka_0/parokRa_4 progrAma_0/rUpa_3+4+6/aMwarnihiwa_1+2/niSciwa_5 xvArA_0/rUpa_1+2+5/se_3+4+6 se_1+2+5/pariBARiwa_0+3+4+6 hE_0/pariBARiwa_1+2+5/kiyA_3+4/howA_6 hE_6/._0/kiyA_1+2+5/jAwA_3+4 hE_3+4/._6/jAwA_1+2/gayA_5 hE_1+2+5/._3+4 ._1+2+5

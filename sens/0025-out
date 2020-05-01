@@ -1,9 +1,21 @@
-vaha	telItAipa	telitAipa	eka	telItAipa	telitAipa	ke	mAXyama	ke	jarie	se	mAXyama	praSna	savAla	savAla	se	praSna	pUCa	pUCa	praSna	savAla	sakawA	sakawA	pUCa	hE	hE	sakawe	sakawA	Ora	Ora	hE	hEM	e	waWA	Ora	e	Ora}	bI	e	Ora	xonoM	bI	se	Ora	xonoM	se}	javAba	uwwara	se	prApwa	javAba	kara	prApwa	uwwara	karawA	prApwa	kara	sakawA	hE	kara	sakawA
-1	1	0	0	1	0	1	1	1	0	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1
-1	1	0	0	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	0	0	1	1	1	1	0	1	1	0	1
-1	1	0	0	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	0	0	1	1	1	1	0	1	1	0	1
-1	1	0	0	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1
-1	1	0	0	1	0	1	0	1	1	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1
-1	1	0	1	1	0	1	1	1	0	1	1	0	1	1	1	0	1	1	0	1	0	0	1	0	0	1	0	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	0	1	1	0	0	1	0
-1	0	1	0	0	1	1	0	1	1	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1
+ENG: He can ask questions through a teletype and receives answers from both A and B.
+
+ANU: vaha telatAipa meM se praSna pUCa sakawA hE Ora xonoM e Ora bI se uwwara prApwa karawA hE .
+
+0 NMT: vaha telItAipa ke mAXyama se savAla pUCa sakawA hE Ora e Ora bI xonoM se javAba prApwa karawA hE
+
+1 NMT: vaha telItAipa ke mAXyama se praSna pUCa sakawA hE Ora e Ora bI xonoM se uwwara prApwa karawA hE .
+
+2 NMT: vaha telItAipa ke mAXyama se praSna pUCa sakawA hE Ora e Ora bI xonoM se uwwara prApwa karawA hE
+
+3 NMT: vaha telItAipa ke mAXyama se praSna pUCa sakawA hE Ora e Ora bI xonoM se uwwara prApwa kara sakawA hE .
+
+4 NMT: vaha telItAipa ke jarie savAla pUCa sakawA hE Ora e Ora bI xonoM se javAba prApwa kara sakawA hE .
+
+5 NMT: vaha eka telItAipa ke mAXyama se savAla pUCa sakawe hEM Ora xonoM e Ora bI se javAba prApwa kara sakawe hEM .
+
+6 NMT: vaha telitAipa ke jarie praSna pUCa sakawA hE Ora e waWA bI xonoM se uwwara prApwa kara sakawA hE .
+
+7 NMT: vaha eka telitAipa ke mAXyama se praSna pUCa sakawA hE Ora e Ora bI xonoM se uwwara prApwa kara sakawA hE .
+
+vaha_0+1+2+3+4+5+6+7 telItAipa_0+1+2+3+4/telitAipa_6/eka_5+7 ke_0+1+2+3+4+6/telItAipa_5/telitAipa_7 ke_5+7/mAXyama_0+1+2+3/jarie_4+6 se_0+1+2+3/mAXyama_5+7/praSna_6/savAla_4 se_5+7/pUCa_4+6/praSna_1+2+3/savAla_0 sakawA_4+6/pUCa_0+1+2+3/praSna_7/savAla_5 hE_4+6/sakawA_0+1+2+3/pUCa_5+7 Ora_4+6/hE_0+1+2+3/sakawA_7 Ora_0+1+2+3/hE_7/e_4+6 Ora_4+5+7/e_0+1+2+3/waWA_6 Ora_0+1+2+3/xonoM_5/bI_4+6/e_7 Ora_7/xonoM_4+6/bI_0+1+2+3/e_5 Ora_5/se_4+6/xonoM_0+1+2+3/bI_7 se_0+1+2+3/xonoM_7/bI_5/uwwara_6/javAba_4 se_5+7/prApwa_4+6/uwwara_1+2+3/javAba_0 prApwa_0+1+2+3/kara_4+6/uwwara_7/javAba_5 sakawA_4+6/prApwa_5+7/kara_3/karawA_0+1+2 hE_0+1+2+4+6/sakawA_3/kara_5+7 hE_3/sakawA_7/._1+4+6 hE_7/._3 ._5+7

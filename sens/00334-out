@@ -1,4 +1,11 @@
-elgoriWma	meM	GAwIya	GAwIya	samaya	lewA	samaya	hE	lagawA	.	hE
-1	0	1	1	1	1	1	1	0	1	1
-1	0	1	1	1	1	1	1	0	0	1
-1	1	1	1	1	0	1	1	1	1	1
+ENG: The algorithm takes exponential time.
+
+ANU: praNAlI caraXAwAfkIya reKA lewI hE .
+
+0 NMT: elgoriWma GAwIya samaya lewA hE .
+
+1 NMT: elgoriWma GAwIya samaya lewA hE
+
+2 NMT: elgoriWma meM GAwIya samaya lagawA hE .
+
+elgoriWma_0+1+2 GAwIya_0+1/meM_2 GAwIya_2/samaya_0+1 samaya_2/lewA_0+1 hE_0+1/lagawA_2 hE_2/._0 ._2

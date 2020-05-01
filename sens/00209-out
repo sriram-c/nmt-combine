@@ -1,10 +1,23 @@
-upaBoga	upaXAraNa	parawoM	Kapawa	upaXAraNA	meM	vAswukalA	nirmiwa	parawoM	upaXAraNA	prawisWApana	avaskaMxana	upaXAraNa	upowpAxa	meM	vAswukalA	saMracanA	nirmiwa	banAyA
-0	0	1	0	1	1	1	1	1	1	0	0	0	0	1	1	0	1	0
-0	1	1	0	0	1	1	1	1	0	0	0	1	0	1	1	0	1	0
-0	1	1	0	0	1	1	1	1	0	0	0	1	0	1	1	0	1	0
-0	0	1	0	1	1	1	1	1	1	0	0	0	0	1	1	0	1	0
-0	0	1	1	0	1	1	0	1	0	0	0	0	0	1	1	0	0	1
-1	0	1	0	0	1	1	1	1	0	0	0	0	0	1	1	0	1	0
-0	0	1	0	0	1	0	1	1	0	0	0	0	1	1	0	1	1	0
-0	0	1	0	0	1	0	1	1	0	1	0	0	0	1	0	1	1	0
-0	0	1	0	0	1	0	1	1	0	0	1	0	0	1	0	1	1	0
+ENG: The Subsumption Architecture built in layers.
+
+ANU: subsumpwiona oYrkatekcara ne parawoM meM banAyA .
+
+0 NMT: parawoM meM nirmiwa upaXAraNA vAswukalA
+
+1 NMT: upaXAraNa vAswukalA parawoM meM nirmiwa .
+
+2 NMT: parawoM meM nirmiwa upaXAraNa vAswukalA
+
+3 NMT: upaXAraNA vAswukalA parawoM meM nirmiwa .
+
+4 NMT: Kapawa vAswukalA parawoM meM banAyA gayA hE .
+
+5 NMT: upaBoga vAswukalA parawoM meM nirmiwa .
+
+6 NMT: parawoM meM nirmiwa upowpAxa saMracanA
+
+7 NMT: parawoM meM nirmiwa prawisWApana saMracanA
+
+8 NMT: parawoM meM nirmiwa avaskaMxana saMracanA
+
+parawoM_0+2+6+7+8/upaBoga_5/Kapawa_4 meM_0+2+6+7+8/vAswukalA_1+3+4+5 parawoM_1+3+4+5/nirmiwa_0+2+6+7+8 meM_1+3+4+5/avaskaMxana_8/prawisWApana_7/upowpAxa_6 nirmiwa_1+3+5/saMracanA_6+7+8/vAswukalA_0+2/banAyA_4 ._1+3+5/gayA_4 hE_4 ._4

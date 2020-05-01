@@ -1,10 +1,23 @@
-isa	pariGatanA	GatanA	para	najara	najZara	raKane	ke	lie	,	hama	CLOSED	xUsarI	eka	nAmaka	Ora	sUcI	eka	CLOSED	sUcI	anya	,	Ora	kA	sUcI	jo	upayoga	kA	CLOSED	saBI	upayoga	,	viswAriwa	karawe	kareM	jo	nodsa	hEM	,	saBI	rikoYrda	,}	jo	upayoga	nodsa	saBI	saBI	kareM	viswAriwa	ko	viswAriwa	nodsa	rikoYrda	nodsa	karawA	ko	ko	rikoYrda	hE	rikoYrda	karawA	.	karawI	karawA	hE	hE	.	.
-1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	0	1	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-1	0	1	1	1	0	1	1	1	1	1	1	1	0	0	0	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+ENG: To keep track of this phenomenon, we use another list called CLOSED, which records all the expanded nodes.
+
+ANU: isa xqgviRaya ke trEka ko raKane ke lie hama upayoga karawe hEM eka Ora sUcI ne klovjZda, bulAyA jo saBI PElAnA gAzTa rekArda karawA hE .
+
+0 NMT: isa pariGatanA para najara raKane ke lie , hama CLOSED nAmaka eka anya sUcI kA upayoga karawe hEM , jo saBI viswAriwa nodsa ko rikoYrda karawI hE .
+
+1 NMT: isa pariGatanA para najZara raKane ke lie , hama CLOSED nAmaka eka anya sUcI kA upayoga karawe hEM , jo saBI viswAriwa nodsa ko rikoYrda karawI hE .
+
+2 NMT: isa GatanA para najZara raKane ke lie , hama eka Ora sUcI kA upayoga CLOSED , jo saBI viswAriwa nodsa ko rikoYrda karawA hE .
+
+3 NMT: isa GatanA para najara raKane ke lie , hama CLOSED nAmaka eka Ora sUcI kA upayoga karawe hEM , jo saBI viswAriwa nodsa ko rikoYrda karawI hE .
+
+4 NMT: isa GatanA para najara raKane ke lie , hama CLOSED nAmaka eka anya sUcI kA upayoga karawe hEM , jo saBI viswAriwa nodsa ko rikoYrda karawI hE .
+
+5 NMT: isa pariGatanA para najZara raKane ke lie , hama CLOSED nAmaka eka anya sUcI kA upayoga karawe hEM , jo saBI viswAriwa nodsa ko rikoYrda karawA hE .
+
+6 NMT: isa pariGatanA para najZara raKane ke lie , hama CLOSED nAmaka eka anya sUcI kA upayoga kareM , jo saBI viswAriwa nodsa ko rikoYrda karawA hE .
+
+7 NMT: isa pariGatanA para najara raKane ke lie , hama CLOSED nAmaka eka anya sUcI kA upayoga kareM , jo saBI viswAriwa nodsa ko rikoYrda karawA hE .
+
+8 NMT: isa GatanA para najara raKane ke lie , hama xUsarI sUcI CLOSED , jo saBI viswAriwa nodsa rikoYrda kA upayoga kareM
+
+isa_0+1+2+3+4+5+6+7+8 pariGatanA_0+1+5+6+7/GatanA_2+3+4+8 para_0+1+2+3+4+5+6+7+8 najara_0+3+4+7+8/najZara_1+2+5+6 raKane_0+1+2+3+4+5+6+7+8 ke_0+1+2+3+4+5+6+7+8 lie_0+1+2+3+4+5+6+7+8 ,_0+1+2+3+4+5+6+7+8 hama_0+1+2+3+4+5+6+7+8 CLOSED_0+1+3+4+5+6+7/eka_2/xUsarI_8 sUcI_8/nAmaka_0+1+3+4+5+6+7/Ora_2 sUcI_2/CLOSED_8/eka_0+1+3+4+5+6+7 ,_8/kA_2/anya_0+1+4+5+6+7/Ora_3 jo_8/upayoga_2/sUcI_0+1+3+4+5+6+7 saBI_8/kA_0+1+3+4+5+6+7/CLOSED_2 ,_2/viswAriwa_8/upayoga_0+1+3+4+5+6+7 jo_2/nodsa_8/karawe_0+1+3+4+5/kareM_6+7 ,_6+7/saBI_2/rikoYrda_8/hEM_0+1+3+4+5 ,_0+1+3+4+5/jo_6+7/viswAriwa_2/kA_8 jo_0+1+3+4+5/saBI_6+7/nodsa_2/upayoga_8 saBI_0+1+3+4+5/viswAriwa_6+7/ko_2/kareM_8 viswAriwa_0+1+3+4+5/nodsa_6+7/rikoYrda_2 nodsa_0+1+3+4+5/ko_6+7/karawA_2 rikoYrda_6+7/ko_0+1+3+4+5/hE_2 rikoYrda_0+1+3+4+5/karawA_6+7/._2 karawA_5/hE_6+7/karawI_0+1+3+4 hE_0+1+3+4+5/._6+7 ._0+1+3+4+5

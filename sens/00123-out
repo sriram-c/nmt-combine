@@ -1,6 +1,15 @@
-eka>>	ejeMta	aBikarwA	kA	kA	ke	mUlyAMkana	mUlyAMkana	karane	karane	ke	ke	lie	lie	niRpAxana	eka>>	praxarSana>>	upAya}	kA}	upayoga>>	karanA	jAnA	cAhie	hE	hogA>>	.
-0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	0	0	0	0	1
-0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	1	0	0	1	0	1
-0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	1	0	0	1
-0	0	1	1	1	1	1	1	0	0	1	1	1	1	1	0	0	0	0	0	0	1	1	0	0	1
-0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	1	0	0	1
+ENG: A performance measure has to be used in order to evaluate an agent.
+
+ANU: eka praxarSana upAya eka prawiniXi mUlyAfkana karane ke lie upayoga karanA hI hE .
+
+0 NMT: eka ejeMta kA mUlyAMkana karane ke lie eka praxarSana upAya kA upayoga karanA hogA .
+
+1 NMT: ejeMta kA mUlyAMkana karane ke lie niRpAxana upAya kA prayoga karanA padZawA hE .
+
+2 NMT: kisI aBikarwA kA mUlyAMkana karane ke lie niRpAxana upAya kA prayoga kiyA jAnA cAhie .
+
+3 NMT: kisI aBikarwA ke mUlyAMkana ke lie niRpAxana upAya kA prayoga kiyA jAnA cAhie .
+
+4 NMT: ejeMta kA mUlyAMkana karane ke lie niRpAxana upAya kA prayoga kiyA jAnA cAhie .
+
+ejeMta_1+4/eka_0 kA_1+4/ejeMta_0 kA_0+2/ke_3/mUlyAMkana_1+4 mUlyAMkana_0+2+3/karane_1+4 ke_1+3+4/karane_0+2 ke_0+2/lie_1+3+4 lie_0+2/niRpAxana_1+3+4 upAya_1+3+4/niRpAxana_2/eka_0 kA_1+3+4/upAya_2/praxarSana_0 kA_2/upAya_0/prayoga_1+3+4 kA_0/prayoga_2/kiyA_3+4/karanA_1 kiyA_2/jAnA_3+4/padZawA_1/upayoga_0 jAnA_2/cAhie_3+4/karanA_0/hE_1 ._1+3+4/cAhie_2/hogA_0 ._0+2

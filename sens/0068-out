@@ -1,5 +1,13 @@
-prAkqwika	BARA	saMsAXana	meM	,	hamAre	hama	pAsa	sistama	praNAliyoM	EsI	hE	praNAliyAM	ki	hEM	sarala	jo	maSIna	sarala	anuvAxa	maSInI	karane	anuvAxa	meM	meM}	sakRama	hEM	hEM}	hEM	.
-1	1	1	1	1	1	0	1	0	0	1	0	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	1
-1	1	1	1	1	0	1	0	0	1	0	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1
-1	1	1	1	1	0	1	0	1	0	0	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1
-1	1	1	1	1	1	0	1	0	0	1	0	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	1
+ENG: In Natural language processing, we have systems that are capable of simple machine translation.
+
+ANU: prAkqwa BARA saMsAXana meM, hamAre praNAliyAz jo sAXAraNa yanwra anuvAxa ke samarWa hEM hEM .
+
+0 NMT: prAkqwika BARA saMsAXana meM , hamAre pAsa EsI praNAliyAM hEM jo sarala maSInI anuvAxa meM sakRama hEM .
+
+1 NMT: prAkqwika BARA saMsAXana meM , hama praNAliyoM hE ki sarala maSIna anuvAxa karane meM sakRama hEM .
+
+2 NMT: prAkqwika BARA saMsAXana meM , hama sistama hE ki sarala maSIna anuvAxa karane meM sakRama hEM .
+
+3 NMT: prAkqwika BARA saMsAXana meM , hamAre pAsa EsI praNAliyAM hEM jo sarala maSInI anuvAxa meM sakRama howI hEM .
+
+prAkqwika_0+1+2+3 BARA_0+1+2+3 saMsAXana_0+1+2+3 meM_0+1+2+3 ,_0+1+2+3 hama_1+2/hamAre_0+3 pAsa_0+3/sistama_2/praNAliyoM_1 hE_1+2/EsI_0+3 ki_1+2/praNAliyAM_0+3 hEM_0+3/sarala_1+2 maSIna_1+2/jo_0+3 anuvAxa_1+2/sarala_0+3 karane_1+2/maSInI_0+3 meM_1+2/anuvAxa_0+3 meM_0+3/sakRama_1+2 hEM_1+2/sakRama_0+3 hEM_0/._1+2/howI_3 hEM_3/._0 ._3

@@ -1,5 +1,13 @@
-kyA	vaha	yaha	?	hE	vaha	jo	hE	manuRyoM	iMsAnoM	jo	kI	manuRyoM	viSeRawA	kI	hE	viSeRawA	?	hE
-1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1
+ENG: Is it that which characterize humans?
+
+ANU: kyA yaha jo cAhe howA hE kOna sA mAnava cariwra ciwraNa karawA hE?
+
+0 NMT: kyA vaha hE jo manuRyoM kI viSeRawA hE ?
+
+1 NMT: kyA ?
+
+2 NMT: kyA yaha vaha hE jo manuRyoM kI viSeRawA hE ?
+
+3 NMT: kyA vaha hE jo iMsAnoM kI viSeRawA hE ?
+
+kyA_0+1+2+3 ?_1/vaha_0+3/yaha_2 hE_0+3/vaha_2 hE_2/jo_0+3 jo_2/manuRyoM_0/iMsAnoM_3 kI_0+3/manuRyoM_2 kI_2/viSeRawA_0+3 hE_0+3/viSeRawA_2 hE_2/?_0+3 ?_2

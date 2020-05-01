@@ -1,6 +1,15 @@
-isalie	wArkikawA>>	ko	aBikarwA	ejeMta	kI	sImAoM	ko}	XyAna	meM	raKanA	raKanA	cAhie	cAhie	.	.
-1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	0	1	0	1	1	1	1	1	1
-1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	0	1	0	1	1	1	1	1	1
+ENG: Therefore rationality must take into account the limitations of the agent.
+
+ANU: isalie warka yukwa ko prawiniXi kI sImAez hisAba meM le jAnI cAhie .
+
+0 NMT: isalie wArkikawA ko aBikarwA kI sImAoM ko XyAna meM raKanA cAhie .
+
+1 NMT: isalie buxXi ko ejeMta kI sImAoM kA XyAna raKanA cAhie .
+
+2 NMT: isalie vivekaSIlawA ko ejeMta kI sImAoM ko XyAna meM raKanA cAhie .
+
+3 NMT: isalie buxXivAxa ko ejeMta kI sImAoM ko XyAna meM raKanA cAhie .
+
+4 NMT: isalie vivekaSIlawA ko aBikarwA kI sImAoM kA XyAna raKanA cAhie .
+
+isalie_0+1+2+3+4 vivekaSIlawA_2+4/buxXivAxa_3/buxXi_1/wArkikawA_0 ko_0+1+2+3+4 ejeMta_1+2+3/aBikarwA_0+4 kI_0+1+2+3+4 sImAoM_0+1+2+3+4 ko_0+2+3/kA_1+4 XyAna_0+1+2+3+4 raKanA_1+4/meM_0+2+3 raKanA_0+2+3/cAhie_1+4 cAhie_0+2+3/._1+4 ._0+2+3

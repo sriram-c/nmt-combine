@@ -1,8 +1,19 @@
-yaha	isa	elgoriWma	kevala	varwamAna	paWa	meM	nodsa	kI	jAzca	karane	kI	kI}	jarUrawa	hE	hE	wo	wo	pUrI	bahuwa	pUrNa	jAzca	pUrI	aXika	jAzca}	elgoriWma}	kI}	wulanA	meM	se	elgoriWma	meM}	kahIM	bahuwa	wulanA	kuSala	aXika	aXika	hE	meM	kuSala	kuSala	hE	.	hE}	.
-1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	0	1	0	0	0	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1
-0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	0	1	0	0	0	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1
-1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1
-0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	0	0	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1
-0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1
-0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	0	1	0	0	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1
-1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	0	1	0	0	0	0	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	0	1
+ENG: This algorithm only needs to check the nodes in the current path so is much more efficient than the full checking algorithm.
+
+ANU: yaha praNAlI kevala varwamAna paWa meM gAzTa jAzca isalie pUrI parIkRaNa praNAlI kI apekRA Ora aXika sakRama hE .
+
+0 NMT: yaha elgoriWma kevala varwamAna paWa meM nodsa kI jAzca karane kI jarUrawa hE wo pUrNa jAzca elgoriWma kI wulanA meM kahIM aXika kuSala hE .
+
+1 NMT: isa elgoriWma kevala varwamAna paWa meM nodsa kI jAzca karane kI jarUrawa hE wo pUrNa jAzca elgoriWma kI wulanA meM kahIM aXika kuSala hE .
+
+2 NMT: yaha elgoriWma kevala varwamAna paWa meM nodsa kI jAzca karane kI jarUrawa hE wo pUrI jAzca elgoriWma kI wulanA meM bahuwa aXika kuSala hE .
+
+3 NMT: isa elgoriWma kevala varwamAna paWa meM nodsa kI jAzca karane kI jarUrawa hE wo pUrNa jAzca elgoriWma kI wulanA meM bahuwa aXika kuSala hE .
+
+4 NMT: isa elgoriWma kevala varwamAna paWa meM nodsa kI jAzca kI jarUrawa hE wo pUrI jAzca elgoriWma kI wulanA meM bahuwa aXika kuSala hE .
+
+5 NMT: isa elgoriWma kevala varwamAna paWa meM nodsa kI jAzca kI jarUrawa hE wo bahuwa aXika hE pUrNa jAzca elgoriWma kI wulanA meM kuSala .
+
+6 NMT: yaha elgoriWma kevala varwamAna paWa meM nodsa kI jAzca kI jarUrawa hE wo bahuwa aXika pUrNa jAzca elgoriWma se aXika kuSala hE .
+
+isa_1+3+4+5/yaha_0+2+6 elgoriWma_0+1+2+3+4+5+6 kevala_0+1+2+3+4+5+6 varwamAna_0+1+2+3+4+5+6 paWa_0+1+2+3+4+5+6 meM_0+1+2+3+4+5+6 nodsa_0+1+2+3+4+5+6 kI_0+1+2+3+4+5+6 jAzca_0+1+2+3+4+5+6 kI_4+5+6/karane_0+1+2+3 kI_0+1+2+3/jarUrawa_4+5+6 hE_4+5+6/jarUrawa_0+1+2+3 hE_0+1+2+3/wo_4+5+6 wo_0+1+2+3/bahuwa_5+6/pUrI_4 jAzca_4/aXika_5+6/pUrNa_0+1+3/pUrI_2 hE_5/jAzca_0+1+2+3/elgoriWma_4/pUrNa_6 kI_4/jAzca_6/elgoriWma_0+1+2+3/pUrNa_5 kI_0+1+2+3/jAzca_5/elgoriWma_6/wulanA_4 elgoriWma_5/meM_4/wulanA_0+1+2+3/se_6 kI_5/meM_0+1+2+3/aXika_6/bahuwa_4 aXika_4/kuSala_6/wulanA_5/bahuwa_2+3/kahIM_0+1 hE_6/meM_5/aXika_0+1+2+3/kuSala_4 hE_4/._6/kuSala_0+1+2+3+5 hE_0+1+2+3/._4+5 ._0+1+2+3

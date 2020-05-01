@@ -1,6 +1,15 @@
-varwamAna	boXa	parigrAhI	,	yA	boXa	parigrAhI	boXoM	kA	anukrama	eka	aBikarwA	ejeMta	kisI	anukrama	ke	aBikarwA	eka	kAryoM	ke	ejeMta	ke	kAryoM	ko	ko	kAryoM	praBAviwa	praBAviwa	kara	ko	sakawA	kara	praBAviwa	hE	sakawA	kara	.	hE	sakawe
-1	1	0	1	1	1	0	0	1	1	0	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
-1	1	0	1	1	1	0	0	1	1	0	0	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
-1	0	1	1	1	0	1	0	1	1	0	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
-1	1	0	1	1	1	0	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	1	1	0	1
-1	1	0	1	1	1	0	1	1	1	0	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+ENG: The current percept, or a sequence of percepts can influence the actions of an agent.
+
+ANU: varwamAna boXa, yA boXa kA eka anukrama eka prawiniXi kI kriyAoM ko praBAviwa kara sakawA hE .
+
+0 NMT: varwamAna boXa , yA boXa kA anukrama aBikarwA ke kAryoM ko praBAviwa kara sakawA hE .
+
+1 NMT: varwamAna boXa , yA boXa kA anukrama ejeMta ke kAryoM ko praBAviwa kara sakawA hE .
+
+2 NMT: varwamAna parigrAhI , yA parigrAhI kA anukrama kisI aBikarwA ke kAryoM ko praBAviwa kara sakawA hE .
+
+3 NMT: varwamAna boXa , yA boXoM kA eka anukrama eka ejeMta ke kAryoM ko praBAviwa kara sakawe hEM .
+
+4 NMT: varwamAna boXa , yA boXoM kA anukrama aBikarwA ke kAryoM ko praBAviwa kara sakawA hE .
+
+varwamAna_0+1+2+3+4 boXa_0+1+3+4/parigrAhI_2 ,_0+1+2+3+4 yA_0+1+2+3+4 boXa_0+1/boXoM_3+4/parigrAhI_2 kA_0+1+2+3+4 anukrama_0+1+2+4/eka_3 anukrama_3/aBikarwA_0+4/ejeMta_1/kisI_2 ke_0+1+4/aBikarwA_2/eka_3 ke_2/kAryoM_0+1+4/ejeMta_3 ke_3/kAryoM_2/ko_0+1+4 kAryoM_3/ko_2/praBAviwa_0+1+4 ko_3/praBAviwa_2/kara_0+1+4 praBAviwa_3/kara_2/sakawA_0+1+4 kara_3/sakawA_2/hE_0+1+4 ._0+1+4/hE_2/sakawe_3 ._2/hEM_3 ._3

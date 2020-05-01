@@ -1,6 +1,15 @@
-eka	noda	ke	lie	detA	saMracanA	na	kevala	rAjya	sWiwi	,	balki	lekina	mUla	mAwA	BI	janaka	rAjya	piwA	sWiwi	mAwA	yA	piwA	rAjya	rAjya	yA	oYparetara	oYparetara	hE	yA	ki	hE	oYparetara	isa	ki	hE	rAjya	sWiwi	ki	isa	rAjya	ko	isa	prApwa	sWiwi	ko	prApwa	ko	karane	ke}	lie}	lie	lAgU	ke	kiyA	lie	lAgU	gayA	lAgU	kiyA	WA	kiyA	gayA	kI	gayA	WA	jAnakArI	kA	WA	raKeMge	kA	raKegA	trEka	.	trEka	raKeMge
-1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	0	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	0	1
-1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	0	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0
-1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	0	1	1	1	0
-1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	1	0	0	1	0	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0
-1	1	1	1	1	1	1	1	1	0	1	1	0	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	1	1	1	1
+ENG: The data structure for a node will keep track of not only the state, but also the parent state or the operator that was applied to get this state.
+
+ANU: gAzTa ke lie AzkadA saMracanA na kevala ke rAjya, balki BI mAz bApa rAjya yA saFcAlaka trEka ko raKegI jo yaha rAjya pahuzcane ke lie Avexana kiyA gayA WA .
+
+0 NMT: eka noda ke lie detA saMracanA na kevala rAjya , balki mUla rAjya yA oYparetara hE ki isa rAjya ko prApwa karane ke lie lAgU kiyA gayA WA kI jAnakArI raKeMge .
+
+1 NMT: eka noda ke lie detA saMracanA na kevala rAjya , balki mUla rAjya yA oYparetara hE ki isa rAjya ko prApwa karane ke lie lAgU kiyA gayA WA kI jAnakArI raKegA .
+
+2 NMT: eka noda ke lie detA saMracanA na kevala sWiwi , lekina BI mAwA piwA rAjya yA oYparetara hE ki isa sWiwi ko prApwa karane ke lie lAgU kiyA gayA WA kA trEka raKane jAegA .
+
+3 NMT: eka noda ke lie detA saMracanA na kevala sWiwi , balki janaka sWiwi yA oYparetara hE ki isa sWiwi ko prApwa karane ke lie lAgU kiyA gayA WA kI jAnakArI raKegA .
+
+4 NMT: eka noda ke lie detA saMracanA na kevala rAjya , balki mAwA piwA rAjya yA oYparetara hE ki isa rAjya ko prApwa karane ke lie lAgU kiyA gayA WA kA trEka raKeMge .
+
+eka_0+1+2+3+4 noda_0+1+2+3+4 ke_0+1+2+3+4 lie_0+1+2+3+4 detA_0+1+2+3+4 saMracanA_0+1+2+3+4 na_0+1+2+3+4 kevala_0+1+2+3+4 rAjya_0+1+4/sWiwi_2+3 ,_0+1+2+3+4 balki_0+1+3+4/lekina_2 mAwA_4/mUla_0+1/janaka_3/BI_2 rAjya_0+1/mAwA_2/piwA_4/sWiwi_3 rAjya_4/yA_0+1+3/piwA_2 rAjya_2/yA_4/oYparetara_0+1+3 yA_2/oYparetara_4/hE_0+1+3 oYparetara_2/hE_4/ki_0+1+3 hE_2/ki_4/isa_0+1+3 rAjya_0+1/ki_2/isa_4/sWiwi_3 rAjya_4/ko_0+1+3/isa_2 ko_4/prApwa_0+1+3/sWiwi_2 ko_2/prApwa_4/karane_0+1+3 ke_0+1+3/prApwa_2/karane_4 ke_4/lie_0+1+3/karane_2 ke_2/lie_4/lAgU_0+1+3 lie_2/lAgU_4/kiyA_0+1+3 lAgU_2/kiyA_4/gayA_0+1+3 kiyA_2/gayA_4/WA_0+1+3 gayA_2/WA_4/kI_0+1+3 WA_2/jAnakArI_0+1+3/kA_4 kA_2/trEka_4/raKegA_1+3/raKeMge_0 ._0+1+3/trEka_2/raKeMge_4 ._4/raKane_2 jAegA_2 ._2

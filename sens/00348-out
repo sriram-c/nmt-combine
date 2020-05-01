@@ -1,3 +1,9 @@
-yaha	xvixiSa	Koja	para	vicAra	karane	kI>>	preraNA]	hE]	.]
-1	1	1	1	1	1	0	0	0	0
-1	1	1	1	1	1	0	0	0	0
+ENG: This is the motivation to consider bidirectional search.
+
+ANU: yaha bidirectional walASa mAnanA preraNa hE .
+
+0 NMT: yaha xvixiSa Koja para vicAra karane kI preraNA hE .
+
+1 NMT: yaha xvixiSa Koja para vicAra karane ke lie preraNA hE .
+
+yaha_0+1 xvixiSa_0+1 Koja_0+1 para_0+1 vicAra_0+1 karane_0+1 ke_1/kI_0 preraNA_0/lie_1 preraNA_1/hE_0 hE_1/._0 ._1

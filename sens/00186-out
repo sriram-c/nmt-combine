@@ -1,6 +1,15 @@
-eka	ejeMta	gawiSIla	ke	paryAvaraNa	vAwAvaraNa	kAryoM	ejeMta	se	samaya	ke	svawaMwra	kAryoM	samaya	sAWa	se	ke	ejeMta	ke	svawaMwra	sAWa	samaya}	ke}	sAWa}	baxala	baxalawA	rUpa	jAwA	se	hE	baxalawA	hE	.	.	hE
-1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	0	1	1	1	0	1	1	1	1
-1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	0	0	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	0	1	1	1	0	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	0	0	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	0	1	1	1	1	1	1	1
+ENG: A Dynamic Environment changes over time independent of the actions of the agent.
+
+ANU: dAinEmika invAiranmanta prawiniXi kI kriyAoM ke samaya svawanwra meM baxalawA hE .
+
+0 NMT: eka gawiSIla paryAvaraNa ejeMta ke kAryoM se svawaMwra samaya ke sAWa baxala jAwA hE .
+
+1 NMT: ejeMta ke kAryoM se svawaMwra samaya ke sAWa eka gawiSIla paryAvaraNa baxalawA hE .
+
+2 NMT: eka gawiSIla vAwAvaraNa samaya ke sAWa ejeMta ke kAryoM se svawaMwra baxala jAwA hE .
+
+3 NMT: ejeMta ke kAryoM se svawaMwra samaya ke sAWa eka gawiSIla vAwAvaraNa baxalawA hE .
+
+4 NMT: eka gawiSIla vAwAvaraNa samaya ke sAWa ejeMta ke kAryoM se svawaMwra rUpa se baxalawA hE .
+
+ejeMta_1+3/eka_0+2+4 ke_1+3/gawiSIla_0+2+4 kAryoM_1+3/vAwAvaraNa_2+4/paryAvaraNa_0 se_1+3/ejeMta_0/samaya_2+4 ke_0+2+4/svawaMwra_1+3 kAryoM_0/samaya_1+3/sAWa_2+4 ke_1+3/se_0/ejeMta_2+4 ke_2+4/svawaMwra_0/sAWa_1+3 kAryoM_2+4/samaya_0/eka_1+3 ke_0/se_2+4/gawiSIla_1+3 svawaMwra_2+4/sAWa_0/vAwAvaraNa_3/paryAvaraNa_1 baxalawA_1+3/baxala_0+2/rUpa_4 se_4/hE_1+3/jAwA_0+2 hE_0+2/._1+3/baxalawA_4 hE_4/._0+2 ._4

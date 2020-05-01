@@ -1,3 +1,9 @@
-mAna	lIjie	ki	Koja	samasyA	EsI	hE	ki}	cApa	xvixiSa>>	hEM]	.]
-1	1	1	1	1	1	1	0	1	0	0	0
-1	1	1	1	1	1	1	0	1	0	0	0
+ENG: Suppose that the search problem is such that the arcs are bidirectional.
+
+ANU: mAna lIjie ki walASa samasyA EsI hE ki vqwwAMSa bidirectional hEM .
+
+0 NMT: mAna lIjie ki Koja samasyA EsI hE ki cApa xvixiSa hEM .
+
+1 NMT: mAna lIjie ki Koja samasyA EsI hE ki cApa xvi - xiSAwmaka hEM .
+
+mAna_0+1 lIjie_0+1 ki_0+1 Koja_0+1 samasyA_0+1 EsI_0+1 hE_0+1 ki_0+1 cApa_0+1 xvi_1/xvixiSa_0 hEM_0/-_1 ._0/xiSAwmaka_1 hEM_1 ._1

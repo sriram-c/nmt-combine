@@ -1,4 +1,11 @@
-upayogiwA	AXAriwa	ejeMta	aBikarwA	eka>>	aXika}	sAmAnya}	ejeMta	Premavarka	rUpareKA	rUpareKA	[	8	praxAna}	karawA	hEM	hE	hE	[	1
-1	1	1	0	0	0	0	1	0	1	1	0	0	0	1	0	1	1	0	0
-1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0
-1	1	0	1	0	0	0	0	0	1	1	0	0	0	1	0	1	1	0	0
+ENG: Utility based agents provides a more general agent framework.
+
+ANU: upayogiwA ne AXAriwa prawiniXi eka aXika sAmAnya prawiniXi saMracanA xewA hE .
+
+0 NMT: upayogiwA AXAriwa ejeMta eka aXika sAmAnya ejeMta rUpareKA praxAna karawA hE .
+
+1 NMT: upayogiwA AXAriwa ejeMta aXika sAmAnya ejeMta Premavarka praxAna karawe hEM .
+
+2 NMT: upayogiwA AXAriwa aBikarwA aXika sAmAnya aBikarwA rUpareKA praxAna karawA hE .
+
+upayogiwA_0+1+2 AXAriwa_0+1+2 ejeMta_0+1/aBikarwA_2 aXika_1+2/eka_0 aXika_0/sAmAnya_1+2 ejeMta_1/sAmAnya_0/aBikarwA_2 ejeMta_0/rUpareKA_2/Premavarka_1 praxAna_1+2/rUpareKA_0 praxAna_0/karawA_2/karawe_1 karawA_0/hE_2/hEM_1 ._1+2/hE_0 ._0

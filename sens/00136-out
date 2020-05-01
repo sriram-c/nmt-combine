@@ -1,8 +1,19 @@
-robota	robotsa	meM	kEmarA	seMsara	ke	,	suAra	sonAra	lie	setara	sAyara	kEmarA	,	inPrAreda	,	,}	jZoraxAra>>	Axi	inPrAreda	seMsara	,	ho]	sakawe	lie	Axi	hEM	{	1	.]
-1	0	1	1	1	0	1	1	0	0	0	0	1	1	1	1	0	0	1	1	1	1	0	1	0	1	1	0	0	0
-1	0	1	1	1	1	1	1	0	1	0	0	1	1	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	0
-1	0	1	1	1	1	1	0	1	1	0	0	1	1	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	0
-0	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	0	0	0
-0	1	1	1	1	1	1	0	0	1	0	0	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	0	0	0
-1	0	1	1	1	1	1	0	0	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	0	0	0
-1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	0	0	0
+ENG: Robots may have camera, sonar, infrared, bumper, etc for sensors.
+
+ANU: yanwravawa kAma karanevAle kEmarA, sonAra yanwra, avarakwa, bampara, Axi seMsara ke lie mila sakawe hEM .
+
+0 NMT: robota meM kEmarA , suAra , inPrAreda , jZoraxAra Axi seMsara ho sakawe hEM .
+
+1 NMT: robota meM kEmarA , suAra , inPrAreda , bampara Axi seMsara ke lie ho sakawA hE .
+
+2 NMT: robota meM kEmarA , sonAra , inPrAreda , bampara Axi seMsara ke lie ho sakawA hE .
+
+3 NMT: robotsa meM seMsara ke lie kEmarA , suAra , inPrAreda , bampara Axi ho sakawe hEM .
+
+4 NMT: robotsa meM seMsara ke lie kEmarA , sunAra , inPrAreda , bampara Axi ho sakawe hEM .
+
+5 NMT: robota meM kEmarA , sAyara , inPrAreda , bampara Axi seMsara ke lie ho sakawe hEM .
+
+6 NMT: robota meM kEmarA , setara , inPrAreda , bampara Axi seMsara ke lie ho sakawe hEM .
+
+robota_0+1+2+5+6/robotsa_3+4 meM_0+1+2+3+4+5+6 kEmarA_0+1+2+5+6/seMsara_3+4 ,_0+1+2+5+6/ke_3+4 lie_3+4/suAra_0+1/setara_6/sAyara_5/sonAra_2 ,_0+1+2+5+6/kEmarA_3+4 ,_3+4/inPrAreda_0+1+2+5+6 ,_0+1+2+5+6/suAra_3/sunAra_4 ,_3+4/bampara_1+2+5+6/jZoraxAra_0 inPrAreda_3+4/Axi_0+1+2+5+6 ,_3+4/seMsara_0+1+2+5+6 ho_0/bampara_3+4/ke_1+2+5+6 Axi_3+4/lie_1+2+5+6/sakawe_0 ho_1+2+3+4+5+6/hEM_0 ._0/sakawe_3+4+5+6/sakawA_1+2 hEM_3+4+5+6/hE_1+2 ._1+2+3+4+5+6

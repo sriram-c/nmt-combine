@@ -1,4 +1,11 @@
-xvixiSa	Koja	kaBI	kaBI}	aXika]	jalxI	[	6	samAXAna}	aXika	Kojane	ke	ke	jalxI	lie	Kojane	Ora	lie	newqwva]	kara]	sakawe]	hEM]	.]
-1	1	1	0	0	1	0	0	0	1	1	1	1	1	1	1	0	1	0	0	0	0	0
-1	1	1	0	0	1	0	0	0	1	1	1	1	1	1	1	1	1	0	0	0	0	0
-1	1	1	0	0	0	0	0	0	1	1	1	1	0	1	1	1	1	0	0	0	0	0
+ENG: Bidirectional search can sometimes lead to finding a solution more quickly.
+
+ANU: Bidirectional walASa aXika PatAPata hala ko pAne ko kaBI kaBI kA kAraNa ho sakawI hE .
+
+0 NMT: xvixiSa Koja kaBI kaBI aXika jalxI samAXAna Kojane ke lie newqwva kara sakawe hEM .
+
+1 NMT: xvixiSa Koja kaBI kaBI eka samAXAna Ora aXika jalxI Kojane ke lie newqwva kara sakawe hEM .
+
+2 NMT: xvixiSa Koja kaBI kaBI eka samAXAna Kojane ke lie Ora aXika wejI se newqwva kara sakawe hEM .
+
+xvixiSa_0+1+2 Koja_0+1+2 kaBI_0+1+2 kaBI_0+1+2 aXika_0/eka_1+2 samAXAna_1+2/jalxI_0 Kojane_2/samAXAna_0/Ora_1 Kojane_0/ke_2/aXika_1 ke_0/lie_2/jalxI_1 Kojane_1/lie_0/Ora_2 newqwva_0/ke_1/aXika_2 kara_0/lie_1/wejI_2 newqwva_1/sakawe_0/se_2 newqwva_2/kara_1/hEM_0 kara_2/sakawe_1/._0 sakawe_2/hEM_1 hEM_2/._1 ._2

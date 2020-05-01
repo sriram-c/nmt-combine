@@ -1,7 +1,17 @@
-Ese	aBikarmaka	ejeMtoM	aBikarmakoM	aBikarmaka	ko	yA	aBikarmaka	prawikriyASIla	aWavA	uxxIpana	uxxIpaka	yA	aBikarmaka	aBikarwA	aBikarmaka	uxxIpana	yA	kahalAwe	uxxIpana	aBikarmaka	hEM	kahalAwe	aBikarwA	aBikarmaka	.	hEM	kahA
-1	1	0	0	1	0	1	1	0	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0
-1	1	0	0	1	0	1	1	0	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0
-1	1	0	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	0	0	0	1	1	0	1
-1	0	1	0	0	1	1	0	1	0	1	0	1	0	1	0	1	1	0	1	0	0	0	1	0	1	0	1
-1	1	0	0	1	0	1	1	0	0	0	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	1	0
-1	1	0	0	1	0	0	1	0	1	0	1	0	1	0	1	0	0	1	0	1	1	1	0	1	1	1	0
+ENG: Such agents are called reactive agents or stimulus-response agents.
+
+ANU: Ese prawiniXi prawiGAwaka prawiniXi yA uwwejanA-uwwara prawiniXi milane bulAe jAwe hEM .
+
+0 NMT: Ese aBikarmaka aBikarmaka yA uxxIpana aBikarmaka kahalAwe hEM .
+
+1 NMT: Ese aBikarmaka aBikarmaka aBikarmaka yA uxxIpana aBikarmaka kahalAwe hEM .
+
+2 NMT: Ese aBikarmakoM ko prawikriyASIla aBikarmaka yA uxxIpana aBikarmaka kahA jAwA hE .
+
+3 NMT: Ese ejeMtoM ko prawikriyASIla aBikarwA yA uxxIpana aBikarwA kahA jAwA hE .
+
+4 NMT: Ese aBikarmaka aBikarmaka yA uxxIpaka aBikarmaka kahalAwe hEM .
+
+5 NMT: Ese aBikarmaka aBikarmaka aWavA uxxIpaka aBikarmaka kahalAwe hEM .
+
+Ese_0+1+2+3+4+5 aBikarmaka_0+1+4+5/ejeMtoM_3/aBikarmakoM_2 aBikarmaka_0+1+4+5/ko_2+3 aBikarmaka_1/aWavA_5/prawikriyASIla_2+3/yA_0+4 aBikarmaka_2/uxxIpaka_4+5/aBikarwA_3/yA_1/uxxIpana_0 aBikarmaka_0+4+5/yA_2+3/uxxIpana_1 aBikarmaka_1/kahalAwe_0+4+5/uxxIpana_2+3 aBikarmaka_2/kahalAwe_1/hEM_0+4+5/aBikarwA_3 ._0+4+5/hEM_1/kahA_2+3 ._1/jAwA_2+3 hE_2+3 ._2+3

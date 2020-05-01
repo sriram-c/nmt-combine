@@ -1,10 +1,23 @@
-san	varRa	1969	1969	se	se	1979	1979	waka	ke	ke	waka	varRoM	varRoM	ke	meM	meM	varRoM	jFAna	jFAna	meM	kI	-	-	AXAriwa	jFAna	kamI	vihIna	vihIna	paswa	aBAvagraswa	AXAriwa	xurbala	vAlI	praNAliyoM	praNAliyoM	kA	kA	prAraMBika	prAraMBika	vikAsa	vikAsa	huA	huA	.	.
-1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	0	0	0	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	0	0	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	0	0	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	0	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	0	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1
+ENG: The years from 1969 to 1979 marked the early development of knowledge-based systems.
+
+ANU: 1969 1979 se varRoM ne jFAna-AXAriwa praNAliyoM ke prAramBika vikAsa ko cihniwa kiyA .
+
+0 NMT: san 1969 se 1979 ke varRoM meM jFAna - vihIna praNAliyoM kA prAraMBika vikAsa huA .
+
+1 NMT: 1969 se 1979 ke varRoM meM jFAna - vihIna praNAliyoM kA prAraMBika vikAsa huA .
+
+2 NMT: san 1969 se 1979 ke varRoM meM jFAna - aBAvagraswa praNAliyoM kA prAraMBika vikAsa huA .
+
+3 NMT: san 1969 se 1979 ke varRoM meM jFAna - xurbala praNAliyoM kA prAraMBika vikAsa huA .
+
+4 NMT: 1969 se 1979 ke varRoM meM jFAna kI kamI vAlI praNAliyoM kA prAraMBika vikAsa huA .
+
+5 NMT: 1969 se 1979 waka ke varRoM meM jFAna - paswa praNAliyoM kA prAraMBika vikAsa huA .
+
+6 NMT: 1969 se 1979 waka ke varRoM meM jFAna AXAriwa praNAliyoM kA prAraMBika vikAsa huA .
+
+7 NMT: varRa 1969 se 1979 waka ke varRoM meM jFAna AXAriwa praNAliyoM kA prAraMBika vikAsa huA .
+
+8 NMT: san 1969 se 1979 waka ke varRoM meM jFAna AXAriwa praNAliyoM kA vikAsa huA .
+
+1969_1+4+5+6/san_0+2+3+8/varRa_7 1969_0+2+3+7+8/se_1+4+5+6 se_0+2+3+7+8/1979_1+4+5+6 ke_1+4/1979_0+2+3+7+8/waka_5+6 ke_0+2+3+5+6/varRoM_1+4/waka_7+8 ke_7+8/varRoM_0+2+3+5+6/meM_1+4 varRoM_7+8/meM_0+2+3+5+6/jFAna_1+4 meM_7+8/jFAna_0+2+3+5+6/-_1/kI_4 jFAna_7+8/-_0+2+3+5/AXAriwa_6/vihIna_1/kamI_4 praNAliyoM_1+6/AXAriwa_7+8/vihIna_0/paswa_5/vAlI_4/xurbala_3/aBAvagraswa_2 praNAliyoM_0+2+3+4+5+7+8/kA_1+6 kA_0+2+3+4+5+7+8/prAraMBika_1+6 vikAsa_1+6+8/prAraMBika_0+2+3+4+5+7 vikAsa_0+2+3+4+5+7/huA_1+6+8 huA_0+2+3+4+5+7/._1+6+8 ._0+2+3+4+5+7

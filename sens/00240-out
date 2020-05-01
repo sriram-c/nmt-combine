@@ -1,7 +1,17 @@
-EsA	aBikarwA	ejeMta	apane	kAryoM	pAsa	lakRya	mOjUxa	kA	ke	cayana	lakRya	AXAra	usa>>	lakRya	apane	AXAra	ke	ke	kAryoM	para	AXAra	AXAra	apane	kA	para	para	kAryoM	cayana	karawA	karawA	kA	hE	hE	cayana	.	jo>>	usake	hE	pAsa	.
-1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1
-1	1	0	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1
-1	1	0	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1
-1	1	0	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1
-1	0	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1
-1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1
+ENG: Such an agent selects its actions based on the goal it has.
+
+ANU: eka EsA prawiniXi AXAriwa lakRya para usakA kriyAez cunawA hE jahAz vaha milawA hE .
+
+0 NMT: EsA aBikarwA apane kAryoM kA cayana usa lakRya ke AXAra para karawA hE jo usake pAsa hE .
+
+1 NMT: EsA aBikarwA apane lakRya ke AXAra para apane kAryoM kA cayana karawA hE .
+
+2 NMT: EsA aBikarwA apane kAryoM kA cayana usake lakRya ke AXAra para karawA hE .
+
+3 NMT: EsA aBikarwA apane kAryoM kA cayana lakRya ke AXAra para karawA hE .
+
+4 NMT: EsA ejeMta apane lakRya ke AXAra para apane kAryoM kA cayana karawA hE .
+
+5 NMT: EsA ejeMta apane pAsa mOjUxa lakRya ke AXAra para apane kAryoM kA cayana karawA hE .
+
+EsA_0+1+2+3+4+5 aBikarwA_0+1+2+3/ejeMta_4+5 apane_0+1+2+3+4+5 lakRya_1+4/kAryoM_0+2+3/pAsa_5 ke_1+4/kA_0+2+3/mOjUxa_5 lakRya_5/AXAra_1+4/cayana_0+2+3 lakRya_3/ke_5/para_1+4/usa_0/usake_2 apane_1+4/lakRya_0+2/ke_3/AXAra_5 ke_0+2/AXAra_3/para_5/kAryoM_1+4 apane_5/AXAra_0+2/para_3/kA_1+4 para_0+2/kAryoM_5/cayana_1+4/karawA_3 hE_3/kA_5/karawA_0+1+2+4 hE_0+1+2+4/cayana_5/._3 ._1+2+4/karawA_5/jo_0 hE_5/usake_0 ._5/pAsa_0 hE_0 ._0

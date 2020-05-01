@@ -1,6 +1,15 @@
-yaxi	Koja	vqkRa	trI	meM	kI	anaMwa	gaharAI	hE	,	elgoriWma	elgoriWama	wo	elgoriWma	samApwa	nahIM	samApwa	ho	nahIM	ho	sakawA	hE}	.	hE
-1	1	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1
-1	1	0	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	0	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1
-1	1	0	1	1	0	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	0	1	1
-1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1
+ENG: If the search tree has infinite depth, the algorithm may not terminate.
+
+ANU: yaxi Koja waru ke asImiwa gaharAI hE, wo praNAlI samApwa nahIM kara sakawI .
+
+0 NMT: yaxi Koja vqkRa meM anaMwa gaharAI hE , elgoriWma samApwa nahIM ho sakawA hE .
+
+1 NMT: yaxi Koja trI meM anaMwa gaharAI hE , elgoriWma samApwa nahIM ho sakawA hE .
+
+2 NMT: yaxi Koja vqkRa kI anaMwa gaharAI hE , elgoriWma samApwa nahIM ho sakawA hE .
+
+3 NMT: yaxi Koja trI meM anaMwa gaharAI hE , elgoriWama samApwa nahIM ho sakawA hE .
+
+4 NMT: yaxi Koja vqkRa meM anaMwa gaharAI hE , wo elgoriWma samApwa nahIM ho sakawA hE .
+
+yaxi_0+1+2+3+4 Koja_0+1+2+3+4 vqkRa_0+2+4/trI_1+3 meM_0+1+3+4/kI_2 anaMwa_0+1+2+3+4 gaharAI_0+1+2+3+4 hE_0+1+2+3+4 ,_0+1+2+3+4 elgoriWma_0+1+2/wo_4/elgoriWama_3 samApwa_0+1+2+3/elgoriWma_4 samApwa_4/nahIM_0+1+2+3 nahIM_4/ho_0+1+2+3 ho_4/sakawA_0+1+2+3 hE_0+1+2+3/sakawA_4 hE_4/._0+1+2+3 ._4

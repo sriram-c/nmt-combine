@@ -1,3 +1,9 @@
-hara>>	noda	meM	0	yA	aXika	bacce	ho	sakawe	hEM	.
-1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1
+ENG: Every node may have 0 or more children.
+
+ANU: prawyeka gAzTa ke 0 yA aXika bacce hEM .
+
+0 NMT: hara noda meM 0 yA aXika bacce ho sakawe hEM .
+
+1 NMT: prawyeka noda meM 0 yA aXika bacce ho sakawe hEM .
+
+prawyeka_1/hara_0 noda_0+1 meM_0+1 0_0+1 yA_0+1 aXika_0+1 bacce_0+1 ho_0+1 sakawe_0+1 hEM_0+1 ._0+1

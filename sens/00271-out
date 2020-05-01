@@ -1,3 +1,9 @@
-hamAre	pAsa	3	KUMtI	Ora	3}	diska	hEM>>	.
-1	1	1	1	1	0	1	0	1
-1	1	1	1	1	0	1	0	1
+ENG: We have 3 pegs and 3 disks.
+
+ANU: Could not translate the sentence .
+
+0 NMT: hamAre pAsa 3 KUMtI Ora 3 diska hEM .
+
+1 NMT: hamAre pAsa 3 KUMtI Ora 3 diska hE .
+
+hamAre_0+1 pAsa_0+1 3_0+1 KUMtI_0+1 Ora_0+1 3_0+1 diska_0+1 hE_1/hEM_0 ._0+1

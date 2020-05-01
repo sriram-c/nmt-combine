@@ -1,9 +1,21 @@
-unakA	warka	vikAsa	vikAsavAxI	hE	ke	ki	mArga	mArga	vikAsa	rAswe	kA	kA	ke	para	anusaraNa	anusaraNa	calane	calanA	rAswe	karanA	karanA	para	Ora	Ora	calanA	jatila	jatila	saMsAra	Ora	xuniyA	lokoM	lokoM	jatila	ke	ke}	ke	lie	sarala	sarala	aBikarwA	lie	ejeMta	aBikarmakoM	ejeMtoM	ejeMtoM	sarala	banAnA	kA	banAne	kA	ejeMta	nirmANa	hE	nirmANa	karanA	banAnA	.	hE	karanA	.	hE	hE}
-1	1	1	0	1	1	0	1	1	1	0	1	1	1	0	1	1	0	0	0	1	1	0	1	1	0	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	1	0	0	1	1	1	0	1	0	1	0	1	1	1	1	0	1	1	1	1	1	0
-1	1	1	0	1	1	0	0	0	1	1	0	0	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	1	1	0	0	0	1	1	0	0	0	1	0	1	0	0	1	1	1	0	1	1	0
-1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	1	0	0	1	1	1	0	1	0	1	0	1	1	1	1	0	1	1	1	1	1	0
-1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	0	0	1	0	0	0	0	1	1	1	0	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	0	0	0	0	1	0	1	1	1	0	0	1	0	0	0	1	1	0	1	1	0
-1	1	1	0	1	1	0	0	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1	0	1	0	0	1	1	1	0	1	0	1	0	1	1	1	1	0	1	1	1	1	1	0
-1	1	0	1	1	1	0	1	1	0	0	1	1	1	0	1	1	0	0	0	1	1	0	1	1	0	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	0	0	1	0	1	1	1	1	1	1	1	0
-1	1	1	0	1	1	1	0	0	1	1	0	0	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1	0	1	1	0	0	0	1	1	0	0	0	1	0	1	0	0	1	1	1	0	1	1	0
-1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	1	1	1	1	0	1	0	1	0	0	1	0	1	0	1	0	1	1	1	1	0	1	1	1	1	1	0
+ENG: His argument is to follow the evolutionary path and build simple agents for complex worlds.
+
+ANU: usakI bahasa vikAsamUlaka paWa kA anusaraNa karanA Ora jatila viSva ke lie sAXAraNa prawiniXi banAne ke lie hE .
+
+0 NMT: unakA warka vikAsa ke mArga kA anusaraNa karanA Ora jatila lokoM ke lie sarala ejeMtoM kA nirmANa karanA hE .
+
+1 NMT: unakA warka vikAsa ke rAswe para calanA Ora jatila lokoM ke lie sarala ejeMta banAnA hE .
+
+2 NMT: unakA warka vikAsa ke mArga para calanA Ora jatila lokoM ke lie sarala ejeMtoM kA nirmANa karanA hE .
+
+3 NMT: unakA warka vikAsa ke mArga para calane Ora jatila lokoM ke lie sarala aBikarwA banAne kA hE .
+
+4 NMT: unakA warka vikAsa ke rAswe para calanA Ora jatila xuniyA ke lie sarala ejeMtoM kA nirmANa karanA hE .
+
+5 NMT: unakA warka vikAsavAxI mArga kA anusaraNa karanA Ora jatila lokoM ke lie sarala aBikarwA banAnA hE .
+
+6 NMT: unakA warka hE ki vikAsa ke rAswe para calanA Ora jatila xuniyA ke lie sarala ejeMta banAnA .
+
+7 NMT: unakA warka vikAsa ke mArga para calanA Ora jatila saMsAra ke lie sarala aBikarmakoM kA nirmANa karanA hE .
+
+unakA_0+1+2+3+4+5+6+7 warka_0+1+2+3+4+5+6+7 hE_6/vikAsa_0+1+2+3+4+7/vikAsavAxI_5 ke_0+1+2+3+4+7/mArga_5/ki_6 vikAsa_6/kA_5/mArga_0+2+3+7/rAswe_1+4 ke_6/kA_0/para_1+2+3+4+7/anusaraNa_5 karanA_5/calanA_1+2+4+7/rAswe_6/anusaraNa_0/calane_3 Ora_1+2+3+4+5+7/para_6/karanA_0 Ora_0/jatila_1+2+3+4+5+7/calanA_6 Ora_6/jatila_0/lokoM_1+2+3+5/xuniyA_4/saMsAra_7 ke_1+2+3+4+5+7/jatila_6/lokoM_0 ke_0/lie_1+2+3+4+5+7/xuniyA_6 ke_6/lie_0/sarala_1+2+3+4+5+7 lie_6/sarala_0/ejeMtoM_2+4/aBikarwA_3+5/ejeMta_1/aBikarmakoM_7 sarala_6/kA_2+4+7/ejeMtoM_0/banAnA_1+5/banAne_3 hE_1+5/kA_0+3/nirmANa_2+4+7/ejeMta_6 ._1+5/hE_3/karanA_2+4+7/nirmANa_0/banAnA_6 ._3+6/hE_2+4+7/karanA_0 ._2+4+7/hE_0 ._0

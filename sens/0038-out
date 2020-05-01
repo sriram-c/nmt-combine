@@ -1,9 +1,21 @@
-spaRta	jAhira	pahale	rUpa	hE	prakAra	ki	se	ke	pahale	kArya	prakAra	spaRta	ke	rUpa	kArya	se	manuRyoM	ke}	lie	karanA>>	AsAna	se	ke	howe	meM	hE	AsAna	kie	lie	hEM	howe	,	AsAna	jA	sakawe	Ora	hEM	lagaBaga	,	hEM	Ora	saBI	,	unheM	lagaBaga	Ora	mahArawa	lagaBaga	saBI	hAsila	saBI	unheM	unameM	karane	mahArawa	unheM	unameM	meM	karane	hAsila	niRNAwa	pUrA	mahArawa	karane	hAsila	sakRama	meM	hEM}	.]
-1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	0
-1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	0
-1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	0
-1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	1	0	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	0
-0	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	0	1	1	0	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	0
-1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	1	0	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	0	1	0	1	1	0	1	0	0	1	0	1	1	0	0
-1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	0	1	0	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	0	1	0	1	1	0	0	0	0	1	0	1	1	0	0
-1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	1	0	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	0	1	0	1	1	0	0	1	0	1	0	1	1	0	0
+ENG: Clearly tasks of the first type are easy for humans to perform, and almost all are able to master them.
+
+ANU: spaRtawaH pahale prakAra ke kAma kArya karane ke lie mAnavoM ke lie AsAna hEM, Ora lagaBaga saba unako vaSIBUwa karanA samarWa hEM .
+
+0 NMT: spaRta rUpa se pahale prakAra ke kArya manuRyoM ke lie karanA AsAna hE , Ora lagaBaga saBI unheM mahArawa hAsila karane meM sakRama hEM .
+
+1 NMT: spaRta rUpa se pahale prakAra ke kArya manuRyoM ke lie niRpAxana meM AsAna howe hEM , Ora lagaBaga saBI unameM mahArawa hAsila karane meM sakRama howe hEM .
+
+2 NMT: spaRta rUpa se pahale prakAra ke kArya manuRyoM ke lie AsAna howe hEM , Ora lagaBaga saBI unheM mahArawa hAsila karane meM sakRama howe hEM .
+
+3 NMT: spaRta rUpa se pahale prakAra ke kArya manuRyoM ke lie karane ke lie AsAna hEM , Ora lagaBaga saBI unheM mahArawa hAsila karane meM sakRama hEM .
+
+4 NMT: jAhira hE ki pahale prakAra ke kArya manuRyoM ke lie AsAnI se kie jA sakawe hEM , Ora lagaBaga saBI unameM mahArawa hAsila karane meM sakRama hEM .
+
+5 NMT: spaRta hE ki pahale prakAra ke kArya manuRyoM ke lie AsAnI se kie jA sakawe hEM , Ora lagaBaga saBI unheM niRNAwa karane meM sakRama hEM .
+
+6 NMT: pahale prakAra ke kArya spaRta rUpa se manuRyoM ke lie AsAnI se kie jA sakawe hEM , Ora lagaBaga saBI unheM karane meM sakRama hEM .
+
+7 NMT: spaRta hE ki pahale prakAra ke kArya manuRyoM ke lie AsAnI se kie jA sakawe hEM , Ora lagaBaga saBI unheM pUrA karane meM sakRama hEM .
+
+pahale_6/spaRta_0+1+2+3+5+7/jAhira_4 prakAra_6/rUpa_0+1+2+3/hE_4+5+7 ke_6/se_0+1+2+3/ki_4+5+7 pahale_0+1+2+3+4+5+7/kArya_6 prakAra_0+1+2+3+4+5+7/spaRta_6 ke_0+1+2+3+4+5+7/rUpa_6 se_6/kArya_0+1+2+3+4+5+7 manuRyoM_0+1+2+3+4+5+6+7 ke_0+1+2+3+4+5+6+7 lie_0+1+2+3+4+5+6+7 karane_3/AsAnI_4+5+6+7/niRpAxana_1/AsAna_2/karanA_0 ke_3/meM_1/se_4+5+6+7/howe_2/AsAna_0 hEM_2/lie_3/kie_4+5+6+7/hE_0/AsAna_1 ,_0+2/jA_4+5+6+7/howe_1/AsAna_3 hEM_1+3/Ora_0+2/sakawe_4+5+6+7 hEM_4+5+6+7/,_1+3/lagaBaga_0+2 ,_4+5+6+7/Ora_1+3/saBI_0+2 Ora_4+5+6+7/lagaBaga_1+3/unheM_0+2 lagaBaga_4+5+6+7/saBI_1+3/mahArawa_0+2 saBI_4+5+6+7/unheM_3/hAsila_0+2/unameM_1 karane_0+2/unheM_5+6+7/mahArawa_1+3/unameM_4 meM_0+2/karane_6/mahArawa_4/hAsila_1+3/pUrA_7/niRNAwa_5 meM_6/karane_1+3+5+7/sakRama_0+2/hAsila_4 hEM_0/meM_1+3+5+7/karane_4/sakRama_6/howe_2 hEM_2+6/meM_4/sakRama_1+3+5+7/._0 hEM_3+5+7/sakRama_4/._2+6/howe_1 hEM_1+4/._3+5+7 ._1+4

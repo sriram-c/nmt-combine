@@ -1,7 +1,17 @@
-isane	mAnavIya	mAnava	warka	warkoM	,	ko	Ora	Ora	samaJane	buxXi	buxXi	Ora	ke	meM	svarUpa	buxXi	sahAyawA	kI	,	prakqwi	Ora	kI	ko	ko	buxXi	prakqwi	hE	samaJane	samaJane	,	ko	ke	meM	svarUpa	sahAyawA	samaJane	meM	Ora	maxaxa	ko	kI	meM	buxXi	kI	maxaxa	samaJane	hE	prakqwi	meM	kI	hE	.	.	sahAyawA	ko	hE
-1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	0	1	1	0	0	1	1	1	1	1	1	1	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1
+ENG: It has helped in the understanding of human reasoning, and of the nature of intelligence.
+
+ANU: isane mAnavIya safkewa kA samaJa meM, Ora jFAna kI prakqwi kI sahAyawA kI hE .
+
+0 NMT: isane mAnavIya warka , Ora buxXi kI prakqwi ko samaJane meM maxaxa kI hE .
+
+1 NMT: isane mAnava warka , Ora buxXi kI prakqwi ko samaJane meM maxaxa kI hE .
+
+2 NMT: isane mAnava warka ko samaJane Ora buxXi kI prakqwi ko samaJane meM maxaxa kI hE .
+
+3 NMT: isane mAnavIya warkoM Ora buxXi ke svarUpa ko samaJane meM sahAyawA kI hE .
+
+4 NMT: isane mAnava warka ko samaJane meM sahAyawA kI hE , Ora buxXi kI prakqwi ko samaJane meM sahAyawA kI hE .
+
+5 NMT: isane mAnava warka ko samaJane meM , Ora buxXi ke svarUpa ko samaJane meM sahAyawA kI hE .
+
+isane_0+1+2+3+4+5 mAnava_1+2+4+5/mAnavIya_0+3 warka_0+1+2+4+5/warkoM_3 ko_2+4+5/Ora_3/,_0+1 samaJane_2+4+5/Ora_0+1/buxXi_3 meM_4+5/Ora_2/buxXi_0+1/ke_3 kI_0+1/buxXi_2/sahAyawA_4/,_5/svarUpa_3 kI_2+4/ko_3/Ora_5/prakqwi_0+1 ko_0+1/samaJane_3/hE_4/buxXi_5/prakqwi_2 ko_2/samaJane_0+1/meM_3/,_4/ke_5 samaJane_2/meM_0+1/Ora_4/sahAyawA_3/svarUpa_5 kI_3/ko_5/meM_2/buxXi_4/maxaxa_0+1 kI_0+1+4/samaJane_5/hE_3/maxaxa_2 kI_2/meM_5/hE_0+1/._3/prakqwi_4 ko_4/hE_2/._0+1/sahAyawA_5 kI_5/samaJane_4/._2 meM_4/hE_5 ._5/sahAyawA_4 kI_4 hE_4 ._4

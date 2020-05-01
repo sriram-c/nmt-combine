@@ -1,6 +1,15 @@
-aMwa	meM	eAI	eAi	e	vAswava	eka	meM}	eka	meM	AkarRaka	AkarRaka	kRewra	kRewra	hE	hE	.	.
-1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	0	0	1	1	0	0	0	1	1	1	1	1	1	1	1	1
-1	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1
+ENG: In conclusion AI is a truly fascinating field.
+
+ANU: niRkarRa meM e. AI. eka sacamuca manamohaka kRewra hE .
+
+0 NMT: aMwa meM eAI vAswava meM eka AkarRaka kRewra hE .
+
+1 NMT: aMwa meM eAI eka saca meM AkarRaka kRewra hE .
+
+2 NMT: aMwa meM eAI eka sacamuca AkarRaka kRewra hE .
+
+3 NMT: aMwa meM e vAswava meM AkarRaka kRewra hE .
+
+4 NMT: aMwa meM eAi eka saca meM AkarRaka kRewra hE .
+
+aMwa_0+1+2+3+4 meM_0+1+2+3+4 eAI_0+1+2/eAi_4/e_3 eka_1+2+4/vAswava_0+3 meM_0+3/saca_1+4/sacamuca_2 meM_1+4/AkarRaka_2+3/eka_0 AkarRaka_0+1+4/kRewra_2+3 kRewra_0+1+4/hE_2+3 hE_0+1+4/._2+3 ._0+1+4

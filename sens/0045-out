@@ -1,5 +1,13 @@
-hama	jatila	sAmAjika	kArya	kAryoM	BI	karane	ko	kara>>	pAwe>>	hEM]	.]
-1	1	1	1	0	1	0	0	0	0	0	0
-1	1	1	1	0	1	1	0	0	0	0	0
-1	1	1	0	1	1	1	1	0	0	0	0
-1	1	1	1	0	1	1	0	0	0	0	0
+ENG: We are also able to perform complex social functions.
+
+ANU: hama jatila sAmAjika samAroha kArya karanA BI samarWa hEM .
+
+0 NMT: hama jatila sAmAjika kArya BI kara pAwe hEM .
+
+1 NMT: hama jatila sAmAjika kArya BI karane meM sakRama hEM .
+
+2 NMT: hama jatila sAmAjika kAryoM ko BI karane meM sakRama hEM .
+
+3 NMT: hama jatila sAmAjika kArya karane meM BI sakRama hEM .
+
+hama_0+1+2+3 jatila_0+1+2+3 sAmAjika_0+1+2+3 kArya_0+1+3/kAryoM_2 BI_0+1/karane_3/ko_2 BI_2/karane_1/meM_3/kara_0 BI_3/karane_2/meM_1/pAwe_0 hEM_0/sakRama_1+3/meM_2 hEM_1+3/._0/sakRama_2 hEM_2/._1+3 ._2

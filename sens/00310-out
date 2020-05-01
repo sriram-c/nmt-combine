@@ -1,4 +1,11 @@
-kuCa	mAmaloM	meM	hama	maXyavarwI	rAjyoM	kI	guNavawwA	ke	bAre	meM}	kuCa}	jFAna	ho	sakawA	hE	Ora	yaha	SAyaxa	Koja	elgoriWma	xvArA	xohana>>	kiyA	jA	sakawA}	hE}	.
-1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	1
-1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	1
-1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	1
+ENG: In some cases we may have some knowledge about the quality of intermediate states and this can perhaps be exploited by the search algorithm.
+
+ANU: kuCa mAmaloM meM hamAre maXyavarwI avasWAoM kI guNavawwA ke bAre meM kuCa jFAna hE Ora yaha walASa praNAlI ke xvArA SAyaxa SoRaNa kiyA jA sakawA hE .
+
+0 NMT: kuCa mAmaloM meM hama maXyavarwI rAjyoM kI guNavawwA ke bAre meM kuCa jFAna ho sakawA hE Ora yaha SAyaxa Koja elgoriWma xvArA xohana kiyA jA sakawA hE .
+
+1 NMT: kuCa mAmaloM meM hama maXyavarwI rAjyoM kI guNavawwA ke bAre meM kuCa jFAna ho sakawA hE Ora yaha SAyaxa Koja elgoriWma xvArA SoRaNa kiyA jA sakawA hE .
+
+2 NMT: kuCa mAmaloM meM hama maXyavarwI rAjyoM kI guNavawwA ke bAre meM kuCa jFAna ho sakawA hE Ora yaha SAyaxa Koja elgoriWma xvArA SoRiwa kiyA jA sakawA hE .
+
+kuCa_0+1+2 mAmaloM_0+1+2 meM_0+1+2 hama_0+1+2 maXyavarwI_0+1+2 rAjyoM_0+1+2 kI_0+1+2 guNavawwA_0+1+2 ke_0+1+2 bAre_0+1+2 meM_0+1+2 kuCa_0+1+2 jFAna_0+1+2 ho_0+1+2 sakawA_0+1+2 hE_0+1+2 Ora_0+1+2 yaha_0+1+2 SAyaxa_0+1+2 Koja_0+1+2 elgoriWma_0+1+2 xvArA_0+1+2 SoRiwa_2/SoRaNa_1/xohana_0 kiyA_0+1+2 jA_0+1+2 sakawA_0+1+2 hE_0+1+2 ._0+1+2

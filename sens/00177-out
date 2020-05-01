@@ -1,4 +1,11 @@
-yaxi	paryAvaraNa	rAjya	pUrI	pUrNa	waraha	rUpa	se	pUrvavarwI	rAjya}	Ora	ekAXika	bahu	ejeMtoM	ke	kAryoM	xvArA	nirXAriwa	hE	,	wo	paryAvaraNa}	sAmarika	kahA	jAwA	hE}	.
-1	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1
-1	1	1	0	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1
-1	1	1	1	0	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1
+ENG: If the environment state is wholly determined by the preceding state and the actions of multiple agents, then the environment is said to be strategic.
+
+ANU: yaxi paryAvaraNa rAjya se pahale AnA yA Gatiwa howI huI avasWA Ora bahuwa prawiniXiyoM kI kriyAoM ke pAsa pUrI waraha se xqDa safkalpI wo hE, waba paryAvaraNa bawAyA jAI ki yukwi viRayaka hone vAlA hE .
+
+0 NMT: yaxi paryAvaraNa rAjya pUrI waraha se pUrvavarwI rAjya Ora ekAXika ejeMtoM ke kAryoM xvArA nirXAriwa hE , wo paryAvaraNa sAmarika kahA jAwA hE .
+
+1 NMT: yaxi paryAvaraNa rAjya pUrNa rUpa se pUrvavarwI rAjya Ora ekAXika ejeMtoM ke kAryoM xvArA nirXAriwa hE , wo paryAvaraNa sAmarika kahA jAwA hE .
+
+2 NMT: yaxi paryAvaraNa rAjya pUrI waraha se pUrvavarwI rAjya Ora bahu ejeMtoM ke kAryoM xvArA nirXAriwa hE , wo paryAvaraNa sAmarika kahA jAwA hE .
+
+yaxi_0+1+2 paryAvaraNa_0+1+2 rAjya_0+1+2 pUrI_0+2/pUrNa_1 waraha_0+2/rUpa_1 se_0+1+2 pUrvavarwI_0+1+2 rAjya_0+1+2 Ora_0+1+2 ekAXika_0+1/bahu_2 ejeMtoM_0+1+2 ke_0+1+2 kAryoM_0+1+2 xvArA_0+1+2 nirXAriwa_0+1+2 hE_0+1+2 ,_0+1+2 wo_0+1+2 paryAvaraNa_0+1+2 sAmarika_0+1+2 kahA_0+1+2 jAwA_0+1+2 hE_0+1+2 ._0+1+2

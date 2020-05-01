@@ -1,9 +1,21 @@
-vEkalpika	rUpa	se	,	hama	kEse	JAlara	hama	nae	kEse	meM]	nava	meM	uwpanna	nodsa	ko	nae	nava	naI	uwpanna	nodsa	JAlara	uwpanna	nodsa	nodsa	meM	kEse	jagaha	kEse	hogI>>	?	sakawe
-1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0
-1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0
-1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	0	1	1
-1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0
-1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1	0
-1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	0	1	0
-1	1	1	1	1	1	0	1	0	1	0	0	1	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1	1	0	1	0
-1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	0	0	1	0	1	1	0	1	1	1	1	1	1	1	0	1	0
+ENG: Alternatively, how would we place the newly generated nodes in the fringe?
+
+ANU: vikalpawa, hama kinAre meM nayI uwpanna kara gAzTa kEse raKeMge?
+
+0 NMT: vEkalpika rUpa se , hama JAlara meM nava uwpanna nodsa kEse jagaha hogI ?
+
+1 NMT: vEkalpika rUpa se , hama kEse JAlara meM nava uwpanna nodsa jagaha hogA ?
+
+2 NMT: vEkalpika rUpa se , hama nae uwpanna nodsa ko JAlara meM kEse raKa sakawe hEM ?
+
+3 NMT: vEkalpika rUpa se , kEse hama JAlara meM nava uwpanna nodsa jagaha hogA ?
+
+4 NMT: vEkalpika rUpa se , hama kEse nae uwpanna nodsa JAlara meM jagaha hogA ?
+
+5 NMT: vEkalpika rUpa se , hama kEse wala meM nae uwpanna nodsa jagaha hogA ?
+
+6 NMT: vEkalpika rUpa se , hama kEse wala meM naI uwpanna nodsa jagaha hogA ?
+
+7 NMT: vEkalpika rUpa se , hama kEse wala meM nava uwpanna nodsa jagaha hogA ?
+
+vEkalpika_0+1+2+3+4+5+6+7 rUpa_0+1+2+3+4+5+6+7 se_0+1+2+3+4+5+6+7 ,_0+1+2+3+4+5+6+7 kEse_3/hama_0+1+2+4+5+6+7 kEse_1+4+5+6+7/hama_3/JAlara_0/nae_2 uwpanna_2/meM_0/JAlara_1+3/wala_5+6+7/nae_4 uwpanna_4/nodsa_2/meM_1+3+5+6+7/nava_0 uwpanna_0/nodsa_4/nava_1+3+7/nae_5/naI_6/ko_2 uwpanna_1+3+5+6+7/nodsa_0/JAlara_2+4 nodsa_1+3+5+6+7/kEse_0/meM_2+4 kEse_2/jagaha_0+1+3+4+5+6+7 hogA_1+3+4+5+6+7/raKa_2/hogI_0 ?_0+1+3+4+5+6+7/sakawe_2 hEM_2 ?_2

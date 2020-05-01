@@ -1,12 +1,27 @@
-bruksa	ne	kA	liKA	kahanA	hE	ki	nicale	jAnavaroM	jIvoM	meM	mukwi	koI	vicAra	nahIM]	howI]	Ora]	kriyAeM]	saMvexI	kriyAeM	howA	Ora	AxAnoM	Ora	kriyAeM	saMvexI	para]	AXAriwa	saMvexanAwmaka	saMvexI	AXAroM	AxAnoM	para	inaputa	AxAnoM	para	AXAriwa	howI	hEM]	.]
-1	1	0	1	0	1	1	1	1	0	1	1	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	0	0
-1	1	0	1	0	1	1	1	1	0	1	0	1	1	0	0	0	0	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	0	0
-1	1	0	1	0	1	1	1	1	0	1	1	1	0	0	0	0	0	1	1	0	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	0	0
-1	0	1	0	1	1	1	1	1	0	1	1	1	0	0	0	0	0	1	1	0	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	0	0
-1	1	0	1	0	1	1	1	1	0	1	0	1	1	0	0	0	0	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	0	0
-1	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	0	0
-1	1	0	1	0	1	1	1	1	0	1	0	1	1	0	0	0	0	1	1	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	1	1	1	0	0
-1	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	1	1	1	1	0	1	1	1	0	1	0	1	0	0	1	1	0	1	1	1	0	0
-1	0	1	0	1	1	1	1	1	0	1	0	0	1	0	0	0	0	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	0	0
-1	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	0	1	1	0	0	1	1	0	1	1	1	1	0	0
-1	0	1	0	1	1	1	1	0	1	1	0	1	1	0	0	0	0	1	1	1	1	0	1	1	1	0	0	0	1	1	0	1	0	0	1	0	1	0	0
+ENG: Brooks notes that in lower animals there is no deliberation and the actions are based on sensory inputs.
+
+ANU: CotI naxI XyAna se xeKawI hE ki aXika kama paSuoM meM koI vicAra vimarSa nahIM hE ki Ora kriyAez saMvexI inaputa para AXAriwa hEM .
+
+0 NMT: bruksa ne liKA hE ki nicale jAnavaroM meM mukwi nahIM howI Ora kriyAeM saMvexI AxAnoM para AXAriwa howI hEM .
+
+1 NMT: bruksa ne liKA hE ki nicale jAnavaroM meM koI vicAra - vimarSa nahIM howA Ora kriyAeM saMvexI AxAnoM para AXAriwa howI hEM .
+
+2 NMT: bruksa ne liKA hE ki nicale jAnavaroM meM koI mukwi nahIM howI Ora kriyAeM saMvexI AxAnoM para AXAriwa howI hEM .
+
+3 NMT: bruksa kA kahanA hE ki nicale jAnavaroM meM koI mukwi nahIM howI Ora kriyAeM saMvexI AxAnoM para AXAriwa howI hEM .
+
+4 NMT: bruksa ne liKA hE ki nicale jAnavaroM meM koI vicAra nahIM howA Ora kriyAeM saMvexI AxAnoM para AXAriwa howI hEM .
+
+5 NMT: bruksa kA kahanA hE ki nicale jAnavaroM meM koI vicAra nahIM howA Ora kriyAeM saMvexI AxAnoM para AXAriwa howI hEM .
+
+6 NMT: bruksa ne liKA hE ki nicale jAnavaroM meM koI vicAra nahIM howA Ora kriyAeM saMvexI niveSoM para AXAriwa howI hEM .
+
+7 NMT: bruksa kA kahanA hE ki nicale jAnavaroM meM koI vicAra - vimarSa nahIM howA Ora kriyAeM saMvexI inaputa para AXAriwa howI hEM .
+
+8 NMT: bruksa kA kahanA hE ki nicale jAnavaroM meM vicAra - vimarSa nahIM howA Ora kriyAeM saMvexI AxAnoM para AXAriwa howI hEM .
+
+9 NMT: bruksa kA kahanA hE ki nicale jAnavaroM meM koI vicAra - vimarSa nahIM howA Ora kriyAeM saMvexanAwmaka AxAnoM para AXAriwa howI hEM .
+
+10 NMT: bruksa kA kahanA hE ki nicale jIvoM meM koI vicAra vimarSa nahIM howA Ora kriyAeM saMvexI AXAroM para howI hEM .
+
+bruksa_0+1+2+3+4+5+6+7+8+9+10 kA_3+5+7+8+9+10/ne_0+1+2+4+6 kahanA_3+5+7+8+9+10/liKA_0+1+2+4+6 hE_0+1+2+3+4+5+6+7+8+9+10 ki_0+1+2+3+4+5+6+7+8+9+10 nicale_0+1+2+3+4+5+6+7+8+9+10 jAnavaroM_0+1+2+3+4+5+6+7+8+9/jIvoM_10 meM_0+1+2+3+4+5+6+7+8+9+10 koI_1+2+3+4+5+6+7+9+10/vicAra_8/mukwi_0 nahIM_0/vicAra_1+4+5+6+7+9+10/-_8/mukwi_2+3 howI_0/nahIM_2+3+4+5+6/vimarSa_8+10/-_1+7+9 howI_2+3/Ora_0/nahIM_8+10/howA_4+5+6/vimarSa_1+7+9 Ora_2+3+4+5+6/kriyAeM_0/nahIM_1+7+9/howA_8+10 Ora_8+10/kriyAeM_2+3+4+5+6/saMvexI_0/howA_1+7+9 Ora_1+7+9/kriyAeM_8+10/saMvexI_2+3+4+5+6/AxAnoM_0 kriyAeM_1+7+9/para_0/saMvexI_8+10/AxAnoM_2+3+4+5/niveSoM_6 para_2+3+4+5+6/AXAriwa_0/saMvexI_1+7/AxAnoM_8/AXAroM_10/saMvexanAwmaka_9 howI_0/para_8+10/AXAriwa_2+3+4+5+6/AxAnoM_1+9/inaputa_7 howI_2+3+4+5+6+10/hEM_0/para_1+7+9/AXAriwa_8 howI_8/hEM_2+3+4+5+6+10/._0/AXAriwa_1+7+9 howI_1+7+9/hEM_8/._2+3+4+5+6+10 hEM_1+7+9/._8 ._1+7+9

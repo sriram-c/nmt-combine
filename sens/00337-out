@@ -1,4 +1,11 @@
-yaha	ho]	sakawA]	hE]	agara>>	Koja	<	aMwarikRa	sarca	Koja	anaMwa]	hE}	.]
-1	0	0	0	0	1	0	1	0	1	0	0	0
-1	0	0	0	0	1	0	1	0	1	0	0	0
-1	0	0	0	0	0	0	0	1	0	0	0	0
+ENG: This can happen if the search space is infinite.
+
+ANU: yaha ho sakawA hE yaxi Koja sWala asImiwa hE .
+
+0 NMT: yaha ho sakawA hE agara Koja aMwarikRa anaMwa hE .
+
+1 NMT: yaha waba ho sakawA hE jaba Koja aMwarikRa anaMwa hE .
+
+2 NMT: yaha waba ho sakawA hE jaba sarca spesa anaMwa ho .
+
+yaha_0+1+2 ho_0/waba_1+2 ho_1+2/sakawA_0 hE_0/sakawA_1+2 hE_1+2/agara_0 jaba_1+2/Koja_0 Koja_1/aMwarikRa_0/sarca_2 anaMwa_0/aMwarikRa_1/spesa_2 hE_0/anaMwa_1+2 hE_1/ho_2/._0 ._1+2

@@ -1,5 +1,13 @@
-san	1956	1956	meM	xarabAra>>	meM}	eka	meM	prasixXa	eka	prasixXa	sammelana	sammelana	huA	.	huA
-0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1
+ENG: In 1956 a famous conference took place in Dartmouth.
+
+ANU: 1956 meM eka prasixXa sammelana doYrtmaWa meM huA .
+
+0 NMT: 1956 meM xarabAra meM eka prasixXa sammelana huA .
+
+1 NMT: 1956 meM dArtamAuWa meM eka prasixXa sammelana huA .
+
+2 NMT: san 1956 meM dArtamAuWa meM eka prasixXa sammelana huA .
+
+3 NMT: 1956 meM xArwamAuWa meM eka prasixXa sammelana huA .
+
+1956_0+1+3/san_2 meM_0+1+3/1956_2 meM_2/dArtamAuWa_1/xArwamAuWa_3/xarabAra_0 meM_0+1+3/dArtamAuWa_2 meM_2/eka_0+1+3 eka_2/prasixXa_0+1+3 prasixXa_2/sammelana_0+1+3 sammelana_2/huA_0+1+3 huA_2/._0+1+3 ._2

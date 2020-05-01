@@ -1,7 +1,17 @@
-elgorixama>>	viswAra	ke	lie	opIena	opena	se	eka	noda	noda	cunawA	uTAwA	cunawA	hE	hE	Ora	Ora	noda	noda}	ke}	saBI	baccoM	baccoM	ko	ko	uwpanna	uwpanna	karawA	karawA	hE	hE}	.
-0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1
-0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1
-0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1
-0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1
-0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1
-0	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1
+ENG: The algorithm picks a node from OPEN for expanding and generates all the children of the node.
+
+ANU: praNAlI PElane ke lie ovpana se gAzTa cUna lewI hE Ora gAzTa ke saBI baccoM ko uwpanna karawI hE .
+
+0 NMT: elgorixama viswAra ke lie opIena se eka noda uTAwA hE Ora noda ke saBI baccoM ko uwpanna karawA hE .
+
+1 NMT: elgoriWma viswAra ke lie opIena se eka noda cunawA hE Ora noda ke saBI baccoM ko uwpanna karawA hE .
+
+2 NMT: elgoriWma viswAra ke lie opIena se eka noda uTAwA hE Ora noda ke saBI baccoM ko uwpanna karawA hE .
+
+3 NMT: elgoriWma viswAra ke lie opena se eka noda cunawA hE Ora noda ke saBI baccoM ko uwpanna karawA hE .
+
+4 NMT: elgoriWama viswAra ke lie opena se eka noda cunawA hE Ora noda ke saBI baccoM ko uwpanna karawA hE .
+
+5 NMT: elgoriWma viswAra ke lie opena se noda cunawA hE Ora noda ke saBI baccoM ko uwpanna karawA hE .
+
+elgoriWma_1+2+3+5/elgoriWama_4/elgorixama_0 viswAra_0+1+2+3+4+5 ke_0+1+2+3+4+5 lie_0+1+2+3+4+5 opena_3+4+5/opIena_0+1+2 se_0+1+2+3+4+5 noda_5/eka_0+1+2+3+4 noda_0+1+2+3+4/cunawA_5 hE_5/cunawA_1+3+4/uTAwA_0+2 hE_0+1+2+3+4/Ora_5 noda_5/Ora_0+1+2+3+4 noda_0+1+2+3+4/ke_5 ke_0+1+2+3+4/saBI_5 saBI_0+1+2+3+4/baccoM_5 baccoM_0+1+2+3+4/ko_5 ko_0+1+2+3+4/uwpanna_5 uwpanna_0+1+2+3+4/karawA_5 hE_5/karawA_0+1+2+3+4 hE_0+1+2+3+4/._5 ._0+1+2+3+4

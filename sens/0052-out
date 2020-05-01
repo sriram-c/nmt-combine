@@ -1,11 +1,25 @@
-majabUwa	eAI	kA	maSInoM	uxxeSya	lakRya	hE	EsI	ki	maSInoM	vAswava	kA	meM	nirmANa	kAraNa	karanA	Ora	hE	samasyAoM	jo	ko	vAswava	hala	sahI	mAyane	meM	kara	warka	sakawe	meM	xe	warka	hEM	Ora	sakeM	xe	kA	samasyAoM	Ora	kA	sakeM	nirmANa	Ora	samasyAoM	Ora	kA	karane	ko	samasyAoM	samAXAna	kA}	samAXAna	ko	uxxeSya	kA	lie	sakeM	kara	hala	sakeM	samAXAna	uxxeSya	kara	.	sakeM	hE	kara	.	.	sakeM
-1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	0	0	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	0	0	0	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	0	1	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	0	1	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	0	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	0	1	1	0	0	1	1	1	0	1	1	1	1	0
-1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	0	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	0	1	1	1	0	0	1	1	0	0	1	1	1	0	1	1	1	1	0
+ENG: Strong AI aims to build machines that can truly reason and solve problems.
+
+ANU: majabUwa e. AI. kA hE maSIneM jo samasyAez sacamuca warka kara sakawIM hEM Ora hala kara sakawIM hEM banAne kA uxxeSya hE .
+
+0 NMT: majabUwa eAI kA uxxeSya EsI maSInoM kA nirmANa karanA hE jo vAswava meM warka xe sakeM Ora samasyAoM kA samAXAna kara sakeM .
+
+1 NMT: majabUwa eAI kA uxxeSya EsI maSInoM kA nirmANa karanA hE jo sahI mAyane meM warka xe sakeM Ora samasyAoM kA samAXAna kara sakeM .
+
+2 NMT: majabUwa eAI kA lakRya EsI maSInoM kA nirmANa karanA hE jo sahI mAyane meM warka xe sakeM Ora samasyAoM kA samAXAna kara sakeM .
+
+3 NMT: majabUwa eAI kA lakRya EsI maSInoM kA nirmANa karanA hE jo sahI mAyane meM warka Ora samasyAoM kA samAXAna kara sakeM .
+
+4 NMT: majabUwa eAI kA uxxeSya EsI maSInoM kA nirmANa karanA hE jo vAswava meM warka Ora samasyAoM kA samAXAna kara sakeM .
+
+5 NMT: majabUwa eAI kA lakRya EsI maSInoM kA nirmANa karanA hE jo sahI mAyane meM warka xe sakeM Ora samasyAoM ko hala kara sakeM .
+
+6 NMT: majabUwa eAI kA lakRya EsI maSInoM kA nirmANa karanA hE jo sahI mAyane meM warka Ora samasyAoM ko hala kara sakeM .
+
+7 NMT: majabUwa eAI kA uxxeSya EsI maSInoM kA nirmANa karanA hE jo sahI mAyane meM warka Ora samasyAoM ko hala kara sakeM .
+
+8 NMT: majabUwa eAI maSInoM hE ki vAswava meM kAraNa Ora samasyAoM ko hala kara sakawe hEM kA nirmANa karane ke lie uxxeSya hE .
+
+9 NMT: majabUwa eAI maSInoM hE ki vAswava meM kAraNa Ora samasyAoM ko hala kara sakawe hEM kA nirmANa karane ke uxxeSya .
+
+majabUwa_0+1+2+3+4+5+6+7+8+9 eAI_0+1+2+3+4+5+6+7+8+9 kA_0+1+2+3+4+5+6+7/maSInoM_8+9 hE_8+9/uxxeSya_0+1+4+7/lakRya_2+3+5+6 EsI_0+1+2+3+4+5+6+7/ki_8+9 maSInoM_0+1+2+3+4+5+6+7/vAswava_8+9 kA_0+1+2+3+4+5+6+7/meM_8+9 nirmANa_0+1+2+3+4+5+6+7/kAraNa_8+9 Ora_8+9/karanA_0+1+2+3+4+5+6+7 hE_0+1+2+3+4+5+6+7/samasyAoM_8+9 jo_0+1+2+3+4+5+6+7/ko_8+9 sahI_1+2+3+5+6+7/hala_8+9/vAswava_0+4 kara_8+9/meM_0+4/mAyane_1+2+3+5+6+7 meM_1+2+3+5+6+7/warka_0+4/sakawe_8+9 Ora_4/warka_1+2+3+5+6+7/xe_0/hEM_8+9 kA_8+9/Ora_3+6+7/samasyAoM_4/sakeM_0/xe_1+2+5 kA_4/Ora_0/samasyAoM_3+6+7/nirmANa_8+9/sakeM_1+2+5 kA_3/Ora_1+2+5/samasyAoM_0/ko_6+7/samAXAna_4/karane_8+9 kA_0/samasyAoM_1+2+5/kara_4/hala_6+7/samAXAna_3/ke_8+9 kA_1+2/kara_3+6+7/uxxeSya_9/ko_5/samAXAna_0/sakeM_4/lie_8 ._4+9/kara_0/uxxeSya_8/hala_5/samAXAna_1+2/sakeM_3+6+7 hE_8/._3+6+7/kara_1+2+5/sakeM_0 ._0+8/sakeM_1+2+5 ._1+2+5

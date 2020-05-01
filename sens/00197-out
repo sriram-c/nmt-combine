@@ -1,7 +1,17 @@
-wAlikAoM>>	bahuwa	badZA	badZI	ho	sakawA	sakawI	hE	hEM	.
-0	1	1	0	1	1	0	1	0	1
-0	1	0	1	1	0	1	0	1	1
-0	1	1	0	1	1	0	1	0	1
-0	1	0	1	1	0	1	0	1	1
-0	1	0	1	1	0	1	0	1	1
-0	1	1	0	1	1	0	1	0	1
+ENG: The tables may become very large.
+
+ANU: mejeM awyanwa badA ho sakawIM hEM .
+
+0 NMT: wAlikAoM bahuwa badZA ho sakawA hE .
+
+1 NMT: wAlikAeM bahuwa badZI ho sakawI hEM .
+
+2 NMT: pAsA bahuwa badZA ho sakawA hE .
+
+3 NMT: sAraNiyAM bahuwa badZI ho sakawI hEM .
+
+4 NMT: tebalsa bahuwa badZI ho sakawI hEM .
+
+5 NMT: tebala bahuwa badZA ho sakawA hE .
+
+tebala_5/tebalsa_4/sAraNiyAM_3/pAsA_2/wAlikAeM_1/wAlikAoM_0 bahuwa_0+1+2+3+4+5 badZI_1+3+4/badZA_0+2+5 ho_0+1+2+3+4+5 sakawI_1+3+4/sakawA_0+2+5 hEM_1+3+4/hE_0+2+5 ._0+1+2+3+4+5

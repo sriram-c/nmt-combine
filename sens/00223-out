@@ -1,7 +1,17 @@
-aXigama>>	ejeMta	eka	SurU	ko	ejeMta	SurU	meM	AraMBika>>	SurU	ajFAwa	meM	vAwAvaraNa	vAwAvaraNa	ajFAwa	meM	meM}	kArya>>	saMcAliwa	karane	ko	meM	kI>>	anumawi]	xewA]	hE]	.]
-0	1	0	0	1	1	0	1	0	0	1	1	1	1	1	1	0	0	0	1	1	1	0	0	0	0	0
-0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	0	0
-0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	0	0	0
-0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	0	0
-0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	0	0	0	1	0	1	0	0	0	0	0
-0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	0	0
+ENG: Learning allows an agent to operate in initially unknown environments.
+
+ANU: sIKa SurU meM avixiwa vAwAvaraNa meM calane ke lie eka prawiniXi anumawi xewA hE .
+
+0 NMT: aXigama ejeMta ko AraMBika ajFAwa vAwAvaraNa meM kArya karane kI anumawi xewA hE .
+
+1 NMT: sIKane eka ejeMta ko SurU meM ajFAwa vAwAvaraNa meM saMcAliwa karane ke lie anumawi xewA hE .
+
+2 NMT: sIKane eka ejeMta SurU meM ajFAwa vAwAvaraNa meM saMcAliwa karane ke lie anumawi xewA hE .
+
+3 NMT: sIKanA eka ejeMta ko SurU meM ajFAwa vAwAvaraNa meM saMcAliwa karane ke lie anumawi xewA hE .
+
+4 NMT: sIKanA ejeMta SurU meM ajFAwa vAwAvaraNa meM kAma karane ke lie anumawi xewA hE .
+
+5 NMT: sIKanA SurU meM ajFAwa vAwAvaraNa meM eka ejeMta ko saMcAliwa karane ke lie anumawi xewA hE .
+
+sIKanA_3+4+5/sIKane_1+2/aXigama_0 ejeMta_0+4/SurU_5/eka_1+2+3 meM_5/ejeMta_1+2+3/SurU_4/ko_0 meM_4/ajFAwa_5/SurU_2/ko_1+3/AraMBika_0 meM_2/ajFAwa_0+4/vAwAvaraNa_5/SurU_1+3 meM_1+3+5/ajFAwa_2/vAwAvaraNa_0+4 meM_0+4/ajFAwa_1+3/vAwAvaraNa_2/eka_5 meM_2/vAwAvaraNa_1+3/ejeMta_5/kAma_4/kArya_0 meM_1+3/karane_0+4/saMcAliwa_2/ko_5 karane_2/ke_4/saMcAliwa_1+3+5/kI_0 anumawi_0/karane_1+3+5/ke_2/lie_4 anumawi_4/xewA_0/ke_1+3+5/lie_2 anumawi_2/xewA_4/hE_0/lie_1+3+5 anumawi_1+3+5/xewA_2/hE_4/._0 xewA_1+3+5/hE_2/._4 hE_1+3+5/._2 ._1+3+5

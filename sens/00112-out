@@ -1,9 +1,21 @@
-jabaki	kuCa	anuvAxa	praNAliyoM	vikasiwa	kA	ko	kiyA	vikasiwa	vikAsa	gayA	kiyA	hE	gayA	hE	,	vahAz	anuvAxa	,	anuvAxa}	guNavawwA	kI	meM	guNavawwA	meM	suXAra	suXAra	meM	ke	ke	kI	suXAra	lie	lie	kI	bahuwa	kAPI	kAPI	guMjAiSa	guMjAiSa	kI	hE	hE}	.	bahuwa
-1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	0	1	0	1	0
-1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1
-1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	0	1	0	1	0
-1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	0	1	0	1	0
-1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1	1	1	1	1	0	1	0
-1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1	1	1	1	1	0	1	0
-1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1	1	1	1	1	0	1	0
-1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1
+ENG: While some translation systems have been developed, there is a lot of scope for improvement in translation quality.
+
+ANU: jaba ki kuCa anuvAxa praNAliyAz vikAsa kI gayIM hEM, bahuwa sArA guFjAiSa anuvAxa guNavawwA meM suXAra ke lie hE .
+
+0 NMT: jabaki kuCa anuvAxa praNAliyoM vikasiwa kiyA gayA hE , vahAz anuvAxa guNavawwA meM suXAra ke lie kAPI guMjAiSa hE .
+
+1 NMT: jabaki kuCa anuvAxa praNAliyoM vikasiwa kiyA gayA hE , vahAz anuvAxa guNavawwA meM suXAra ke lie guMjAiSa kI eka bahuwa kuCa hE .
+
+2 NMT: jabaki kuCa anuvAxa praNAliyoM vikasiwa kiyA gayA hE , anuvAxa guNavawwA meM suXAra ke lie kAPI guMjAiSa hE .
+
+3 NMT: jabaki kuCa anuvAxa praNAliyoM ko vikasiwa kiyA gayA hE , anuvAxa guNavawwA meM suXAra ke lie kAPI guMjAiSa hE .
+
+4 NMT: jabaki kuCa anuvAxa praNAliyoM ko vikasiwa kiyA gayA hE , anuvAxa kI guNavawwA meM suXAra kI kAPI guMjAiSa hE .
+
+5 NMT: jabaki kuCa anuvAxa praNAliyoM ko vikasiwa kiyA gayA hE , anuvAxa guNavawwA meM suXAra kI kAPI guMjAiSa hE .
+
+6 NMT: jabaki kuCa anuvAxa praNAliyoM kA vikAsa kiyA gayA hE , anuvAxa guNavawwA meM suXAra kI kAPI guMjAiSa hE .
+
+7 NMT: jabaki kuCa anuvAxa praNAliyoM ko vikasiwa kiyA gayA hE , anuvAxa guNavawwA meM suXAra kI bahuwa guMjAiSa hE .
+
+jabaki_0+1+2+3+4+5+6+7 kuCa_0+1+2+3+4+5+6+7 anuvAxa_0+1+2+3+4+5+6+7 praNAliyoM_0+1+2+3+4+5+6+7 vikasiwa_0+1+2/ko_3+4+5+7/kA_6 kiyA_0+1+2/vikasiwa_3+4+5+7/vikAsa_6 kiyA_3+4+5+6+7/gayA_0+1+2 hE_0+1+2/gayA_3+4+5+6+7 hE_3+4+5+6+7/,_0+1+2 anuvAxa_2/,_3+4+5+6+7/vahAz_0+1 anuvAxa_0+1+3+4+5+6+7/guNavawwA_2 guNavawwA_0+1+3+5+6+7/meM_2/kI_4 guNavawwA_4/meM_0+1+3+5+6+7/suXAra_2 meM_4/suXAra_0+1+3+5+6+7/ke_2 suXAra_4/kI_5+6+7/ke_0+1+3/lie_2 kI_4/kAPI_2+5+6/lie_0+1+3/bahuwa_7 guMjAiSa_1+2+5+6+7/kAPI_0+3+4 hE_2+5+6+7/guMjAiSa_0+3+4/kI_1 hE_0+3+4/._2+5+6+7/eka_1 ._0+3+4/bahuwa_1 kuCa_1 hE_1 ._1

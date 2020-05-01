@@ -1,7 +1,17 @@
-hama	Aie	kuCa	,	SarwoM	hama	kuCa	kA	ko	kuCa	SarwoM	paricaya	SarwoM	lAgU	kA	xekara	karake	ko	kA	paricaya	SurU	lAgU	xewe	paricaya	xekara	hue	karake	kareM	.	SuruAwa	SurU
-1	0	1	0	1	1	1	1	0	1	1	1	1	0	1	1	0	0	1	1	1	0	0	1	1	0	0	1	1	0	1
-1	0	1	0	1	1	1	0	1	1	1	0	1	1	0	0	1	1	0	0	1	1	0	0	0	0	1	1	1	0	1
-1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	0	1	1	1	0	0	1	1	0	0	1	1	0	1
-1	1	1	1	1	1	1	0	1	1	1	0	1	1	0	0	1	1	0	0	1	1	0	0	0	0	1	1	1	0	1
-0	1	1	1	1	0	1	1	0	1	1	1	1	0	1	0	0	0	1	1	0	0	1	1	0	1	0	1	1	1	0
-1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	0	1	1	0	0	0	1	1	0	0	1	1	1	0
+ENG: Let us begin by introducing certain terms.
+
+ANU: caliye hama kuCa Sabxa paricaya karAne ke xvArA Suru kara .
+
+0 NMT: hama kuCa SarwoM kA paricaya xekara SurU kareM .
+
+1 NMT: hama kuCa SarwoM ko lAgU karake SurU kareM .
+
+2 NMT: Aie , hama kuCa SarwoM kA paricaya xekara SurU kareM .
+
+3 NMT: Aie , hama kuCa SarwoM ko lAgU karake SurU kareM .
+
+4 NMT: Aie , kuCa SarwoM kA paricaya xewe hue SuruAwa kareM .
+
+5 NMT: Aie , hama kuCa SarwoM kA paricaya xekara SuruAwa kareM .
+
+hama_0+1/Aie_2+3+4+5 kuCa_0+1/,_2+3+4+5 kuCa_4/SarwoM_0+1/hama_2+3+5 kuCa_2+3+5/SarwoM_4/kA_0/ko_1 SarwoM_2+3+5/kA_4/paricaya_0/lAgU_1 kA_2+5/paricaya_4/xekara_0/ko_3/karake_1 paricaya_2+5/SurU_0+1/lAgU_3/xewe_4 kareM_0+1/xekara_2+5/karake_3/hue_4 ._0+1/SurU_2+3/SuruAwa_4+5 kareM_2+3+4+5 ._2+3+4+5

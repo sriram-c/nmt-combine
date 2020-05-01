@@ -1,5 +1,13 @@
-paWa	lAgawa	eka	sakArAwmaka	saMKyA	hE	,	Ora	eka}	Ama	paWa}	lAgawa}	paWa}	meM	caraNoM	kaxama	kI	lAgawa}	kA	yoga	ho	sakawA	hE}	.
-1	1	1	1	1	1	1	1	0	1	0	0	0	1	1	0	1	0	1	1	1	1	0	1
-1	1	1	1	1	1	1	1	0	1	0	0	0	1	0	1	1	0	1	1	1	1	0	1
-1	1	1	1	1	1	1	1	0	1	0	0	0	1	0	1	1	0	1	1	1	1	0	1
-1	1	1	1	1	1	1	1	0	1	0	0	0	1	1	0	1	0	1	1	1	1	0	1
+ENG: The path cost is a positive number, and a common path cost may be the sum of the costs of the steps in the path.
+
+ANU: paWa kImawa eka sakArAwmaka safKyA hE, Ora eka sArvajanika paWa kImawa paWa meM kaxama/kaxamoM ke KarcoM kA joda ho sakawI hE .
+
+0 NMT: paWa lAgawa eka sakArAwmaka saMKyA hE , Ora eka Ama paWa lAgawa paWa meM caraNoM kI lAgawa kA yoga ho sakawA hE .
+
+1 NMT: paWa lAgawa eka sakArAwmaka saMKyA hE , Ora eka Ama paWa lAgawa paWa meM kaxama kI lAgawa kA yoga ho sakawA hE .
+
+2 NMT: paWa lAgawa eka sakArAwmaka saMKyA hE , Ora eka Ama rAswA lAgawa paWa meM kaxama kI lAgawa kA yoga ho sakawA hE .
+
+3 NMT: paWa lAgawa eka sakArAwmaka saMKyA hE , Ora eka Ama rAswA lAgawa paWa meM caraNoM kI lAgawa kA yoga ho sakawA hE .
+
+paWa_0+1+2+3 lAgawa_0+1+2+3 eka_0+1+2+3 sakArAwmaka_0+1+2+3 saMKyA_0+1+2+3 hE_0+1+2+3 ,_0+1+2+3 Ora_0+1+2+3 eka_0+1+2+3 Ama_0+1+2+3 paWa_0+1/rAswA_2+3 lAgawa_0+1+2+3 paWa_0+1+2+3 meM_0+1+2+3 kaxama_1+2/caraNoM_0+3 kI_0+1+2+3 lAgawa_0+1+2+3 kA_0+1+2+3 yoga_0+1+2+3 ho_0+1+2+3 sakawA_0+1+2+3 hE_0+1+2+3 ._0+1+2+3

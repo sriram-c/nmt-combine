@@ -1,5 +1,13 @@
-aBikarwA	eka	vaha	ejeMta	vaswu>>	hE	jo	jo	anuBava	ki	boXa>>	Ora	hE	kArya	Ora	kAma	karawI>>	hE}	.	hE
-1	0	1	0	0	1	1	1	0	0	0	1	1	1	1	0	0	0	1	1
-0	1	0	1	0	1	0	0	1	1	0	1	1	0	1	1	0	0	1	1
-0	1	0	1	0	1	1	1	0	0	0	1	1	1	1	0	0	0	1	1
-1	0	1	0	0	1	1	1	1	0	0	1	1	1	1	0	0	0	1	1
+ENG: An agent is something that perceives and acts.
+
+ANU: eka prawiniXi kuCa hE jo mahasUsa karawA hE Ora kArya karawA hE .
+
+0 NMT: aBikarwA vaha vaswu hE jo boXa Ora kArya karawI hE .
+
+1 NMT: eka ejeMta kuCa hE ki anuBava Ora kAma karawA hE .
+
+2 NMT: eka ejeMta kuCa hE jo xeKawA hE Ora kArya karawA hE .
+
+3 NMT: aBikarwA vaha hE jo anuBava karawA hE Ora kArya karawA hE .
+
+eka_1+2/aBikarwA_0+3 ejeMta_1+2/vaha_0+3 hE_3/kuCa_1+2/vaswu_0 hE_0+1+2/jo_3 jo_0+2/anuBava_3/ki_1 karawA_3/anuBava_1/xeKawA_2/boXa_0 hE_2+3/Ora_0+1 Ora_2+3/kArya_0/kAma_1 karawA_1/kArya_2+3/karawI_0 hE_0+1/karawA_2+3 hE_2+3/._0+1 ._2+3

@@ -1,7 +1,17 @@
-eka	manamAnA	manamAne	manamAnA	xqSya	xqSya	kA	kI	xqSya	prawiniXiwva	xqSya	vyAKyA	kA	kareM	prawiniXiwva	kA	.	prawiniXiwva	kareM
-1	0	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1
-0	1	0	1	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0
-1	1	0	1	1	1	0	1	1	0	1	1	0	1	0	0	1	0	1
-1	0	1	0	1	1	0	1	1	0	1	1	0	1	0	0	1	0	1
+ENG: Interpret an arbitrary visual scene.
+
+ANU: manamAnA xqSya xqSya vyAKyA kIjie .
+
+0 NMT: eka manamAne xqSya kA prawiniXiwva kareM .
+
+1 NMT: eka manamAne xqSya xqSya xqSya kA prawiniXiwva kareM .
+
+2 NMT: eka manamAne xqSya xqSya kA prawiniXiwva kareM .
+
+3 NMT: manamAnA xqSya
+
+4 NMT: eka manamAnA xqSya kI vyAKyA kareM .
+
+5 NMT: eka manamAne xqSya kI vyAKyA kareM .
+
+eka_0+1+2+4+5/manamAnA_3 xqSya_3/manamAne_0+1+2+5/manamAnA_4 xqSya_0+1+2+4+5 xqSya_1+2/kA_0/kI_4+5 xqSya_1/kA_2/prawiniXiwva_0/vyAKyA_4+5 kareM_0+4+5/kA_1/prawiniXiwva_2 kareM_2/._0+4+5/prawiniXiwva_1 kareM_1/._2 ._1

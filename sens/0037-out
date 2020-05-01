@@ -1,4 +1,11 @@
-ye	kArya	kAma	saBI	logoM>>	xvArA>>	nahIM}	kie>>	jA>>	sakawe}	,}	Ora}	kevala	viSeRajFa	kuSala	kuSala}	viSeRajFoM>>	xvArA>>	hI}	kie>>	jA>>
-1	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
-1	1	0	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0
-1	0	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+ENG: These tasks cannot be done by all people, and can only be performed by skilled specialists.
+
+ANU: ye kAma saba logoM ke xvArA nahIM kie jA sakawe hEM, Ora kuSala viSeRajFa ke xvArA kevala kArya kie jA sakawe hEM .
+
+0 NMT: ye kArya saBI logoM xvArA nahIM kie jA sakawe , Ora kevala kuSala viSeRajFoM xvArA hI kie jA sakawe hEM .
+
+1 NMT: ye kArya saBI loga nahIM kara sakawe , Ora kevala kuSala viSeRajFa hI kara sakawe hEM .
+
+2 NMT: ye kAma saBI loga nahIM kara sakawe , Ora ye kAma kuSala viSeRajFa hI kara sakawe hEM .
+
+ye_0+1+2 kAma_2/kArya_0+1 saBI_0+1+2 loga_1+2/logoM_0 nahIM_1+2/xvArA_0 kara_1+2/nahIM_0 sakawe_1+2/kie_0 ,_1+2/jA_0 sakawe_0/Ora_1+2 ye_2/,_0/kevala_1 Ora_0/kuSala_1/kAma_2 kuSala_2/viSeRajFa_1/kevala_0 hI_1/kuSala_0/viSeRajFa_2 kara_1/hI_2/viSeRajFoM_0 sakawe_1/kara_2/xvArA_0 sakawe_2/hEM_1/hI_0 hEM_2/._1/kie_0 ._2/jA_0 sakawe_0 hEM_0 ._0

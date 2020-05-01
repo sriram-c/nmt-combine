@@ -1,6 +1,15 @@
-xAhinI	ora	kA	kI	ciwra	wasvIra	sahI	hala>>	nahIM	hE	,	kyoMki	kuCa	rAniyoM	rAniyAM	meM	eka	se	xUsare	kuCa	para	eka	hamalA	xUsare	AkramaNa	kara	para	rahI	hamalA	kara	hEM	.	rahe
-1	1	1	0	1	0	1	0	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0
-1	1	1	0	1	0	1	0	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0
-1	1	0	1	0	1	1	0	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0
-1	1	0	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
-1	1	1	0	1	0	1	0	1	1	1	1	1	0	1	0	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0
+ENG: The picture on the right is not a correct solution, because some of the queens are attacking each other.
+
+ANU: xAzyI waraPa para ciwra eka sahI hala, nahIM hE kyoMki kuCa rAniyoM meM se eka xUsare para hamalA kara rahe hEM .
+
+0 NMT: xAhinI ora kA ciwra sahI hala nahIM hE , kyoMki kuCa rAniyAM eka xUsare para hamalA kara rahI hEM .
+
+1 NMT: xAhinI ora kA ciwra sahI samAXAna nahIM hE , kyoMki kuCa rAniyAM eka xUsare para hamalA kara rahI hEM .
+
+2 NMT: xAhinI ora kI wasvIra sahI samAXAna nahIM hE , kyoMki kuCa rAniyAM eka xUsare para hamalA kara rahI hEM .
+
+3 NMT: xAhinI ora kI wasvIra sahI samAXAna nahIM hE , kyoMki rAniyoM meM se kuCa eka xUsare para hamalA kara rahe hEM .
+
+4 NMT: xAhinI ora kA ciwra sahI samAXAna nahIM hE , kyoMki kuCa rAniyAM eka xUsare para AkramaNa kara rahI hEM .
+
+xAhinI_0+1+2+3+4 ora_0+1+2+3+4 kA_0+1+4/kI_2+3 ciwra_0+1+4/wasvIra_2+3 sahI_0+1+2+3+4 samAXAna_1+2+3+4/hala_0 nahIM_0+1+2+3+4 hE_0+1+2+3+4 ,_0+1+2+3+4 kyoMki_0+1+2+3+4 kuCa_0+1+2+4/rAniyoM_3 rAniyAM_0+1+2+4/meM_3 eka_0+1+2+4/se_3 xUsare_0+1+2+4/kuCa_3 eka_3/para_0+1+2+4 xUsare_3/hamalA_0+1+2/AkramaNa_4 para_3/kara_0+1+2+4 hamalA_3/rahI_0+1+2+4 hEM_0+1+2+4/kara_3 ._0+1+2+4/rahe_3 hEM_3 ._3

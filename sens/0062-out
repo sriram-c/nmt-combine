@@ -1,8 +1,19 @@
-jatila	Ora	,	Kule	KulI	saMsAra	xuniyA	viSva	meM	kArya	kAma	karane	ke	lie	sAmAnya	jFAna	boXa	jFAna	kI	kI	AvaSyakawA	howI	AvaSyakawA	hE	hE	howI	.	.	hE
-1	1	0	1	0	1	0	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	0	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1
+ENG: Common sense knowledge is needed to function in complex, open-ended worlds.
+
+ANU: sahaja jFAna jFAna jatila, Kule viSva meM kArya karane kI AvaSyakawA huA hE .
+
+0 NMT: jatila Ora Kule saMsAra meM kArya karane ke lie sAmAnya jFAna kI AvaSyakawA howI hE .
+
+1 NMT: jatila , Kule saMsAra meM kArya karane ke lie sAmAnya boXa jFAna kI AvaSyakawA howI hE .
+
+2 NMT: jatila Ora Kule saMsAra meM kArya karane ke lie sAmAnya boXa jFAna kI AvaSyakawA howI hE .
+
+3 NMT: jatila , Kule saMsAra meM kArya karane ke lie sAmAnya jFAna kI AvaSyakawA howI hE .
+
+4 NMT: jatila , KulI xuniyA meM kAma karane ke lie sAmAnya jFAna kI AvaSyakawA howI hE .
+
+5 NMT: jatila , Kule viSva meM kArya karane ke lie sAmAnya jFAna kI AvaSyakawA howI hE .
+
+6 NMT: jatila , Kule viSva meM kArya karane ke lie sAmAnya jFAna kI AvaSyakawA hE .
+
+jatila_0+1+2+3+4+5+6 ,_1+3+4+5+6/Ora_0+2 Kule_0+1+2+3+5+6/KulI_4 saMsAra_0+1+2+3/viSva_5+6/xuniyA_4 meM_0+1+2+3+4+5+6 kArya_0+1+2+3+5+6/kAma_4 karane_0+1+2+3+4+5+6 ke_0+1+2+3+4+5+6 lie_0+1+2+3+4+5+6 sAmAnya_0+1+2+3+4+5+6 jFAna_0+3+4+5+6/boXa_1+2 jFAna_1+2/kI_0+3+4+5+6 kI_1+2/AvaSyakawA_0+3+4+5+6 AvaSyakawA_1+2/hE_6/howI_0+3+4+5 hE_0+3+4+5/._6/howI_1+2 hE_1+2/._0+3+4+5 ._1+2

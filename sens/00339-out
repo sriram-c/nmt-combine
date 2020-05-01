@@ -1,6 +1,15 @@
-bAxa	kA	ke	vAle	mAmale	mAmalA	ko	elgoriWma	elgoriWma	meM	meM	cakra	cakra	ke	cakroM	ke	lie	lie	jAzca	jAzca	xvArA	xvArA	saMBAlA	saMBAlA	jA	jA	sakawA	sakawA	hE	hE	.	.
-1	0	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: The latter case can be handled by checking for cycles in the algorithm.
+
+ANU: xUsarA mAmalA praNAlI meM cakroM se jAzcane ke xvArA samBAlA jA sakawA hE .
+
+0 NMT: bAxa ke mAmale ko elgoriWma meM cakra ke lie jAzca xvArA saMBAlA jA sakawA hE .
+
+1 NMT: bAxa ke mAmale ko elgoriWma meM cakroM ke lie jAzca xvArA saMBAlA jA sakawA hE .
+
+2 NMT: bAxa ke mAmale elgoriWma meM cakra ke lie jAzca xvArA saMBAlA jA sakawA hE .
+
+3 NMT: bAxa kA mAmalA elgoriWma meM cakra ke lie jAzca xvArA saMBAlA jA sakawA hE .
+
+4 NMT: bAxa vAle mAmale ko elgoriWma meM cakroM ke lie jAzca xvArA saMBAlA jA sakawA hE .
+
+bAxa_0+1+2+3+4 ke_0+1+2/vAle_4/kA_3 mAmale_0+1+2+4/mAmalA_3 elgoriWma_2+3/ko_0+1+4 elgoriWma_0+1+4/meM_2+3 meM_0+1+4/cakra_2+3 ke_2+3/cakra_0/cakroM_1+4 ke_0+1+4/lie_2+3 lie_0+1+4/jAzca_2+3 jAzca_0+1+4/xvArA_2+3 xvArA_0+1+4/saMBAlA_2+3 saMBAlA_0+1+4/jA_2+3 jA_0+1+4/sakawA_2+3 sakawA_0+1+4/hE_2+3 hE_0+1+4/._2+3 ._0+1+4

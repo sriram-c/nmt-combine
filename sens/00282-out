@@ -1,5 +1,13 @@
-samAXAna	8	kI	gaharAI	para	meM	pAe	pAyA	jAwe	jAwA	hEM	hE	.
-1	1	1	1	1	0	1	0	1	0	1	0	1
-1	1	1	1	1	0	0	1	0	1	0	1	1
-1	1	1	1	0	1	1	0	1	0	1	0	1
-1	1	1	1	0	1	0	1	0	1	0	1	1
+ENG: The solutions are found at a depth of 8.
+
+ANU: hala 8 kI eka gaharAI para pAe jAwe hEM .
+
+0 NMT: samAXAna 8 kI gaharAI para pAe jAwe hEM .
+
+1 NMT: samAXAna 8 kI gaharAI para pAyA jAwA hE .
+
+2 NMT: samAXAna 8 kI gaharAI meM pAe jAwe hEM .
+
+3 NMT: samAXAna 8 kI gaharAI meM pAyA jAwA hE .
+
+samAXAna_0+1+2+3 8_0+1+2+3 kI_0+1+2+3 gaharAI_0+1+2+3 meM_2+3/para_0+1 pAyA_1+3/pAe_0+2 jAwA_1+3/jAwe_0+2 hE_1+3/hEM_0+2 ._0+1+2+3

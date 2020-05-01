@@ -1,9 +1,21 @@
-warka	prAgloga	proloYga	waWA	AXAriwa	Ora	BARAoM	plAnara	BARAeM	BARAez	niyojaka	plEnara	jEse	jEsI	proloYga	warka	wArkika	Ora	AXAriwa	plEnara	BARAoM	kA	vikasiwa	vikAsa	kI	kie	kiyA	huA	gae	gaIM	gayA	.	.
-1	0	1	0	1	1	1	0	0	0	0	1	1	0	1	1	0	1	1	1	1	1	0	1	0	0	1	0	0	0	1	1	1
-1	0	1	0	1	1	0	0	0	1	0	1	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	0	0	1	1	1
-1	0	1	0	1	1	0	0	0	1	0	1	1	0	1	1	0	1	1	1	0	0	1	0	1	0	0	0	0	1	0	1	1
-1	0	1	0	1	1	1	0	0	0	0	1	0	1	1	1	0	1	1	1	1	1	0	1	0	0	1	0	0	0	1	1	1
-1	0	1	0	1	1	0	0	0	1	0	1	1	0	1	1	0	1	1	1	0	1	0	1	0	0	0	1	0	0	0	1	1
-1	0	1	0	1	1	0	0	1	0	0	1	1	0	1	1	0	1	1	1	0	0	1	0	0	1	0	0	1	0	0	1	1
-0	0	1	0	1	1	1	1	0	0	0	0	0	1	1	0	1	1	1	0	1	1	0	1	0	0	1	0	0	0	1	1	1
-1	1	0	1	1	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	1	1	0	1	0	0	1	0	0	0	1	1	1
+ENG: Logic based languages like Prolog and Planner were developed.
+
+ANU: provloYga Ora plEnara jEsA BARAez AXAriwa warka vikAsa kI gayIM WIM .
+
+0 NMT: warka AXAriwa BARAoM jEse proloYga Ora plEnara kA vikAsa kiyA gayA .
+
+1 NMT: warka AXAriwa BARAez jEse proloYga Ora plEnara kA vikAsa kiyA gayA .
+
+2 NMT: warka AXAriwa BARAez jEse proloYga Ora plEnara vikasiwa kI gaIM .
+
+3 NMT: proloYga Ora plEnara jEsI warka AXAriwa BARAoM kA vikAsa kiyA gayA .
+
+4 NMT: warka AXAriwa BARAez jEse proloYga Ora plEnara kA vikAsa huA .
+
+5 NMT: warka AXAriwa BARAeM jEse proloYga Ora plEnara vikasiwa kie gae .
+
+6 NMT: proloYga Ora plAnara jEsI wArkika AXAriwa BARAoM kA vikAsa kiyA gayA .
+
+7 NMT: prAgloga waWA niyojaka jEsI warka AXAriwa BARAoM kA vikAsa kiyA gayA .
+
+warka_0+1+2+4+5/proloYga_3+6/prAgloga_7 AXAriwa_0+1+2+4+5/Ora_3+6/waWA_7 BARAoM_0/BARAez_1+2+4/plEnara_3/niyojaka_7/plAnara_6/BARAeM_5 jEsI_3+6+7/jEse_0+1+2+4+5 warka_3+7/proloYga_0+1+2+4+5/wArkika_6 AXAriwa_3+6+7/Ora_0+1+2+4+5 BARAoM_3+6+7/plEnara_0+1+2+4+5 kA_0+1+3+4+6+7/vikasiwa_2+5 vikAsa_0+1+3+4+6+7/kie_5/kI_2 kiyA_0+1+3+6+7/gae_5/huA_4/gaIM_2 ._2+4+5/gayA_0+1+3+6+7 ._0+1+3+6+7

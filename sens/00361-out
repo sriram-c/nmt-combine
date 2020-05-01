@@ -1,13 +1,29 @@
-isa	waWya	ke	alAvA	ki	CLOSED	sUcI	ko	banAe	banAe	raKanA	raKanA	hE	hE	,	,	elgoriWma	elgoriWma	elgorixama	agara	prawyeka	ko	yaha	uwpanna	prawyeka	yaha	pahale	uwpanna	noda	xeKane	se	kI	ke	noda	hI	jAMca>>	ki	karane	jAzca	yA	ke}	lie	kI	yaha	meM	AvaSyaka	AvaSyakawA	mOjUxa	pahale	hE}	xeKane	hI	yaha	ke}	ke	lie	yA	agara	lie	hara	CLOSED	ki	yaha	ki	uwpanna	kyA	meM	pahale	noda	yaha	mOjUxa	kyA	se	hE	yaha	kI	pahale	hI	pahale	se	jAzca	,	opIena	prawyeka	karane	hI	se	opena	hara	OPEN	yA	hI	opIena	uwpanna	ke	CLOSED}	meM	CLOSED	AvaSyaka	kI	yA	hE}	.	hE	meM	karane
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	0	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	1	1	0	1	1	0	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	1	1	0	1	1	0	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1
+ENG: Apart from the fact that the CLOSED list has to be maintained, the algorithm is required to check every generated node to see if it is already there in OPEN or CLOSED.
+
+ANU: jo klovjZda sUcI banAe raKanA hI hE, waWya ke alAvA praNAlI xeKane ke lie prawyeka uwpanna kara gAzTa jAzcane ke lie AvaSyaka huI hE yaxi yaha ovpana yA klovjZda meM vahAz para pahale se hI hE .
+
+0 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAMca karane ke lie AvaSyaka hE xeKane ke lie agara yaha pahale se hI opIena yA CLOSED meM hE .
+
+1 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE xeKane ke lie agara yaha pahale se hI OPEN yA CLOSED meM hE .
+
+2 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE xeKane ke lie agara yaha pahale se hI opIena yA CLOSED meM hE .
+
+3 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE xeKane ke lie ki kyA yaha pahale se hI opIena yA CLOSED meM hE .
+
+4 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma ko prawyeka uwpanna noda kI jAzca karane kI AvaSyakawA hE yaha xeKane ke lie ki kyA yaha pahale se hI opIna yA CLOSED meM hE .
+
+5 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE yaha xeKane ke lie ki kyA yaha pahale se hI opIena yA CLOSED meM hE .
+
+6 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE yaha xeKane ke lie ki kyA yaha pahale se hI opIniyana yA CLOSED meM hE .
+
+7 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE yaha xeKane ke lie ki kyA yaha pahale se hI opena yA CLOSED meM hE .
+
+8 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgorixama ko yaha xeKane ke lie ki kyA yaha pahale se hI opIniyana yA CLOSED meM mOjUxa hE , prawyeka uwpanna noda kI jAzca karane kI AvaSyakawA hE .
+
+9 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma ko yaha xeKane ke lie ki kyA yaha pahale se hI OOPEN yA CLOSED meM mOjUxa hE , hara uwpanna noda kI jAzca karane ke lie AvaSyaka hE .
+
+10 NMT: isa waWya ke alAvA ki CLOSED sUcI ko banAe raKanA hE , elgoriWma prawyeka uwpanna noda kI jAzca karane ke lie AvaSyaka hE xeKane ke lie agara yaha pahale se hI opena yA CLOSED meM mOjUxa hE .
+
+11 NMT: isa waWya ke alAvA ki CLOSED sUcI banAe raKanA hE , elgoriWma agara yaha pahale se hI OOPEN yA CLOSED meM mOjUxa hE xeKane ke lie hara uwpanna noda kI jAzca karane ke lie AvaSyaka hE .
+
+isa_0+1+2+3+4+5+6+7+8+9+10+11 waWya_0+1+2+3+4+5+6+7+8+9+10+11 ke_0+1+2+3+4+5+6+7+8+9+10+11 alAvA_0+1+2+3+4+5+6+7+8+9+10+11 ki_0+1+2+3+4+5+6+7+8+9+10+11 CLOSED_0+1+2+3+4+5+6+7+8+9+10+11 sUcI_0+1+2+3+4+5+6+7+8+9+10+11 banAe_11/ko_0+1+2+3+4+5+6+7+8+9+10 banAe_0+1+2+3+4+5+6+7+8+9+10/raKanA_11 hE_11/raKanA_0+1+2+3+4+5+6+7+8+9+10 hE_0+1+2+3+4+5+6+7+8+9+10/,_11 ,_0+1+2+3+4+5+6+7+8+9+10/elgoriWma_11 elgoriWma_0+1+2+3+4+5+6+7+9+10/agara_11/elgorixama_8 yaha_11/prawyeka_0+1+2+3+5+6+7+10/ko_4+8+9 yaha_8+9/pahale_11/uwpanna_0+1+2+3+5+6+7+10/prawyeka_4 se_11/xeKane_8+9/uwpanna_4/noda_0+1+2+3+5+6+7+10 ke_8+9/kI_0+1+2+3+5+6+7+10/hI_11/noda_4 lie_8+9/kI_4/jAzca_1+2+3+5+6+7+10/OOPEN_11/jAMca_0 ki_8+9/yA_11/karane_0+1+2+3+5+6+7+10/jAzca_4 ke_0+1+2+3+5+6+7+10/CLOSED_11/karane_4/kyA_8+9 lie_0+1+2+3+5+6+7+10/yaha_8+9/kI_4/meM_11 pahale_8+9/AvaSyaka_0+1+2+3+5+6+7+10/mOjUxa_11/AvaSyakawA_4 hE_0+1+2+3+4+5+6+7+10+11/se_8+9 yaha_4+5+6+7/hI_8+9/xeKane_0+1+2+3+10+11 ke_0+1+2+3+10+11/xeKane_4+5+6+7/OOPEN_9/opIniyana_8 ke_4+5+6+7/lie_0+1+2+3+10+11/yA_8+9 CLOSED_8+9/lie_4+5+6+7/ki_3/agara_0+1+2+10/hara_11 ki_4+5+6+7/yaha_0+1+2+10/meM_8+9/uwpanna_11/kyA_3 yaha_3/pahale_0+1+2+10/noda_11/kyA_4+5+6+7/mOjUxa_8+9 hE_8+9/yaha_4+5+6+7/kI_11/pahale_3/se_0+1+2+10 ,_8+9/pahale_4+5+6+7/se_3/hI_0+1+2+10/jAzca_11 se_4+5+6+7/hI_3/karane_11/prawyeka_8/opIena_0+2/hara_9/opena_10/OPEN_1 ke_11/hI_4+5+6+7/yA_0+1+2+10/uwpanna_8+9/opIena_3 CLOSED_0+1+2+10/lie_11/yA_3/noda_8+9/opIena_5/opena_7/opIniyana_6/opIna_4 CLOSED_3/kI_8+9/yA_4+5+6+7/meM_0+1+2+10/AvaSyaka_11 hE_0+1+2+11/CLOSED_4+5+6+7/meM_3/jAzca_8+9/mOjUxa_10 hE_3+10/meM_4+5+6+7/._0+1+2+11/karane_8+9 hE_4+5+6+7/ke_9/kI_8/._3+10 lie_9/._4+5+6+7/AvaSyakawA_8 hE_8/AvaSyaka_9 hE_9/._8 ._9

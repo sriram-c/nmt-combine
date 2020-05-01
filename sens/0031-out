@@ -1,7 +1,17 @@
-anumAna	niRkarRa	yahAM	waMwroM	waMwra	anumAna	kI	waMwra	Xvani	xqDZawA	kI	suxqDZawA	xqDZawA	Ora	pUrNawA	Ora	yahAM	saMpUrNawA	mahawvapUrNa	hE	hEM	.
-1	0	1	1	0	1	1	0	1	0	1	0	0	1	1	1	1	0	1	1	0	1
-1	0	1	1	0	1	1	0	0	0	1	1	0	1	1	1	1	0	1	1	0	1
-0	1	1	1	0	0	1	0	1	0	1	0	0	1	1	1	1	0	1	0	1	1
-1	0	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	0	1	1
-0	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	1	0	1	0	1	1
-1	0	1	0	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	0	1
+ENG: The soundness and completeness of the inference mechanisms are important here.
+
+ANU: anumAna yanwravinyAsa kI xqDawA Ora sampUrNawA yahAz mahawwvapUrNa hEM .
+
+0 NMT: anumAna waMwroM kI Xvani Ora pUrNawA yahAM mahawvapUrNa hE .
+
+1 NMT: anumAna waMwroM kI suxqDZawA Ora pUrNawA yahAM mahawvapUrNa hE .
+
+2 NMT: niRkarRa waMwroM kI Xvani Ora pUrNawA yahAM mahawvapUrNa hEM .
+
+3 NMT: anumAna waMwra kI xqDZawA Ora pUrNawA yahAM mahawvapUrNa hEM .
+
+4 NMT: niRkarRa waMwra kI xqDZawA Ora pUrNawA yahAM mahawvapUrNa hEM .
+
+5 NMT: yahAM anumAna waMwra kI xqDZawA Ora saMpUrNawA mahawvapUrNa hE .
+
+yahAM_5/anumAna_0+1+3 anumAna_5/waMwra_3+4/waMwroM_0+1+2 kI_0+1+2+3+4/waMwra_5 kI_5/xqDZawA_3+4/Xvani_0+2/suxqDZawA_1 Ora_0+1+2+3+4/xqDZawA_5 Ora_5/pUrNawA_0+1+2+3+4 yahAM_0+1+2+3+4/saMpUrNawA_5 mahawvapUrNa_0+1+2+3+4+5 hEM_2+3+4/hE_0+1+5 ._0+1+2+3+4+5

@@ -1,4 +1,11 @@
-Cavi	ciwra	viSleRaNa	praNAliyoM>>	isa	waraha	kI	sWiwi	ke	uxAharaNa	hEM	.
-1	0	1	0	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	1	1	1	1	1
-0	1	1	0	1	1	1	1	1	1	1	1
+ENG: Image analysis systems are examples of this kind of situation.
+
+ANU: ciwra viSleRaNa praNAlI isa prakAra ke parisWiwi ke uxAharaNa hEM .
+
+0 NMT: Cavi viSleRaNa praNAliyoM isa waraha kI sWiwi ke uxAharaNa hEM .
+
+1 NMT: Cavi viSleRaNa praNAliyAM isa waraha kI sWiwi ke uxAharaNa hEM .
+
+2 NMT: ciwra viSleRaNa praNAliyAM isa waraha kI sWiwi ke uxAharaNa hEM .
+
+Cavi_0+1/ciwra_2 viSleRaNa_0+1+2 praNAliyAM_1+2/praNAliyoM_0 isa_0+1+2 waraha_0+1+2 kI_0+1+2 sWiwi_0+1+2 ke_0+1+2 uxAharaNa_0+1+2 hEM_0+1+2 ._0+1+2

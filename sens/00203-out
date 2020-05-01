@@ -1,6 +1,15 @@
-yaha	kriyA	kevala	varwamAna	boXoM>>	para	AXAriwa	hE	.
-1	1	1	1	0	1	1	1	1
-1	1	1	1	0	1	1	1	1
-1	1	1	1	0	1	1	1	1
-1	1	1	1	0	1	1	1	1
-1	1	1	1	0	1	1	1	1
+ENG: The action is based on the current percepts only.
+
+ANU: kriyA kevala varwamAna boXa para AXAriwa hE .
+
+0 NMT: yaha kriyA kevala varwamAna boXoM para AXAriwa hE .
+
+1 NMT: yaha kriyA kevala varwamAna boXa para AXAriwa hE .
+
+2 NMT: yaha kriyA kevala varwamAna anumAnoM para AXAriwa hE .
+
+3 NMT: yaha kriyA kevala varwamAna avaXAraNAoM para AXAriwa hE .
+
+4 NMT: yaha kriyA kevala varwamAna anuBavoM para AXAriwa hE .
+
+yaha_0+1+2+3+4 kriyA_0+1+2+3+4 kevala_0+1+2+3+4 varwamAna_0+1+2+3+4 anuBavoM_4/avaXAraNAoM_3/anumAnoM_2/boXa_1/boXoM_0 para_0+1+2+3+4 AXAriwa_0+1+2+3+4 hE_0+1+2+3+4 ._0+1+2+3+4

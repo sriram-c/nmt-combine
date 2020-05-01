@@ -1,4 +1,11 @@
-aba	Aie	hama	,	dIePaesa>>	elgoriWma	hama	DFS	ke	kuCa	elgorixama	guNoM	ke	kuCa	kI	jAMca	guNoM	kareM	kI	.	jAMca
-1	0	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Let us now examine some properties of the DFS algorithm.
+
+ANU: xaPZas praNAlI ke kuCa guNa jAzca karane xo aba caliye hama .
+
+0 NMT: aba hama dIePaesa elgoriWma ke kuCa guNoM kI jAMca kareM .
+
+1 NMT: aba hama DFS elgoriWma ke kuCa guNoM kI jAMca kareM .
+
+2 NMT: Aie , aba hama DFS elgorixama ke kuCa guNoM kI jAMca kareM .
+
+aba_0+1/Aie_2 hama_0+1/,_2 aba_2/DFS_1/dIePaesa_0 hama_2/elgoriWma_0+1 ke_0+1/DFS_2 kuCa_0+1/elgorixama_2 ke_2/guNoM_0+1 kuCa_2/kI_0+1 guNoM_2/jAMca_0+1 kI_2/kareM_0+1 jAMca_2/._0+1 kareM_2 ._2

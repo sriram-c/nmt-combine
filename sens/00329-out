@@ -1,8 +1,19 @@
-prawyeka	noda	eka	xiyA	prAraMBa	SurU	xie	AMSika	noda	gae	samAXAna	noda	se	ke	paWa	ke	lie	xie	kA	gae	lie	SurU	prawiniXiwva	prAraMBa	noda	noda	waka	karawA	ke	se	hE	eka	se	lie	SurU	AMSika	prAraMBa	eka	noda}	se	samAXAna	paWa	xie	paWa	kA	gae	kA	prawiniXiwva	noda}	ke	hE	karawA	lie	hE	.	.
-1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1
-1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1
-1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1
+ENG: Each node represents a partial solution path from the start node to the given node.
+
+ANU: hara eka gAzTa praxawwa gAzTa AramBa gAzTa se eka AMSika hala paWa vyakwa kara .
+
+0 NMT: prawyeka noda eka AMSika samAXAna paWa kA prawiniXiwva karawA hE SurU noda se xie gae noda ke lie .
+
+1 NMT: prawyeka noda eka AMSika samAXAna paWa kA prawiniXiwva karawA hE prAraMBa noda se xie gae noda ke lie .
+
+2 NMT: prawyeka noda prAraMBa noda se xie gae noda ke lie eka AMSika samAXAna paWa kA prawiniXiwva karawA hE .
+
+3 NMT: prawyeka noda SurU noda se xie gae noda ke lie eka AMSika samAXAna paWa kA prawiniXiwva karawA hE .
+
+4 NMT: prawyeka noda prAraMBa noda se xie gae noda waka eka AMSika samAXAna paWa kA prawiniXiwva karawA hE .
+
+5 NMT: prawyeka noda xiyA noda ke lie SurU noda se eka AMSika samAXAna paWa kA prawiniXiwva karawA hE .
+
+6 NMT: prawyeka noda xie gae noda ke lie prAraMBa noda se eka AMSika samAXAna paWa kA prawiniXiwva karawA hE .
+
+prawyeka_0+1+2+3+4+5+6 noda_0+1+2+3+4+5+6 eka_0+1/xie_6/prAraMBa_2+4/SurU_3/xiyA_5 noda_2+3+4+5/AMSika_0+1/gae_6 noda_6/samAXAna_0+1/se_2+3+4/ke_5 paWa_0+1/ke_6/lie_5/xie_2+3+4 kA_0+1/lie_6/gae_2+3+4/SurU_5 noda_2+3+4+5/prawiniXiwva_0+1/prAraMBa_6 noda_6/karawA_0+1/se_5/ke_2+3/waka_4 eka_4+5/hE_0+1/se_6/lie_2+3 eka_2+3+6/AMSika_4+5/prAraMBa_1/SurU_0 noda_0+1/AMSika_2+3+6/samAXAna_4+5 samAXAna_2+3+6/paWa_4+5/se_0+1 paWa_2+3+6/kA_4+5/xie_0+1 kA_2+3+6/prawiniXiwva_4+5/gae_0+1 noda_0+1/prawiniXiwva_2+3+6/karawA_4+5 karawA_2+3+6/hE_4+5/ke_0+1 hE_2+3+6/._4+5/lie_0+1 ._0+1+2+3+6

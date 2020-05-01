@@ -1,8 +1,19 @@
-yA	nirNaya	Pira	vahAz	koI	?	hE	kA	nirNaya	?	nirapekRa	kA	mAnaka	eka	nirapekRa	pUrNa	hE	mAnaka	nirapekRa	?	hE	mAnaka
-1	1	0	0	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1
-1	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0
-1	1	0	0	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1
-1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	1	0	0	1	1	1	1	1	1	0	1	1	0	0	1	1	1	0	1	1	1
-1	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
-1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+ENG: Or is there an absolute standard of judgement?
+
+ANU: yA hE nirNaya kA pUrNawayA mAnaka?
+
+0 NMT: yA nirNaya kA nirapekRa mAnaka hE ?
+
+1 NMT: yA hE ?
+
+2 NMT: yA hE nirNaya kA nirapekRa mAnaka ?
+
+3 NMT: yA vahAz nirNaya kA eka nirapekRa mAnaka hE ?
+
+4 NMT: yA koI nirNaya kA pUrNa mAnaka hE ?
+
+5 NMT: yA Pira ?
+
+6 NMT: yA ?
+
+yA_0+1+2+3+4+5+6 ?_6/Pira_5/koI_4/nirNaya_0/hE_1+2/vahAz_3 ?_1+5/nirNaya_2+3+4/kA_0 kA_2+3+4/nirapekRa_0 pUrNa_4/mAnaka_0/eka_3/nirapekRa_2 mAnaka_2+4/hE_0/nirapekRa_3 ?_0+2/mAnaka_3/hE_4 ?_4/hE_3 ?_3

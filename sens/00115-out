@@ -1,8 +1,19 @@
-ejeMta	eka	saMvexakoM	saMvexaka>>	seMsara	ke	mAXyama	ke	mAXyama	se	se	mAXyama	eka	isake>>	vAwAvaraNa]	kA	{	8	boXa	ko	kA	karAwA>>	hE	karawA	lagAwA	.	hE
-1	0	0	0	0	1	1	1	1	1	1	1	0	0	0	1	0	0	1	0	1	0	1	0	0	1	1
-1	1	0	0	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	1	0	1	1	0	1	1
-1	1	0	0	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	0	0	1	0	0	1	1
-1	1	0	0	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	1	0	1	0	1	1	1
-1	1	0	0	1	1	1	1	1	1	1	1	1	0	0	1	0	0	1	0	1	0	1	1	0	1	1
-1	1	0	0	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	1	0	1	1	0	1	1
-0	1	1	0	0	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	1	0	1	1	0	1	1
+ENG: An agent perceives its environment through sensors.
+
+ANU: eka prawiniXi seMsara meM se usakA vAwAvaraNa mahasUsa karawA hE .
+
+0 NMT: ejeMta saMvexaka ke mAXyama se isake vAwAvaraNa kA boXa karAwA hE .
+
+1 NMT: eka ejeMta seMsara ke mAXyama se apane vAwAvaraNa kA ehasAsa karawA hE .
+
+2 NMT: eka ejeMta seMsara ke mAXyama se apane vAwAvaraNa ko xeKawA hE .
+
+3 NMT: eka ejeMta seMsara ke mAXyama se apane vAwAvaraNa kA pawA lagAwA hE .
+
+4 NMT: eka ejeMta seMsara ke mAXyama se apane vAwAvaraNa kA boXa karawA hE .
+
+5 NMT: eka ejeMta seMsara ke mAXyama se apane vAwAvaraNa kA anuBava karawA hE .
+
+6 NMT: saMvexakoM ke mAXyama se eka aBikarwA apane vAwAvaraNa kA anuBava karawA hE .
+
+eka_1+2+3+4+5/ejeMta_0/saMvexakoM_6 ke_6/ejeMta_1+2+3+4+5/saMvexaka_0 ke_0/mAXyama_6/seMsara_1+2+3+4+5 ke_1+2+3+4+5/mAXyama_0/se_6 mAXyama_1+2+3+4+5/se_0/eka_6 se_1+2+3+4+5/aBikarwA_6/isake_0 vAwAvaraNa_0/apane_1+2+3+4+5+6 vAwAvaraNa_1+2+3+4+5+6/kA_0 kA_1+3+4+5+6/boXa_0/ko_2 anuBava_5+6/boXa_4/pawA_3/xeKawA_2/ehasAsa_1/karAwA_0 hE_0+2/karawA_1+4+5+6/lagAwA_3 hE_1+3+4+5+6/._0+2 ._1+3+4+5+6

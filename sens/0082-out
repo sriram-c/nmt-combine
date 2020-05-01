@@ -1,5 +1,13 @@
-buxXimAna	maSInoM	kI	avaXAraNA	grIka	yUnAnI	pOrANika	miWakoM	kaWAoM	meM	meM	pAI	pAI	pAyA	jAwI	jAwI	jAwA	hE	hE	.	.
-1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	0	1	0	1	1	1	0	0	1	0	0	1	1	1	1	1
-1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1
+ENG: The concept of intelligent machines is found in Greek mythology.
+
+ANU: buxXimAna maSInoM kI XAraNA yUnAnI pOrANika kaWAez meM pAI jAwI hE .
+
+0 NMT: buxXimAna maSInoM kI avaXAraNA grIka pOrANika kaWAoM meM pAI jAwI hE .
+
+1 NMT: buxXimAna maSInoM kI avaXAraNA grIka pOrANika kaWAoM meM pAyA jAwA hE .
+
+2 NMT: buxXimAna maSInoM kI avaXAraNA grIka miWakoM meM pAI jAwI hE .
+
+3 NMT: buxXimAna maSInoM kI avaXAraNA yUnAnI pOrANika kaWAoM meM pAI jAwI hE .
+
+buxXimAna_0+1+2+3 maSInoM_0+1+2+3 kI_0+1+2+3 avaXAraNA_0+1+2+3 grIka_0+1+2/yUnAnI_3 pOrANika_0+1+3/miWakoM_2 meM_2/kaWAoM_0+1+3 meM_0+1+3/pAI_2 pAI_0+3/jAwI_2/pAyA_1 hE_2/jAwI_0+3/jAwA_1 hE_0+1+3/._2 ._0+1+3

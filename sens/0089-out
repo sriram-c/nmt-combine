@@ -1,10 +1,23 @@
-araswU	ne	eka	BARAvijFAnI	warkaSAswrIya	vEjFAnika	warkaSAswra	DalavAM	anOpacArika	warkaSAswra	kI	warka	warka	eka	kI	praNAlI	anOpacArika	eka	vikasiwa	praNAlI	anOpacArika	kA	kI	vikAsa	praNAlI	vikasiwa	,	kI	vikasiwa	kiyA	kI	,	jo	praWama	jo	,	pahale	praWama	OpacArika	pahale	jo	katOwI	praWama	nigamana	OpacArika	pahale	warka	nigamanAwmaka	paxXawi	katOwI	OpacArika	praNAlI}	warka	kA	praNAlI	AXAra	AXAra	praNAlI	kA	hE	hE	AXAra	kA	.	.	hE	AXAra
-1	1	1	0	0	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	0	1	0	1	0	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	0	0	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	0	0	0	1	0	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	0	0	0	0	1	0	0	1	1	1	0	0	1	1	0	1	0	1	1	1	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	0	1	1	1	0	0	1	1	0	1	0	1	0	1	0	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Aristotle developed an informal system of syllogistic logic, which is the basis of the first formal deductive reasoning system.
+
+ANU: araswU ne nyAyabaxXa warka kI, anOpacArika praNAlI kA vikAsa kiyA jo pahalI OpacArika nigamanika safkewa praNAlI kA AXAra hE .
+
+0 NMT: araswU ne eka anOpacArika warka praNAlI vikasiwa kI , jo praWama OpacArika katOwI warka praNAlI kA AXAra hE .
+
+1 NMT: araswU ne vEjFAnika warka kI eka anOpacArika praNAlI vikasiwa kI , jo praWama OpacArika katOwI warka praNAlI kA AXAra hE .
+
+2 NMT: araswU ne eka anOpacArika warka praNAlI vikasiwa kI , jo pahale OpacArika katOwI warka praNAlI kA AXAra hE .
+
+3 NMT: araswU ne warkaSAswra kI eka anOpacArika praNAlI vikasiwa kI , jo praWama OpacArika katOwI warka praNAlI kA AXAra hE .
+
+4 NMT: araswU ne warkaSAswra kI eka anOpacArika praNAlI vikasiwa kI , jo pahale OpacArika katOwI warka praNAlI kA AXAra hE .
+
+5 NMT: araswU ne warkaSAswrIya warka kI eka anOpacArika praNAlI vikasiwa kI , jo praWama OpacArika warka praNAlI kA AXAra hE .
+
+6 NMT: araswU ne BARAvijFAnI warka kI eka anOpacArika praNAlI vikasiwa kI , jo pahale OpacArika nigamanAwmaka warka praNAlI kA AXAra hE .
+
+7 NMT: araswU ne eka anOpacArika warka praNAlI kA vikAsa kiyA jo praWama OpacArika nigamana paxXawi kA AXAra hE .
+
+8 NMT: araswU ne DalavAM warkaSAswra kI eka anOpacArika praNAlI vikasiwa kI jo praWama OpacArika nigamanAwmaka warka praNAlI kA AXAra hE .
+
+araswU_0+1+2+3+4+5+6+7+8 ne_0+1+2+3+4+5+6+7+8 eka_0+2+7/warkaSAswra_3+4/DalavAM_8/BARAvijFAnI_6/warkaSAswrIya_5/vEjFAnika_1 kI_3+4/warka_1+5+6/anOpacArika_0+2+7/warkaSAswra_8 kI_1+5+6+8/warka_0+2+7/eka_3+4 praNAlI_0+2+7/eka_1+5+6+8/anOpacArika_3+4 praNAlI_3+4/kA_7/anOpacArika_1+5+6+8/vikasiwa_0+2 praNAlI_1+5+6+8/kI_0+2/vikasiwa_3+4/vikAsa_7 kI_3+4/vikasiwa_1+5+6+8/,_0+2/kiyA_7 kI_1+5+6+8/jo_0+2+7/,_3+4 jo_3+4+8/,_1+5+6/praWama_0+7/pahale_2 OpacArika_0+2+7/jo_1+5+6/praWama_3+8/pahale_4 OpacArika_3+4+8/praWama_1+5/katOwI_0+2/pahale_6/nigamana_7 warka_0+2/OpacArika_1+5+6/katOwI_3+4/nigamanAwmaka_8/paxXawi_7 praNAlI_0+2/warka_3+4+5+8/kA_7/katOwI_1/nigamanAwmaka_6 praNAlI_3+4+5+8/warka_1+6/kA_0+2/AXAra_7 praNAlI_1+6/kA_3+4+5+8/AXAra_0+2/hE_7 kA_1+6/AXAra_3+4+5+8/hE_0+2/._7 AXAra_1+6/hE_3+4+5+8/._0+2 hE_1+6/._3+4+5+8 ._1+6

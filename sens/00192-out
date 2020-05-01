@@ -1,9 +1,21 @@
-wAlikA	sAraNI	AXAriwa	aBikarwA	meM	aBikarwA}	kI	[	6	saMkalpanAoM	boXa	vicAroM	parigrahaNoM	anuBavoM	ke}	bAre	jAnakArI	meM}	jAnakArI	AXAriwa	sUcanA	AXAra	ke}	AXAra	kArravAI	se	para	kArravAI	ko	kriyA	kArravAI	sAraNI	kI	ko	eka	jAMca	se	wAlikA	eka	kI	kArravAI	xeKA	se	wAlikA	jAwI	xeKI	jAwA	xeKA	se	xeKI	jAwI	hE	jAwA	jAwI	xeKA	hE	.	hE	jAwA	.	.	hE
-1	0	1	1	1	0	1	0	0	1	0	0	0	0	0	1	1	0	1	1	0	1	0	1	0	1	1	0	1	1	0	0	1	1	0	0	1	1	0	1	0	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	0	0	0	0	0	1	0	0	0	0	1	1	0	1	1	0	1	0	1	0	1	1	0	1	1	0	0	0	1	1	0	1	1	1	0	0	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	1	0	1	0	1	1	0	1	1	0	0	0	1	0	0	1	1	0	0	0	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	0	0	0	0	0	1	0	0	0	0	1	1	0	1	1	0	1	0	1	0	1	1	0	1	1	0	0	0	1	0	0	1	1	0	0	0	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	0	0	0	0	0	0	1	0	0	1	1	0	1	1	0	1	0	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1	1	0	1	0	1	1	1	1	0	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1
-0	1	1	1	1	0	1	0	0	0	0	1	0	0	0	0	1	0	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	0	1	1	1	1	0	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	0	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	1	1	1	1	0	0	1	1	1	0	0	1	1	1	0	1	1	0	1	1	1	0	0	0	1	0	1	1	0	1	0	1	1	1	0	1	1	1
-0	1	1	1	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	1	0	1	1	1	1	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1
+ENG: In table based agent the action is looked up from a table based on information about the agent’s percepts.
+
+ANU: prawiniXi AXAriwa meja meM kriyA prawiniXi ke boXa ke bAre meM sUcanA para AXAriwa meja se suXAra huI hE .
+
+0 NMT: wAlikA AXAriwa aBikarwA meM aBikarwA kI saMkalpanAoM ke bAre meM jAnakArI ke AXAra para kriyA ko wAlikA se xeKA jAwA hE .
+
+1 NMT: wAlikA AXAriwa aBikarwA meM aBikarwA ke boXa ke bAre meM jAnakArI ke AXAra para kriyA ko eka wAlikA se xeKA jAwA hE .
+
+2 NMT: wAlikA AXAriwa aBikarwA meM aBikarwA ke saMkalpanAoM ke bAre meM jAnakArI ke AXAra para kriyA ko wAlikA se xeKA jAwA hE .
+
+3 NMT: wAlikA AXAriwa aBikarwA meM aBikarwA ke boXa ke bAre meM jAnakArI ke AXAra para kriyA ko wAlikA se xeKA jAwA hE .
+
+4 NMT: sAraNI AXAriwa aBikarwA meM aBikarwA ke parigrahaNoM ke bAre meM jAnakArI ke AXAra para kArravAI eka wAlikA se xeKI jAwI hE .
+
+5 NMT: sAraNI AXAriwa aBikarwA meM aBikarwA ke vicAroM kI jAnakArI ke AXAra para kArravAI ko sAraNI se xeKA jAwA hE .
+
+6 NMT: sAraNI AXAriwa aBikarwA meM aBikarwA ke vicAroM kI jAnakArI para AXAriwa wAlikA se kArravAI kI jAMca kI jAwI hE .
+
+7 NMT: sAraNI AXAriwa aBikarwA meM aBikarwA ke anuBavoM ke bAre meM sUcanA ke AXAra para sAraNI se kArravAI xeKI jAwI hE .
+
+sAraNI_4+5+6+7/wAlikA_0+1+2+3 AXAriwa_0+1+2+3+4+5+6+7 aBikarwA_0+1+2+3+4+5+6+7 meM_0+1+2+3+4+5+6+7 aBikarwA_0+1+2+3+4+5+6+7 ke_1+2+3+4+5+6+7/kI_0 vicAroM_5+6/boXa_1+3/saMkalpanAoM_0+2/anuBavoM_7/parigrahaNoM_4 ke_0+1+2+3+4+7/kI_5+6 bAre_0+1+2+3+4+7/jAnakArI_5+6 ke_5/meM_0+1+2+3+4+7/para_6 AXAriwa_6/AXAra_5/jAnakArI_0+1+2+3+4/sUcanA_7 ke_0+1+2+3+4+7/para_5/wAlikA_6 se_6/AXAra_0+1+2+3+4+7/kArravAI_5 para_0+1+2+3+4+7/kArravAI_6/ko_5 sAraNI_5+7/kArravAI_4/kriyA_0+1+2+3/kI_6 se_5+7/ko_0+1+2+3/eka_4/jAMca_6 xeKA_5/kArravAI_7/kI_6/wAlikA_0+2+3+4/eka_1 se_0+2+3+4/jAwA_5/jAwI_6/xeKI_7/wAlikA_1 hE_5+6/se_1/xeKA_0+2+3/jAwI_7/xeKI_4 hE_7/._5+6/xeKA_1/jAwA_0+2+3/jAwI_4 hE_0+2+3+4/._7/jAwA_1 hE_1/._0+2+3+4 ._1

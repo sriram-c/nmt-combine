@@ -1,11 +1,25 @@
-isa	sammelana	sammelana	meM	ne	ne	meM	pahalI	kqwrima	pahalI	kqwrima	buxXi	bAra	bAra	ke	buxXi	kqwrima	kqwrima	buxXi	ke	saMsWApakoM	buxXi	saMsWApakoM	ke	ko	ke	pahalI	saMsWApakoM	ko	saMsWApakoM	pahalI	bAra	ko	ko	eka	bAra	ekawriwa	ekajuta	ekajuta	ikatTA	ekawriwa	sAWa	kiyA	kiyA	lAyA	gayA	.	.	gayA
-1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	0	0	1	1	0	0	1	1	0
-0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	0	0	1	1	0	0	1	1	0
-0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	1	0	0	1	1	1	1	1
-0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	1	0	0	1	1	1	1	1
-1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	0	0	1	1	0	0	1	1	0
-0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	0	0	1	1	0	0	1	1	0
-0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	0	1	1	0	1	1	1	1
-1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	0	1	1	0	1	1	1	1
-1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	1	0	0	1	1	0	1	1	1	1
-1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	1	0	0	1	1	0	1	1	1	1
+ENG: The conference brought together the founding fathers of artificial intelligence for the first time.
+
+ANU: sammelana pahalI bAra kqwrima buxXi ke saMsWApakoM ko sAWa meM lAyA .
+
+0 NMT: isa sammelana ne pahalI bAra kqwrima buxXi ke saMsWApakoM ko ekajuta kiyA .
+
+1 NMT: sammelana ne pahalI bAra kqwrima buxXi ke saMsWApakoM ko ekajuta kiyA .
+
+2 NMT: sammelana meM pahalI bAra kqwrima buxXi ke saMsWApakoM ko eka sAWa lAyA gayA .
+
+3 NMT: sammelana meM kqwrima buxXi ke saMsWApakoM ko pahalI bAra eka sAWa lAyA gayA .
+
+4 NMT: isa sammelana ne kqwrima buxXi ke saMsWApakoM ko pahalI bAra ekajuta kiyA .
+
+5 NMT: sammelana ne kqwrima buxXi ke saMsWApakoM ko pahalI bAra ekajuta kiyA .
+
+6 NMT: sammelana meM kqwrima buxXi ke saMsWApakoM ko pahalI bAra ekawriwa kiyA gayA .
+
+7 NMT: isa sammelana meM kqwrima buxXi ke saMsWApakoM ko pahalI bAra ekawriwa kiyA gayA .
+
+8 NMT: isa sammelana meM pahalI bAra kqwrima buxXi ke saMsWApakoM ko ikatTA kiyA gayA .
+
+9 NMT: isa sammelana meM kqwrima buxXi ke saMsWApakoM ko pahalI bAra ikatTA kiyA gayA .
+
+sammelana_1+2+3+5+6/isa_0+4+7+8+9 sammelana_0+4+7+8+9/meM_2+3+6/ne_1+5 kqwrima_3+5+6/pahalI_1+2/meM_7+8+9/ne_0+4 kqwrima_4+7+9/buxXi_3+5+6/pahalI_0+8/bAra_1+2 kqwrima_1+2/buxXi_4+7+9/ke_3+5+6/bAra_0+8 kqwrima_0+8/buxXi_1+2/ke_4+7+9/saMsWApakoM_3+5+6 buxXi_0+8/ke_1+2/saMsWApakoM_4+7+9/ko_3+5+6 ke_0+8/saMsWApakoM_1+2/ko_4+7+9/pahalI_3+5+6 saMsWApakoM_0+8/ko_1+2/pahalI_4+7+9/bAra_3+5+6 ko_0+8/bAra_4+7+9/ekajuta_1+5/ekawriwa_6/eka_2+3 kiyA_1+5+6/ekajuta_0+4/ikatTA_8+9/ekawriwa_7/sAWa_2+3 ._1+5/kiyA_0+4+7+8+9/gayA_6/lAyA_2+3 ._0+4+6/gayA_2+3+7+8+9 ._2+3+7+8+9

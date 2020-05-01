@@ -1,8 +1,19 @@
-SawaraMja	eka	Kelane	SawaraMja	Kelane	kI	praNAlI	kI	eka	praNAlI	EsI	eka	praNAlI}	kA	eka	uxAharaNa	hE	uxAharaNa	jo	hE	pUrI	pUrNawaH	pUrNa	jo	waraha	xeKane	pUrI	rUpa	se	waraha	yogya	veXa>>	xeKane	yogya	meM	saMcAliwa	vAwAvaraNa	calawI	yogya	vAwAvaraNa	howI	hE	meM	kArya	calawI	hE	meM	saMcAliwa	.	karawI	hE	howI	saMcAliwa	.	hE}	.	hE
-1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1	0	0	1	1	0	1	0	1	1	0	1	1	1	0	1	1	0	1	1	1	0	0	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	0	1	1	1	0	0	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	0	1	0	1	0	0	0	0	1	0	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	0	1	0	1	0	0	1	0	1	1
+ENG: A chess playing system is an example of a system that operates in a fully observable environment.
+
+ANU: eka SawaraFja KelawI huI praNAlI eka EsI praNAlI kA eka uxAharaNa hE jo eka pUrNa rUpa se avalokanIya vAwAvaraNa meM calawI hE .
+
+0 NMT: SawaraMja Kelane kI praNAlI eka EsI praNAlI kA uxAharaNa hE jo pUrI waraha se veXa yogya vAwAvaraNa meM kArya karawI hE .
+
+1 NMT: SawaraMja Kelane kI praNAlI eka EsI praNAlI kA uxAharaNa hE jo pUrI waraha se xeKane yogya vAwAvaraNa meM kArya karawI hE .
+
+2 NMT: SawaraMja Kelane kI praNAlI eka EsI praNAlI kA uxAharaNa hE jo pUrI waraha se xeKane yogya vAwAvaraNa meM saMcAliwa howI hE .
+
+3 NMT: eka SawaraMja Kelane kI praNAlI eka praNAlI kA eka uxAharaNa hE jo pUrI waraha se xeKane yogya vAwAvaraNa meM saMcAliwa howI hE .
+
+4 NMT: SawaraMja Kelane kI praNAlI eka EsI praNAlI kA uxAharaNa hE jo pUrNa rUpa se xeKane yogya vAwAvaraNa meM calawI hE .
+
+5 NMT: SawaraMja Kelane kI praNAlI eka EsI praNAlI kA uxAharaNa hE jo pUrNawaH xeKane yogya vAwAvaraNa meM saMcAliwa howI hE .
+
+6 NMT: SawaraMja Kelane kI praNAlI eka EsI praNAlI kA uxAharaNa hE jo pUrNawaH xeKane yogya vAwAvaraNa meM calawI hE .
+
+eka_3/SawaraMja_0+1+2+4+5+6 SawaraMja_3/Kelane_0+1+2+4+5+6 Kelane_3/kI_0+1+2+4+5+6 praNAlI_0+1+2+4+5+6/kI_3 praNAlI_3/eka_0+1+2+4+5+6 eka_3/EsI_0+1+2+4+5+6 praNAlI_0+1+2+3+4+5+6 kA_0+1+2+3+4+5+6 eka_3/uxAharaNa_0+1+2+4+5+6 hE_0+1+2+4+5+6/uxAharaNa_3 hE_3/jo_0+1+2+4+5+6 jo_3/pUrI_0+1+2/pUrNawaH_5+6/pUrNa_4 xeKane_5+6/pUrI_3/waraha_0+1+2/rUpa_4 yogya_5+6/waraha_3/se_0+1+2+4 vAwAvaraNa_5+6/xeKane_1+2+4/se_3/veXa_0 yogya_0+1+2+4/meM_5+6/xeKane_3 yogya_3/vAwAvaraNa_0+1+2+4/saMcAliwa_5/calawI_6 hE_6/vAwAvaraNa_3/meM_0+1+2+4/howI_5 hE_5/meM_3/._6/saMcAliwa_2/calawI_4/kArya_0+1 hE_4/._5/saMcAliwa_3/howI_2/karawI_0+1 hE_0+1+2/._4/howI_3 hE_3/._0+1+2 ._3

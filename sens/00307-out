@@ -1,6 +1,15 @@
-kOna	hama	kisa	hameM	kisa	noda	hameM	noda	hama	ko	cunanA	hama	ko	cAhie	cunanA	cAhie	?
-1	0	0	1	0	1	1	1	0	0	1	0	0	1	1	1	1
-0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	1	0	0	0	1	0	1	1	0	1	1	0	1	1	1	1
-0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+ENG: Which node should we select?
+
+ANU: kyA hameM kOnasA gAzTa cunanI cAhie?
+
+0 NMT: kOna noda hameM cunanA cAhie ?
+
+1 NMT: kisa noda ko hama cunanA cAhie ?
+
+2 NMT: kOna noda hama cunanA cAhie ?
+
+3 NMT: hama kisa noda ko cunanA cAhie ?
+
+4 NMT: hameM kisa noda ko cunanA cAhie ?
+
+kisa_1/kOna_0+2/hameM_4 noda_0+1+2/kisa_3+4 noda_3+4/ko_1/hameM_0 cunanA_0+2/ko_3+4 cunanA_1+3+4/cAhie_0+2 cAhie_1+3+4/?_0+2 ?_1+3+4

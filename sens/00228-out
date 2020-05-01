@@ -1,8 +1,19 @@
-eAI	kA	ke	eka	lakRya	lakRya	buxXimAna	buxXimAna	ke	ejeMtoM	ejeMtoM	kA	lie	kA	buxXimAna	nirmANa	hE	ki	ejeMtoM	nirmANa	karanA	karanA	praxarSana	hE	hE	ki	kA	jo	jo	praxarSana	anukUlana	praxarSana	ko	kA	karane	kA}	anukUlana	banAne	lie	karane	karane	kArya	ke	ke	karawA	lie	lie	kAma	hE	kArya	kArya	kA	karawA	EsA	karawe	karawe	hE	kArya	nirmANa	hEM	hEM	karane	kA	karawe	.	ke	hEM	nirmANa	.
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	0	1	1	1	0	0	1	1	0	1	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	0	1	1	1	0	0	1	1	0	1	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	0	0	1	1	0	0	1	1	1	0	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	0	1	1	1	1	0	0	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	0	1	1	1	0	0	1	1	0	1	1	0	1	1
+ENG: A goal of AI is to build intelligent agents that act so as to optimize performance.
+
+ANU: e. AI. kA eka lakRya buxXimAna prawiniXi jo praxarSana sabase behawara Dafga se upayoga meM l jisase kArya karawe hEM banAne ke lie hE .
+
+0 NMT: eAI kA eka lakRya buxXimAna ejeMtoM kA nirmANa karanA hE jo praxarSana kA anukUlana karane ke lie kArya karawe hEM .
+
+1 NMT: eAI kA eka lakRya buxXimAna ejeMtoM hE ki praxarSana kA anukUlana karane ke lie kArya karawA hE kA nirmANa karane ke lie hE .
+
+2 NMT: eAI kA eka lakRya buxXimAna ejeMtoM kA nirmANa hE ki praxarSana kA anukUlana karane ke lie kArya karawA hE .
+
+3 NMT: eAI kA eka lakRya buxXimAna ejeMtoM kA nirmANa karanA hE jo praxarSana kA anukUlana karane ke lie EsA kArya karawe hEM .
+
+4 NMT: eAI kA lakRya buxXimAna ejeMtoM kA nirmANa karanA hE jo praxarSana ko iRtawama banAne ke lie kArya karawe hEM .
+
+5 NMT: eAI ke eka lakRya ke lie buxXimAna ejeMtoM hE ki praxarSana kA anukUlana karane ke lie kAma karawe hEM kA nirmANa hE .
+
+6 NMT: eAI ke eka lakRya ke lie buxXimAna ejeMtoM hE ki praxarSana kA anukUlana karane ke lie kArya karawA hE kA nirmANa hE .
+
+eAI_0+1+2+3+4+5+6 kA_0+1+2+3+4/ke_5+6 lakRya_4/eka_0+1+2+3+5+6 buxXimAna_4/lakRya_0+1+2+3+5+6 ke_5+6/buxXimAna_0+1+2+3/ejeMtoM_4 kA_4/lie_5+6/ejeMtoM_0+1+2+3 kA_0+2+3/hE_1/nirmANa_4/buxXimAna_5+6 nirmANa_0+2+3/ejeMtoM_5+6/ki_1/karanA_4 hE_2+4+5+6/praxarSana_1/karanA_0+3 kA_1/hE_0+3/ki_2+5+6/jo_4 praxarSana_2+4+5+6/anukUlana_1/jo_0+3 kA_2+5+6/karane_1/praxarSana_0+3/ko_4 kA_0+3/ke_1/anukUlana_2+5+6/iRtawama_4 lie_1/karane_2+5+6/anukUlana_0+3/banAne_4 ke_2+4+5+6/karane_0+3/kArya_1 ke_0+3/lie_2+4+5+6/karawA_1 hE_1/lie_0+3/kArya_2+4+6/kAma_5 kA_1/kArya_0/karawA_2+6/karawe_4+5/EsA_3 hE_2+6/nirmANa_1/kArya_3/karawe_0/hEM_4+5 kA_5+6/karane_1/._2+4/karawe_3/hEM_0 ke_1/nirmANa_5+6/._0/hEM_3 hE_5+6/lie_1/._3 hE_1/._5+6 ._1

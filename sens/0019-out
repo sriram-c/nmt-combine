@@ -1,10 +1,23 @@
-tyUriMga	tyUriMgsa	kA	ke	'	Kela	samimiwa	samimiwIkaraNa	imiteSana	'	imiteSana	Kela	ko	gema	aba	ke	AmawOra	Kela	aba	ko	gema	'	aba	AmawOra	para	ko	'	'	para	AmawOra	aba	ko	tyUriMga	buxXi	ke	para	AmawOra	'	aba	tyUriMga	testa	testa	tyUriMga	AmawOra	buxXi	kahA	para	lie	'	jAwA	tyUriMga	ke	buxXi	para	testa	kahalAwA	tyUriMga	'	buxXi	testa	lie	kI	hE	hE	testa	kahA	kahalAwA	tyUriMga	kI	paraKa	.	.	'	kahA	testa	parIkRA	jAwA	hE	paraKa
-1	0	1	0	1	1	0	0	0	1	0	1	0	0	1	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	0	0	1	0	1	0	1	0	0	1	1	1	1	1	0	1	0	0	1	1	1	0	1	1	0	0	1	1	1	0	1	0	0	1	0
-1	0	0	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	1	1	0	1	1	0	1	0	0	1	1	1	1	0	1	0	0	1	1	1	1	1	0	1	1	0
-1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1	1	1	1	0	0	0	1	1	1	0	0	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	0	0	1	1	0	0	1	0	0	1	0
-1	1	0	1	0	1	1	0	0	0	0	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	0	1	0	0	1	1	0	1	1	0	1	1	0
-1	0	0	1	1	1	0	0	0	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	1	1	0	1	1	0	1	0	0	1	1	1	1	0	1	0	0	1	1	1	1	1	0	1	1	0
-1	0	1	0	0	1	0	0	0	0	0	1	0	0	1	0	1	1	1	0	0	0	1	1	1	0	0	0	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	1	0	0	1	1	0	1	0	0	1	0	0	1	1	1	1	0	1	0	0	1	1	0	1	1	0	1	1	0
-1	0	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	0	0	1	1	1	0	1	0	1	1	0	1	1	1	1	0	1	1	1	0
-1	0	0	0	1	0	0	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	0	1	1	0	0	1	1	1	0	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	0	1	1	1
-1	0	0	0	1	0	0	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	0	1	1	0	0	1	1	1	0	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	0	1	1	1
+ENG: Turing's 'imitation game' is now usually called 'the Turing test' for intelligence.
+
+ANU: Ama wOra para aba hE turifa ke ' nakalI Kela ne' jFAna ke lie ' turifa jAzca' bulAI .
+
+0 NMT: tyUriMga kA Kela aba AmawOra para ' tyUriMga testa ' kahalAwA hE .
+
+1 NMT: tyUriMga ke samimiwIkaraNa ke Kela ko aba AmawOra para ' tyUriMga testa ' kahA jAwA hE .
+
+2 NMT: tyUriMga kA Kela aba AmawOra para buxXi ke lie tyUriMga testa kahalAwA hE .
+
+3 NMT: tyUriMgsa ke samimiwa Kela ko aba AmawOra para buxXi ke lie tyUriMga testa kahA jAwA hE .
+
+4 NMT: tyUriMga ke Kela ko aba AmawOra para ' tyUriMga testa ' kahA jAwA hE .
+
+5 NMT: tyUriMga kA Kela aba AmawOra para tyUriMga testa kahA jAwA hE .
+
+6 NMT: tyUriMga ke ' imiteSana gema ' ko aba AmawOra para buxXi kI parIkRA kahA jAwA hE .
+
+7 NMT: tyUriMga ' imiteSana gema ' ko aba AmawOra para ' buxXi kI paraKa ' kahA jAwA hE .
+
+8 NMT: tyUriMga ' imiteSana gema ' ko aba AmawOra para buxXi kI paraKa kahA jAwA hE .
+
+tyUriMga_0+1+2+4+5+6+7+8/tyUriMgsa_3 '_7+8/kA_0+2+5/ke_1+3+4+6 '_6/imiteSana_7+8/Kela_0+2+4+5/samimiwa_3/samimiwIkaraNa_1 aba_0+2+5/ko_4/imiteSana_6/gema_7+8/Kela_3/ke_1 '_7+8/aba_4/AmawOra_0+2+5/ko_3/gema_6/Kela_1 '_6/aba_3/AmawOra_4/para_0+2+5/ko_1+7+8 '_0/tyUriMga_5/aba_1+7+8/AmawOra_3/para_4/ko_6/buxXi_2 '_4/tyUriMga_0/aba_6/AmawOra_1+7+8/para_3/testa_5/ke_2 tyUriMga_4/AmawOra_6/para_1+7+8/kahA_5/testa_0/buxXi_3/lie_2 '_0+1+7/tyUriMga_2/para_6/jAwA_5/testa_4/buxXi_8/ke_3 '_4/tyUriMga_1/hE_5/testa_2/buxXi_6+7/kI_8/lie_3/kahalAwA_0 tyUriMga_3/hE_0/._5/kahA_4/testa_1/kI_6+7/paraKa_8/kahalAwA_2 '_1/hE_2/._0/kahA_8/jAwA_4/testa_3/paraKa_7/parIkRA_6 '_7/hE_4/._2/kahA_1+3+6/jAwA_8 hE_8/._4/kahA_7/jAwA_1+3+6 hE_1+3+6/._8/jAwA_7 hE_7/._1+3+6 ._7

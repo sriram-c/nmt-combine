@@ -1,10 +1,23 @@
-eka	wAlikA	wAlikA	eka	saMvexanAoM	saMvexakoM	,>>	boXa	kAryoM	ko	warIkA	kriyAoM	se	se	kAryoM	kriyA	waka	hE	nirxiRta	kriyAoM	kriyAoM	meM	ke	mAnaciwraNa	jisase	waka	karane	waka	mAnaciwraNa	lie	prawiboXa	ko	kA	prawiciwraNa	prawiciwraNa	se	mAnaciwraNa	nirxiRta	sarala	kriyA	nirxiRta	warIkA	karane	karane	waka	hE	kA	kA	mAnaciwraNa	.	sarala	sarala	nirxiRta	warIkA	warIkA	kiyA	hE	hE	jA	.	sake	.
-1	1	1	1	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	1	1	0	0	0	0	1	1	1	0	0	0	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	0	1
-1	1	1	1	0	0	0	1	0	0	1	1	1	1	0	0	0	1	1	1	1	1	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	0	1
-1	1	1	1	0	0	0	1	1	0	1	0	1	1	1	0	0	1	1	0	0	0	1	1	0	0	1	0	1	1	0	0	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1
-1	1	1	1	0	0	0	1	0	0	1	0	1	1	0	1	0	1	1	0	0	0	1	1	0	0	1	0	1	1	0	0	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1
-1	1	1	1	0	0	0	0	0	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	1	0	0	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	0	1
-1	1	1	1	0	0	0	1	0	0	1	0	1	1	0	1	1	1	1	0	0	0	0	1	0	1	1	1	1	0	0	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1
-1	1	1	1	0	0	0	0	0	0	1	0	1	1	0	1	1	1	1	0	0	0	0	1	1	1	0	1	1	0	1	0	0	0	0	1	1	1	0	1	1	1	0	0	1	1	0	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1
-0	1	1	0	0	1	0	0	0	1	1	1	1	1	0	0	1	1	1	1	1	0	0	1	0	1	1	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1
-0	1	1	0	1	0	0	0	1	1	1	0	1	1	1	0	1	1	1	0	0	0	0	1	0	1	1	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1
+ENG: A table is simple way to specify a mapping from percepts to actions.
+
+ANU: meja kriyAez boXa se prawiciwraNa bawAne kI sAXAraNa viXi howA hE .
+
+0 NMT: eka wAlikA , boXa se kriyAoM waka prawiciwraNa nirxiRta karane kA sarala warIkA hE .
+
+1 NMT: eka wAlikA boXa se kriyAoM meM prawiciwraNa nirxiRta karane kA sarala warIkA hE .
+
+2 NMT: eka wAlikA boXa se kAryoM ke lie mAnaciwraNa nirxiRta karane kA sarala warIkA hE .
+
+3 NMT: eka wAlikA boXa se kriyA ke lie mAnaciwraNa nirxiRta karane kA sarala warIkA hE .
+
+4 NMT: eka wAlikA prawiciwraNa ko nirxiRta karane kA sarala warIkA hE .
+
+5 NMT: eka wAlikA boXa se kriyA waka mAnaciwraNa nirxiRta karane kA sarala warIkA hE .
+
+6 NMT: wAlikA eka EsA warIkA hE jisase prawiboXa se kriyA waka mAnaciwraNa nirxiRta kiyA jA sake .
+
+7 NMT: wAlikA saMvexakoM se kriyAoM waka mAnaciwraNa ko nirxiRta karane kA sarala warIkA hE .
+
+8 NMT: wAlikA saMvexanAoM se kAryoM waka mAnaciwraNa ko nirxiRta karane kA sarala warIkA hE .
+
+wAlikA_6+7+8/eka_0+1+2+3+4+5 wAlikA_0+1+2+3+4+5/saMvexanAoM_8/saMvexakoM_7/eka_6 se_7+8/boXa_1+2+3+5/EsA_6/prawiciwraNa_4/,_0 warIkA_6/se_1+2+3+5/boXa_0/ko_4/kriyAoM_7/kAryoM_8 hE_6/nirxiRta_4/se_0/waka_7+8/kriyA_3+5/kriyAoM_1/kAryoM_2 karane_4/mAnaciwraNa_7+8/waka_5/kriyAoM_0/ke_2+3/jisase_6/meM_1 kA_4/mAnaciwraNa_5/waka_0/ko_7+8/lie_2+3/prawiboXa_6/prawiciwraNa_1 nirxiRta_1+5+7+8/sarala_4/se_6/mAnaciwraNa_2+3/prawiciwraNa_0 warIkA_4/nirxiRta_0+2+3/karane_1+5+7+8/kriyA_6 hE_4/karane_0+2+3/kA_1+5+7+8/waka_6 ._4/kA_0+2+3/sarala_1+5+7+8/mAnaciwraNa_6 warIkA_1+5+7+8/nirxiRta_6/sarala_0+2+3 warIkA_0+2+3/hE_1+5+7+8/kiyA_6 hE_0+2+3/._1+5+7+8/jA_6 ._0+2+3/sake_6 ._6

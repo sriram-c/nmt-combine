@@ -1,6 +1,15 @@
-Koja	vqkRa	trI	,	eka	eka	detA	detA	dAtA	saMracanA	saMracanA	hE	howI	,	hE	jisameM	,}	jisameM	noda	rUta	eka	howA	noda	hE	rUta	noda	howA	,	hE}	,}	jahAM	Koja	,	se	jahAM	AraMBa	Koja}	AraMBa	Koja	hE	SurU	howI}	hE}	hE	.
-1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1
-1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1
-1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1
-1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	0	0	1	1	1	0	0	1	1
-1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1
+ENG: A search tree is a data structure containing a root node, from where the search starts.
+
+ANU: eka Koja waru se eka mUla gAzTa se, yukwa howe hue eka AzkadA saMracanA howA hE jahAz walASa Suru karawI hE .
+
+0 NMT: Koja vqkRa , eka detA saMracanA howI hE , jisameM rUta noda howA hE , jahAM se Koja AraMBa howI hE .
+
+1 NMT: Koja vqkRa , eka dAtA saMracanA howI hE , jisameM rUta noda howA hE , jahAM se Koja AraMBa howI hE .
+
+2 NMT: Koja vqkRa , eka detA saMracanA howI hE , jisameM eka rUta noda howA hE , jahAM se Koja AraMBa howI hE .
+
+3 NMT: Koja trI , eka detA saMracanA howI hE , jisameM rUta noda howA hE , jahAM se Koja SurU howI hE .
+
+4 NMT: Koja vqkRa eka detA saMracanA hE , jisameM rUta noda howA hE , jahAM se Koja AraMBa howI hE .
+
+Koja_0+1+2+3+4 vqkRa_0+1+2+4/trI_3 ,_0+1+2+3/eka_4 eka_0+1+2+3/detA_4 saMracanA_4/detA_0+2+3/dAtA_1 hE_4/saMracanA_0+1+2+3 ,_4/howI_0+1+2+3 hE_0+1+2+3/jisameM_4 ,_0+1+2+3/rUta_4 noda_4/jisameM_0+1+2+3 eka_2/rUta_0+1+3/howA_4 hE_4/rUta_2/noda_0+1+3 ,_4/noda_2/howA_0+1+3 hE_0+1+3/howA_2/jahAM_4 hE_2/,_0+1+3/se_4 ,_2/Koja_4/jahAM_0+1+3 jahAM_2/se_0+1+3/AraMBa_4 Koja_0+1+3/howI_4/se_2 hE_4/Koja_2/AraMBa_0+1/SurU_3 howI_0+1+3/._4/AraMBa_2 hE_0+1+3/howI_2 hE_2/._0+1+3 ._2

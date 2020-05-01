@@ -1,5 +1,13 @@
-eka	jaba	sWira	sWira	ejeMta	vAwAvaraNa	vAwAvaraNa	soca	nahIM	nahIM	rahA	baxalawA	baxalawA	howA	jabaki	jabaki	ejeMta	hE	jabaki	wo	ejeMta	soca	soca	ejeMta	eka	rahA	rahA	soca	howA	sWira	hE	rahA	vAwAvaraNa	.	nahIM	hE
-1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1
-0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1
+ENG: A static environment does not change while the agent is thinking.
+
+ANU: eka sWira vAwAvaraNa jaba ki prawiniXi soca rahA hE nahIM baxalawA hE .
+
+0 NMT: eka sWira vAwAvaraNa nahIM baxalawA jabaki ejeMta soca rahA hE .
+
+1 NMT: jaba ejeMta soca rahA howA hE wo eka sWira vAwAvaraNa nahIM baxalawA .
+
+2 NMT: eka sWira vAwAvaraNa nahIM baxalawA hE jabaki ejeMta soca rahA hE .
+
+3 NMT: sWira vAwAvaraNa nahIM baxalawA jabaki ejeMta soca rahA howA hE .
+
+sWira_3/eka_0+2/jaba_1 sWira_0+2/vAwAvaraNa_3/ejeMta_1 vAwAvaraNa_0+2/nahIM_3/soca_1 nahIM_0+2/baxalawA_3/rahA_1 baxalawA_0+2/jabaki_3/howA_1 hE_1+2/ejeMta_3/jabaki_0 ejeMta_0/soca_3/jabaki_2/wo_1 ejeMta_2/soca_0/rahA_3/eka_1 sWira_1/soca_2/rahA_0/howA_3 hE_0+3/vAwAvaraNa_1/rahA_2 hE_2/nahIM_1/._0+3 baxalawA_1/._2 ._1

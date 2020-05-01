@@ -1,6 +1,15 @@
-aBikarwA	ejeMta	apekRiwa	isa	EsA	kArya	upayogiwA	prakAra	kArya	karawA	ko	kArya	hE	karawA	aXikawama	wAki	karawA	hE	karane	jisase	prawyASiwa	hE	ke	ki	apekRiwa	upayogiwA	lie	upayogiwA	apekRiwa	ko	kArya	upayogiwA	aXikawama	karawA	kiyA	ho	ko	hE	jA	aXikawama	.	.	kiyA	sake
-1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	0
-1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-0	1	1	0	0	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	0
-0	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	0	0	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	0	1	1	0	1	1	1	1	0	1	1	0	1	0	1	0	0	1	1	0	1	1	0	1	1	1	1	0	1	0	1	0	1	1	1	0	0
+ENG: The agent acts so as to maximize expected utility.
+
+ANU: prawiniXi apekRiwa upayogiwA aXikawama kara jisase kArya karawA hE .
+
+0 NMT: aBikarwA apekRiwa upayogiwA ko aXikawama karane ke lie kArya karawA hE .
+
+1 NMT: aBikarwA isa prakAra kArya karawA hE ki apekRiwa upayogiwA ko aXikawama kiyA jA sake .
+
+2 NMT: ejeMta apekRiwa upayogiwA ko aXikawama karane ke lie kArya karawA hE .
+
+3 NMT: ejeMta kArya karawA hE wAki prawyASiwa upayogiwA ko aXikawama kiyA jA sake .
+
+4 NMT: aBikarwA EsA kArya karawA hE jisase apekRiwa upayogiwA aXikawama ho .
+
+aBikarwA_0+1+4/ejeMta_2+3 kArya_3/apekRiwa_0+2/EsA_4/isa_1 kArya_4/karawA_3/upayogiwA_0+2/prakAra_1 kArya_1/karawA_4/hE_3/ko_0+2 karawA_1/hE_4/aXikawama_0+2/wAki_3 hE_1/karane_0+2/jisase_4/prawyASiwa_3 upayogiwA_3/apekRiwa_4/ke_0+2/ki_1 upayogiwA_4/ko_3/apekRiwa_1/lie_0+2 kArya_0+2/aXikawama_3+4/upayogiwA_1 karawA_0+2/ko_1/kiyA_3/ho_4 hE_0+2/._4/aXikawama_1/jA_3 ._0+2/kiyA_1/sake_3 ._3/jA_1 sake_1 ._1

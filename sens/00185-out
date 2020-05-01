@@ -1,10 +1,23 @@
-ejeMta	aBikarwA	vicAra	ko	vicAra	-	vicAra	mukwi	vimarSa	ke	-	xOrAna	ke	vimarSa	xOrAna	xuniyA	ke	ejeMta	xuniyA	kA	xOrAna	ko	kA	nirIkRaNa	xuniyA	viSva	nirIkRaNa	karane	kA	xeKane	kI	karane	nirIkRaNa	pAlana	jarUrawa	kI	karane	AvaSyakawA	jarUrawa	nahIM	kI	nahIM	hE	jarUrawa	AvaSyakawA	hE	.	nahIM	.	hE	.
-1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	0	0	1	0	0	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1
-0	1	0	1	0	0	0	1	0	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1
-1	0	1	0	1	0	1	0	0	1	0	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1
-1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1
-0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	0	1	0	0	0	0	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1
+ENG: The agent doesn’t need to observe the world during deliberation.
+
+ANU: prawiniXi vicAra vimarSa ke xOrAna viSva xeKa .
+
+0 NMT: ejeMta ko vicAra - vimarSa ke xOrAna xuniyA kA nirIkRaNa karane kI jarUrawa nahIM hE .
+
+1 NMT: vicAra - vimarSa ke xOrAna ejeMta ko xuniyA kA nirIkRaNa karane kI jarUrawa nahIM hE .
+
+2 NMT: ejeMta ko mukwi ke xOrAna xuniyA kA nirIkRaNa karane kI AvaSyakawA nahIM hE .
+
+3 NMT: aBikarwA ko vicAra - vimarSa ke xOrAna xuniyA kA nirIkRaNa karane kI AvaSyakawA nahIM hE .
+
+4 NMT: aBikarwA ko mukwi ke xOrAna xuniyA kA nirIkRaNa karane kI AvaSyakawA nahIM hE .
+
+5 NMT: ejeMta vicAra ke xOrAna xuniyA kA nirIkRaNa karane kI jarUrawa nahIM hE .
+
+6 NMT: ejeMta ko vicAra - vimarSa ke xOrAna xuniyA kA pAlana karane kI jarUrawa nahIM hE .
+
+7 NMT: aBikarwA ko vicAra - vimarSa ke xOrAna viSva kA nirIkRaNa karane kI AvaSyakawA nahIM hE .
+
+8 NMT: aBikarwA ko vicAra - vimarSa ke xOrAna xuniyA xeKane kI jarUrawa nahIM hE .
+
+vicAra_1/aBikarwA_3+4+7+8/ejeMta_0+2+5+6 ko_0+2+3+4+6+7+8/vicAra_5/-_1 ke_5/vicAra_0+3+6+7+8/vimarSa_1/mukwi_2+4 ke_1+2+4/xOrAna_5/-_0+3+6+7+8 xOrAna_1+2+4/xuniyA_5/vimarSa_0+3+6+7+8 ke_0+3+6+7+8/xuniyA_2+4/kA_5/ejeMta_1 xOrAna_0+3+6+7+8/ko_1/kA_2+4/nirIkRaNa_5 karane_5/xuniyA_0+1+3+6+8/nirIkRaNa_2+4/viSva_7 kI_5/karane_2+4/kA_0+1+3+6+7/xeKane_8 kI_2+4+8/nirIkRaNa_0+1+3+7/jarUrawa_5/pAlana_6 nahIM_5/karane_0+1+3+6+7/jarUrawa_8/AvaSyakawA_2+4 nahIM_2+4+8/hE_5/kI_0+1+3+6+7 hE_2+4+8/._5/jarUrawa_0+1+6/AvaSyakawA_3+7 nahIM_0+1+3+6+7/._2+4+8 hE_0+1+3+6+7 ._0+1+3+6+7

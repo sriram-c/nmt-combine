@@ -1,6 +1,15 @@
-kyA	hama	waMwra	sistama	praNAlI	vicAra	kI	prakriyA	vicAra	yA	prakriyA	waMwra	praNAlI	yA	kI	warka	kRamawA	ko	xeKa	xeKawe	rahe	hEM	hEM	?	?
-1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	0	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	1	1	1
-1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1
+ENG: Are we looking at the thought process or reasoning ability of the system?
+
+ANU: kyA hama praNAlI kI vEcArika prakriyA yA safkewa yogyawA kI ora xeKa rahe hEM?
+
+0 NMT: kyA hama waMwra kI vicAra prakriyA yA warka kRamawA ko xeKa rahe hEM ?
+
+1 NMT: kyA hama sistama kI vicAra prakriyA yA warka kRamawA ko xeKa rahe hEM ?
+
+2 NMT: kyA hama vicAra prakriyA yA waMwra kI warka kRamawA ko xeKa rahe hEM ?
+
+3 NMT: kyA hama vicAra prakriyA yA praNAlI kI warka kRamawA ko xeKawe hEM ?
+
+4 NMT: kyA hama praNAlI kI vicAra prakriyA yA warka kRamawA ko xeKa rahe hEM ?
+
+kyA_0+1+2+3+4 hama_0+1+2+3+4 vicAra_2+3/praNAlI_4/waMwra_0/sistama_1 prakriyA_2+3/kI_0+1+4 vicAra_0+1+4/yA_2+3 prakriyA_0+1+4/praNAlI_3/waMwra_2 yA_0+1+4/kI_2+3 warka_0+1+2+3+4 kRamawA_0+1+2+3+4 ko_0+1+2+3+4 xeKa_0+1+2+4/xeKawe_3 hEM_3/rahe_0+1+2+4 hEM_0+1+2+4/?_3 ?_0+1+2+4

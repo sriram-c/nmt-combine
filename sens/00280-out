@@ -1,11 +1,25 @@
-hama	kevala	Koja	una	ke	unhIM	vqkRa	uwwarAXikAriyoM	pedZa	ko	para	kuCa	ko	vicAra	sImA	kuCa	haxa	karake	haxa	waka	,	sImiwa	kevala	waka	Koja	jahAM]	koI]	rAnI]	eka]	xUsare]	para	karake	uwwarAXikAriyoM	sakawe	hEM	prawibaMXiwa	waka	hamalA	para	,	kara	hEM	prawibaMXiwa	nahIM]	kara}	rahI]	hE]	,	koI	xUsare	rAnI	Koja}	vqkRa	xUsare	AkramaNa	eka	ko}	kuCa	kara	para	AkramaNa	hamalA	haxa	nahIM	rahI	hamalA	waka	nahIM	kara	hE	prawibaMXiwa	kara	rahI	.	kara}	sakawe}	hEM}
-1	1	1	1	0	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0
-1	1	1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	1	1	1	0	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0
-1	1	1	1	0	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0
-1	1	1	1	0	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0
-1	1	1	1	0	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	1	1	1	0	1	0	1	1	1	0	0	0	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	0	0	0
-1	1	1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	1	1	1	0	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0
-1	1	1	0	0	1	1	1	0	1	1	0	1	1	0	0	0	1	0	0	1	1	1	0	1	0	0	0	0	0	1	1	1	1	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	0	1	1	0	0	1	1	1	0	1	1	1	0	0	0
-1	1	1	0	0	1	1	1	0	1	1	1	1	1	0	1	0	1	0	0	0	1	1	0	1	0	0	0	0	0	1	1	1	1	1	0	0	0	1	0	1	1	0	0	0	0	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	0	0	1	1	1	0	1	1	1	0	0	0
-1	1	1	1	0	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	0	0	0	0	1	1	1	1	1	0	1	1	1	0	1	1	0	0	0	0	0	0	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0
-1	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	0	0	0	0	0	1	1	1	1	1	0	1	1	1	0	1	1	0	0	0	0	0	0	1	1	1	0	1	1	0	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	0	0	0
+ENG: We can restrict the search tree somewhat by considering only those successors where no queen is attacking each other.
+
+ANU: hama kuCa sirPa una vArisa ko jahAz koI rAnI eka xUsare para nahIM hamalA kara rahI hE mAnane ke xvArA Koja waru sImiwa raKa sakawe hEM .
+
+0 NMT: hama kevala una uwwarAXikAriyoM para vicAra karake , jahAM koI rAnI eka xUsare para hamalA nahIM kara rahI hE , Koja vqkRa ko kuCa haxa waka prawibaMXiwa kara sakawe hEM .
+
+1 NMT: hama kevala una uwwarAXikAriyoM para vicAra karake Koja ke pedZa ko kuCa haxa waka prawibaMXiwa kara sakawe hEM jahAM koI rAnI eka xUsare para hamalA nahIM kara rahI hE .
+
+2 NMT: hama Koja vqkRa ko kuCa haxa waka kevala una uwwarAXikAriyoM para vicAra karake prawibaMXiwa kara sakawe hEM jahAM koI rAnI eka xUsare para hamalA nahIM kara rahI hE .
+
+3 NMT: hama kevala una uwwarAXikAriyoM para vicAra karake Koja vqkRa ko kuCa haxa waka prawibaMXiwa kara sakawe hEM jahAM koI rAnI eka xUsare para hamalA nahIM kara rahI hE .
+
+4 NMT: hama Koja vqkRa ko kuCa haxa waka kevala una uwwarAXikAriyoM para vicAra karake prawibaMXiwa kara sakawe hEM jahAM koI rAnI eka xUsare para AkramaNa nahIM kara rahI hE .
+
+5 NMT: hama Koja ke pedZa ko kuCa haxa waka kevala una uwwarAXikAriyoM para vicAra karake prawibaMXiwa kara sakawe hEM jahAM koI rAnI eka xUsare para hamalA nahIM kara rahI hE .
+
+6 NMT: hama kevala unhIM uwwarAXikAriyoM para vicAra karake Koja vqkRa ko sImiwa kara sakawe hEM , jahAM koI rAnI eka xUsare para AkramaNa nahIM kara rahI hE .
+
+7 NMT: hama kevala unhIM uwwarAXikAriyoM para vicAra karake Koja vqkRa ko kuCa sImiwa kara sakawe hEM jahAM koI rAnI eka xUsare para AkramaNa nahIM kara rahI hE .
+
+8 NMT: hama Koja vqkRa ko kuCa haxa waka sImiwa kara sakawe hEM kevala una uwwarAXikAriyoM para vicAra karake jahAM koI rAnI eka xUsare para hamalA nahIM kara rahI hE .
+
+9 NMT: hama Koja vqkRa ko kuCa sImA waka sImiwa kara sakawe hEM kevala una uwwarAXikAriyoM para vicAra karake jahAM koI rAnI eka xUsare para hamalA nahIM kara rahI hE .
+
+hama_0+1+2+3+4+5+6+7+8+9 Koja_2+4+5+8+9/kevala_0+1+3+6+7 una_0+1+3/vqkRa_2+4+8+9/unhIM_6+7/ke_5 uwwarAXikAriyoM_0+1+3+6+7/ko_2+4+8+9/pedZa_5 para_0+1+3+6+7/ko_5/kuCa_2+4+8+9 vicAra_0+1+3+6+7/kuCa_5/haxa_2+4+8/sImA_9 karake_0+1+3+6+7/waka_2+4+8+9/haxa_5 Koja_1+3+6+7/kevala_2+4/waka_5/sImiwa_8+9 kara_8+9/jahAM_0/kevala_5/una_2+4/vqkRa_3+6+7/ke_1 koI_0/uwwarAXikAriyoM_2+4/sakawe_8+9/ko_3+6+7/una_5/pedZa_1 para_2+4/rAnI_0/uwwarAXikAriyoM_5/hEM_8+9/ko_1/kuCa_3+7/sImiwa_6 kara_6/para_5/eka_0/vicAra_2+4/kevala_8+9/kuCa_1/haxa_3/sImiwa_7 kara_7/xUsare_0/vicAra_5/karake_2+4/sakawe_6/una_8+9/waka_3/haxa_1 para_0/uwwarAXikAriyoM_8+9/karake_5/sakawe_7/hEM_6/waka_1/prawibaMXiwa_2+3+4 kara_2+3+4/para_8+9/hEM_7/hamalA_0/prawibaMXiwa_1+5 kara_1+5/jahAM_6+7/nahIM_0/vicAra_8+9/sakawe_2+3+4 kara_0/koI_6+7/karake_8+9/sakawe_1+5/hEM_2+3+4 jahAM_2+3+4+8+9/rAnI_6+7/rahI_0/hEM_1+5 jahAM_1+5/koI_2+3+4+8+9/eka_6+7/hE_0 koI_1+5/rAnI_2+3+4+8+9/xUsare_6+7 para_6+7/rAnI_1+5/eka_2+3+4+8+9/Koja_0 eka_1+5/xUsare_2+3+4+8+9/vqkRa_0/AkramaNa_6+7 para_2+3+4+8+9/xUsare_1+5/nahIM_6+7/ko_0 kara_6+7/para_1+5/kuCa_0/hamalA_2+3+8+9/AkramaNa_4 nahIM_2+3+4+8+9/rahI_6+7/hamalA_1+5/haxa_0 kara_2+3+4+8+9/nahIM_1+5/hE_6+7/waka_0 kara_1+5/rahI_2+3+4+8+9/._6+7/prawibaMXiwa_0 kara_0/rahI_1+5/hE_2+3+4+8+9 hE_1+5/sakawe_0/._2+3+4+8+9 hEM_0/._1+5 ._0

@@ -1,11 +1,25 @@
-lakRya	parIkRaNa]	xvArA]	lakRya}	avasWAeM	lakRya	eka	parIkRaNa	prAyaH	parIkRaNa	lakRya	xvArA	xvArA	nirxiRta	parIkRaNa	kI	nirxiRta	xvArA	jAwI	kara	howI	kiyA	nirxiRta	hEM	rahe	jAwA	kiyA	jinheM>>	jo	jise	kisI	hE	jise	kisI	BI	lakRya}	avasWA	lakRya	BI	avasWA	lakRya	ko	rAjya	saMwuRta	avaSya	rAjya	ko	avasWA	saMwuRta	hI	karanA	pUrA	ko	pUrNa	howA	karanA	pUrA	saMwuRta	hE	cAhie	karanA	howA	cAhie	hogA	.
-1	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	0	0	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	1	0	1	0	1	1	0	1	1	0	1	1	0	0	1
-1	0	0	0	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	0	0	1	1	0	0	1	1	0	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	0	1	1	0	1	0	1	0	1	0	0	1	0	1	1	0	1	0	0	1	1
-1	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	1	0	1	0	1	1	0	1	1	0	1	1	0	0	1
-1	0	0	0	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	0	0	1	1	0	0	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	1	0	1	0	0	1	0	1	1	1	1	0	1	0	1
-1	0	0	0	0	1	0	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	1	0	0	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	1	0	1	0	0	1	0	1	1	1	1	0	1	0	1
-1	0	0	0	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	0	0	1	1	0	0	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	1	0	1	0	0	1	0	1	1	0	1	0	0	1	1
-1	0	0	0	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	0	0	1	1	1	0	0	0	1	0	1	0	0	1	1	0	0	1	1	0	1	1	1	1	0	1	1	0	1	0	1	0	1	0	0	1	0	1	0	1	1	0	1	0	1
-1	0	0	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	0	0	1	1	0	1	1	1	0	1	1	1	1	1	1	0	0	1	0	1	1	0	0	1	1	1	0	0	1	1	0	0	1	1	0	1	0	1
-1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	0	0	0	0	0	1	1	0	1	1	1	0	1	1	1	1	1	1	0	0	1	0	1	1	0	0	1	0	1	1	0	1	0	0	0	1	1	0	1	0	1
-1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	0	1
+ENG: Goal states are often specified by a goal test which any goal state must satisfy.
+
+ANU: lakRya avasWAez eka lakRya jAzca ke xvArA jise koI lakRya rAjya ko sanwuRta karanA cAhie aksara bawAI jAwIM hEM .
+
+0 NMT: lakRya parIkRaNa xvArA lakRya avasWAeM prAyaH nirxiRta kI jAwI hEM jinheM kisI BI lakRya avasWA ko saMwuRta karanA howA hE .
+
+1 NMT: lakRya rAjyoM ko aksara eka lakRya parIkRaNa xvArA nirxiRta kiyA jAwA hE jise kisI BI lakRya rAjya ko saMwuRta karanA hogA .
+
+2 NMT: lakRya avasWAeM prAyaH lakRya parIkRaNa xvArA nirxiRta kI jAwI hEM jise kisI BI lakRya avasWA ko saMwuRta karanA howA hE .
+
+3 NMT: lakRya avasWAoM ko aksara eka lakRya parIkRaNa xvArA nirxiRta kiyA jAwA hE jise kisI BI lakRya avasWA ko saMwuRta karanA cAhie .
+
+4 NMT: lakRya avasWAoM ko prAyaH lakRya parIkRaNa xvArA nirxiRta kiyA jAwA hE jise kisI BI lakRya avasWA ko saMwuRta karanA cAhie .
+
+5 NMT: lakRya avasWAoM ko aksara eka lakRya parIkRaNa xvArA nirxiRta kiyA jAwA hE jise kisI BI lakRya avasWA ko saMwuRta karanA hogA .
+
+6 NMT: lakRya rAjyoM aksara eka lakRya parIkRaNa xvArA nirxiRta kara rahe hEM jo kisI BI lakRya rAjya ko saMwuRta karanA cAhie .
+
+7 NMT: lakRya avasWAeM aksara lakRya parIkRaNa xvArA nirxiRta kI jAwI hEM jise kisI BI lakRya avasWA ko avaSya pUrA karanA cAhie .
+
+8 NMT: lakRya avasWAeM aksara eka lakRya parIkRaNa xvArA nirxiRta howI hEM jise kisI BI lakRya avasWA ko avaSya pUrNa karanA cAhie .
+
+9 NMT: lakRya avasWAeM aksara eka lakRya parIkRaNa xvArA nirxiRta howI hEM jise kisI BI lakRya avasWA ko avaSya hI pUrA karanA howA hE .
+
+lakRya_0+1+2+3+4+5+6+7+8+9 parIkRaNa_0/avasWAeM_2+7+8+9/avasWAoM_3+4+5/rAjyoM_1+6 ko_1+3+4+5/xvArA_0/aksara_6+7+8+9/prAyaH_2 lakRya_0+2+7/aksara_1+3+5/eka_6+8+9/prAyaH_4 lakRya_4+6+8+9/parIkRaNa_2+7/eka_1+3+5/avasWAeM_0 lakRya_1+3+5/parIkRaNa_4+6+8+9/xvArA_2+7/prAyaH_0 parIkRaNa_1+3+5/xvArA_4+6+8+9/nirxiRta_0+2+7 xvArA_1+3+5/nirxiRta_4+6+8+9/kI_0+2+7 nirxiRta_1+3+5/kiyA_4/jAwI_0+2+7/howI_8+9/kara_6 hEM_0+2+7+8+9/kiyA_1+3+5/jAwA_4/rahe_6 jise_2+7+8+9/hE_4/hEM_6/jAwA_1+3+5/jinheM_0 kisI_0+2+7+8+9/jise_4/hE_1+3+5/jo_6 kisI_4+6/BI_0+2+7+8+9/jise_1+3+5 lakRya_0+2+7+8+9/kisI_1+3+5/BI_4+6 lakRya_4+6/BI_1+3+5/avasWA_0+2+7+8+9 lakRya_1+3+5/ko_0+2+7+8+9/avasWA_4/rAjya_6 ko_4+6/avasWA_3+5/saMwuRta_0+2/avaSya_7+8+9/rAjya_1 ko_1+3+5/karanA_0+2/saMwuRta_4+6/pUrA_7/hI_9/pUrNa_8 karanA_4+6+7+8/saMwuRta_1+3+5/howA_0+2/pUrA_9 karanA_1+3+5+9/hE_0+2/cAhie_4+6+7+8 ._0+2+4+6+7+8/cAhie_3/howA_9/hogA_1+5 ._1+3+5/hE_9 ._9

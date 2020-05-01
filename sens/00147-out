@@ -1,3 +1,9 @@
-eAI	warkasaMgawa]	ejeMtoM>>	ke]	nirmANa>>	ke	bAre	meM	hE	.
-1	0	0	0	0	1	1	1	1	1
-1	0	0	0	0	1	1	1	1	1
+ENG: AI is about building rational agents.
+
+ANU: e. AI. warkasafgawa prawiniXi banAne ke bAre meM hE .
+
+0 NMT: eAI warkasaMgawa ejeMtoM ke nirmANa ke bAre meM hE .
+
+1 NMT: eAI ko warkasaMgawa ejeMta banAne ke bAre meM hE .
+
+eAI_0+1 warkasaMgawa_0/ko_1 warkasaMgawa_1/ejeMtoM_0 ke_0/ejeMta_1 banAne_1/nirmANa_0 ke_0+1 bAre_0+1 meM_0+1 hE_0+1 ._0+1

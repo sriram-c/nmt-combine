@@ -1,10 +1,23 @@
-gawiSIla	riyala	vAswavika	rIyala	-	samaya	tAima	domena	domena	meM	meM	yojanAeM	yojanAoM	yojanA	yojanA	yojanAoM	banAez	yojanAeM	kA	kA	banAeM	banAez	nirmANa	nirmANa	kareM	.	kareM	.	.
-1	1	0	0	1	0	1	1	1	1	1	0	0	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1
-1	1	0	0	1	0	1	1	1	1	1	0	1	0	0	1	0	0	1	1	0	0	1	1	1	1	1	1	1
-1	0	1	0	0	1	0	1	1	1	1	0	1	0	0	1	0	0	1	1	0	0	1	1	1	1	1	1	1
-1	1	0	0	1	0	1	1	1	1	1	0	1	0	0	1	0	0	1	1	0	0	1	1	0	1	0	1	1
-1	0	1	0	0	1	0	1	1	1	1	0	1	0	0	1	0	0	1	1	0	0	1	1	0	1	0	1	1
-1	0	0	1	1	0	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0
-1	0	0	1	1	0	1	1	1	1	1	1	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	1	1
-1	0	1	0	0	1	0	1	1	1	1	0	0	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1
-1	0	1	0	0	1	0	1	1	1	1	1	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0
+ENG: Construct plans in dynamic real-time domains.
+
+ANU: racanA gawiSIla samayociwa kRewroM meM yojanA banAwI hE .
+
+0 NMT: gawiSIla riyala - tAima domena meM yojanA kA nirmANa kareM .
+
+1 NMT: gawiSIla riyala - tAima domena meM yojanAoM kA nirmANa kareM .
+
+2 NMT: gawiSIla vAswavika samaya domena meM yojanAoM kA nirmANa kareM .
+
+3 NMT: gawiSIla riyala - tAima domena meM yojanAoM kA nirmANa .
+
+4 NMT: gawiSIla vAswavika samaya domena meM yojanAoM kA nirmANa .
+
+5 NMT: gawiSIla rIyala - tAima domena meM yojanAeM banAez
+
+6 NMT: gawiSIla rIyala - tAima domena meM yojanAeM banAeM .
+
+7 NMT: gawiSIla vAswavika samaya domena meM yojanA kA nirmANa kareM .
+
+8 NMT: gawiSIla vAswavika samaya domena meM yojanAeM banAez
+
+gawiSIla_0+1+2+3+4+5+6+7+8 vAswavika_2+4+7+8/riyala_0+1+3/rIyala_5+6 -_0+1+3+5+6/samaya_2+4+7+8 domena_2+4+7+8/tAima_0+1+3+5+6 domena_0+1+3+5+6/meM_2+4+7+8 meM_0+1+3+5+6/yojanAoM_2+4/yojanAeM_8/yojanA_7 yojanAoM_1+3/kA_2+4+7/yojanAeM_5+6/banAez_8/yojanA_0 kA_0+1+3/nirmANa_2+4+7/banAez_5/banAeM_6 nirmANa_0+1+3/kareM_2+7/._4+6 kareM_0+1/._2+3+7 ._0+1

@@ -1,8 +1,19 @@
-isa	xqRtikoNa	xqRti	vicAra	meM	mAnava	mAnavIya	ciMwana	vicAroM	vicAra	ko	samaJane	kI	kA	koSiSa	prayAsa	Ora	karanA	mAnava	Ora	vicAra	ciMwana	mAnava	EsI	prakriyA	vicAra	maSInoM	kA	prakriyA	ke	anukaraNa	kA	nirmANa	karane	anukaraNa	karanA	kA	vAlI	karane	prayAsa	SAmila	maSInoM	vAlI	karanA	hE	ke	maSInoM	jo	SAmila	nirmANa	mAnava	kA	hE	kA}	prayAsa	prakriyA	mAnava	karane	SAmila	ciMwana	kA	hE	prakriyA	prayAsa	anukaraNa	karawI	SAmila	.	kA
-1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
-1	1	0	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1
-1	1	0	1	1	1	0	0	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1
-1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
-1	0	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1
+ENG: This view involves trying to understand human thought and an effort to build machines that emulate the human thought process.
+
+ANU: yaha xqRtikoNa mAnavIya vicAra Ora eka prayAsa maSIneM jo mAnavIya vEcArika prakriyA kI waraha kAma karawI hEM banAne ke lie samaJane kA prayAsa kara sammiliwa hE .
+
+0 NMT: isa xqRtikoNa meM mAnava ciMwana ko samaJane kI koSiSa Ora mAnava vicAra prakriyA kA anukaraNa karane vAlI maSInoM ke nirmANa kA prayAsa SAmila hE .
+
+1 NMT: isa xqRtikoNa meM mAnava vicAra ko samaJane kI koSiSa karanA Ora mAnava vicAra prakriyA kA anukaraNa karane vAlI maSInoM kA nirmANa karane kA prayAsa SAmila hE .
+
+2 NMT: isa xqRtikoNa meM mAnava vicAra ko samaJane kI koSiSa Ora mAnava vicAra prakriyA kA anukaraNa karane vAlI maSInoM ke nirmANa kA prayAsa SAmila hE .
+
+3 NMT: isa xqRtikoNa meM mAnavIya vicAroM ko samaJane kI koSiSa Ora mAnava ciMwana prakriyA kA anukaraNa karane vAlI maSInoM ke nirmANa kA prayAsa SAmila hE .
+
+4 NMT: isa vicAra meM mAnavIya vicAroM ko samaJane kA prayAsa karanA Ora EsI maSInoM kA nirmANa karanA SAmila hE jo mAnava ciMwana prakriyA kA anukaraNa karawI hEM .
+
+5 NMT: isa vicAra meM mAnava ciMwana ko samaJane kA prayAsa karanA Ora EsI maSInoM ke nirmANa kA prayAsa karanA SAmila hE jo mAnava ciMwana prakriyA kA anukaraNa karawI hEM .
+
+6 NMT: isa xqRti meM mAnava ciMwana ko samaJane kA prayAsa karanA Ora EsI maSInoM kA nirmANa karanA SAmila hE jo mAnava ciMwana prakriyA kA anukaraNa karawI hEM .
+
+isa_0+1+2+3+4+5+6 xqRtikoNa_0+1+2+3/xqRti_6 meM_0+1+2+3+4+5+6 mAnava_0+1+2+5+6/mAnavIya_3+4 ciMwana_0+5+6/vicAroM_3+4 ko_0+1+2+3+4+5+6 samaJane_0+1+2+3+4+5+6 kA_4+5+6/kI_0+1+2+3 prayAsa_4+5+6/koSiSa_0+1+2+3 karanA_1+4+5+6/Ora_0+2+3 mAnava_0+2+3/Ora_1+4+5+6 mAnava_1/ciMwana_3/EsI_4+5+6 prakriyA_0+2+3/maSInoM_4+5+6 kA_0+2+3+4+6/prakriyA_1/ke_5 kA_1/anukaraNa_0+2+3/nirmANa_4+5+6 kA_5/karanA_4+6/anukaraNa_1/karane_0+2+3 prayAsa_5/SAmila_4+6/karane_1/vAlI_0+2+3 karanA_5/hE_4+6/maSInoM_0+2+3/vAlI_1 SAmila_5/maSInoM_1/ke_0+2+3/jo_4+6 kA_1/mAnava_4+6/hE_5/nirmANa_0+2+3 kA_0+2+3/ciMwana_4+6/nirmANa_1/jo_5 mAnava_5/prayAsa_0+2+3/prakriyA_4+6/karane_1 kA_1+4+6/SAmila_0+2+3/ciMwana_5 prayAsa_1/prakriyA_5/anukaraNa_4+6/hE_0+2+3 kA_5/SAmila_1/._0+2+3/karawI_4+6 anukaraNa_5/hE_1/hEM_4+6 ._1+4+6/karawI_5 hEM_5 ._5

@@ -1,9 +1,21 @@
-inameM	aBikarmakoM	ve	aBikarmakoM	SikaMje	sakriya	aBikArakoM	kampyUtaroM	ke	lie	ke	,	karane	pahiye	ve	vAloM	lie	,	ke	SikaMje	roSanI	,	lie	SikaMje	vhIla	,	pahiye	pahie	vakwA	,	prakASa	Axi	lAitsa	roSanI	pahiyoM	aBinewA>>	ho	vakwA	roSanI	sakawe	hEM	sakawe	Axi	,	.	hEM	raKa	ho	vakwAoM	hEM	.	.	Axi	sakawe
-1	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1
-1	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1
-1	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	0	1	0	0	0	1	1	0	1	0	1	1	1	1	0	0	0	1	1	1	1	0
-1	0	0	0	1	0	1	0	1	1	1	1	0	1	0	0	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	0	0	0	0	1	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1
-0	0	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	1	0	1	0	1	1	0	0	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1
-0	1	1	1	1	0	0	0	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	1	0	1	1	0	0	0	0	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1
-1	0	0	0	1	0	0	1	1	1	1	1	0	0	0	0	1	1	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1
-0	1	1	1	1	0	0	0	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	1	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1
+ENG: They can have grippers, wheels, lights, speakers, etc for actuators.
+
+ANU: ve grippers, pahiyA, xiyA, vakwA, Axi pravarwakoM ke lie mila sakawe hEM .
+
+0 NMT: inameM SikaMje , pahiye , roSanI , vakwA Axi aBinewA ho sakawe hEM .
+
+1 NMT: inameM SikaMje , pahiye , roSanI , vakwA Axi ho sakawe hEM .
+
+2 NMT: inameM SikaMje , pahiye , roSanI , vakwA Axi howe hEM .
+
+3 NMT: inameM aBikArakoM ke lie SikaMje , pahiye , prakASa , vakwA Axi ho sakawe hEM .
+
+4 NMT: ve sakriya karane vAloM ke lie SikaMje , pahiyoM , roSanI , vakwAoM Axi kA iswemAla kara sakawe hEM .
+
+5 NMT: ve aBikarmakoM ke lie SikaMje , pahie , lAitsa , vakwA Axi raKa sakawe hEM .
+
+6 NMT: inameM kampyUtaroM ke lie SikaMje , vhIla , lAitsa , vakwA Axi ho sakawe hEM .
+
+7 NMT: aBikarmakoM ke lie ve SikaMje , pahie , roSanI , vakwA Axi raKa sakawe hEM .
+
+ve_4+5/aBikarmakoM_7/inameM_0+1+2+3+6 SikaMje_0+1+2/ke_7/aBikarmakoM_5/kampyUtaroM_6/sakriya_4/aBikArakoM_3 ,_0+1+2/ke_3+5+6/lie_7/karane_4 lie_3+5+6/pahiye_0+1+2/ve_7/vAloM_4 ,_0+1+2/SikaMje_3+5+6+7/ke_4 ,_3+5+6+7/lie_4/roSanI_0+1+2 ,_0+1+2/SikaMje_4/pahiye_3/pahie_5+7/vhIla_6 ,_3+4+5+6+7/vakwA_0+1+2 Axi_0+1+2/roSanI_7/lAitsa_5+6/pahiyoM_4/prakASa_3 ,_3+4+5+6+7/ho_1/howe_2/aBinewA_0 hEM_2/sakawe_1/vakwA_3+5+6+7/roSanI_4/ho_0 ,_4/hEM_1/._2/Axi_3+5+6+7/sakawe_0 hEM_0/._1/ho_3+6/raKa_5+7/vakwAoM_4 ._0/Axi_4/sakawe_3+5+6+7 hEM_3+5+6+7/kA_4 ._3+5+6+7/iswemAla_4 kara_4 sakawe_4 hEM_4 ._4

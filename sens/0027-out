@@ -1,11 +1,25 @@
-tyUriMga	testa	parIkRaNa	tEsta	pAsa	pAriwa	karane	ke	lie	maSIna	,	maSIna	ko	pUCawACakarwA	pUCawACa	ko	ko}	yaha	ko	vAle	viSvAsa	yaha	ko	xilAne	viSvAsa	yaha	karane	ke}	lie}	mUrKa	ke	lie	banAnA	banAnA	bevakUPa	mUrKa	lie	ki	padZawA	padZawA	banAnA	vaha	hogA	mUrKa	hE	iMsAna	padZawA	hogA	banAnA	hE	ki	ki	padZawA	vaha	yaha	hE	yaha}	mAnava	pUCawACa	vaha	ki	hE	hE	vaha	ko	manuRya	.	.	bevakUPa	hE	mAnava
-1	1	0	0	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1	1	1	0	1	1	0	1	0	0	1	1	1	0	1	0	1	1	0	1	1
-1	1	0	0	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	0	0	1	0	1	1	1	0	0	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1	1	0	1	0	1	1	0	1	1
-1	1	0	0	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1
-1	1	0	0	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1
-1	1	0	0	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1	1	1	0	1	1	0	1	0	0	1	1	1	0	1	0	1	1	0	1	1
-1	1	0	0	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1
-1	0	1	0	0	1	1	1	1	1	1	1	1	0	0	1	0	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	1	1
-1	1	0	0	1	0	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1
-1	1	0	0	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	0
-1	0	0	1	1	0	1	1	1	1	1	1	1	0	0	1	0	1	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	0	1	0	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0
+ENG: To pass the Turing test, the machine has to fool the interrogator into believing that it is human.
+
+ANU: turifa jAzca uwwIrNa karane ke lie maSIna ko mAna ke anxara praSnakarwA ko mUrKa banAnA hE ki yaha mAnavIya hE .
+
+0 NMT: tyUriMga testa pAsa karane ke lie maSIna ko pUCawACakarwA ko yaha viSvAsa xilAne ke lie mUrKa banAnA padZawA hE ki yaha mAnava hE .
+
+1 NMT: tyUriMga testa pAsa karane ke lie maSIna ko pUCawACakarwA ko yaha viSvAsa xilAne ke lie mUrKa banAnA hogA ki yaha mAnava hE .
+
+2 NMT: tyUriMga testa pAsa karane ke lie maSIna ko pUCawACakarwA ko yaha viSvAsa karane ke lie mUrKa banAnA hogA ki vaha mAnava hE .
+
+3 NMT: tyUriMga testa pAsa karane ke lie maSIna ko pUCawACakarwA ko yaha viSvAsa karane ke lie mUrKa banAnA padZawA hE ki vaha mAnava hE .
+
+4 NMT: tyUriMga testa pAsa karane ke lie maSIna ko pUCawACakarwA ko yaha viSvAsa xilAne meM mUrKa banAnA padZawA hE ki yaha mAnava hE .
+
+5 NMT: tyUriMga testa pAsa karane ke lie maSIna ko pUCawACakarwA ko yaha viSvAsa xilAne meM mUrKa banAnA padZawA hE ki vaha mAnava hE .
+
+6 NMT: tyUriMga parIkRaNa pAriwa karane ke lie , maSIna ko praSnakarwA ko yaha viSvAsa karane ke lie mUrKa banAnA hogA ki vaha mAnava hE .
+
+7 NMT: tyUriMga testa pAsa karane ke lie maSIna ko pUCawACa karane vAle ko yaha viSvAsa xilAne ke lie mUrKa banAnA padZawA hE ki vaha mAnava hE .
+
+8 NMT: tyUriMga testa pAsa karane ke lie , maSIna ko iMsAna ko yaha viSvAsa xilAne ke lie ki vaha iMsAna hE , pUCawACa ko bevakUPa banAnA padZawA hE .
+
+9 NMT: tyUriMga tEsta pAsa karane ke lie , maSIna ko praSanakarwA ko yaha viSvAsa xilAne ke lie bevakUPa banAnA padZawA hE ki vaha manuRya hE .
+
+tyUriMga_0+1+2+3+4+5+6+7+8+9 testa_0+1+2+3+4+5+7+8/tEsta_9/parIkRaNa_6 pAsa_0+1+2+3+4+5+7+8+9/pAriwa_6 karane_0+1+2+3+4+5+6+7+8+9 ke_0+1+2+3+4+5+6+7+8+9 lie_0+1+2+3+4+5+6+7+8+9 maSIna_0+1+2+3+4+5+7/,_6+8+9 ko_0+1+2+3+4+5+7/maSIna_6+8+9 ko_6+8+9/pUCawACakarwA_0+1+2+3+4+5/pUCawACa_7 ko_0+1+2+3+4+5/karane_7/praSanakarwA_9/praSnakarwA_6 ko_6+8+9/yaha_0+1+2+3+4+5/vAle_7 ko_7/yaha_6+8+9/viSvAsa_0+1+2+3+4+5 karane_2+3/yaha_7/viSvAsa_6+8+9/xilAne_0+1+4+5 ke_0+1+2+3/karane_6/viSvAsa_7/xilAne_8+9/meM_4+5 ke_6+8+9/lie_0+1+2+3/mUrKa_4+5/xilAne_7 ke_7/lie_6+8+9/banAnA_4+5/mUrKa_0+1+2+3 lie_7/ki_8/banAnA_0+1+2+3/mUrKa_6/padZawA_4+5/bevakUPa_9 hE_4+5/banAnA_6+9/mUrKa_7/vaha_8/padZawA_0+3/hogA_1+2 hE_0+3/ki_1+2+4+5/banAnA_7/padZawA_9/hogA_6 hE_8+9/yaha_1+4/ki_0+3+6/vaha_2+5/padZawA_7 hE_7/yaha_0/ki_9/mAnava_1+2+4+5/vaha_3+6/,_8 hE_1+2+4+5/ki_7/mAnava_0+3+6/vaha_9/pUCawACa_8 ko_8/hE_0+3+6/._1+2+4+5/vaha_7/manuRya_9 hE_9/._0+3+6/mAnava_7/bevakUPa_8 hE_7/._9/banAnA_8 ._7/padZawA_8 hE_8 ._8

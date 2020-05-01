@@ -1,8 +1,19 @@
-eka	Koja	Koja	elgoriWma	elgoriWma	ke	ke	anurUpa	lie	,	pawrAcAra	hama	,	eka	hama	Koja	eka}	Koja}	pedZa	karawe	vqkRa	hE	hEM	ki	jisameM	jo	uwpanna	Ora	anveRiwa	Koja	nodsa	noda	SAmila	howe	milawA	hEM	hE	hE	milawA	.	hE	.
-1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	0	0	1	0	1	0	0	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1
-1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	0	0	1	0	0	0	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1
-1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1
-1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	1	0	0	1	0	1	0	0	1	1	0	1	1	0	1	0	0	0	1	1	0	1	1	1
-1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	1	1	1	0	1	1	0	1	0	0	0	1	1	0	1	1	1
-1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	0	0	1	1	0	1	0	1	0	1	1	1	1	1	0	1	0	0	1	0	0	0	1	0	1
-1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0	0	0	1	1	0	1	0	1	0	1	1	1	1	0	1	0	1	0	1	0	0	0	1	0	1
+ENG: Corresponding to a search algorithm, we get a search tree which contains the generated and the explored nodes.
+
+ANU: eka walASa praNAlI anukUl honA, hama eka Koja waru jisameM uwpanna kara Ora Kojabina kara gAzTa hEM prApwa karawe hEM .
+
+0 NMT: eka Koja elgoriWma ke lie pawrAcAra , hama eka Koja pedZa hE ki uwpanna Ora anveRiwa nodsa SAmila milawA hE .
+
+1 NMT: eka Koja elgoriWma ke lie pawrAcAra , hama eka Koja pedZa hE jo uwpanna Ora anveRiwa nodsa SAmila hE milawA hE .
+
+2 NMT: eka Koja elgoriWma ke lie pawrAcAra , hama eka Koja vqkRa hE jo uwpanna Ora anveRiwa nodsa SAmila hE milawA hE .
+
+3 NMT: eka Koja elgoriWma ke lie pawrAcAra , hama eka Koja pedZa hE ki uwpanna Ora Koja nodsa SAmila hE .
+
+4 NMT: eka Koja elgoriWma ke lie pawrAcAra , hama eka Koja vqkRa hE jo uwpanna Ora Koja nodsa SAmila hE .
+
+5 NMT: Koja elgoriWma ke anurUpa , hama eka Koja vqkRa prApwa karawe hEM jisameM uwpanna Ora anveRiwa nodsa SAmila hEM .
+
+6 NMT: Koja elgoriWma ke anurUpa , hama eka Koja vqkRa prApwa karawe hEM jisameM uwpanna Ora anveRiwa noda howe hEM .
+
+Koja_5+6/eka_0+1+2+3+4 Koja_0+1+2+3+4/elgoriWma_5+6 elgoriWma_0+1+2+3+4/ke_5+6 ke_0+1+2+3+4/anurUpa_5+6 ,_5+6/lie_0+1+2+3+4 hama_5+6/pawrAcAra_0+1+2+3+4 eka_5+6/,_0+1+2+3+4 Koja_5+6/hama_0+1+2+3+4 eka_0+1+2+3+4/vqkRa_5+6 Koja_0+1+2+3+4/prApwa_5+6 vqkRa_2+4/pedZa_0+1+3/karawe_5+6 hEM_5+6/hE_0+1+2+3+4 jo_1+2+4/jisameM_5+6/ki_0+3 uwpanna_0+1+2+3+4+5+6 Ora_0+1+2+3+4+5+6 Koja_3+4/anveRiwa_0+1+2+5+6 noda_6 howe_6 hEM_5+6/hE_1+2+3+4/milawA_0 ._3+4+5+6/hE_0/milawA_1+2 ._0/hE_1+2 ._1+2

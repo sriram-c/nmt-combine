@@ -1,6 +1,15 @@
-jisa	krama	meM	sarca	Koja	vqkRa	trI	ko	kA	baDZAyA	viswAra	jAwA	kiyA	hE	jAwA	,	hE	vaha	Koja	vaha	Koja	raNanIwi	raNanIwi	para	nirBara	para	karawA	nirBara	hE}	hE	.
-1	1	1	0	1	1	0	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	1	1	0	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	1	1	0	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	0	1	1	0	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	0	1	1	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
+ENG: The order in which the search tree is extended depends on the search strategy.
+
+ANU: vaha AjFA jisameM Koja waru baDAyA huA hE jAzca sambanXI raNanIwi para nirBara karawI hE .
+
+0 NMT: jisa krama meM Koja vqkRa ko baDZAyA jAwA hE vaha Koja raNanIwi para nirBara karawA hE .
+
+1 NMT: jisa krama meM sarca trI ko baDZAyA jAwA hE , vaha Koja raNanIwi para nirBara karawA hE .
+
+2 NMT: jisa krama meM sarca trI ko baDZAyA jAwA hE vaha Koja raNanIwi para nirBara karawA hE .
+
+3 NMT: jisa krama meM Koja vqkRa kA viswAra kiyA jAwA hE vaha Koja raNanIwi para nirBara karawA hE .
+
+4 NMT: jisa krama meM Koja vqkRa ko baDZAyA jAwA hE , vaha Koja raNanIwi para nirBara karawA hE .
+
+jisa_0+1+2+3+4 krama_0+1+2+3+4 meM_0+1+2+3+4 Koja_0+3+4/sarca_1+2 vqkRa_0+3+4/trI_1+2 ko_0+1+2+4/kA_3 baDZAyA_0+1+2+4/viswAra_3 jAwA_0+1+2+4/kiyA_3 hE_0+1+2+4/jAwA_3 hE_3/vaha_0+2/,_1+4 Koja_0+2/vaha_1+3+4 Koja_1+3+4/raNanIwi_0+2 raNanIwi_1+3+4/para_0+2 para_1+3+4/nirBara_0+2 nirBara_1+3+4/karawA_0+2 hE_0+2/karawA_1+3+4 hE_1+3+4/._0+2 ._1+3+4

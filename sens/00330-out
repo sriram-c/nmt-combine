@@ -1,7 +1,17 @@
-sAmAnya	meM	rUpa	,	se	,	isa	noda	isa	se	noda	vahAz	se	kaI	vahAz	kaI	saMBava	saMBava	rAswe	paWa	hE	paWa	hEM	ki	hE	eka	ki	upasarga	eka	ke	upasarga	rUpa	ke	meM	rUpa	isa}	AMSika	isa	paWa	AMSika	hE	paWa	.	hE
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+ENG: In general, from this node there are many possible paths that have this partial path as a prefix.
+
+ANU: sAmAnya rUpa meM, isa gAzTa se bahuwa samBava paWa hEM jinake upasarga ke jEsA yaha AMSika paWa hE .
+
+0 NMT: sAmAnya meM , isa noda se vahAz kaI saMBava paWa hE ki eka upasarga ke rUpa meM isa AMSika paWa hE .
+
+1 NMT: sAmAnya rUpa se , isa noda se kaI saMBava paWa hE ki eka upasarga ke rUpa meM isa AMSika paWa hE .
+
+2 NMT: sAmAnya rUpa se , isa noda se vahAz kaI saMBava paWa hE ki eka upasarga ke rUpa meM isa AMSika paWa hE .
+
+3 NMT: sAmAnya meM , isa noda se vahAz kaI saMBava rAswe hE ki eka upasarga ke rUpa meM isa AMSika paWa hE .
+
+4 NMT: sAmAnya meM , isa noda se vahAz kaI saMBava rAswe hEM ki eka upasarga ke rUpa meM isa AMSika paWa hE .
+
+5 NMT: sAmAnya rUpa se , isa noda se vahAz kaI saMBava paWa hE ki eka upasarga ke rUpa meM isa AMSika paWa hE kara rahe hEM .
+
+sAmAnya_0+1+2+3+4+5 rUpa_1+2+5/meM_0+3+4 se_1+2+5/,_0+3+4 isa_0+3+4/,_1+2+5 isa_1+2+5/noda_0+3+4 se_0+3+4/noda_1+2+5 se_1+2+5/vahAz_0+3+4 kaI_0+1+3+4/vahAz_2+5 kaI_2+5/saMBava_0+1+3+4 paWa_0+1/saMBava_2+5/rAswe_3+4 hE_0+1+3/paWa_2+5/hEM_4 hE_2+5/ki_0+1+3+4 ki_2+5/eka_0+1+3+4 eka_2+5/upasarga_0+1+3+4 upasarga_2+5/ke_0+1+3+4 rUpa_0+1+3+4/ke_2+5 rUpa_2+5/meM_0+1+3+4 isa_0+1+3+4/meM_2+5 isa_2+5/AMSika_0+1+3+4 paWa_0+1+3+4/AMSika_2+5 hE_0+1+3+4/paWa_2+5 hE_2+5/._0+1+3+4 ._2/kara_5 rahe_5 hEM_5 ._5

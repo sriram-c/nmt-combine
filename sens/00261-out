@@ -1,7 +1,17 @@
-samasyA	nirmANa	kA	arWa	howA	hE	hE	,	,	vicAra	vicAra	eka	karane	karane	rAjya	ke	ke	lie	se	lie	rAjyoM	xUsare	rAjyoM	ke	rAjya	ke	eka	meM	eka	le	prAsaMgika	prAsaMgika	saMgawa	jAne	seta	seta	samUha	samuccaya	kA	ke	kA}	cayana	rAjyoM	karanA	karanA	ke	,	,}	Ora	eka	prAsaMgika	oYparetaroM	eka}	rAjya	eka	para	se	se	vicAra	rAjya	xUsare	karane	se	rAjya	xUsare	meM	rAjya}	meM	ke	lie	rAjya	jAne	jAne	meM	lie	ke	Ora	ke}	lie}	oYparetaroM	kA	lie	eka	kA}	eka}	vyavahArya}	seta	cayana	.	karanA	.
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	0	0	0	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	0	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	0	1	1	1	1
+ENG: Problem formulation means choosing a relevant set of states to consider, and a feasible set of operators for moving from one state to another.
+
+ANU: samasyA sUwrIkaraNa eka prAsafgika samUha mAnane ke lie rAjya, Ora eka samBava samUha kA saFcAlakoM ke eka rAjya xUsarA sWAnAnwariwa kara ke lie cuna uxxeSya hE .
+
+0 NMT: samasyA nirmANa kA arWa howA hE , vicAra karane ke lie rAjyoM ke eka prAsaMgika seta kA cayana karanA , Ora eka rAjya se xUsare rAjya meM jAne ke lie oYparetaroM kA eka vyavahArya seta .
+
+1 NMT: samasyA nirmANa kA arWa hE , vicAra karane ke lie rAjyoM ke eka prAsaMgika seta kA cayana karanA , Ora eka rAjya se xUsare rAjya meM jAne ke lie oYparetaroM kA eka vyavahArya seta .
+
+2 NMT: samasyA nirmANa kA arWa howA hE , eka rAjya se xUsare rAjya meM le jAne ke lie rAjyoM ke eka prAsaMgika seta para vicAra karane ke lie Ora oYparetaroM ke eka vyavahArya seta kA cayana karanA .
+
+3 NMT: samasyA nirmANa kA arWa howA hE , vicAra karane ke lie rAjyoM ke eka prAsaMgika samUha kA cayana karanA Ora oYparetaroM kA eka rAjya se xUsare rAjya meM jAne ke lie eka vyavahArya samuccaya .
+
+4 NMT: samasyA nirmANa kA arWa howA hE , vicAra karane ke lie rAjyoM ke eka saMgawa samuccaya kA cayana karanA Ora eka rAjya se xUsare meM jAne ke lie pracAlakoM kA eka vyavahArya samuccaya .
+
+5 NMT: samasyA nirmANa kA arWa howA hE , vicAra karane ke lie rAjyoM ke eka prAsaMgika samuccaya kA cayana karanA Ora oYparetaroM kA eka rAjya se xUsare meM jAne ke lie eka vyavahArya samuccaya .
+
+samasyA_0+1+2+3+4+5 nirmANa_0+1+2+3+4+5 kA_0+1+2+3+4+5 arWa_0+1+2+3+4+5 hE_1/howA_0+2+3+4+5 ,_1/hE_0+2+3+4+5 ,_0+2+3+4+5/vicAra_1 eka_2/vicAra_0+3+4+5/karane_1 ke_1/rAjya_2/karane_0+3+4+5 ke_0+3+4+5/lie_1/se_2 lie_0+3+4+5/rAjyoM_1/xUsare_2 ke_1/rAjya_2/rAjyoM_0+3+4+5 ke_0+3+4+5/eka_1/meM_2 eka_0+3+4+5/prAsaMgika_1/le_2 jAne_2/prAsaMgika_0+3+5/saMgawa_4/seta_1 ke_2/kA_1/samuccaya_4+5/samUha_3/seta_0 kA_0+3+4+5/lie_2/cayana_1 rAjyoM_2/cayana_0+3+4+5/karanA_1 ke_2/,_1/karanA_0+3+4+5 eka_2/,_0/Ora_1+3+4+5 eka_1+4/Ora_0/prAsaMgika_2/oYparetaroM_3+5 eka_0/kA_3+5/rAjya_1+4/seta_2 eka_3+5/rAjya_0/se_1+4/para_2 rAjya_3+5/se_0/xUsare_1+4/vicAra_2 rAjya_1/se_3+5/xUsare_0/karane_2/meM_4 ke_2/rAjya_0/xUsare_3+5/jAne_4/meM_1 ke_4/lie_2/rAjya_3/jAne_1/meM_0+5 ke_1/lie_4/jAne_0+5/meM_3/Ora_2 ke_0+5/lie_1/jAne_3/oYparetaroM_2/pracAlakoM_4 ke_2+3/kA_4/lie_0+5/oYparetaroM_1 eka_2+4+5/kA_1/lie_3/oYparetaroM_0 eka_1+3/kA_0/vyavahArya_2+4+5 eka_0/vyavahArya_1+3/samuccaya_4+5/seta_2 kA_2/vyavahArya_0/._4+5/samuccaya_3/seta_1 cayana_2/._1+3/seta_0 karanA_2/._0 ._2

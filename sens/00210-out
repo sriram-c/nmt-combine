@@ -1,5 +1,13 @@
-vyavahAra	kI	alaga	viBinna	-	paraweM	alaga	hEM	howI	paraweM	hEM	.	howI	.	hEM	hEM}
-1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0
-1	1	0	1	0	1	0	1	0	1	1	1	0	1	1	0
-1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	0
-1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	0
+ENG: There are different layers of behaviour.
+
+ANU: barwAva kI alaga alaga paraweM hEM .
+
+0 NMT: vyavahAra kI alaga - alaga paraweM howI hEM .
+
+1 NMT: vyavahAra kI viBinna paraweM hEM .
+
+2 NMT: vyavahAra kI alaga - alaga paraweM hEM .
+
+3 NMT: vyavahAra kI viBinna paraweM howI hEM .
+
+vyavahAra_0+1+2+3 kI_0+1+2+3 viBinna_1+3/alaga_0+2 paraweM_1+3/-_0+2 hEM_1/alaga_0+2/howI_3 hEM_3/._1/paraweM_0+2 hEM_2/._3/howI_0 hEM_0/._2 ._0

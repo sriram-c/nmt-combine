@@ -1,8 +1,19 @@
-eka	lakRya	mUla	lakRya	saMkewakoM	noda	noda	ke	kA	ke	anusaraNa	anurUpa	anurUpa	karake	paWa	paWa	eka	janaka	mUla	janaka	lakRya	,	saMkewakoM	saMkewakoM	noda	janaka	sUcakoM	kA	kA	sUcakoM	ke	anusaraNa	pAlana	anusaraNa	anurUpa	kA	karake	anusaraNa	karake	paWa	pAyA	pAyA	karake	jA	pAyA	jA	sakawA	sakawA	jA	hE	hE	sakawA	.	.	hE
-1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	0	1	1	1	0	0	1	1	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	0	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: The path corresponding to a goal node can be found by following the parent pointers.
+
+ANU: eka lakRya gAzTa paWa jo samawulya ho mAz bApa safkewaka pICA karane ke xvArA prApwa kiyA jA sakawA hE .
+
+0 NMT: eka lakRya noda ke anurUpa paWa mUla saMkewakoM kA pAlana karake pAyA jA sakawA hE .
+
+1 NMT: eka lakRya noda ke anurUpa paWa mUla sUcakoM kA pAlana karake pAyA jA sakawA hE .
+
+2 NMT: eka lakRya noda ke anurUpa paWa mUla sUcakoM kA anusaraNa karake pAyA jA sakawA hE .
+
+3 NMT: eka lakRya noda ke anurUpa paWa janaka sUcakoM kA anusaraNa karake pAyA jA sakawA hE .
+
+4 NMT: lakRya noda ke anurUpa paWa janaka saMkewakoM kA anusaraNa karake pAyA jA sakawA hE .
+
+5 NMT: eka lakRya noda ke anurUpa paWa , janaka sUcakoM kA anusaraNa karake pAyA jA sakawA hE .
+
+6 NMT: mUla saMkewakoM kA anusaraNa karake eka lakRya noda ke anurUpa paWa pAyA jA sakawA hE .
+
+lakRya_4/eka_0+1+2+3+5/mUla_6 lakRya_0+1+2+3+5/noda_4/saMkewakoM_6 noda_0+1+2+3+5/ke_4/kA_6 ke_0+1+2+3+5/anurUpa_4/anusaraNa_6 anurUpa_0+1+2+3+5/paWa_4/karake_6 paWa_0+1+2+3+5/eka_6/janaka_4 lakRya_6/mUla_0+1+2/saMkewakoM_4/,_5/janaka_3 noda_6/kA_4/sUcakoM_1+2+3/saMkewakoM_0/janaka_5 ke_6/kA_0+1+2+3/anusaraNa_4/sUcakoM_5 anurUpa_6/karake_4/kA_5/anusaraNa_2+3/pAlana_0+1 pAyA_4/paWa_6/karake_0+1+2+3/anusaraNa_5 pAyA_0+1+2+3+6/jA_4/karake_5 pAyA_5/jA_0+1+2+3+6/sakawA_4 jA_5/sakawA_0+1+2+3+6/hE_4 sakawA_5/hE_0+1+2+3+6/._4 hE_5/._0+1+2+3+6 ._5

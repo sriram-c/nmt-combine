@@ -1,5 +1,13 @@
-Aja	kI	viSeRajFa	praNAliyAM	praNAlI	eka	saMkIrNa	saMkIrNa	xAyare	kRewra>>	meM	cikiwsA	cikiwsA	nixAna	nixAna	kA	kara	kara	kArya	sakawI	sakawI	sakawe	kara	hEM	hEM	sakawI	.	.	hEM
-1	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1
-1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	0	0	1	1	1	1	0	1	1	1
-1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1
-1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1
+ENG: Today’s Expert systems can carry out medical diagnosis in a narrow domain.
+
+ANU: Aja kI eksparta praNAliyAz eka safkIrNa kRewra meM cikiwsA nixAna kara sakawIM hEM .
+
+0 NMT: Aja kI viSeRajFa praNAliyAM eka saMkIrNa kRewra meM cikiwsA nixAna kara sakawI hEM .
+
+1 NMT: Aja kI viSeRajFa praNAlI eka saMkIrNa xAyare meM cikiwsA nixAna kara sakawe hEM .
+
+2 NMT: Aja kI viSeRajFa praNAliyAM saMkIrNa xAyare meM cikiwsA nixAna kara sakawI hEM .
+
+3 NMT: Aja kI viSeRajFa praNAliyAM saMkIrNa xAyare meM cikiwsA nixAna kA kArya kara sakawI hEM .
+
+Aja_0+1+2+3 kI_0+1+2+3 viSeRajFa_0+1+2+3 praNAliyAM_0+2+3/praNAlI_1 saMkIrNa_2+3/eka_0+1 saMkIrNa_0+1/xAyare_2+3 meM_2+3/xAyare_1/kRewra_0 meM_0+1/cikiwsA_2+3 cikiwsA_0+1/nixAna_2+3 nixAna_0+1/kara_2/kA_3 kara_0+1/sakawI_2/kArya_3 hEM_2/kara_3/sakawI_0/sakawe_1 hEM_0+1/._2/sakawI_3 hEM_3/._0+1 ._3

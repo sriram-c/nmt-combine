@@ -1,5 +1,13 @@
-anyaWA	saBI	uwwarAXikArI	nodsa	uwpanna	kara	rahe	hEM	Ora	ve	JAlara	PrAI	wala	ke>>	lie>>	jodZA}	jAwA}	hE}
-1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0
-1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0
-1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0
-1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	0
+ENG: Otherwise all the successor nodes are generated and they are added to the fringe.
+
+ANU: anyaWA saBI vArisa gAzTa uwpanna kI jAwIM hEM Ora ve kinAre meM jode jAwe hEM .
+
+0 NMT: anyaWA saBI uwwarAXikArI nodsa uwpanna kara rahe hEM Ora ve JAlara ke lie jodZA jAwA hE .
+
+1 NMT: anyaWA saBI uwwarAXikArI nodsa uwpanna kara rahe hEM Ora ve JAlara meM jodZA jAwA hE .
+
+2 NMT: anyaWA saBI uwwarAXikArI nodsa uwpanna kara rahe hEM Ora ve PrAI meM jodZA jAwA hE .
+
+3 NMT: anyaWA saBI uwwarAXikArI nodsa uwpanna kara rahe hEM Ora ve wala meM jodZA jAwA hE .
+
+anyaWA_0+1+2+3 saBI_0+1+2+3 uwwarAXikArI_0+1+2+3 nodsa_0+1+2+3 uwpanna_0+1+2+3 kara_0+1+2+3 rahe_0+1+2+3 hEM_0+1+2+3 Ora_0+1+2+3 ve_0+1+2+3 JAlara_0+1/wala_3/PrAI_2 meM_1+2+3/ke_0 jodZA_1+2+3/lie_0 jodZA_0/jAwA_1+2+3 jAwA_0/hE_1+2+3 hE_0/._1+2+3 ._0

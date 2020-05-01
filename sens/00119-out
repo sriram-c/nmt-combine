@@ -1,8 +1,19 @@
-praBAvaka	praBAvakArI	se	prakriyA	oYpareSana	ko	saMbaMXiwa	SAmila	ko	saMkriyA	eka	karane	kriyA	ko	vAlI	saMkriyA	vAle	kahawe	ko	kriyA	saMkriyA	hEM	kahawe	kahA	ko	kriyA	.	hEM	kahawe	kriyA	jAwA	kahawe	hEM	hE	.
-1	0	1	0	0	1	1	0	1	1	0	0	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1
-1	0	1	0	0	1	1	0	1	1	0	0	1	1	0	1	0	0	1	1	1	0	0	1	1	1	1	0	0	1	1	0	0	1	1
-1	0	0	0	0	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1
-1	0	0	0	0	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1
-1	0	1	0	0	1	1	0	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1
-0	1	0	1	0	1	0	0	1	0	0	0	1	1	0	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	0	1
-0	1	0	0	1	1	0	0	1	0	0	0	1	1	0	0	0	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	0	1
+ENG: An operation involving an effector is called an action.
+
+ANU: eka saMvexanAgrAhI SAmila eka Salya cikiwsA eka kriyA kahI jAwI hE .
+
+0 NMT: praBAvaka se saMbaMXiwa saMkriyA ko kriyA kahawe hEM .
+
+1 NMT: praBAvaka se saMbaMXiwa saMkriyA ko kriyA kahA jAwA hE .
+
+2 NMT: praBAvaka ko SAmila karane vAle saMkriyA ko kriyA kahawe hEM .
+
+3 NMT: praBAvaka ko SAmila karane vAlI saMkriyA ko kriyA kahawe hEM .
+
+4 NMT: praBAvaka se saMbaMXiwa eka saMkriyA ko kriyA kahawe hEM .
+
+5 NMT: praBAvakArI prakriyA ko kriyA kahawe hEM .
+
+6 NMT: praBAvakArI oYpareSana ko kriyA kahawe hEM .
+
+praBAvakArI_5+6/praBAvaka_0+1+2+3+4 ko_2+3/oYpareSana_6/prakriyA_5/se_0+1+4 ko_5+6/SAmila_2+3/saMbaMXiwa_0+1+4 kriyA_5+6/saMkriyA_0+1/karane_2+3/eka_4 ko_0+1/kahawe_5+6/saMkriyA_4/vAlI_3/vAle_2 ko_4/kriyA_0+1/hEM_5+6/saMkriyA_2+3 ko_2+3/kriyA_4/._5+6/kahawe_0/kahA_1 kriyA_2+3/kahawe_4/hEM_0/jAwA_1 ._0/kahawe_2+3/hEM_4/hE_1 ._1+4/hEM_2+3 ._2+3

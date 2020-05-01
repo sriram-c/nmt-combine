@@ -1,5 +1,13 @@
-larniMga	aXigama	sistama	waMwra	praNAliyAM	lagaBaga	pATa	1000	vargIkaraNa	ko	viRayoM	meM	lagaBaga	pATa	1000	pATya	vargIkaraNa	SreNIkaraNa	viRayoM	karane	meM	meM}	sakRama	meM	sakRama	hEM	.	hEM
-1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1
-0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1
-0	1	0	1	0	1	0	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1
-1	0	1	0	0	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1
+ENG: The Learning systems are capable of doing text categorization into about 1000 topics.
+
+ANU: jFAna praNAliyAz lagaBaga 1000 viRayoM ke anxara viRaya vaswu kEtagarijeVSana karane ke samarWa hEM .
+
+0 NMT: larniMga sistama lagaBaga 1000 viRayoM meM pATa vargIkaraNa karane meM sakRama hEM .
+
+1 NMT: aXigama praNAliyAM pATa vargIkaraNa ko lagaBaga 1000 viRayoM meM karane meM sakRama hEM .
+
+2 NMT: aXigama waMwra lagaBaga 1000 viRayoM meM pATya vargIkaraNa karane meM sakRama hEM .
+
+3 NMT: larniMga sistama lagaBaga 1000 viRayoM meM pATa SreNIkaraNa karane meM sakRama hEM .
+
+larniMga_0+3/aXigama_1+2 sistama_0+3/waMwra_2/praNAliyAM_1 lagaBaga_0+2+3/pATa_1 1000_0+2+3/vargIkaraNa_1 viRayoM_0+2+3/ko_1 meM_0+2+3/lagaBaga_1 1000_1/pATa_0+3/pATya_2 viRayoM_1/SreNIkaraNa_3/vargIkaraNa_0+2 meM_1/karane_0+2+3 meM_0+2+3/karane_1 meM_1/sakRama_0+2+3 sakRama_1/hEM_0+2+3 hEM_1/._0+2+3 ._1

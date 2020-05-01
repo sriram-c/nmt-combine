@@ -1,4 +1,11 @@
-Aja	kI	eAI	BArawIya	praNAliyAM>>	inameM	se	kuCa	kAryoM	meM	sImiwa	saPalawA	prApwa	karane	meM}	saPala	rahI	hEM	hE	.
-1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1
-1	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1
-1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1
+ENG: Today’s AI systems have been able to achieve limited success in some of these tasks.
+
+ANU: Aja kI e. AI. praNAliyAz inameM se kuCa meM kAma sImiwa saPalawA prApwa karanA samarWa ho cukIM hEM .
+
+0 NMT: Aja kI eAI praNAliyAM inameM se kuCa kAryoM meM sImiwa saPalawA prApwa karane meM saPala rahI hEM .
+
+1 NMT: Aja kI BArawIya paxXawiyAM inameM se kuCa kAryoM meM sImiwa saPalawA prApwa karane meM saPala rahI hEM .
+
+2 NMT: Aja kI eAI praNAlI inameM se kuCa kAryoM meM sImiwa saPalawA prApwa karane meM saPala rahI hE .
+
+Aja_0+1+2 kI_0+1+2 eAI_0+2/BArawIya_1 praNAlI_2/paxXawiyAM_1/praNAliyAM_0 inameM_0+1+2 se_0+1+2 kuCa_0+1+2 kAryoM_0+1+2 meM_0+1+2 sImiwa_0+1+2 saPalawA_0+1+2 prApwa_0+1+2 karane_0+1+2 meM_0+1+2 saPala_0+1+2 rahI_0+1+2 hEM_0+1/hE_2 ._0+1+2

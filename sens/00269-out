@@ -1,9 +1,21 @@
-hama	eka	samAXAna	anukrama	ko	kA	spaRta	spaRta	uxAharaNa	kareMge	kareMge	jise	xeMge	jo	jise	jaba	jaba	AraMBika	prAraMBika	prAraMBika	AraMBika	avasWA	avasWA	meM	meM	lAgU	lAgU	hone	karane	kiyA	kiyA	para	howA	jAwA	jAwA	hameM	hE	hE	wo	eka	lakRya	hameM	avasWA	wo	lakRya	eka}	lakRya	meM	hameM	eka	avasWA	le	avasWA}	meM}	hEM	meM	avasWA	le	hE	jAwA	.	jAwA	meM	le	hE	.	hE	le	jAwA	.	.	jAwA	hE
-1	1	1	1	1	0	1	1	0	1	1	0	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	0	1	1	0	0	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	1	0	1	1	0	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	1	0	1	1	0	0	1	0	0	0	0	1	1	0	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	1	0	1	1	0	0	1	0	0	0	1	0	0	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	1	0	0	1	0	0	0	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	0	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	1	0	1	1	1	0	0	1	0	0	1	0	0	1	1	1	1	1	1	1	0	1	0	0	1	0	0	0	1	0	0	0	1	1	1	1	0	1	0	1	1	1	1	1	1	0	0	1	1	1	1	0	0	1	0	1	1	0	1	0	1	0	1	1	0	0
-1	1	1	1	0	0	1	1	0	1	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	0	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: We will illustrate a solution sequence which when applied to the initial state takes us to a goal state.
+
+ANU: hama eka hala anukrama jo eka lakRya rAjya hameM le jAwA hE uxAharaNa praswuwa kareMge jaba AramBika avasWA Avexana kiyA jAwA hE .
+
+0 NMT: hama eka samAXAna anukrama ko spaRta kareMge jo jaba prAraMBika avasWA meM lAgU kiyA jAwA hE hameM eka lakRya avasWA meM le jAwA hE .
+
+1 NMT: hama eka samAXAna anukrama ko spaRta kareMge jo jaba prAraMBika avasWA meM lAgU kiyA jAwA hE wo hameM eka lakRya avasWA meM le jAwA hE .
+
+2 NMT: hama eka samAXAna anukrama ko spaRta kareMge jo prAraMBika avasWA meM lAgU hone para hameM eka lakRya avasWA meM le jAwA hE .
+
+3 NMT: hama eka samAXAna anukrama ko spaRta kareMge jo AraMBika avasWA meM lAgU hone para hameM lakRya avasWA meM le jAwA hE .
+
+4 NMT: hama eka samAXAna anukrama kA uxAharaNa xeMge jo jaba prAraMBika avasWA meM lAgU howA hE wo hameM lakRya avasWA meM le jAwA hE .
+
+5 NMT: hama eka samAXAna anukrama ko spaRta kareMge jise jaba AraMBika avasWA meM lAgU kiyA jAwA hE wo vaha hameM eka lakRya avasWA meM le jAwA hE .
+
+6 NMT: hama eka samAXAna anukrama ko spaRta kareMge jise AraMBika avasWA meM lAgU karane para hameM eka lakRya avasWA meM le jAwe hEM .
+
+7 NMT: hama eka samAXAna anukrama spaRta kareMge jise jaba AraMBika avasWA meM lAgU kiyA jAwA hE wo hameM eka lakRya avasWA meM le jAwA hE .
+
+hama_0+1+2+3+4+5+6+7 eka_0+1+2+3+4+5+6+7 samAXAna_0+1+2+3+4+5+6+7 anukrama_0+1+2+3+4+5+6+7 spaRta_7/ko_0+1+2+3+5+6/kA_4 spaRta_0+1+2+3+5+6/kareMge_7/uxAharaNa_4 kareMge_0+1+2+3+5+6/jise_7/xeMge_4 jaba_7/jise_5+6/jo_0+1+2+3+4 jaba_0+1+4+5/AraMBika_3+6+7/prAraMBika_2 avasWA_2+3+6+7/AraMBika_5/prAraMBika_0+1+4 avasWA_0+1+4+5/meM_2+3+6+7 meM_0+1+4+5/lAgU_2+3+6+7 lAgU_0+1+4+5/kiyA_7/hone_2+3/karane_6 jAwA_7/kiyA_0+1+5/para_2+3+6/howA_4 hE_4+7/jAwA_0+1+5/hameM_2+3+6 eka_2+6/hE_0+1+5/lakRya_3/wo_4+7 avasWA_3/lakRya_2+6/hameM_0+4+7/wo_1+5 avasWA_2+6/meM_3/eka_0+7/lakRya_4/hameM_1/vaha_5 avasWA_4/meM_2+6/eka_1/lakRya_0+7/le_3/hameM_5 avasWA_0+7/meM_4/eka_5/jAwA_3/lakRya_1/le_2+6 avasWA_1/meM_0+7/hE_3/jAwA_2/lakRya_5/le_4/jAwe_6 avasWA_5/meM_1/hE_2/jAwA_4/le_0+7/._3/hEM_6 meM_5/hE_4/jAwA_0+7/le_1/._2+6 hE_0+7/jAwA_1/le_5/._4 hE_1/jAwA_5/._0+7 hE_5/._1 ._5

@@ -1,10 +1,23 @@
-yaxi	haswakRepa	koI	haswakRepa	yA	aniSciwawA	yA	aniScaya	aniSciwawA	kA	koI	eka	kA	wawva	howA	uwpanna	Gatiwa	howA	hE	wo	hE	vAwAvaraNa	pariveSa	wo	paryAvaraNa	stocAstika>>	howA}	hE}	.	hE
-1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	0	0	0	0	1	1
-1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	0	0	0	0	1	1
-1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	1	0	1	0	0	0	0	1	1
-1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	0	0	1	1	1	1	1	0	1	0	0	0	0	1	1
-1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1
-1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	0	0	0	0	1	1
-1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	0	0	1	1	1	1	0	1	1	0	0	0	0	1	1
-1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1
-1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1
+ENG: If an element of interference or uncertainty occurs then the environment is stochastic.
+
+ANU: yaxi haswakRepa yA aniScaya kA eka wawva waba Gatiwa howA hE wo paryAvaraNa stovkEstika hE .
+
+0 NMT: yaxi haswakRepa yA aniSciwawA kA koI wawva howA hE wo vAwAvaraNa stocAstika howA hE .
+
+1 NMT: yaxi haswakRepa yA aniSciwawA kA koI wawva Gatiwa howA hE wo vAwAvaraNa stocestika howA hE .
+
+2 NMT: yaxi haswakRepa yA aniSciwawA kA koI wawva howA hE wo vAwAvaraNa stocestika howA hE .
+
+3 NMT: yaxi haswakRepa yA aniSciwawA kA eka wawva howA hE wo vAwAvaraNa stocestika howA hE .
+
+4 NMT: yaxi haswakRepa yA aniSciwawA kA koI wawva howA hE wo paryAvaraNa stocestika howA hE .
+
+5 NMT: yaxi haswakRepa yA aniSciwawA kA koI wawva uwpanna howA hE wo vAwAvaraNa sasWAnika howA hE .
+
+6 NMT: yaxi koI haswakRepa yA aniScaya kA wawva howA hE wo pariveSa aSAMwa howA hE .
+
+7 NMT: yaxi koI haswakRepa yA aniScaya kA wawva howA hE wo paryAvaraNa stocestika howA hE .
+
+8 NMT: yaxi koI haswakRepa yA aniSciwawA kA wawva howA hE wo paryAvaraNa stocestika howA hE .
+
+yaxi_0+1+2+3+4+5+6+7+8 haswakRepa_0+1+2+3+4+5/koI_6+7+8 haswakRepa_6+7+8/yA_0+1+2+3+4+5 yA_6+7+8/aniSciwawA_0+1+2+3+4+5 kA_0+1+2+3+4+5/aniSciwawA_8/aniScaya_6+7 kA_6+7+8/koI_0+1+2+4+5/eka_3 wawva_0+1+2+3+4+5+6+7+8 howA_0+2+3+4+6+7+8/uwpanna_5/Gatiwa_1 howA_1+5/hE_0+2+3+4+6+7+8 hE_1+5/wo_0+2+3+4+6+7+8 wo_1+5/vAwAvaraNa_0+2+3/paryAvaraNa_4+7+8/pariveSa_6 stocestika_2+3+4+7+8/vAwAvaraNa_1+5/aSAMwa_6/stocAstika_0 howA_0+2+3+4+6+7+8/stocestika_1/sasWAnika_5 howA_1+5/hE_0+2+3+4+6+7+8 hE_1+5/._0+2+3+4+6+7+8 ._1+5

@@ -1,5 +1,13 @@
-agale	swara	para	prawyeka	rAjya	rAjyoM	ke>>	63	uwwarAXikArI	hEM	,	Axi	Ora	.	iwane
-1	1	1	1	1	0	0	1	1	1	1	1	0	1	0
-1	1	1	1	1	0	0	1	1	1	1	1	0	1	0
-1	1	1	1	0	1	0	1	1	1	1	0	1	0	1
-1	1	1	1	0	1	0	1	1	1	1	1	0	1	0
+ENG: Each of the states at the next level have 63 successors, and so on.
+
+ANU: agale swara para rAjyoM ke hara eka ke 63 vArisa, vagEraha hEM .
+
+0 NMT: agale swara para prawyeka rAjya ke 63 uwwarAXikArI hEM , Axi .
+
+1 NMT: agale swara para prawyeka rAjya meM 63 uwwarAXikArI hEM , Axi .
+
+2 NMT: agale swara para prawyeka rAjyoM meM 63 uwwarAXikArI hEM , Ora iwane hI
+
+3 NMT: agale swara para prawyeka rAjyoM meM 63 uwwarAXikArI hEM , Axi .
+
+agale_0+1+2+3 swara_0+1+2+3 para_0+1+2+3 prawyeka_0+1+2+3 rAjyoM_2+3/rAjya_0+1 meM_1+2+3/ke_0 63_0+1+2+3 uwwarAXikArI_0+1+2+3 hEM_0+1+2+3 ,_0+1+2+3 Axi_0+1+3/Ora_2 ._0+1+3/iwane_2 hI_2

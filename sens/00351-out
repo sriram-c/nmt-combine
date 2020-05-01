@@ -1,12 +1,27 @@
-elgoriWma	elgorixama	elgoriWama	kEse	ko	jAnawA	kEse	pawA	calawA	pawA	hE	?	jaba	calawA	hE	ki
-1	0	0	1	0	1	1	0	0	0	1	1	0	0	1	0
-1	0	0	1	0	0	1	1	0	1	1	1	0	0	1	1
-1	0	0	1	0	1	1	0	0	0	1	1	0	0	1	1
-1	0	0	1	0	0	1	1	0	1	1	1	1	0	1	0
-1	0	0	1	0	0	1	1	0	1	1	1	1	0	1	0
-0	1	0	1	0	1	1	0	0	0	1	0	1	0	1	0
-1	0	0	1	0	1	1	0	0	0	1	0	1	0	1	0
-1	0	0	1	0	1	1	0	0	0	1	0	1	0	1	0
-1	0	0	1	0	0	1	1	1	1	1	1	1	1	1	0
-0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0
-1	0	0	1	0	0	1	1	1	1	1	1	1	1	1	0
+ENG: How does the algorithm know when the frontiers of the search tree intersect?
+
+ANU: praNAlI kEse jAnawI hE ki Koja waru ke sImAnwa kaba paraspara kAtawe hEM?
+
+0 NMT: elgoriWma kEse jAnawA hE ?
+
+1 NMT: elgoriWma kEse pawA hE ki Koja vqkRa prawicCexa kI sImA kaba hE ?
+
+2 NMT: elgoriWma kEse jAnawA hE ki Koja vqkRa prawicCexa kI sImA kaba hE ?
+
+3 NMT: elgoriWma kEse pawA hE jaba Koja vqkRa kI sImAez prawicCexa hE ?
+
+4 NMT: elgoriWma kEse pawA hE jaba Koja vqkRa kI sImAez intersect hE ?
+
+5 NMT: elgorixama kEse jAnawA hE jaba Koja vqkRa kI sImAez prawicCexa
+
+6 NMT: elgoriWma kEse jAnawA hE jaba Koja pedZa intersect kI sImAoM
+
+7 NMT: elgoriWma kEse jAnawA hE jaba Koja vqkRa kI sImAez prawicCexa
+
+8 NMT: elgoriWma kEse pawA calawA hE jaba Koja trI intersects ?
+
+9 NMT: elgoriWama ko kEse pawA calawA hE jaba Koja trI kI sImA eka xUsare ko kAtawI hE ?
+
+10 NMT: elgoriWma kEse pawA calawA hE jaba Koja pedZa kI sImA prawicCexa ?
+
+elgoriWma_0+1+2+3+4+6+7+8+10/elgoriWama_9/elgorixama_5 kEse_0+1+2+3+4+5+6+7+8+10/ko_9 kEse_9/pawA_1+3+4+8+10/jAnawA_0+2+5+6+7 hE_0+1+2+3+4+5+6+7/pawA_9/calawA_8+10 hE_8+10/jaba_3+4+5+6+7/?_0/calawA_9/ki_1+2 hE_9/Koja_1+2+3+4+5+6+7/jaba_8+10 Koja_8+10/jaba_9/vqkRa_1+2+3+4+5+7/pedZa_6 Koja_9/kI_3+4+5+7/prawicCexa_1+2/trI_8/pedZa_10/intersect_6 kI_1+2+6+10/sImAez_3+4+5+7/trI_9/intersects_8 kI_9/?_8/prawicCexa_3+5+7/sImA_1+2+10/intersect_4/sImAoM_6 hE_3+4/prawicCexa_10/sImA_9/kaba_1+2 hE_1+2/?_3+4+10/eka_9 ?_1+2/xUsare_9 ko_9 kAtawI_9 hE_9 ?_9

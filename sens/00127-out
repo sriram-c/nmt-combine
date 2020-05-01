@@ -1,12 +1,27 @@
-AxarSa	prawiciwraNa	mAnaciwraNa	nirxiRta	yaha	karawA	nirxiRta	hE	karawA	ki	jo	hE	ejeMta	ki	ko	ejeMta	kisI	ko	ejeMta	kisI	samaya	BI	ko	kisI	para	samaya	kisI	BI	kisI}	BI}	biMxu	kisa	ko	kOna	para	.	karanA	para	sI	biMxu	le	karanA	cAhie	kArya	para	kriyA	le	jAnA	.	cAhie	karanA	jAnA	karanI	kArya	.	cAhie	cAhie	karanA	.	.	cAhie
-1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	0	1	1	1	1	0	1	0	1	1	1	1	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1
-1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	0	0	1	1	0	0	0	0	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	0	1	1	0	1	0	1	1	0	1	0	1	0	1	1	1	1	0	1	0	0	1	1	1	0	1	1	1
-1	1	0	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	0	1	1	0	1	0	1	1	0	1	0	1	0	1	1	1	1	0	1	0	0	1	1	1	0	1	1	1
-1	1	0	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	0	1	1	0	1	0	1	1	0	1	0	1	0	1	1	1	1	0	1	0	0	1	1	1	0	1	1	1
-1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	1	0	0	1	1	0	0	0	0	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	1	1	0	1	1	1
-1	1	0	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	1	1	0	1	1	1
-1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	1	1	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	1	0	0	1	0	1	1	1	0	1	1	1
+ENG: The ideal mapping specifies which actions an agent ought to take at any point in time.
+
+ANU: AxarSa prawiciwraNa bawAwA hE kriyAez eka prawiniXi jo samaya meM koI mawalaba para lenA cAhie .
+
+0 NMT: AxarSa prawiciwraNa nirxiRta karawA hE ki ejeMta ko kisI BI samaya kisI BI biMxu para kArya karanA cAhie .
+
+1 NMT: AxarSa prawiciwraNa nirxiRta karawA hE ki ejeMta ko kisI BI samaya kisa kArya ko karanA cAhie .
+
+2 NMT: AxarSa mAnaciwraNa nirxiRta karawA hE jo ejeMta ko kisI BI samaya kisI BI biMxu para le jAnA cAhie .
+
+3 NMT: AxarSa prawiciwraNa nirxiRta karawA hE jo ejeMta ko kisI BI samaya kisI BI biMxu para le jAnA cAhie .
+
+4 NMT: AxarSa prawiciwraNa nirxiRta karawA hE jo ejeMta ko samaya para kisI BI biMxu para le jAnA cAhie .
+
+5 NMT: AxarSa mAnaciwraNa yaha nirxiRta karawA hE ki ejeMta ko kisI BI samaya kArya karanA cAhie .
+
+6 NMT: AxarSa mAnaciwraNa nirxiRta karawA hE jo ejeMta ko kisI BI samaya lenA cAhie .
+
+7 NMT: AxarSa prawiciwraNa nirxiRta karawA hE jo ejeMta ko kisI BI samaya lenA cAhie .
+
+8 NMT: AxarSa mAnaciwraNa yaha nirxiRta karawA hE ki kisI ejeMta ko kisI BI samaya kisa biMxu para kArya karanA cAhie .
+
+9 NMT: AxarSa mAnaciwraNa yaha nirxiRta karawA hE ki ejeMta ko kisI BI samaya kisa biMxu para kArya karanA cAhie .
+
+10 NMT: AxarSa mAnaciwraNa yaha nirxiRta karawA hE ki kisI ejeMta ko kisI BI samaya kOna sI kriyA karanI cAhie .
+
+AxarSa_0+1+2+3+4+5+6+7+8+9+10 mAnaciwraNa_2+5+6+8+9+10/prawiciwraNa_0+1+3+4+7 nirxiRta_0+1+2+3+4+6+7/yaha_5+8+9+10 nirxiRta_5+8+9+10/karawA_0+1+2+3+4+6+7 karawA_5+8+9+10/hE_0+1+2+3+4+6+7 hE_5+8+9+10/ki_0+1/jo_2+3+4+6+7 ejeMta_0+1+2+3+4+6+7/ki_5+8+9+10 kisI_8+10/ko_0+1+2+3+4+6+7/ejeMta_5+9 kisI_0+1+2+3+6+7/ko_5+9/ejeMta_8+10/samaya_4 kisI_5+9/BI_0+1+2+3+6+7/ko_8+10/para_4 kisI_4+8+10/BI_5+9/samaya_0+1+2+3+6+7 kisI_0+2+3/BI_4+8+10/samaya_5+9/kisa_1/lenA_6+7 BI_0+2+3/cAhie_6+7/samaya_8+10/biMxu_4/kisa_9 ko_1/._6+7/karanA_5/biMxu_0+2+3+9/para_4/kisa_8/kOna_10 cAhie_5/karanA_1/biMxu_8/para_0+2+3+9/le_4/sI_10 cAhie_1/._5/para_8/le_2+3/jAnA_4/kriyA_10 cAhie_4/._1/karanA_0+9/jAnA_2+3/karanI_10 cAhie_0+2+3+9+10/._4/karanA_8 cAhie_8/._0+2+3+9+10 ._8

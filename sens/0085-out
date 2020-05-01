@@ -1,9 +1,21 @@
-rAjA	ne	xevI	eProdAita	eProdAita	xevI	aProdAita	se	kI	prArWanA	vaMxanA	kI	7	%	,	Ora	xevI}	camawkArika	ne	rUpa	camawkArI	camawkArika	AScaryajanaka	se	DaMga	rUpa	se	mUrwi	mUrwi	usa	ko	isa	jIviwa	ko	jIvana	mUrwi	le	jIviwa	kara	ko	meM	AI	le	xiyA	jIviwa	lAI	kara	xiyA	AI	kara	.
-1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	0	1	1	1	0	1	0	1	0	1	1	1	1	0	1	0	1	1	0	1	1	1	0	1	0	1	1	0	1	0	0	0	1	0	1
-1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	0	1	1	1	0	1	0	1	0	1	1	1	1	0	1	0	0	1	1	1	0	0	0	1	1	0	0	0	0	1	0	0	0	0	1
-1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	0	1	1	1	0	1	0	1	0	1	1	1	1	0	1	0	0	1	1	1	1	0	0	1	1	1	1	0	0	0	0	0	1	0	1
-1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	0	1	1	1	0	1	0	1	0	1	1	1	1	0	1	0	1	1	0	1	0	1	1	1	0	0	0	1	1	0	1	1	0	1	1
-1	1	1	0	0	1	1	1	1	0	1	1	0	0	1	0	0	0	1	1	0	0	1	1	0	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	0	0	1	1	0	1	1	0	1	1
-1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	0	0	1	0	1	0	0	1	1	0	1	1	1	0	1	0	1	1	0	1	0	1	1	1	0	0	0	1	1	0	1	1	0	1	1
-1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	0	1	1	0	0	1	0	1	1	0	1	1	1	0	1	0	1	1	0	1	0	1	1	1	0	0	0	1	1	0	1	1	0	1	1
-1	1	1	1	1	1	0	1	1	1	0	1	0	0	0	1	0	1	1	0	0	1	0	1	1	0	1	1	1	1	1	0	1	1	0	1	0	1	1	1	0	0	0	1	1	0	1	1	0	1	1
+ENG: The king prayed to the goddess Aphrodite, the goddess miraculously brought the statue to life.
+
+ANU: rAjA ne xevI Aphrodite prArWanA kiyA, xevI camawkArapUrNa Dafga se jIvana prawimA lAI .
+
+0 NMT: rAjA ne xevI eProdAita se prArWanA kI , xevI camawkArika rUpa se mUrwi ko jIviwa le AI .
+
+1 NMT: rAjA ne xevI eProdAita se prArWanA kI , xevI camawkArika rUpa se mUrwi ko jIvana meM lAI .
+
+2 NMT: rAjA ne xevI eProdAita se prArWanA kI , xevI camawkArika rUpa se mUrwi ko jIvana meM le AI .
+
+3 NMT: rAjA ne xevI eProdAita se prArWanA kI , xevI camawkArika rUpa se mUrwi ko jIviwa kara xiyA .
+
+4 NMT: rAjA ne xevI aProdAita kI vaMxanA kI , xevI ne AScaryajanaka rUpa se isa mUrwi ko jIviwa kara xiyA .
+
+5 NMT: rAjA ne eProdAita xevI se prArWanA kI , xevI ne camawkArI DaMga se mUrwi ko jIviwa kara xiyA .
+
+6 NMT: rAjA ne eProdAita xevI se prArWanA kI , xevI ne camawkArika DaMga se mUrwi ko jIviwa kara xiyA .
+
+7 NMT: rAjA ne xevI eProdAita kI prArWanA kI Ora xevI ne camawkArika DaMga se usa mUrwi ko jIviwa kara xiyA .
+
+rAjA_0+1+2+3+4+5+6+7 ne_0+1+2+3+4+5+6+7 xevI_0+1+2+3+4+7/eProdAita_5+6 xevI_5+6/eProdAita_0+1+2+3+7/aProdAita_4 se_0+1+2+3+5+6/kI_4+7 prArWanA_0+1+2+3+5+6+7/vaMxanA_4 kI_0+1+2+3+4+5+6+7 ,_0+1+2+3+4+5+6/Ora_7 xevI_0+1+2+3+4+5+6+7 ne_4+5+6+7/camawkArika_0+1+2+3 camawkArika_6+7/rUpa_0+1+2+3/camawkArI_5/AScaryajanaka_4 se_0+1+2+3/rUpa_4/DaMga_5+6+7 se_4+5+6+7/mUrwi_0+1+2+3 mUrwi_5+6/ko_0+1+2+3/usa_7/isa_4 mUrwi_4+7/ko_5+6/jIviwa_0+3/jIvana_1+2 ko_4+7/jIviwa_5+6/kara_3/meM_1+2/le_0 jIviwa_4+7/kara_5+6/xiyA_3/le_2/AI_0/lAI_1 ._0+1+3/kara_4+7/xiyA_5+6/AI_2 ._2+5+6/xiyA_4+7 ._4+7

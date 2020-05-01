@@ -1,12 +1,27 @@
-isakA	isa	isake	uxAharaNa	kA	uxAharaNa	hE	ve	svacAliwa	hEM	vAhana	svacAliwa	eka	hE	hEM	svacAliwa	vAhana	BU	jo	hEM	vAhana	-	kisI	eka	jo	BAga	BU	kisI	para	BU	calane	-	BAga	-	vAle	meM	ko	svacAliwa	BAga	nevigeta	para	BramaNa	nevigeta	para	yAna	calawe	karawe	karawe	hEM	nevigeta	GUmawe	,	karawe	hEM	kahawe	,	,	hEM	.	kahawe	kahawe	hEM	ki	,	hEM}	,	ki	mArsa	rovara	mArsa	robota	rovara	rovara	robota	.	robota	.	.
-1	0	0	1	0	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	0	0	0	1	1	0	1	0	0	1	0	1	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	1	1	1	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	0	0	0	1	1	0	1	0	0	1	0	1	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	0	1	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	1	1	1	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1
-0	0	1	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	1	1	1	0	0	0	1	1	1	0	0	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	1	1	1	0	1	0	1	1	1	0	0	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	1	1	1	0	0	1	1	1	1	0	0	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1
-0	0	1	1	0	1	0	0	1	1	0	1	1	0	1	1	0	1	0	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1	0	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	0	1	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	0	1	0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1
-0	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	1	1	0	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Examples of this are the automatic vehicles that navigate a terrain, say, the Mars rovers robot.
+
+ANU: jo kahawA hE BUBAga, sahI mArga pakadawI hE ki isake uxAharaNa svacAliwa vAhana hEM, mafgala graha yanwravawa kAma karanevAlA GUmane vAlA hEM .
+
+0 NMT: isakA uxAharaNa svacAliwa vAhana hEM jo kisI BU - BAga meM BramaNa karawe hEM , kahawe hEM , mArsa rovara robota .
+
+1 NMT: isakA uxAharaNa svacAliwa vAhana hEM jo eka BU - BAga para calawe hEM , kahawe hEM , mArsa rovara robota .
+
+2 NMT: isakA uxAharaNa svacAliwa vAhana hEM jo eka BU - BAga meM BramaNa karawe hEM , kahawe hEM , mArsa rovara robota .
+
+3 NMT: isakA uxAharaNa svacAliwa vAhana hEM jo eka BU - BAga para calawe hEM , kahawe hEM ki mArsa rovara robota .
+
+4 NMT: isake uxAharaNa svacAliwa vAhana hEM jo eka BU - BAga meM BramaNa karawe hEM , kahawe hEM , mArsa rovara robota .
+
+5 NMT: isake uxAharaNa svacAliwa vAhana hEM jo eka BU - BAga nevigeta karawe hEM , kahawe hEM , mArsa rovara robota .
+
+6 NMT: isakA uxAharaNa svacAliwa vAhana hEM jo eka BU - BAga meM nevigeta karawe hEM , kahawe hEM , mArsa rovara robota .
+
+7 NMT: isakA uxAharaNa hE svacAliwa vAhana jo kisI BU - BAga ko nevigeta karawe hEM , kahawe hEM , mArsa rovara robota .
+
+8 NMT: isake uxAharaNa hEM eka BU - BAga para calane vAle svacAliwa yAna , kahawe hEM ki mArsa rovara robota .
+
+9 NMT: isake uxAharaNa ve svacAliwa vAhana hEM jo kisI BU - BAga para GUmawe hEM .
+
+10 NMT: isa kA uxAharaNa hE svacAliwa vAhana jo kisI BU - BAga para nevigeta karawe hEM , jEse ki mArsa rovara robota .
+
+isakA_0+1+2+3+6+7/isake_4+5+8+9/isa_10 uxAharaNa_0+1+2+3+4+5+6+7+8+9/kA_10 hEM_8/svacAliwa_0+1+2+3+4+5+6/uxAharaNa_10/hE_7/ve_9 svacAliwa_7+9/vAhana_0+1+2+3+4+5+6/eka_8/hE_10 hEM_0+1+2+3+4+5+6/BU_8/svacAliwa_10/vAhana_7+9 hEM_9/-_8/vAhana_10/jo_0+1+2+3+4+5+6+7 BAga_8/jo_9+10/eka_1+2+3+4+5+6/kisI_0+7 BU_0+1+2+3+4+5+6+7/para_8/kisI_9+10 BU_9+10/-_0+1+2+3+4+5+6+7/calane_8 -_9+10/BAga_0+1+2+3+4+5+6+7/vAle_8 BAga_9+10/svacAliwa_8/para_1+3/nevigeta_5/meM_0+2+4+6/ko_7 karawe_5/para_9+10/nevigeta_6+7/BramaNa_0+2+4/calawe_1+3/yAna_8 hEM_1+3+5/,_8/karawe_0+2+4+6+7/nevigeta_10/GUmawe_9 hEM_0+2+4+6+7+9/,_1+3+5/kahawe_8/karawe_10 hEM_8+10/,_0+2+4+6+7/._9/kahawe_1+3+5 hEM_1+3+5/,_10/kahawe_0+2+4+6+7/ki_8 hEM_0+2+4+6+7/,_1+5/mArsa_8/ki_3/jEse_10 ,_0+2+4+6+7/mArsa_1+3+5/rovara_8/ki_10 mArsa_0+2+4+6+7+10/rovara_1+3+5/robota_8 ._8/rovara_0+2+4+6+7+10/robota_1+3+5 ._1+3+5/robota_0+2+4+6+7+10 ._0+2+4+6+7+10

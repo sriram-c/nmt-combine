@@ -1,8 +1,19 @@
-Pira	waba	vahAz	buxXimAna	buxXimAna	tyUSana	tyUSana	praNAlI	praNAlI	praNAliyoM	sistama	hE	hE	ki	ki	vyakwigawa	CAwroM	vyakwigawa	XyAna	ko	ke	XyAna	vyakwigawa	sAWa	ke	XyAna	CAwroM	sAWa	ke	CAwroM	ko	sAWa	ko	praxAna	praxAna	karawe	karawe	hEM	hEM	.	.
-1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Then there are intelligent tutoring systems that provide students with personalized attention.
+
+ANU: waba praNAliyAz jo vEyakwIkqwa XyAna vAloM vixyArWiyoM ko xewI hEM SikRA xewI huI buxXimAna hEM .
+
+0 NMT: Pira vahAz buxXimAna tyUSana praNAlI hE ki CAwroM ko vyakwigawa XyAna ke sAWa praxAna karawe hEM .
+
+1 NMT: Pira vahAz buxXimAna tyUSana praNAliyoM hE ki CAwroM ko vyakwigawa XyAna ke sAWa praxAna karawe hEM .
+
+2 NMT: waba vahAz buxXimAna tyUSana praNAlI hE ki CAwroM ko vyakwigawa XyAna ke sAWa praxAna karawe hEM .
+
+3 NMT: waba vahAz buxXimAna tyUSana sistama hE ki CAwroM ko vyakwigawa XyAna ke sAWa praxAna karawe hEM .
+
+4 NMT: waba vahAz buxXimAna tyUSana sistama hE ki vyakwigawa XyAna ke sAWa CAwroM ko praxAna karawe hEM .
+
+5 NMT: Pira vahAz buxXimAna tyUSana praNAlI hE ki vyakwigawa XyAna ke sAWa CAwroM ko praxAna karawe hEM .
+
+6 NMT: Pira buxXimAna tyUSana praNAlI hE ki vyakwigawa XyAna ke sAWa CAwroM ko praxAna karawe hEM .
+
+Pira_0+1+5+6/waba_2+3+4 buxXimAna_6/vahAz_0+1+2+3+4+5 buxXimAna_0+1+2+3+4+5/tyUSana_6 tyUSana_0+1+2+3+4+5/praNAlI_6 hE_6/praNAlI_0+2+5/sistama_3+4/praNAliyoM_1 hE_0+1+2+3+4+5/ki_6 vyakwigawa_6/ki_0+1+2+3+4+5 vyakwigawa_4+5/XyAna_6/CAwroM_0+1+2+3 XyAna_4+5/ke_6/ko_0+1+2+3 vyakwigawa_0+1+2+3/ke_4+5/sAWa_6 XyAna_0+1+2+3/sAWa_4+5/CAwroM_6 ke_0+1+2+3/CAwroM_4+5/ko_6 praxAna_6/sAWa_0+1+2+3/ko_4+5 praxAna_0+1+2+3+4+5/karawe_6 karawe_0+1+2+3+4+5/hEM_6 hEM_0+1+2+3+4+5/._6 ._0+1+2+3+4+5

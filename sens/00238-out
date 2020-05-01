@@ -1,4 +1,11 @@
-Aja	hama	eka	prakAra	ke	buxXimAna	ejeMta	aBikarwA	kA	aXyayana	kareMge	jise	hama}	eka}	lakRya}	nirxeSiwa}	ejeMta	[	1	kaheMge}
-1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	0	1	0	0	0
-1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	0	1	0	0	0
-1	1	1	1	1	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+ENG: Today we will study a type of intelligent agent which we will call a goal directed agent.
+
+ANU: Aja hama eka Ese prakAra ke buxXimAna prawiniXi ke aXyayana kareMge jise hama prawiniXi paWa xiKAyA huA lakRya bulAeMge .
+
+0 NMT: Aja hama eka prakAra ke buxXimAna ejeMta kA aXyayana kareMge jise hama eka lakRya nirxeSiwa ejeMta kaheMge .
+
+1 NMT: Aja hama eka prakAra ke buxXimAna ejeMta kA aXyayana kareMge jise hama lakRya nirxeSiwa ejeMta kaheMge .
+
+2 NMT: Aja hama eka prakAra ke buxXimAna aBikarwA kA aXyayana kareMge jise hama lakRya nirxeSiwa aBikarwA kaheMge .
+
+Aja_0+1+2 hama_0+1+2 eka_0+1+2 prakAra_0+1+2 ke_0+1+2 buxXimAna_0+1+2 aBikarwA_2 kA_0+1+2 aXyayana_0+1+2 kareMge_0+1+2 jise_0+1+2 hama_0+1+2 eka_0/lakRya_1+2 lakRya_0/nirxeSiwa_1+2 nirxeSiwa_0/aBikarwA_2 kaheMge_1+2 kaheMge_0/._1+2 ._0

@@ -1,5 +1,13 @@
-vyavahAra]	ke	kisa	prakAra	prakAra	bAre	kA	kA	meM	vyavahAra	ke	hE	hama	vyavahAra	kisa	?	kI
-0	0	1	1	1	0	1	1	0	1	0	1	0	1	1	1	0
-0	0	1	1	1	0	1	1	0	1	0	1	0	1	1	1	0
-0	1	1	1	1	0	0	0	0	1	1	0	1	1	1	1	1
-0	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1
+ENG: What type of behavior are we talking about?
+
+ANU: hama barwAva ke bAre meM kyA prakAra kA bAwacIwa kara rahe hEM?
+
+0 NMT: vyavahAra kisa prakAra kA hE ?
+
+1 NMT: kisa prakAra kA vyavahAra hE ?
+
+2 NMT: hama kisa prakAra ke vyavahAra kI bAwa kara rahe hEM ?
+
+3 NMT: voYtsa ke bAre meM hama kisa prakAra ke vyavahAra kI bAwa kara rahe hEM ?
+
+kisa_1/vyavahAra_0/hama_2/voYtsa_3 kisa_0+2/prakAra_1/ke_3 prakAra_0+2/kA_1/bAre_3 vyavahAra_1/ke_2/kA_0/meM_3 vyavahAra_2/hama_3/hE_0+1 kisa_3/?_0+1/kI_2 prakAra_3/bAwa_2 ke_3/kara_2 vyavahAra_3/rahe_2 kI_3/hEM_2 ?_2/bAwa_3 kara_3 rahe_3 hEM_3 ?_3

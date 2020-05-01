@@ -1,6 +1,15 @@
-elgoriWma	elgoriWama	hameSA	viswAra	ke	lie	JAlara	PrAI	PriMga	se	pahalI	pahalA	noda	uTAwA	cunawA	hE	.
-1	0	1	1	1	1	1	0	0	1	1	0	1	1	0	1	1
-1	0	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1
-0	1	1	1	1	1	0	1	0	1	1	0	1	0	1	1	1
-1	0	1	1	1	1	0	0	1	1	0	1	1	0	1	1	1
-1	0	1	1	1	1	0	0	1	1	1	0	1	0	1	1	1
+ENG: The algorithm always picks the first node from fringe for expansion.
+
+ANU: praNAlI hameSA prasAra ke lie kinAre se pahalI gAzTa cUna lewI hE .
+
+0 NMT: elgoriWma hameSA viswAra ke lie JAlara se pahalI noda uTAwA hE .
+
+1 NMT: elgoriWma hameSA viswAra ke lie JAlara se pahalA noda uTAwA hE .
+
+2 NMT: elgoriWama hameSA viswAra ke lie PrAI se pahalI noda cunawA hE .
+
+3 NMT: elgoriWma hameSA viswAra ke lie PriMga se pahalA noda cunawA hE .
+
+4 NMT: elgoriWma hameSA viswAra ke lie PriMga se pahalI noda cunawA hE .
+
+elgoriWma_0+1+3+4/elgoriWama_2 hameSA_0+1+2+3+4 viswAra_0+1+2+3+4 ke_0+1+2+3+4 lie_0+1+2+3+4 PriMga_3+4/JAlara_0+1/PrAI_2 se_0+1+2+3+4 pahalI_0+2+4/pahalA_1+3 noda_0+1+2+3+4 cunawA_2+3+4/uTAwA_0+1 hE_0+1+2+3+4 ._0+1+2+3+4

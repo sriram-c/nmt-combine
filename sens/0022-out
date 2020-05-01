@@ -1,6 +1,15 @@
-eka	kamare	kamare	meM	meM	se	eka	kaMpyUtara	kaMpyUtara	meM	hE	howA>>	hE	raKA	.	.	huA
-1	1	1	1	1	0	1	1	1	1	1	0	1	0	1	1	0
-1	1	1	1	1	0	1	1	1	1	1	0	1	0	1	1	0
-1	1	1	1	1	0	1	1	1	1	1	0	1	0	1	1	0
-1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	0
-1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
+ENG: One of the rooms contains a computer.
+
+ANU: kamaroM meM se eka meM safgaNaka hE .
+
+0 NMT: eka kamare meM eka kaMpyUtara howA hE .
+
+1 NMT: eka kamare meM kaMpyUtara hE .
+
+2 NMT: eka kamare meM eka kaMpyUtara hE .
+
+3 NMT: kamare meM se eka meM kampyUtara hE .
+
+4 NMT: kamare meM se eka meM kaMpyUtara raKA huA hE .
+
+eka_0+1+2/kamare_3+4 meM_3+4/kamare_0+1+2 meM_0+1+2/se_3+4 eka_0+2+3+4/kaMpyUtara_1 meM_3+4/hE_1/kaMpyUtara_0+2 hE_2/._1/kaMpyUtara_4/kampyUtara_3/howA_0 hE_0+3/._2/raKA_4 ._0+3/huA_4 hE_4 ._4

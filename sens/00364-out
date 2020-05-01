@@ -1,9 +1,21 @@
-sabase	sarala	raNanIwi	rAjya	hE	ke	ki	rAjya	meM	ke	lie	meM	rAjya	vApasa	vApasa	lie	meM	nahIM	nahIM	vApasa	karane	karane	ke	nahIM	karane	lie	ke	lie	ke	elgoriWma	elgoriWma	lie	hE	basa	basa	elgoriWma	se	se	basa	AyA	AyA	se	hE	WA	WA	hE	AyA	.	.	WA
-1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0
-1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0
-1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: The simplest strategy is to not return to the state the algorithm just came from.
+
+ANU: sabase aXika sAXAraNa yukwi rAjya vApasa A jahAz praNAlI jarA se AI .
+
+0 NMT: sabase sarala raNanIwi rAjya ke lie vApasa nahIM karane ke lie elgoriWma basa se AyA WA .
+
+1 NMT: sabase sarala raNanIwi rAjya meM vApasa nahIM karane ke lie elgoriWma basa se AyA WA .
+
+2 NMT: sabase sarala raNanIwi hE rAjya ke lie vApasa nahIM karane ke lie elgoriWma basa se AyA WA .
+
+3 NMT: sabase sarala raNanIwi hE ki rAjya meM vApasa nahIM karane ke lie elgoriWma basa se AyA WA .
+
+4 NMT: sabase sarala raNanIwi rAjya ke lie vApasa nahIM karane ke lie hE elgoriWma basa se AyA WA .
+
+5 NMT: sabase sarala raNanIwi rAjya ke lie vApasa nahIM karane ke lie elgoriWma basa se AyA hE .
+
+6 NMT: sabase sarala raNanIwi rAjya meM vApasa nahIM karane ke lie elgoriWma basa se AyA hE .
+
+7 NMT: sabase sarala raNanIwi hE rAjya meM vApasa nahIM karane ke lie elgoriWma basa se AyA WA .
+
+sabase_0+1+2+3+4+5+6+7 sarala_0+1+2+3+4+5+6+7 raNanIwi_0+1+2+3+4+5+6+7 rAjya_0+1+4+5+6/hE_2+3+7 ke_0+4+5/rAjya_2+7/meM_1+6/ki_3 ke_2/lie_0+4+5/vApasa_1+6/rAjya_3/meM_7 lie_2/vApasa_0+4+5+7/nahIM_1+6/meM_3 vApasa_2+3/nahIM_0+4+5+7/karane_1+6 ke_1+6/nahIM_2+3/karane_0+4+5+7 ke_0+4+5+7/lie_1+6/karane_2+3 ke_2+3/lie_0+4+5+7/elgoriWma_1+6 lie_2+3/elgoriWma_0+5+7/basa_1+6/hE_4 elgoriWma_2+3+4/basa_0+5+7/se_1+6 basa_2+3+4/se_0+5+7/AyA_1+6 se_2+3+4/AyA_0+5+7/hE_6/WA_1 AyA_2+3+4/._1+6/hE_5/WA_0+7 ._0+5+7/WA_2+3+4 ._2+3+4

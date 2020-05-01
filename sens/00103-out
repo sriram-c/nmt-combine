@@ -1,8 +1,19 @@
-isa	bETaka	meM	arWI>>	prawiBA	buxXi	iMtelijeMsa	prajFA	Sabxa	ko	apanAyA	apanAyA	gayA	gayA	WA	.	.
-1	1	1	0	1	0	0	0	1	1	1	1	1	1	0	1	1
-1	1	1	0	0	0	1	0	1	0	1	1	1	1	0	1	1
-1	1	1	0	0	0	1	0	1	1	1	1	1	1	0	1	1
-1	1	1	0	0	0	0	1	1	1	1	1	1	1	0	1	1
-1	1	1	0	1	0	0	0	1	0	1	1	1	1	0	1	1
-1	1	1	0	0	1	0	0	1	1	1	1	1	1	0	1	1
-1	1	1	0	0	0	1	0	1	0	1	1	1	1	1	1	1
+ENG: In this meeting the term “Artificial Intelligence” was adopted.
+
+ANU: isa bETaka meM Sabxa " kqwrima buxXi" apanAyA gayA WA .
+
+0 NMT: isa bETaka meM arWI prawiBA Sabxa ko apanAyA gayA .
+
+1 NMT: isa bETaka meM artiPika iMtelijeMsa Sabxa apanAyA gayA .
+
+2 NMT: isa bETaka meM artiPika iMtelijeMsa Sabxa ko apanAyA gayA .
+
+3 NMT: isa bETaka meM aXyayanAwmaka prajFA Sabxa ko apanAyA gayA .
+
+4 NMT: isa bETaka meM arWAw prawiBA Sabxa apanAyA gayA .
+
+5 NMT: isa bETaka meM praWamika buxXi Sabxa ko apanAyA gayA .
+
+6 NMT: isa bETaka meM artiPikeSiyala iMtelijeMsa Sabxa apanAyA gayA WA .
+
+isa_0+1+2+3+4+5+6 bETaka_0+1+2+3+4+5+6 meM_0+1+2+3+4+5+6 artiPika_1+2/artiPikeSiyala_6/praWamika_5/arWAw_4/aXyayanAwmaka_3/arWI_0 iMtelijeMsa_1+2+6/prawiBA_0+4/buxXi_5/prajFA_3 Sabxa_0+1+2+3+4+5+6 apanAyA_1+4+6/ko_0+2+3+5 apanAyA_0+2+3+5/gayA_1+4+6 gayA_0+2+3+5/._1+4/WA_6 ._0+2+3+5+6

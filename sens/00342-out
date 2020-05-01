@@ -1,7 +1,17 @@
-nodoM	noda	kA	kevala	viswAra	waBI	kara	kiyA	howA	rahe	kiyA	jAwA	hEM	hE	jAwA	jaba	hE	agara	unakI	unameM	ve	jaba	gaharAI	unakI	sImA	sImA	gaharAI	se	se	sImA	kama	kama	gaharAI	se	ho	hE	kama	.	ho
-1	0	1	0	1	1	0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	1	0	1	0	0	1	0	0	1	1	0	0	1	1	0	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0
-1	0	1	0	1	1	0	1	0	0	1	1	0	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	1	0	0	1	0	0	1	1	0	1	1	0	1	1	0	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0
-1	0	1	0	1	1	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	0	1	1	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Nodes are only expanded if they have depth less than the bound.
+
+ANU: gAzTa kevala PElI jAwIM hEM yaxi ve se kama bazXA huA gaharAI wo milawA hE .
+
+0 NMT: nodoM kA viswAra waBI howA hE jaba unakI gaharAI sImA se kama ho .
+
+1 NMT: noda kevala viswAra kara rahe hEM agara ve sImA se kama gaharAI hE .
+
+2 NMT: nodoM kA viswAra waBI kiyA jAwA hE jaba unakI gaharAI sImA se kama ho .
+
+3 NMT: noda kevala viswAra kiyA jAwA hE agara ve sImA se kama gaharAI hE .
+
+4 NMT: nodoM kA viswAra waBI howA hE jaba unameM gaharAI sImA se kama ho .
+
+5 NMT: noda kA viswAra waBI howA hE jaba unameM sImA se kama gaharAI ho .
+
+noda_1+3+5/nodoM_0+2+4 kA_0+2+4+5/kevala_1+3 viswAra_0+1+2+3+4+5 waBI_0+2+4+5/kiyA_3/kara_1 howA_0+4+5/kiyA_2/jAwA_3/rahe_1 hE_0+3+4+5/jAwA_2/hEM_1 hE_2/jaba_0+4+5/agara_1+3 jaba_2/unameM_4+5/ve_1+3/unakI_0 sImA_1+3+5/gaharAI_0+4/unakI_2 sImA_0+4/se_1+3+5/gaharAI_2 sImA_2/se_0+4/kama_1+3+5 se_2/kama_0+4/gaharAI_1+3+5 hE_1+3/kama_2/ho_0+4+5 ._0+1+3+4+5/ho_2 ._2

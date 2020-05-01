@@ -1,7 +1,16 @@
-Name>>
-0
-0
-0
-0
-0
-0
+ENG: Corresponding to a search algorithm, should we return a path or a node?
+
+ANU: eka walASa praNAlI anukUl honA, hameM paWa yA gAzTa lOtAnA cAhie?
+
+0 NMT: Name
+
+1 NMT: Comment
+
+2 NMT: Koja elgoriWma , hameM eka paWa yA eka noda lOtAnA cAhie ?
+
+3 NMT: kisI Koja elgoriWma ke lie pawrAcAra , hama eka paWa yA eka noda ko lOtAnA cAhie ?
+
+4 NMT: kisI Koja elgoriWma ke lie pawrAcAra , hameM eka paWa yA noda lOtAnA cAhie ?
+
+5 NMT: Koja elgoriWma ke sAWa pawrAcAra , hama eka paWa yA noda lOtAnA cAhie ?
+

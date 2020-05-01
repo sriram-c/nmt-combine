@@ -1,7 +1,17 @@
-isa	waraha	kI	vyavasWA	ko	meM	aprawibaMXiwa	[	6	prAkqwika	aniyaMwriwa	aprawibaMXiwa	aparigrahiwa	BARA]	{	ko	9	BI}	samaJane	kI	kI}	jarUrawa	hE	hE	.	.
-1	1	1	1	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	1	0	1	1	1	1	1
-1	1	1	1	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	1	0	1	1	1	1	1
-1	1	1	1	1	0	1	0	0	1	0	1	0	0	0	1	0	0	1	1	0	1	1	1	1	1
-1	1	1	1	1	0	0	0	0	1	0	0	1	0	0	1	0	0	1	1	0	1	1	1	1	1
-1	1	1	1	1	0	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	1	1	1	1	1
-1	1	1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	1	1	1	1	1
+ENG: Such a system also needs to understand unconstrained natural language.
+
+ANU: EsI praNAlI BI ankanstreVnda prAkqwika BARA samaJa .
+
+0 NMT: isa waraha kI vyavasWA ko aprawibaMXiwa prAkqwika BARA ko BI samaJane kI jarUrawa hE .
+
+1 NMT: isa waraha kI vyavasWA ko BI aprawibaMXiwa prAkqwika BARA ko samaJane kI jarUrawa hE .
+
+2 NMT: isa waraha kI vyavasWA ko BI aprawibaMXiwa prAkqwika BARA samaJane kI jarUrawa hE .
+
+3 NMT: isa waraha kI vyavasWA ko BI aparigrahiwa prAkqwika BARA ko samaJane kI jarUrawa hE .
+
+4 NMT: isa waraha kI vyavasWA ko BI aniyaMwriwa svABAvika BARA ko samaJane kI jarUrawa hE .
+
+5 NMT: isa waraha kI vyavasWA meM BI aniyaMwriwa svABAvika BARA ko samaJane kI jarUrawa hE .
+
+isa_0+1+2+3+4+5 waraha_0+1+2+3+4+5 kI_0+1+2+3+4+5 vyavasWA_0+1+2+3+4+5 ko_0+1+2+3+4/meM_5 BI_1+2+3+4+5/aprawibaMXiwa_0 prAkqwika_0/aprawibaMXiwa_1+2/aniyaMwriwa_4+5/aparigrahiwa_3 BARA_0/prAkqwika_1+2+3/svABAvika_4+5 ko_0/BARA_1+2+3+4+5 ko_1+3+4+5/samaJane_2/BI_0 kI_2/samaJane_0+1+3+4+5 kI_0+1+3+4+5/jarUrawa_2 jarUrawa_0+1+3+4+5/hE_2 hE_0+1+3+4+5/._2 ._0+1+3+4+5

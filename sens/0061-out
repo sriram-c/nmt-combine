@@ -1,8 +1,19 @@
-Aja	kI	saPala	eAI	praNAliyAM	sunirXAriwa	BalI	domena	kRewroM	-	kRewra	domenoM	meM	BAMwi	kArya	pariBARiwa	kAma	karawI	domenoM	meM	hEM	Ora	kArya	karawI	saMkIrNa	,	hEM	viSiRta	viSeRIkqwa	Ora	saMkIrNa	jFAna	kA	,	prayoga	viSiRta	upayoga	karawI}	hEM}	.	niyojiwa
-1	1	1	1	1	1	0	1	0	0	0	0	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	0	1	0
-1	1	1	1	1	1	0	0	0	0	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	0	1	0
-1	1	1	1	1	1	0	0	1	0	0	0	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	0	1	0
-1	1	1	1	1	1	0	0	0	0	1	0	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	0	1	0
-1	1	1	1	1	0	1	0	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	1	0	0	0	1	1
-1	1	1	1	1	1	0	0	0	0	0	1	1	0	0	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	0	0	1	0	0	1	0
-1	1	1	1	1	1	0	1	0	0	0	0	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	0	1	0
+ENG: Today’s successful AI systems operate in well-defined domains and employ narrow, specialized knowledge.
+
+ANU: Aja kI saPala e. AI. praNAliyAz sunirXAriwa kRewroM Ora prayoga kara safkIrNa, viSiRta jFAna meM kArya karawI hEM .
+
+0 NMT: Aja kI saPala eAI praNAliyAM sunirXAriwa domena meM kArya karawI hEM Ora saMkIrNa , viSiRta jFAna kA prayoga karawI hEM .
+
+1 NMT: Aja kI saPala eAI praNAliyAM sunirXAriwa domenoM meM kArya karawI hEM Ora saMkIrNa , viSiRta jFAna kA prayoga karawI hEM .
+
+2 NMT: Aja kI saPala eAI praNAliyAM sunirXAriwa kRewroM meM kArya karawI hEM Ora saMkIrNa , viSiRta jFAna kA prayoga karawI hEM .
+
+3 NMT: Aja kI saPala eAI praNAliyAM sunirXAriwa kRewra meM kArya karawI hEM Ora saMkIrNa , viSiRta jFAna kA prayoga karawI hEM .
+
+4 NMT: Aja kI saPala eAI praNAliyAM BalI - BAMwi pariBARiwa domenoM meM kArya karawI hEM Ora saMkIrNa , viSiRta jFAna ko niyojiwa karawI hEM .
+
+5 NMT: Aja kI saPala eAI praNAliyAM sunirXAriwa domenoM meM kAma karawI hEM Ora saMkIrNa , viSeRIkqwa jFAna kA upayoga karawI hEM .
+
+6 NMT: Aja kI saPala eAI praNAliyAM sunirXAriwa domena meM kArya karawI hEM Ora saMkIrNa , viSiRta jFAna kA upayoga karawI hEM .
+
+Aja_0+1+2+3+4+5+6 kI_0+1+2+3+4+5+6 saPala_0+1+2+3+4+5+6 eAI_0+1+2+3+4+5+6 praNAliyAM_0+1+2+3+4+5+6 sunirXAriwa_0+1+2+3+5+6/BalI_4 domenoM_1+5/domena_0+6/-_4/kRewra_3/kRewroM_2 meM_0+1+2+3+5+6/BAMwi_4 kArya_0+1+2+3+6/kAma_5/pariBARiwa_4 karawI_0+1+2+3+5+6/domenoM_4 hEM_0+1+2+3+5+6/meM_4 Ora_0+1+2+3+5+6/kArya_4 karawI_4/saMkIrNa_0+1+2+3+5+6 hEM_4/,_0+1+2+3+5+6 Ora_4/viSiRta_0+1+2+3+6/viSeRIkqwa_5 saMkIrNa_4/jFAna_0+1+2+3+5+6 ,_4/kA_0+1+2+3+5+6 viSiRta_4/prayoga_0+1+2+3/upayoga_5+6 karawI_0+1+2+3+5+6/jFAna_4 hEM_0+1+2+3+5+6/ko_4 ._0+1+2+3+5+6/niyojiwa_4 karawI_4 hEM_4 ._4

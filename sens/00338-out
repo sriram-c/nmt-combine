@@ -1,4 +1,11 @@
-yaha	BI	ho	sakawA	hE	agara	Koja	aMwarikRa	meM	cakra	SAmila	hE	hE}	.
-1	1	1	1	1	1	1	1	1	1	1	1	0	1
-1	1	1	1	1	1	1	1	1	1	0	1	0	1
-1	1	1	1	1	1	1	1	1	1	1	1	0	1
+ENG: It can also happen if the search space contains cycles.
+
+ANU: yaha BI ho sakawA hE yaxi Koja sWala meM cakra hEM .
+
+0 NMT: yaha BI ho sakawA hE agara Koja aMwarikRa meM cakra SAmila hE .
+
+1 NMT: yaha BI ho sakawA hE agara Koja aMwarikRa meM cakra hE .
+
+2 NMT: yaha BI ho sakawA hE agara Koja aMwarikRa meM cakra SAmila hEM .
+
+yaha_0+1+2 BI_0+1+2 ho_0+1+2 sakawA_0+1+2 hE_0+1+2 agara_0+1+2 Koja_0+1+2 aMwarikRa_0+1+2 meM_0+1+2 cakra_0+1+2 hE_1/SAmila_0+2 hE_0/._1/hEM_2 ._0+2

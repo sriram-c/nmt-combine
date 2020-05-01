@@ -1,5 +1,13 @@
-isa	mAmale	meM	jora]	anumAna}	waMwra}	,}	Ora}	isake	[	9	guNoM}	para}	hE]	.]
-1	1	1	0	0	0	0	0	1	0	0	0	0	0	0
-1	1	1	0	0	0	0	0	1	0	0	0	0	0	0
-1	1	1	0	0	0	0	0	0	0	0	0	0	0	0
-1	1	1	0	0	0	0	0	1	0	0	0	0	0	0
+ENG: The emphasis in this case is on the inferencing mechanism, and its properties.
+
+ANU: isa mAmale meM jora inferencing yanwravinyAsa, Ora usakA sampawwi para hE .
+
+0 NMT: isa mAmale meM jora anumAna waMwra , Ora isake guNoM para hE .
+
+1 NMT: isa mAmale meM anumAna waMwra , Ora isake guNoM para jora xiyA hE .
+
+2 NMT: isa mAmale meM anumAna waMwra , Ora usake guNoM para jora xiyA hE .
+
+3 NMT: isa mAmale meM anumAna waMwra , Ora isake guNoM para jora xiyA gayA hE .
+
+isa_0+1+2+3 mAmale_0+1+2+3 meM_0+1+2+3 anumAna_1+2+3/jora_0 anumAna_0/waMwra_1+2+3 waMwra_0/,_1+2+3 ,_0/Ora_1+2+3 Ora_0/isake_1+3/usake_2 guNoM_1+2+3/isake_0 guNoM_0/para_1+2+3 para_0/jora_1+2+3 hE_0/xiyA_1+2+3 hE_1+2/._0/gayA_3 hE_3/._1+2 ._3

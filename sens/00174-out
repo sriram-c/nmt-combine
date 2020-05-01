@@ -1,10 +1,23 @@
-XyAna	xeM	ki	eka	koI	niyawAwmaka	niyawAwmaka	paraMwu	aBI	paraMwu	lekina	AMSika	waka	rUpa	AMSika	AMSika	rUpa	se	rUpa	xeKa	se	se	xeKA	sakane	xeKane	veXa>>	karane>>	yogya	aBikarwA	vAlA	ejeMta	vAwAvaraNa	vAwAvaraNa	ejeMta	ke	ejeMta	aBikarwA	lie	ke	ke	stocestika	kRuXAvarXaka	katibaxXa	lie	stochastic	lie	stocestika	asWira	stochastic	prawIwa	stochastic	kRoBakArI	xiKAI	prawIwa	hogA	prawIwa	xegA	hogA	.	hogA	.	.
-1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	1	0	0	1	1	1	0	0	1	1	1	0	1	1	1	1	1
-1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	0	1	0	0	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	1	0	0	1	1	1	0	0	1	1	1	0	1	1	1	1	1
-1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	1	1	0	0	1	0	0	0	1	1	1	0	1	1	1	1	1
-1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	0	1	0	0	1	0	0	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	1	1	0	0	1	0	0	0	1	1	1	0	1	1	1	1	1
-1	1	1	1	0	1	1	0	0	0	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	0	0	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	1	0	0	1	1	1	0	0	1	1	1	0	1	1	1	1	1
-1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	0	1	0	0	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1
-1	1	1	1	0	1	1	0	0	0	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	0	0	1	0	0	1	1	1	1	1	1	0	1	1	1	0	1	0	1	0	1	0	0	0	1	0	0	0	1	1	1	0	1	1	1	1	1
-1	1	1	0	0	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	0	0	0	1	1	0	0	1	1	0	1	0	1	1	1	1	0	0	1	1	0	1	0	0	0	1	0	0	0	1	1	1	0	1	1	1	1	1
-1	1	1	0	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	0	0	0	0	1	1	0	1	1	0	1	0	1	1	1	1	0	0	0	1	0	1	0	0	0	1	0	1	0	1	1	1	0	1	1	1	1	1
+ENG: Note that a deterministic yet partially observable environment will appear to be stochastic to the agent.
+
+ANU: XyAna xIjie ki eka niyawivAxa-sambanXI wo BI AMSika rUpa se avalokanIya vAwAvaraNa prawiniXi stovkEstika howA huA lagegA .
+
+0 NMT: XyAna xeM ki eka niyawAwmaka aBI waka AMSika rUpa se veXa karane yogya vAwAvaraNa ejeMta ke lie stochastic prawIwa hogA .
+
+1 NMT: XyAna xeM ki eka niyawAwmaka aBI waka AMSika rUpa se xeKane yogya vAwAvaraNa ejeMta ke lie stochastic prawIwa hogA .
+
+2 NMT: XyAna xeM ki eka niyawAwmaka aBI waka AMSika rUpa se veXIya vAwAvaraNa ejeMta ke lie stocestika prawIwa hogA .
+
+3 NMT: XyAna xeM ki eka niyawAwmaka aBI waka AMSika rUpa se xeKane yogya vAwAvaraNa ejeMta ke lie stocestika prawIwa hogA .
+
+4 NMT: XyAna xeM ki eka niyawAwmaka lekina AMSika rUpa se xeKane yogya vAwAvaraNa ejeMta ke lie stochastic prawIwa hogA .
+
+5 NMT: XyAna xeM ki eka niyawAwmaka aBI waka AMSika rUpa se xeKane yogya vAwAvaraNa ejeMta ke lie asWira xiKAI xegA .
+
+6 NMT: XyAna xeM ki eka niyawAwmaka lekina AMSika rUpa se xeKane yogya vAwAvaraNa ejeMta ke lie kRuXAvarXaka prawIwa hogA .
+
+7 NMT: XyAna xeM ki niyawAwmaka paraMwu AMSika rUpa se xeKa sakane yogya vAwAvaraNa aBikarwA ke lie katibaxXa prawIwa hogA .
+
+8 NMT: XyAna xeM ki koI niyawAwmaka paraMwu AMSika rUpa se xeKA jA sakane vAlA vAwAvaraNa aBikarwA ke lie kRoBakArI prawIwa hogA .
+
+XyAna_0+1+2+3+4+5+6+7+8 xeM_0+1+2+3+4+5+6+7+8 ki_0+1+2+3+4+5+6+7+8 niyawAwmaka_7/eka_0+1+2+3+4+5+6/koI_8 niyawAwmaka_0+1+2+3+4+5+6+8/paraMwu_7 AMSika_7/aBI_0+1+2+3+5/paraMwu_8/lekina_4+6 AMSika_4+6+8/rUpa_7/waka_0+1+2+3+5 AMSika_0+1+2+3+5/rUpa_4+6+8/se_7 rUpa_0+1+2+3+5/se_4+6+8/xeKa_7 se_0+1+2+3+5/xeKane_4+6/sakane_7/xeKA_8 yogya_4+6+7/xeKane_1+3+5/jA_8/veXIya_2/veXa_0 vAwAvaraNa_2+4+6+7/yogya_1+3+5/sakane_8/karane_0 vAwAvaraNa_1+3+5/ejeMta_2+4+6/yogya_0/aBikarwA_7/vAlA_8 ke_2+4+6+7/vAwAvaraNa_0+8/ejeMta_1+3+5 ke_1+3+5/lie_2+4+6+7/ejeMta_0/aBikarwA_8 ke_0+8/lie_1+3+5/stochastic_4/stocestika_2/katibaxXa_7/kRuXAvarXaka_6 lie_0+8/prawIwa_2+4+6+7/stochastic_1/stocestika_3/asWira_5 prawIwa_1+3/hogA_2+4+6+7/stochastic_0/kRoBakArI_8/xiKAI_5 ._2+4+6+7/prawIwa_0+8/hogA_1+3/xegA_5 ._1+3+5/hogA_0+8 ._0+8

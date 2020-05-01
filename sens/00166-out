@@ -1,8 +1,19 @@
-Ese	vAwAvaraNa	vAwAvaraNoM	pariveSoM	mAhOla	meM	,	ejeMta	ko	ejeMta	paryAvaraNa	ko	meM}	hone	meM	vAle	hone	parivarwanoM	parivarwanoM	baxalAvoM	vAle	para	para	parivarwanoM	kI	najara	najara	jAnakArI	para	raKane	raKane	najara	kI	kI	AvaSyakawA	raKane	jarUrawa	kI	AvaSyakawA	nahIM	nahIM	AvaSyakawA	howI	howI	hE	nahIM	hE	.	howI
-1	1	0	0	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	0	1	1
-1	0	0	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	0	1	1
-1	0	0	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	0	1	1
-1	1	0	0	0	1	1	1	1	1	1	1	0	0	1	0	0	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	0	1	1	0	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	0	1	1
-1	1	0	0	0	1	1	1	0	1	1	0	0	1	1	1	1	1	1	0	1	0	0	1	1	0	0	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: In such environments, the agent does not need to keep track of the changes in the environment.
+
+ANU: Ese vAwAvaraNa meM, prawiniXi paryAvaraNa meM baxalAvoM ke trEka ko raKa .
+
+0 NMT: Ese vAwAvaraNa meM ejeMta ko paryAvaraNa meM hone vAle parivarwanoM para najara raKane kI jarUrawa nahIM howI .
+
+1 NMT: Ese pariveSoM meM , ejeMta ko paryAvaraNa meM hone vAle parivarwanoM para najara raKane kI AvaSyakawA nahIM howI hE .
+
+2 NMT: Ese vAwAvaraNoM meM ejeMta ko paryAvaraNa meM hone vAle parivarwanoM para najara raKane kI jarUrawa nahIM howI .
+
+3 NMT: Ese pariveSoM meM ejeMta ko paryAvaraNa meM hone vAle parivarwanoM para najara raKane kI jarUrawa nahIM howI .
+
+4 NMT: Ese vAwAvaraNa meM , ejeMta ko paryAvaraNa meM parivarwanoM para najara raKane kI AvaSyakawA nahIM howI hE .
+
+5 NMT: Ese mAhOla meM ejeMta ko paryAvaraNa meM hone vAle baxalAvoM para najara raKane kI jarUrawa nahIM howI .
+
+6 NMT: Ese vAwAvaraNa meM , ejeMta paryAvaraNa meM hone vAle parivarwanoM kI jAnakArI raKane kI AvaSyakawA nahIM howI hE .
+
+Ese_0+1+2+3+4+5+6 vAwAvaraNa_0+4+6/pariveSoM_1+3/mAhOla_5/vAwAvaraNoM_2 meM_0+1+2+3+4+5+6 ejeMta_0+2+3+5/,_1+4+6 ejeMta_1+4+6/ko_0+2+3+5 paryAvaraNa_0+2+3+5+6/ko_1+4 meM_0+2+3+5+6/paryAvaraNa_1+4 meM_1+4/hone_0+2+3+5+6 hone_1/vAle_0+2+3+5+6/parivarwanoM_4 para_4/vAle_1/parivarwanoM_0+2+3+6/baxalAvoM_5 kI_6/para_0+2+3+5/najara_4/parivarwanoM_1 raKane_4/para_1/najara_0+2+3+5/jAnakArI_6 kI_4/raKane_0+2+3+5+6/najara_1 kI_0+2+3+5+6/raKane_1/AvaSyakawA_4 kI_1/nahIM_4/jarUrawa_0+2+3+5/AvaSyakawA_6 nahIM_0+2+3+5+6/howI_4/AvaSyakawA_1 nahIM_1/howI_0+2+3+5+6/hE_4 howI_1/._0+2+3+4+5/hE_6 ._6/hE_1 ._1

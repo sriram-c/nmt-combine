@@ -1,6 +1,15 @@
-prAraMBa	meM	,	JAlara	PriMga	wala	meM}	prAraMBa}	avasWA	sWiwi	ekala	ke	noda	anurUpa	howA	eka	ekala	hE	ekala	jo	noda	noda	prAraMBa	howA	howA	avasWA	hE	hE	ke	.	.	anurUpa
-1	1	1	1	0	0	0	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	0	0	0	0	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	0	1	0	0	0	0	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1
-1	1	1	0	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1
+ENG: Initially, the fringe contains a single node corresponding to the start state.
+
+ANU: SurU meM, kinAre meM AramBa rAjya eka hI gAzTa anurupa honA hE .
+
+0 NMT: prAraMBa meM , JAlara meM prAraMBa avasWA ke anurUpa eka ekala noda howA hE .
+
+1 NMT: prAraMBa meM , JAlara meM prAraMBa avasWA ke anurUpa ekala noda howA hE .
+
+2 NMT: prAraMBa meM , wala meM eka ekala noda howA hE jo prAraMBa avasWA ke anurUpa howA hE .
+
+3 NMT: prAraMBa meM , PriMga meM prAraMBa sWiwi ke anurUpa ekala noda howA hE .
+
+4 NMT: prAraMBa meM , PriMga meM prAraMBa sWiwi ke anurUpa eka ekala noda howA hE .
+
+prAraMBa_0+1+2+3+4 meM_0+1+2+3+4 ,_0+1+2+3+4 PriMga_3+4/JAlara_0+1/wala_2 meM_0+1+2+3+4 prAraMBa_0+1+3+4/eka_2 ekala_2/avasWA_0+1/sWiwi_3+4 noda_2/ke_0+1+3+4 howA_2/anurUpa_0+1+3+4 hE_2/ekala_1+3/eka_0+4 ekala_0+4/noda_1+3/jo_2 prAraMBa_2/howA_1+3/noda_0+4 howA_0+4/hE_1+3/avasWA_2 hE_0+4/._1+3/ke_2 ._0+4/anurUpa_2 howA_2 hE_2 ._2

@@ -1,3 +1,9 @@
-isa	samasyA	kA	vivaraNa	bAxa	meM	bawAyA>>	jAegA	.
-1	1	1	1	1	1	0	1	1
-1	1	1	1	1	1	0	1	1
+ENG: The details of this problem will be described later.
+
+ANU: isa samasyA ke vivaraNa bAxa meM bawAe jAeMge .
+
+0 NMT: isa samasyA kA vivaraNa bAxa meM bawAyA jAegA .
+
+1 NMT: isa samasyA kA vivaraNa bAxa meM xiyA jAegA .
+
+isa_0+1 samasyA_0+1 kA_0+1 vivaraNa_0+1 bAxa_0+1 meM_0+1 xiyA_1/bawAyA_0 jAegA_0+1 ._0+1

@@ -1,5 +1,13 @@
-manuRya	wArkikawA	buxXi	kI	isa	pariBARA	ko	se	saMwuRta	pUrA	nahIM	karawe	howA	karawA	.
-1	1	0	1	1	1	1	0	1	0	1	1	0	0	1
-1	1	0	1	1	1	1	0	0	1	1	1	0	0	1
-1	0	1	1	1	1	0	1	1	0	1	0	1	0	1
-1	0	1	1	1	1	1	0	0	1	1	0	0	1	1
+ENG: Human beings do not satisfy this definition of rationality.
+
+ANU: mAnava warka yukwa kI yaha pariBARA sanwuRta nahIM karawe hEM .
+
+0 NMT: manuRya wArkikawA kI isa pariBARA ko saMwuRta nahIM karawe .
+
+1 NMT: manuRya wArkikawA kI isa pariBARA ko pUrA nahIM karawe .
+
+2 NMT: manuRya buxXi kI isa pariBARA se saMwuRta nahIM howA .
+
+3 NMT: manuRya buxXi kI isa pariBARA ko pUrA nahIM karawA .
+
+manuRya_0+1+2+3 buxXi_2+3/wArkikawA_0+1 kI_0+1+2+3 isa_0+1+2+3 pariBARA_0+1+2+3 ko_0+1+3/se_2 pUrA_1+3/saMwuRta_0+2 nahIM_0+1+2+3 karawe_0+1/karawA_3/howA_2 ._0+1+2+3

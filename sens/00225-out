@@ -1,6 +1,15 @@
-saccI	vAswavika	sIKane	svAyawwawA	kI	ke	AvaSyakawA	saccI	lie	sIKane	svAyawwawA	sIKanA	kI	ke	AvaSyaka	jarUrI	AvaSyakawA	jarUrawa	lie	hE	howI	.	hE	hE	.	.
-1	0	1	1	1	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	0	1	1	1	1	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1
-0	1	0	1	0	1	0	0	1	0	1	1	0	1	1	0	0	0	1	1	0	1	1	1	1	1
-1	0	0	1	0	1	0	1	1	0	1	1	0	1	0	1	0	0	1	1	0	1	1	1	1	1
+ENG: Learning is required for true autonomy.
+
+ANU: sIKanA vAswavika svaSAsana ke lie AvaSyaka gayA hE .
+
+0 NMT: saccI svAyawwawA ke lie sIKane kI AvaSyakawA howI hE .
+
+1 NMT: sIKane kI AvaSyakawA saccI svAyawwawA ke lie howI hE .
+
+2 NMT: saccI svAyawwawA ke lie sIKane kI jarUrawa hE .
+
+3 NMT: vAswavika svAyawwawA ke lie sIKanA AvaSyaka hE .
+
+4 NMT: saccI svAyawwawA ke lie sIKanA jarUrI hE .
+
+saccI_0+2+4/vAswavika_3/sIKane_1 svAyawwawA_0+2+3+4/kI_1 ke_0+2+3+4 lie_0+2+3+4/saccI_1 svAyawwawA_1/sIKanA_3+4/sIKane_0+2 ke_1/jarUrI_4/AvaSyaka_3/kI_0+2 lie_1/hE_3+4/jarUrawa_2 hE_2/._3+4/howI_0+1 hE_0+1/._2 ._0+1

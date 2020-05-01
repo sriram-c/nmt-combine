@@ -1,12 +1,27 @@
-upayogiwA	yUtilitI	se>>	vaMciwa>>	ejeMta	karane	aBikarwA	apane	apanI	apanI	svayaM	vAle	apane	upayogiwA	upayogiwA	svayaM	ejeMta	ke	ko	aXikawama	kArya	upayogiwA	ke	apanI	kara	ko	aXikawama	ko	samAroha	kArya	upayogiwA	banAwe	lewe	aXikawama	aXikawama	ko	kArya	karawe	hEM	karawe	ko	aXikawama	.	hEM	hEM	aXikawama	karawe	.	.	karawe	hEM
-1	0	0	0	1	0	0	0	1	1	0	0	0	1	1	0	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	0	1	0	0	0	1	1	0	0	0	1	1	0	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	0	0	0	1	0	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	1	0	1	1	1	0	0	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	0	1	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	0	1	1	0	0	1	1	0	1	0	1	1	0	1	0	1	1	0	1	0	1	0	1	1	1	0	0	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	0	1	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	0	1	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	0	1	1	0	0	1	1	1	1	0	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	0	0	0	1	0	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	0	0	0	1	0	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	1	0	1	1	1	0	0	1	1	0	1	1	1	0	0	1	0	1	1	1	1	1	1	0	1	1	0	1
-1	0	0	0	0	0	1	0	1	1	0	0	0	1	1	0	0	0	0	1	0	1	0	1	1	0	1	0	0	0	1	0	1	1	1	0	0	0	1	0	0	1	1	1	1	1	0	1	1	0	1
-1	0	0	0	0	0	1	0	1	1	0	1	0	1	1	0	0	0	1	1	0	1	0	1	0	1	1	1	0	0	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Utility-based agents maximize their own utility function.
+
+ANU: SuxXa vyAvahArika-AXAriwa prawiniXi unakA apanA upayogiwA Palana aXikawama kara .
+
+0 NMT: upayogiwA se vaMciwa ejeMta apanI upayogiwA kArya ko aXikawama karawe hEM .
+
+1 NMT: upayogiwA - kamIne ejeMta apanI upayogiwA kArya ko aXikawama karawe hEM .
+
+2 NMT: upayogiwA - vihIna aBikarwA apanI upayogiwA ko aXikawama karawe hEM .
+
+3 NMT: upayogiwA - paswa ejeMta apane svayaM ke upayogiwA kArya ko aXikawama karawe hEM .
+
+4 NMT: upayogiwA - paswa karane vAle ejeMta apanI upayogiwA ko aXikawama karawe hEM .
+
+5 NMT: yUtilitI kamIjZa ejeMta apane svayaM ke upayogiwA kArya ko aXikawama karawe hEM .
+
+6 NMT: yUtilitI kamIjZa ejeMta apane svayaM ke upayogiwA samAroha ko aXikawama karawe hEM .
+
+7 NMT: upayogiwA - hrAsa aBikarwA apanI upayogiwA ke kArya ko aXikawama karawe hEM .
+
+8 NMT: upayogiwA hrAsiwa aBikarwA apanI upayogiwA ko aXikawama banAwe hEM .
+
+9 NMT: upayogiwA hrAsiwa aBikarwA apanI upayogiwA aXikawama kara lewe hEM .
+
+10 NMT: upayogiwA kamI vAle aBikarwA apanI upayogiwA ko aXikawama karawe hEM .
+
+upayogiwA_0+1+2+3+4+7+8+9+10/yUtilitI_5+6 -_1+2+3+4+7/hrAsiwa_8+9/kamIjZa_5+6/kamI_10/se_0 aBikarwA_8+9/ejeMta_5+6/vAle_10/paswa_3+4/hrAsa_7/vihIna_2/kamIne_1/vaMciwa_0 apanI_8+9/aBikarwA_2+7+10/ejeMta_0+1+3/apane_5+6/karane_4 upayogiwA_8+9/apanI_0+1+2+7+10/apane_3/svayaM_5+6/vAle_4 upayogiwA_0+1+2+7+10/aXikawama_9/ko_8/ejeMta_4/svayaM_3/ke_5+6 upayogiwA_5+6/aXikawama_8/ko_2+10/apanI_4/kArya_0+1/ke_3+7/kara_9 upayogiwA_3+4/aXikawama_2+10/ko_0+1/kArya_5+7/lewe_9/banAwe_8/samAroha_6 hEM_8+9/aXikawama_0+1/ko_4+5+6+7/karawe_2+10/kArya_3 hEM_2+10/._8+9/aXikawama_4+5+6+7/ko_3/karawe_0+1 hEM_0+1/._2+10/aXikawama_3/karawe_4+5+6+7 hEM_4+5+6+7/._0+1/karawe_3 hEM_3/._4+5+6+7 ._3

@@ -1,5 +1,13 @@
-XyAna	xeM	ki	elgoriWma	xvArA	liyA	gayA	samaya	samaya	Koja	Koja	pedZa	vqkRa	vqkRa	trI	kI	kI	aXikawama	aXikawama	gaharAI	gaharAI	se	se	saMbaMXiwa	saMbaMXiwa	hE	hE	.	.
-1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	0	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Note that the time taken by the algorithm is related to the maximum depth of the search tree.
+
+ANU: XyAna xIjie ki praNAlI ke pAsa liyA gayA samaya Koja waru kI aXikawama gaharAI se sambanXiwa hE .
+
+0 NMT: XyAna xeM ki elgoriWma xvArA liyA gayA samaya Koja vqkRa kI aXikawama gaharAI se saMbaMXiwa hE .
+
+1 NMT: XyAna xeM ki elgoriWma xvArA liyA samaya Koja pedZa kI aXikawama gaharAI se saMbaMXiwa hE .
+
+2 NMT: XyAna xeM ki elgoriWma xvArA liyA samaya Koja vqkRa kI aXikawama gaharAI se saMbaMXiwa hE .
+
+3 NMT: XyAna xeM ki elgoriWma xvArA liyA gayA samaya Koja trI kI aXikawama gaharAI se saMbaMXiwa hE .
+
+XyAna_0+1+2+3 xeM_0+1+2+3 ki_0+1+2+3 elgoriWma_0+1+2+3 xvArA_0+1+2+3 liyA_0+1+2+3 samaya_1+2/gayA_0+3 samaya_0+3/Koja_1+2 Koja_0+3/vqkRa_2/pedZa_1 kI_1+2/vqkRa_0/trI_3 kI_0+3/aXikawama_1+2 aXikawama_0+3/gaharAI_1+2 gaharAI_0+3/se_1+2 se_0+3/saMbaMXiwa_1+2 saMbaMXiwa_0+3/hE_1+2 hE_0+3/._1+2 ._0+3

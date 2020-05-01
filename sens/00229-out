@@ -1,0 +1,17 @@
+ENG: An agent perceives and acts in an environment, has an architecture, and is implemented by an agent program.
+
+ANU: eka prawiniXi mahasUsa karawA hE Ora eka vAwAvaraNa meM kArya karawA hE, eka vAswukalA milawA hE, Ora prawiniXi progrAma ke xvArA kAryAnviwa karawA hE .
+
+0 NMT: ejeMta eka vAwAvaraNa meM xeKawA hE Ora kArya karawA hE , eka vAswukalA hE , Ora eka ejeMta progrAma xvArA lAgU kiyA jAwA hE .
+
+1 NMT: eka ejeMta eka vAwAvaraNa meM xeKawA hE Ora kArya karawA hE , eka vAswukalA hE , Ora eka ejeMta progrAma xvArA lAgU kiyA jAwA hE .
+
+2 NMT: ejeMta eka vAwAvaraNa meM anuBava karawA hE Ora kArya karawA hE , eka vAswukalA hE , Ora eka ejeMta progrAma xvArA kAryAnviwa kiyA jAwA hE .
+
+3 NMT: eka ejeMta eka vAwAvaraNa meM anuBava Ora kArya karawA hE , eka vAswukalA hE , Ora eka ejeMta progrAma xvArA lAgU kiyA jAwA hE .
+
+4 NMT: eka aBikarwA pariveSa meM boXa karAwA hE Ora kArya karawA hE , eka vAswukalA hE , Ora eka aBikarwA progrAma xvArA kAryAnviwa howA hE .
+
+5 NMT: eka ejeMta vAwAvaraNa meM anuBava karawA hE Ora kArya karawA hE , eka vAswukalA hE , Ora eka ejeMta progrAma xvArA kriyAnviwa kiyA jAwA hE .
+
+eka_1+3+4+5/ejeMta_0+2 eka_0+2/ejeMta_1+3+5/aBikarwA_4 eka_1+3/vAwAvaraNa_0+2+5/pariveSa_4 meM_0+2+4+5/vAwAvaraNa_1+3 meM_1+3/anuBava_2+5/xeKawA_0/boXa_4 hE_0/karawA_2+5/anuBava_3/xeKawA_1/karAwA_4 hE_1+2+4+5/Ora_0+3 Ora_1+2+4+5/kArya_0+3 karawA_0+3/kArya_1+2+4+5 hE_0+3/karawA_1+2+4+5 hE_1+2+4+5/,_0+3 eka_0+3/,_1+2+4+5 eka_1+2+4+5/vAswukalA_0+3 hE_0+3/vAswukalA_1+2+4+5 hE_1+2+4+5/,_0+3 ,_1+2+4+5/Ora_0+3 eka_0+3/Ora_1+2+4+5 eka_1+2+4+5/ejeMta_0+3 ejeMta_1+2+5/progrAma_0+3/aBikarwA_4 progrAma_1+2+4+5/xvArA_0+3 xvArA_1+2+4+5/lAgU_0+3 kiyA_0+3/lAgU_1/kAryAnviwa_2+4/kriyAnviwa_5 kiyA_1+2+5/jAwA_0+3/howA_4 hE_0+3+4/jAwA_1+2+5 hE_1+2+5/._0+3+4 ._1+2+5

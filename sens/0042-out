@@ -1,13 +1,29 @@
-isa	Ese	prakAra	waraha	kAryoM	ke	kAryoM	uxAharaNoM	ke}	uxAharaNoM	cIjoM	SAmila	meM	hEM	SAmila	,	binA	hEM	BAge	cIjoM	vaswuoM	meM	cIjoM	,	meM}	BAga	xOdZe	ko	lie	lie	pakadZanA	,	binA	binA	apane	Ora	SikAra	hamArA	mArga	hamAre	ko	rAswe	,	paraBakRiyoM	rAswA	para	rAswe	se	pakadZanA	SikAra	pAra>>	karanA	calanA	paraBakRI	SAmila	,	pakadZanA	,	hE	Ora	SikAra	se	SikAra	paraBakRiyoM	.	pakadZanA	bacanA	pakadZanA	ko	se	.	Ora	Ora	paraBakRI	pakadZanA	paraBakRiyoM	bacanA	paraBakRiyoM	Ora	se	.	se	paraBakRiyoM	bacanA	bacanA	se	.	bacanA	.
-1	0	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	0	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	0	1	1	1	1	1	1	1	0	1	1	0	0	0	1	0	1	1	0	0	0	1	1	1	0	0	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	0	0	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	0	0	0	1	0	0	1	1	1	1	0	1	1	0	0	0	1	0	1	1	0	0	0	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	0	1	1	1	1	1	1	0	1	1	0	1	0	0	0	1	1	0	1	0	1	1	1	0	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1
-0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	0	1	1	0	0	1	1	1	1	0	1	1	0	0	0	1	0	1	0	0	0	0	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1
+ENG: Examples of such tasks include navigating our way without running into things, catching prey and avoiding predators.
+
+ANU: Ese kAmoM ke uxAharaNoM meM cIjoM waraPa calanA, SikAra ko pakadawA huA Ora SikArI paSuoM ko tAlanA ke binA hamArA warIkA sahI mArga pakadanA sammiliwa howA hE .
+
+0 NMT: isa prakAra ke kAryoM ke uxAharaNoM meM SAmila hEM vaswuoM meM BAga lie binA hamArA rAswA pAra karanA , SikAra pakadZanA Ora paraBakRiyoM se bacanA .
+
+1 NMT: isa waraha ke kAryoM ke uxAharaNoM meM SAmila hEM cIjoM meM BAga lie binA hamAre rAswe para calanA , SikAra ko pakadZanA Ora paraBakRiyoM se bacanA .
+
+2 NMT: isa waraha ke kAryoM ke uxAharaNoM meM SAmila hEM cIjoM meM BAga lie binA hamAre rAswe para calanA , SikAra pakadZanA Ora paraBakRiyoM se bacanA .
+
+3 NMT: isa prakAra ke kAryoM ke uxAharaNoM meM SAmila hEM vaswuoM meM BAga lie binA , SikAra ko pakadZanA Ora paraBakRiyoM se bacanA .
+
+4 NMT: isa waraha ke kAryoM ke uxAharaNoM meM SAmila hEM vaswuoM meM BAga lie binA hamAre rAswe para calanA , SikAra pakadZanA Ora paraBakRiyoM se bacanA .
+
+5 NMT: isa prakAra ke kAryoM ke uxAharaNoM meM SAmila hEM cIjoM meM BAga lie binA hamAre rAswe para calanA , SikAra ko pakadZanA Ora paraBakRiyoM se bacanA .
+
+6 NMT: isa prakAra ke kAryoM ke uxAharaNoM meM SAmila hEM cIjoM meM BAga lie binA hamArA rAswA waya karanA , SikAra pakadZanA Ora paraBakRiyoM se bacanA .
+
+7 NMT: isa prakAra ke kAryoM ke uxAharaNoM meM SAmila hEM vaswuoM meM BAga lie binA hamArA rAswA waya karanA , SikAra pakadZanA Ora paraBakRiyoM se bacanA .
+
+8 NMT: Ese kAryoM ke uxAharaNoM meM cIjoM meM binA BAge , SikAra ko pakadZanA Ora paraBakRiyoM se bacanA SAmila hE .
+
+9 NMT: isa waraha ke kAryoM ke uxAharaNoM meM SAmila hEM cIjoM meM BAga lie binA mArga para calanA , SikAra pakadZanA Ora paraBakRiyoM se bacanA .
+
+10 NMT: Ese kAryoM ke uxAharaNoM meM SAmila hEM , cIjoM meM BAga lie binA apane rAswe para calanA , SikAra pakadZanA Ora paraBakRI se bacanA .
+
+11 NMT: Ese kAryoM ke uxAharaNoM meM SAmila hEM , cIjoM meM binA xOdZe , SikAra ko pakadZanA Ora paraBakRI se bacanA .
+
+isa_0+1+2+3+4+5+6+7+9/Ese_8+10+11 kAryoM_8+10+11/prakAra_0+3+5+6+7/waraha_1+2+4+9 ke_0+1+2+3+4+5+6+7+8+9+10+11 kAryoM_0+1+2+3+4+5+6+7+9/uxAharaNoM_8+10+11 meM_8+10+11/ke_0+1+2+3+4+5+6+7+9 uxAharaNoM_0+1+2+3+4+5+6+7+9/SAmila_10+11/cIjoM_8 meM_0+1+2+3+4+5+6+7+8+9/hEM_10+11 ,_10+11/binA_8/SAmila_0+1+2+3+4+5+6+7+9 hEM_0+1+2+3+4+5+6+7+9/cIjoM_10+11/BAge_8 meM_10+11/,_8/cIjoM_1+2+5+6+9/vaswuoM_0+3+4+7 meM_0+1+2+3+4+5+6+7+9/SikAra_8/binA_11/BAga_10 BAga_0+1+2+3+4+5+6+7+9/lie_10/ko_8/xOdZe_11 ,_11/pakadZanA_8/binA_10/lie_0+1+2+3+4+5+6+7+9 Ora_8/SikAra_11/binA_0+1+2+3+4+5+6+7+9/apane_10 ,_3/paraBakRiyoM_8/ko_11/rAswe_10/hamAre_1+2+4+5/hamArA_0+6+7/mArga_9 se_8/pakadZanA_11/SikAra_3/para_9+10/rAswe_1+2+4+5/rAswA_0+6+7 bacanA_8/Ora_11/para_1+2+4+5/calanA_9+10/ko_3/waya_6+7/pAra_0 ,_9+10/pakadZanA_3/SAmila_8/calanA_1+2+4+5/karanA_0+6+7/paraBakRI_11 ,_0+1+2+4+5+6+7/se_11/Ora_3/SikAra_9+10/hE_8 bacanA_11/pakadZanA_9+10/SikAra_0+1+2+4+5+6+7/._8/paraBakRiyoM_3 se_3/pakadZanA_0+2+4+6+7/Ora_9+10/._11/ko_1+5 bacanA_3/pakadZanA_1+5/Ora_0+2+4+6+7/paraBakRiyoM_9/paraBakRI_10 se_9+10/Ora_1+5/._3/paraBakRiyoM_0+2+4+6+7 se_0+2+4+6+7/bacanA_9+10/paraBakRiyoM_1+5 se_1+5/bacanA_0+2+4+6+7/._9+10 bacanA_1+5/._0+2+4+6+7 ._1+5

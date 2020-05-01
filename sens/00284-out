@@ -1,9 +1,21 @@
-lekina	aXika	Ama	wOra	para	rAjya	aMwarikRa	sWAna	aMwarnihiwa	meM	ko	nihiwa	kA	rUpa	parokRa	nihiwa	prawiniXiwva	se	rUpa	Ora	prawiniXiwva	se	uwpanna	prawiniXiwva	kiyA	Ora	kiyA	jA	uwpanna	jA	kiyA	sakawA	jA	sakawA	hE	Ora	jaba	sakawA	hE	AvaSyakawA	Ora	hE	AvaSyaka	uwpanna	padZane	ho	kiyA	AvaSyakawA	jaba	para}	uwpanna	hE	para	sakawA	kiyA}	jA}	sakawA}	hE}	hE	.
-1	1	1	1	1	1	1	0	1	0	0	0	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	0	0	1	1	1	1	0	0	0	0	1	1
-1	1	1	1	1	1	1	0	0	0	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	0	0	1	1	1	1	0	0	0	0	1	1
-1	1	1	1	1	1	1	0	1	0	0	0	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	0	1	0	1	0	1	1	1	1	0	0	0	0	1	1
-1	1	1	1	1	1	1	0	1	0	0	0	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	0	1	0	1	0	1	1	1	1	0	0	0	0	1	1
-1	1	1	1	1	1	0	1	0	0	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	0	0	1	1	1	1	0	0	0	0	1	1
-1	1	1	1	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	0	0	1	1	1	1	0	0	0	0	1	1
-1	1	1	1	1	1	1	0	0	0	0	0	1	0	0	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	0	1	1	1	1	0	0	0	0	1	1
-1	1	1	1	1	1	1	0	0	1	0	1	0	0	0	1	0	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	0	1	1	1	1	0	0	0	0	1	1
+ENG: But more typically the state space can be implicitly represented and generated when required.
+
+ANU: paranwu aXika Ama wOra para avasWA sWAna avyakwa rUpa se xarSAyA jA sakawA hE Ora uwpanna kiyA jA sakawA hE jaba AvaSyakawA huI jAwI hE .
+
+0 NMT: lekina aXika Ama wOra para rAjya aMwarikRa aMwarnihiwa rUpa se prawiniXiwva kiyA jA sakawA hE Ora AvaSyakawA padZane para uwpanna kiyA jA sakawA hE .
+
+1 NMT: lekina aXika Ama wOra para rAjya aMwarikRa nihiwa rUpa se prawiniXiwva kiyA jA sakawA hE Ora AvaSyakawA padZane para uwpanna .
+
+2 NMT: lekina aXika Ama wOra para rAjya aMwarikRa aMwarnihiwa rUpa se prawiniXiwva kiyA jA sakawA hE Ora uwpanna kiyA jA sakawA hE jaba jarUrawa hE .
+
+3 NMT: lekina aXika Ama wOra para rAjya aMwarikRa aMwarnihiwa rUpa se prawiniXiwva Ora uwpanna kiyA jA sakawA hE jaba jarUrawa hE .
+
+4 NMT: lekina aXika Ama wOra para rAjya sWAna kA parokRa rUpa se prawiniXiwva kiyA jA sakawA hE Ora AvaSyakawA padZane para uwpanna kiyA jA sakawA hE .
+
+5 NMT: lekina aXika Ama wOra para rAjya sWAna ko nihiwa rUpa se prawiniXiwva kiyA jA sakawA hE Ora AvaSyakawA padZane para uwpanna kiyA jA sakawA hE .
+
+6 NMT: lekina aXika Ama wOra para rAjya aMwarikRa kA prawiniXiwva Ora uwpanna kiyA jA sakawA hE jaba AvaSyaka ho .
+
+7 NMT: lekina aXika Ama wOra para rAjya aMwarikRa meM nihiwa Ora uwpanna kiyA jA sakawA hE jaba AvaSyaka ho .
+
+lekina_0+1+2+3+4+5+6+7 aXika_0+1+2+3+4+5+6+7 Ama_0+1+2+3+4+5+6+7 wOra_0+1+2+3+4+5+6+7 para_0+1+2+3+4+5+6+7 rAjya_0+1+2+3+4+5+6+7 aMwarikRa_0+1+2+3+6+7/sWAna_4+5 nihiwa_1/aMwarnihiwa_0+2+3/meM_7/ko_5/kA_4+6 rUpa_0+1+2+3/prawiniXiwva_6/nihiwa_5+7/parokRa_4 Ora_6+7/rUpa_4+5/se_0+1+2+3 uwpanna_6+7/se_4+5/prawiniXiwva_0+1+2+3 kiyA_0+1+2+6+7/Ora_3/prawiniXiwva_4+5 kiyA_4+5/jA_0+1+2+6+7/uwpanna_3 kiyA_3/jA_4+5/sakawA_0+1+2+6+7 hE_0+1+2+6+7/jA_3/sakawA_4+5 hE_4+5/sakawA_3/Ora_0+1+2/jaba_6+7 hE_3/uwpanna_2/Ora_4+5/AvaSyakawA_0+1/AvaSyaka_6+7 kiyA_2/jaba_3/AvaSyakawA_4+5/padZane_0+1/ho_6+7 jA_2/para_0+1/._6+7/padZane_4+5/jarUrawa_3 hE_3/sakawA_2/para_4+5/uwpanna_0+1 hE_2/kiyA_0/._1+3/uwpanna_4+5 kiyA_4+5/jA_0/jaba_2 jA_4+5/sakawA_0/jarUrawa_2 hE_0+2/sakawA_4+5 hE_4+5/._0+2 ._4+5

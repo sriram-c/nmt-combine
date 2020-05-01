@@ -1,7 +1,17 @@
-eka	buxXimAna	kisI	bOxXika	aBikarwA	buxXimAna	ejeMta	ejeMta	aBikarwA	ko	ko	arWa	samaJanA	samaJanA	avaSya	akla	honA	cAhie	cAhie	hI	AnI	,	,	boXa	cAhie	kAma	kArya	,	karanA	honA	karanA	cAhie	kAma	cAhie}	,}	karanA	,	svAyawwa	honA	honA	svAyawwa	cAhie	cAhie}	svAyawwa	cAhie	(	kuCa	kuCa	honA	(	haxa	cAhie	kuCa	haxa	waka	(	waka	haxa	)	kuCa	waka
-1	0	0	1	0	0	1	1	0	1	1	0	1	1	0	0	1	1	1	0	0	1	1	0	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	0	1	0	0	1	1	0	1	1	0	1	1	0	0	1	1	1	0	0	1	1	0	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	0	1	1	1	0	1	1	0	1	1	0	0	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-0	1	0	0	1	1	0	0	1	1	1	1	0	0	0	0	1	1	1	0	0	1	1	0	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	0	1	1	0	0	1	1	1	0	0	0	0	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	0	1	1	0	0	1	1	1	0	0	0	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: An Intelligent Agent must sense, must act, must be autonomous (to some extent).
+
+ANU: intelajanta eVjanta ko (kuCa sImA) svAyawwa honA cAhie kArya karanA cAhie, anuBava karanA cAhie.,
+
+0 NMT: eka bOxXika ejeMta ko samaJanA cAhie , kArya karanA cAhie , svAyawwa honA cAhie ( kuCa haxa waka )
+
+1 NMT: eka bOxXika ejeMta ko samaJanA cAhie , kArya karanA cAhie , svAyawwa honA cAhie ( kuCa haxa waka ) .
+
+2 NMT: buxXimAna ejeMta ko samaJanA cAhie , kAma karanA cAhie , svAyawwa honA cAhie ( kuCa haxa waka
+
+3 NMT: buxXimAna aBikarwA ko arWa honA cAhie , kArya karanA cAhie , svAyawwa honA cAhie ( kuCa haxa waka )
+
+4 NMT: kisI buxXimAna aBikarwA ko akla AnI cAhie , kAma karanA cAhie , svAyawwa honA cAhie ( kuCa haxa waka )
+
+5 NMT: kisI buxXimAna aBikarwA ko avaSya hI boXa honA cAhie , kArya karanA cAhie , svAyawwa honA cAhie ( kuCa haxa waka )
+
+buxXimAna_2+3/kisI_4+5/eka_0+1 buxXimAna_4+5/aBikarwA_3/ejeMta_2/bOxXika_0+1 ko_2+3/aBikarwA_4+5/ejeMta_0+1 ko_0+1+4+5/samaJanA_2/arWa_3 cAhie_2/honA_3/samaJanA_0+1/avaSya_5/akla_4 cAhie_0+1+3/,_2/hI_5/AnI_4 cAhie_4/,_0+1+3/kAma_2/boXa_5 ,_4/honA_5/karanA_2/kArya_0+1+3 cAhie_2+5/karanA_0+1+3/kAma_4 cAhie_0+1+3/,_2+5/karanA_4 cAhie_4/,_0+1+3/svAyawwa_2/kArya_5 ,_4/honA_2/karanA_5/svAyawwa_0+1+3 cAhie_2+5/honA_0+1+3/svAyawwa_4 cAhie_0+1+3/,_5/honA_4/(_2 cAhie_4/svAyawwa_5/(_0+1+3/kuCa_2 honA_5/(_4/kuCa_0+1+3/haxa_2 cAhie_5/kuCa_4/haxa_0+1+3/waka_2 (_5/haxa_4/waka_0+1+3 kuCa_5/waka_4/)_0+1+3 haxa_5/)_4/._1 waka_5 )_5

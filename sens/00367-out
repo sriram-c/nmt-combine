@@ -1,6 +1,15 @@
-isake	isa	alAvA	raNanIwi	isa	ke	raNanIwi	alAvA	gaharAI	ko	pahalI	gaharAI	pahale	saPalawApUrvaka	Koja	gaharAI	pahale	ke	Koja	pahalI	Koja	ke	sAWa	saPalawApUrvaka	ke	sAWa	niyojiwa	sAWa	saPalawApUrvaka	kiyA	niyojiwa	jA	kiyA	sakawA	jA	hE	sakawA	Ora	hE	Ora	awirikwa	awirikwa	BaMdAraNa	kI	BaMdAraNa	AvaSyakawA	kI	nahIM	AvaSyakawA	hE}	hE	.
-1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
-1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
+ENG: Besides this strategy can be employed successfully with depth first search and not require additional storage.
+
+ANU: sAWa hI yaha yukwi gamBIra_praWama anveRaNa se saPalawApUrvaka upayoga kI jA sakawI hE Ora awirikwa mAla_kI raKAvAI kI AvaSyakawA_nahIM_ho sakawI hE.
+
+0 NMT: isake alAvA isa raNanIwi gaharAI pahalI Koja ke sAWa saPalawApUrvaka niyojiwa kiyA jA sakawA hE Ora awirikwa BaMdAraNa kI AvaSyakawA nahIM hE .
+
+1 NMT: isa raNanIwi ke alAvA gaharAI pahalI Koja ke sAWa saPalawApUrvaka niyojiwa kiyA jA sakawA hE Ora awirikwa BaMdAraNa kI AvaSyakawA nahIM hE .
+
+2 NMT: isake alAvA isa raNanIwi ko saPalawApUrvaka gaharAI pahalI Koja ke sAWa niyojiwa kiyA jA sakawA hE Ora awirikwa BaMdAraNa kI AvaSyakawA nahIM hE .
+
+3 NMT: isake alAvA isa raNanIwi ko gaharAI pahale Koja ke sAWa saPalawApUrvaka niyojiwa kiyA jA sakawA hE Ora awirikwa BaMdAraNa kI AvaSyakawA nahIM hE .
+
+4 NMT: isake alAvA isa raNanIwi gaharAI pahale Koja ke sAWa saPalawApUrvaka niyojiwa kiyA jA sakawA hE Ora awirikwa BaMdAraNa kI AvaSyakawA nahIM hE .
+
+isa_1/isake_0+2+3+4 raNanIwi_1/alAvA_0+2+3+4 ke_1/isa_0+2+3+4 raNanIwi_0+2+3+4/alAvA_1 gaharAI_0+1+4/ko_2+3 saPalawApUrvaka_2/gaharAI_3/pahalI_0+1/pahale_4 Koja_0+1+4/gaharAI_2/pahale_3 ke_0+1+4/Koja_3/pahalI_2 ke_3/Koja_2/sAWa_0+1+4 ke_2/sAWa_3/saPalawApUrvaka_0+1+4 niyojiwa_0+1+4/sAWa_2/saPalawApUrvaka_3 niyojiwa_2+3/kiyA_0+1+4 kiyA_2+3/jA_0+1+4 jA_2+3/sakawA_0+1+4 hE_0+1+4/sakawA_2+3 hE_2+3/Ora_0+1+4 Ora_2+3/awirikwa_0+1+4 awirikwa_2+3/BaMdAraNa_0+1+4 BaMdAraNa_2+3/kI_0+1+4 kI_2+3/AvaSyakawA_0+1+4 AvaSyakawA_2+3/nahIM_0+1+4 hE_0+1+4/nahIM_2+3 hE_2+3/._0+1+4 ._2+3

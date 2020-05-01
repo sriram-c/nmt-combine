@@ -1,4 +1,11 @@
-wAlikA	eka	sAraNI	AXAriwa	wAlikA	AXAriwa	praNAlI	ke	praNAlI	lie	aneka	ke	kaI	lie	nukasAna	kaI	nukasAna	hEM	nukasAna	hEM	.	.	hEM
-1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	0	1	1	0	1	1	1	1	0	1	1	0	0	1	0	1	1	1	1	1	1	1
+ENG: There are several disadvantages to a table based system.
+
+ANU: praNAlI AXAriwa meja kaI nukasAna hEM .
+
+0 NMT: wAlikA AXAriwa praNAlI ke lie kaI nukasAna hEM .
+
+1 NMT: eka wAlikA AXAriwa praNAlI ke lie kaI nukasAna hEM .
+
+2 NMT: sAraNI AXAriwa praNAlI ke aneka nukasAna hEM .
+
+wAlikA_0/sAraNI_2/eka_1 AXAriwa_0+2/wAlikA_1 AXAriwa_1/praNAlI_0+2 praNAlI_1/ke_0+2 ke_1/lie_0/aneka_2 nukasAna_2/lie_1/kaI_0 nukasAna_0/hEM_2/kaI_1 nukasAna_1/hEM_0/._2 hEM_1/._0 ._1

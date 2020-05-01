@@ -1,10 +1,23 @@
-sWEwika	paryAvaraNa	vAwAvaraNa	eka	rAjya	avasWA	se	xUsare	rAjya	avasWA	meM	meM	nahIM	baxalawA	nahIM	baxalawA	baxalawA	jabaki	hE	jabaki	ejeMta	ejeMta	aBikarwA	isake	apane	apanI	isake	kArya	kArya	kriyA	kArravAI	-	krama	kI	-	krama	para	xiSA	paxXawi	para	vicAra	vicAra	kara	rahA	kara	hE	howA	rahA	hE	howA	.
-1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	1	1	0	0	0	1	0	0	1	1	0	0	1	1	1	1	1	1	1	0	1	1	0	1
-1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0	0	1	0	0	1	1	0	0	1	1	1	1	1	1	1	0	1	1	0	1
-1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	1	1	0	0	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	0	1
-1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1
-1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	0	0	1	0	0	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	0	1
-1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	1	0	1	1	0	0	1	0	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	0	0	1	0	0	1	0	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Static Environment does not change from one state to the next while the agent is considering its course of action.
+
+ANU: sWira invAiranmanta jaba ki prawiniXi usakA kArya ke Dafga ko mAna rahA hE Age eka rAjya se nahIM baxalawA hE .
+
+0 NMT: sWEwika paryAvaraNa eka rAjya se xUsare rAjya meM nahIM baxalawA jabaki ejeMta apane kArya krama para vicAra kara rahA hE .
+
+1 NMT: sWEwika paryAvaraNa eka rAjya se xUsare rAjya meM nahIM baxalawA jabaki ejeMta isake kArya krama para vicAra kara rahA hE .
+
+2 NMT: sWEwika paryAvaraNa eka rAjya se xUsare rAjya meM nahIM baxalawA jabaki ejeMta apane kArya - krama para vicAra kara rahA hE .
+
+3 NMT: sWEwika paryAvaraNa eka rAjya se xUsare rAjya meM nahIM baxalawA jabaki ejeMta apanI kArravAI kI xiSA para vicAra kara rahA hE .
+
+4 NMT: sWEwika paryAvaraNa eka rAjya se xUsare rAjya meM nahIM baxalawA jabaki ejeMta apanI kArya - paxXawi para vicAra kara rahA hE .
+
+5 NMT: sWEwika vAwAvaraNa eka avasWA se xUsare avasWA meM nahIM baxalawA jabaki aBikarwA apanI kArya - paxXawi para vicAra kara rahA howA hE .
+
+6 NMT: sWEwika vAwAvaraNa eka avasWA se xUsare avasWA meM nahIM baxalawA jabaki ejeMta isake kArya - krama para vicAra kara rahA howA hE .
+
+7 NMT: sWEwika vAwAvaraNa eka avasWA se xUsare meM nahIM baxalawA jabaki ejeMta isake kArya - krama para vicAra kara rahA howA hE .
+
+8 NMT: sWEwika vAwAvaraNa eka avasWA se xUsare meM baxalawA nahIM hE jabaki ejeMta isake kriyA krama para vicAra kara rahA howA hE .
+
+sWEwika_0+1+2+3+4+5+6+7+8 paryAvaraNa_0+1+2+3+4/vAwAvaraNa_5+6+7+8 eka_0+1+2+3+4+5+6+7+8 avasWA_5+6+7+8/rAjya_0+1+2+3+4 se_0+1+2+3+4+5+6+7+8 xUsare_0+1+2+3+4+5+6+7+8 meM_7+8/avasWA_5+6/rAjya_0+1+2+3+4 baxalawA_8/nahIM_7/meM_0+1+2+3+4+5+6 baxalawA_7/nahIM_0+1+2+3+4+5+6+8 hE_8/jabaki_7/baxalawA_0+1+2+3+4+5+6 jabaki_0+1+2+3+4+5+6+8/ejeMta_7 ejeMta_0+1+2+3+4+6+8/isake_7/aBikarwA_5 isake_1+6+8/apanI_3+4+5/kArya_7/apane_0+2 kArya_0+1+2+4+5+6/-_7/kriyA_8/kArravAI_3 krama_0+1+7+8/-_2+4+5+6/kI_3 para_0+1+7+8/krama_2+6/paxXawi_4+5/xiSA_3 para_2+3+4+5+6/vicAra_0+1+7+8 vicAra_2+3+4+5+6/kara_0+1+7+8 kara_2+3+4+5+6/rahA_0+1+7+8 hE_0+1/rahA_2+3+4+5+6/howA_7+8 hE_2+3+4+7+8/._0+1/howA_5+6 hE_5+6/._2+3+4+7+8 ._5+6

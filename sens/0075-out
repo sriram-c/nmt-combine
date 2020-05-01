@@ -1,6 +1,15 @@
-veba	ko>>	sarPa	kareM	kareM	.	.
-1	0	1	1	1	1	1
-1	0	1	1	1	1	1
-1	0	1	1	1	1	1
-1	0	1	1	1	0	0
-1	0	1	1	1	0	0
+ENG: Surf the web.
+
+ANU: jAlA sarasarI wOra para najara dAlie .
+
+0 NMT: veba ko sarPa kareM .
+
+1 NMT: veba sarPa kareM .
+
+2 NMT: veba para sarPa kareM .
+
+3 NMT: veba sarPa kareM
+
+4 NMT: veba para sarPa kareM
+
+veba_0+1+2+3+4 sarPa_1+3/para_2+4/ko_0 sarPa_0+2+4/kareM_1+3 kareM_0+2+4/._1 ._0+2

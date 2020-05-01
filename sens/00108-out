@@ -1,6 +1,15 @@
-prAraMBika	eAI	sistama	praNAliyoM	sAmAnya	meM	praNAliyoM	sAmAnya	kA]	upayoga	Cote	WodZA	,	kiyA]	,}	kama>>	jFAna}	kiyA	.
-1	1	0	1	1	0	1	1	0	1	0	0	1	0	0	0	0	1	1
-1	1	1	1	1	0	1	1	0	1	0	1	1	0	0	0	0	1	1
-1	1	0	1	1	0	1	1	0	1	0	1	1	0	0	0	0	1	1
-1	1	0	1	1	0	1	1	0	1	1	0	1	0	0	0	0	1	1
-1	1	0	1	1	1	1	1	0	0	0	1	1	0	0	0	0	1	1
+ENG: The early AI systems used general systems, little knowledge.
+
+ANU: prAramBika e. AI. praNAliyoM ne sAmAnya praNAliyoM kA, WodA jFAna upayoga kiyA .
+
+0 NMT: prAraMBika eAI praNAliyoM sAmAnya praNAliyoM kA upayoga kiyA , kama jFAna .
+
+1 NMT: prAraMBika eAI sistama sAmAnya praNAliyoM , WodZA jFAna kA upayoga kiyA .
+
+2 NMT: prAraMBika eAI praNAliyoM sAmAnya praNAliyoM , WodZA jFAna kA upayoga kiyA .
+
+3 NMT: prAraMBika eAI praNAliyoM sAmAnya praNAliyoM , Cote jFAna kA upayoga kiyA .
+
+4 NMT: prAraMBika eAI praNAliyoM meM sAmAnya praNAliyoM , WodZA jFAna kA iswemAla kiyA .
+
+prAraMBika_0+1+2+3+4 eAI_0+1+2+3+4 praNAliyoM_0+2+3+4/sistama_1 sAmAnya_0+1+2+3/meM_4 praNAliyoM_0+1+2+3/sAmAnya_4 praNAliyoM_4/,_1+2+3/kA_0 ,_4/upayoga_0/WodZA_1+2/Cote_3 jFAna_1+2+3/kiyA_0/WodZA_4 jFAna_4/,_0/kA_1+2+3 kA_4/upayoga_1+2+3/kama_0 jFAna_0/kiyA_1+2+3/iswemAla_4 ._0+1+2+3/kiyA_4 ._4

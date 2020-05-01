@@ -1,6 +1,15 @@
-ejeMta	eka	kA	ejeMta	lakRya	kA	BUlaBulEyA]	meM	BUlaBulEyA	eka	nevigeta]	karanA	{	7	Ora]	HOME]	sWiwi]	waka]	pahuMcanA	waka	HOME	ho]	sakawA]	hE]	.]
-1	0	1	1	1	1	0	1	1	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
-1	1	1	1	1	1	0	0	1	1	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0
-1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
-1	1	1	1	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+ENG: The goal of an agent may be to navigate a maze and reach the HOME position.
+
+ANU: eka prawiniXi kA lakRya BulaBulEyA sahI mArga pakadanA Ora mUla sWiwi pahuzcane ke lie ho sakawA hE .
+
+0 NMT: ejeMta kA lakRya BUlaBulEyA meM nevigeta karanA Ora HOME sWiwi waka pahuMcanA ho sakawA hE .
+
+1 NMT: ejeMta kA lakRya eka BUlaBulEyA meM nevigeta karane Ora HOME sWiwi waka pahuzcane ke lie ho sakawA hE .
+
+2 NMT: ejeMta kA lakRya eka BUlaBulEyA ko nevigeta karanA Ora HOME sWiwi waka pahuMcanA ho sakawA hE .
+
+3 NMT: eka ejeMta kA lakRya BUlaBulEyA meM nevigeta karane ke lie Ora HOME sWiwi waka pahuzcane ke lie ho sakawA hE .
+
+4 NMT: eka ejeMta kA lakRya eka BUlaBulEyA nevigeta karane ke lie Ora HOME sWiwi waka pahuzcane ke lie ho sakawA hE .
+
+ejeMta_0+1+2/eka_3+4 ejeMta_3+4/kA_0+1+2 kA_3+4/lakRya_0+1+2 lakRya_3+4/BUlaBulEyA_0/eka_1+2 BUlaBulEyA_1+2+3/meM_0/eka_4 nevigeta_0/BUlaBulEyA_4/meM_1+3/ko_2 nevigeta_1+2+3+4/karanA_0 Ora_0/karane_1+3+4/karanA_2 Ora_1+2/HOME_0/ke_3+4 HOME_1+2/sWiwi_0/lie_3+4 Ora_3+4/sWiwi_1+2/waka_0 HOME_3+4/waka_1+2/pahuMcanA_0 ho_0/sWiwi_3+4/pahuzcane_1/pahuMcanA_2 ho_2/sakawA_0/waka_3+4/ke_1 sakawA_2/hE_0/pahuzcane_3+4/lie_1 ho_1/hE_2/._0/ke_3+4 sakawA_1/._2/lie_3+4 ho_3+4/hE_1 sakawA_3+4/._1 hE_3+4 ._3+4

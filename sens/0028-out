@@ -1,5 +1,13 @@
-warka]	Ora]	{	vicAra	3	ke}	niyama	niyamoM	AxarSa	kA	saMbaMXa	yA	warkasaMgawa	AxarSa	vicAra	yA	prakriyA	warkasaMgawa	Ora}	anumAna	niRkarRa	prakriyA	ke}	aXyayana	anumAna	ke	se	saMbaMXiwa	aXyayana	hEM	se	.	hE
-0	0	0	1	0	0	1	0	1	0	0	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	0
-0	0	0	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	0	1	0	1	1	1
-0	0	0	1	0	0	1	0	1	0	0	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1	1	1	1	1	0
-0	0	0	1	0	0	1	0	1	0	0	1	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	0
+ENG: Logic and laws of thought deals with studies of ideal or rational thought process and inference.
+
+ANU: AxarSa yA warkasafgawa ke aXyayana vAloM vicAra dIla kI warka ne Ora niyamoM ne prakriyA Ora anumAna soce .
+
+0 NMT: warka Ora vicAra ke niyama AxarSa yA warkasaMgawa vicAra prakriyA Ora anumAna ke aXyayana se saMbaMXiwa hEM .
+
+1 NMT: vicAra ke warka Ora niyamoM kA saMbaMXa AxarSa yA warkasaMgawa vicAra prakriyA Ora anumAna ke aXyayana se hE .
+
+2 NMT: vicAroM ke warka Ora niyama AxarSa yA warkasaMgawa vicAra prakriyA Ora niRkarRa ke aXyayana se saMbaMXiwa hEM .
+
+3 NMT: vicAroM ke warka Ora niyama AxarSa yA warkasaMgawa vicAra prakriyA Ora anumAna ke aXyayana se saMbaMXiwa hEM .
+
+vicAra_1/warka_0/vicAroM_2+3 ke_1+2+3/Ora_0 vicAra_0/warka_1+2+3 ke_0/Ora_1+2+3 niyama_0+2+3/niyamoM_1 AxarSa_0+2+3/kA_1 yA_0+2+3/saMbaMXa_1 AxarSa_1/warkasaMgawa_0+2+3 vicAra_0+2+3/yA_1 warkasaMgawa_1/prakriyA_0+2+3 Ora_0+2+3/vicAra_1 prakriyA_1/anumAna_0+3/niRkarRa_2 ke_0+2+3/Ora_1 aXyayana_0+2+3/anumAna_1 ke_1/se_0+2+3 aXyayana_1/saMbaMXiwa_0+2+3 se_1/hEM_0+2+3 ._0+2+3/hE_1 ._1

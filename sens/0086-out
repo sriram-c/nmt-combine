@@ -1,5 +1,13 @@
-anya	miWakoM	meM	mAnava	jEsI	kalAkqwiyoM	kalAkqwiyAM	kalAkqwiyAz	kA	SAmila	samAveSa	hEM	hE	howA	.	hE	.
-1	1	1	1	1	1	0	0	1	0	1	0	1	0	1	1	1
-1	1	1	1	1	0	0	1	0	1	0	1	0	0	1	0	1
-1	1	1	1	1	1	0	0	1	0	1	0	1	1	1	1	1
-1	1	1	1	1	0	1	0	0	1	0	1	0	0	1	0	1
+ENG: Other myths involve human-like artifacts.
+
+ANU: anya kalpiwa kaWAez mAnavIya-usI waraha Silpakqwi sammiliwa karawI hEM .
+
+0 NMT: anya miWakoM meM mAnava jEsI kalAkqwiyoM kA samAveSa hE .
+
+1 NMT: anya miWakoM meM mAnava jEsI kalAkqwiyAz SAmila hEM .
+
+2 NMT: anya miWakoM meM mAnava jEsI kalAkqwiyoM kA samAveSa howA hE .
+
+3 NMT: anya miWakoM meM mAnava jEsI kalAkqwiyAM SAmila hEM .
+
+anya_0+1+2+3 miWakoM_0+1+2+3 meM_0+1+2+3 mAnava_0+1+2+3 jEsI_0+1+2+3 kalAkqwiyoM_0+2/kalAkqwiyAM_3/kalAkqwiyAz_1 SAmila_1+3/kA_0+2 hEM_1+3/samAveSa_0+2 ._1+3/hE_0/howA_2 ._0/hE_2 ._2

@@ -1,12 +1,27 @@
-buxXi	vAlI	se	yukwa	yukwa	praNAlI	praNAlI	se	se}	apekRA	mAnava	ke	kI	manuRya	kI	samAna	ke	jAwI	waraha	jAwI	buxXimAnI	samAna	waraha	hE	buxXimAnI	hE	se	samaJaxArI	ki	ki	se	vaha	vyavahAra	vaha	karane	mAnava	vyavahAra	manuRya	manuRya	mAnava	kI	karane	kI	apekRA	waraha	waraha	apekRA	buxXimAnI	kI	samaJaxArI	samaJaxArI	kI	jAwI	se	buxXimAnI	se}	vyavahAra	hE	.	kare	kare	.	.
-1	0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1
-1	1	1	0	0	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	0	0	1	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	0	0	1	1
-1	1	1	0	0	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	0	0	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	0	0	0	1	0	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	0	0	1	1
-1	0	1	1	1	1	1	1	0	1	1	0	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	0	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	0	1	1	0	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	0	0	1	0	1	0	1	0	1	1	1	0	1	1	1	1	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	0	0	1	1
-1	0	1	1	1	1	1	1	0	1	1	0	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	0	0	0	1	0	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	0	0	1	1
-1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	0	0	0	1	0	1	0	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	0	0	1	1
+ENG: A system with intelligence is expected to behave as intelligently as a human.
+
+ANU: jFAna vAlI praNAlI se mAnava jiwanA buxXimawwApUrvaka uwanA vyavahAra karane kI ummIxa kI huI hE .
+
+0 NMT: buxXi se yukwa praNAlI se apekRA kI jAwI hE ki vaha manuRya kI waraha samaJaxArI se vyavahAra kare .
+
+1 NMT: buxXi vAlI praNAlI se apekRA kI jAwI hE ki vaha manuRya kI waraha samaJaxArI se vyavahAra kare .
+
+2 NMT: buxXi se yukwa praNAlI se manuRya kI waraha samaJaxArI se vyavahAra karane kI apekRA kI jAwI hE .
+
+3 NMT: buxXi vAlI praNAlI se apekRA kI jAwI hE ki vaha manuRya kI waraha buxXimAnI se vyavahAra kare .
+
+4 NMT: buxXi vAlI praNAlI se manuRya kI waraha buxXimAnI se vyavahAra karane kI apekRA kI jAwI hE .
+
+5 NMT: buxXi se yukwa praNAlI se apekRA kI jAwI hE ki vaha mAnava kI waraha buxXimAnI se vyavahAra kare .
+
+6 NMT: buxXi yukwa praNAlI se apekRA kI jAwI hE ki vaha manuRya kI waraha buxXimAnI se vyavahAra kare .
+
+7 NMT: buxXi yukwa praNAlI se apekRA kI jAwI hE ki vaha mAnava kI waraha buxXimAnI se vyavahAra kare .
+
+8 NMT: buxXi yukwa praNAlI se manuRya ke samAna buxXimAnI se vyavahAra karane kI apekRA kI jAwI hE .
+
+9 NMT: buxXi se yukwa praNAlI se mAnava kI waraha buxXimAnI se vyavahAra karane kI apekRA kI jAwI hE .
+
+10 NMT: buxXi se yukwa praNAlI se mAnava ke samAna buxXimAnI se vyavahAra karane kI apekRA kI jAwI hE .
+
+buxXi_0+1+2+3+4+5+6+7+8+9+10 se_0+2+5+9+10/yukwa_6+7+8/vAlI_1+3+4 praNAlI_1+3+4+6+7+8/yukwa_0+2+5+9+10 se_1+3+4+6+7+8/praNAlI_0+2+5+9+10 se_0+2+5+9+10/apekRA_1+3+6+7/manuRya_4+8 kI_1+3+4+6+7/apekRA_0+5/mAnava_9+10/manuRya_2/ke_8 kI_0+2+5+9/jAwI_1+3+6+7/waraha_4/ke_10/samAna_8 jAwI_0+5/hE_1+3+6+7/waraha_2+9/buxXimAnI_4+8/samAna_10 se_4+8/hE_0+5/buxXimAnI_9+10/ki_1+3+6+7/samaJaxArI_2 se_2+9+10/vyavahAra_4+8/ki_0+5/vaha_1+3+6+7 vyavahAra_2+9+10/vaha_0+5/karane_4+8/mAnava_7/manuRya_1+3+6 kI_1+3+4+6+7+8/karane_2+9+10/mAnava_5/manuRya_0 kI_0+2+5+9+10/apekRA_4+8/waraha_1+3+6+7 kI_4+8/apekRA_2+9+10/waraha_0+5/buxXimAnI_3+6+7/samaJaxArI_1 se_1+3+6+7/kI_2+9+10/jAwI_4+8/buxXimAnI_5/samaJaxArI_0 se_0+5/jAwI_2+9+10/hE_4+8/vyavahAra_1+3+6+7 hE_2+9+10/vyavahAra_0+5/._4+8/kare_1+3+6+7 ._1+2+3+6+7+9+10/kare_0+5 ._0+5

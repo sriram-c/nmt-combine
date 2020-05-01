@@ -1,11 +1,25 @@
-aBikarwA	ejeMta	ko	vAMCiwa	vAMCiwa	icCiwa	lakRya	lakRya	ko	prApwa	kI	ko	karane	prApwi	prApwa	ke	karane	ke	lie	kAryoM	lie	kriyAoM	kA	kAryoM	kriyAoM	kriyA	anukrama	kA	krama	eka	cunanA	kA	krama	eka	anukrama	cAhie	cayana	krama	cunanA	hogA	.	cunanA	cAhie	karanA
-1	0	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	1	0	0	1	1	0	0	1	1	0	0	1	1	0	0	1	0	1	1	1	0
-1	0	1	0	0	1	1	1	1	0	1	1	0	1	0	1	0	1	1	1	1	0	1	1	0	0	1	1	0	0	1	1	0	0	1	1	0	0	1	0	1	1	1	0
-1	0	1	1	1	0	1	1	1	0	1	1	0	1	0	1	0	1	1	1	1	0	1	1	0	0	1	1	0	0	1	1	0	0	1	1	0	0	1	0	1	1	1	0
-0	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	0	1	1	1	0	0	1	0	1	1	1	0
-0	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	0	1	1	0	0	0	1	1	1	1	0	0
-1	0	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	0	1	0	1	1	0	0	1	1	0	0	1	1	0	0	1	0	1	1	1	0
-1	0	1	0	0	1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	0	1	0	0	1	0	1	1	0	0	1	1	0	0	1	1	1	0	0	1	0	1	1
-1	0	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	0	1	0	0	1	1	0	1	1	1	0	0	1	0	1	1	0	1	1	1	0
-1	0	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	1	0	0	0	1	1	0	1	1	1	0	0	1	0	1	1	0	1	1	1	0
-1	0	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	0	1	0	0	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	0
+ENG: The agent must choose a sequence of actions to achieve the desired goal.
+
+ANU: prawiniXi ko vAsanAwmaka kAmanA kara lakRya hAsila karane ke lie kriyAoM kA eka anukrama cunanA cAhie .
+
+0 NMT: aBikarwA ko vAMCiwa lakRya prApwa karane ke lie kAryoM kA anukrama cunanA cAhie .
+
+1 NMT: aBikarwA ko icCiwa lakRya kI prApwi ke lie kAryoM kA anukrama cunanA cAhie .
+
+2 NMT: aBikarwA ko vAMCiwa lakRya kI prApwi ke lie kAryoM kA anukrama cunanA cAhie .
+
+3 NMT: ejeMta vAMCiwa lakRya ko prApwa karane ke lie kAryoM kA eka anukrama cunanA cAhie .
+
+4 NMT: ejeMta vAMCiwa lakRya ko prApwa karane ke lie kAryoM kA eka anukrama cunanA hogA .
+
+5 NMT: aBikarwA ko vAMCiwa lakRya prApwa karane ke lie kriyAoM kA anukrama cunanA cAhie .
+
+6 NMT: aBikarwA ko icCiwa lakRya ko prApwa karane ke lie kriyA krama kA cayana karanA cAhie .
+
+7 NMT: aBikarwA ko vAMCiwa lakRya ko prApwa karane ke lie kriyAoM kA krama cunanA cAhie .
+
+8 NMT: aBikarwA ko vAMCiwa lakRya ko prApwa karane ke lie kAryoM kA krama cunanA cAhie .
+
+9 NMT: aBikarwA ko vAMCiwa lakRya ko prApwa karane ke lie kriyAoM kA eka krama cunanA cAhie .
+
+aBikarwA_0+1+2+5+6+7+8+9/ejeMta_3+4 ko_0+1+2+5+6+7+8+9/vAMCiwa_3+4 lakRya_3+4/vAMCiwa_0+2+5+7+8+9/icCiwa_1+6 ko_3+4/lakRya_0+1+2+5+6+7+8+9 ko_6+7+8+9/prApwa_0+3+4+5/kI_1+2 prApwa_6+7+8+9/karane_0+3+4+5/prApwi_1+2 ke_0+1+2+3+4+5/karane_6+7+8+9 ke_6+7+8+9/lie_0+1+2+3+4+5 lie_6+7+8+9/kAryoM_0+1+2+3+4/kriyAoM_5 kA_0+1+2+3+4+5/kAryoM_8/kriyAoM_7+9/kriyA_6 kA_7+8+9/anukrama_0+1+2+5/krama_6/eka_3+4 kA_6/cunanA_0+1+2+5/anukrama_3+4/krama_7+8/eka_9 cAhie_0+1+2+5/cunanA_3+4+7+8/krama_9/cayana_6 ._0+1+2+5/cAhie_3+7+8/cunanA_9/karanA_6/hogA_4 ._3+4+7+8/cAhie_6+9 ._6+9

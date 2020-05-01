@@ -1,6 +1,15 @@
-SikRaNa	sIKane	aXigama	vAlA	wawva	praxarSana	wawva	niRpAxana	wawva}	ko	wawva	saMSoXiwa	ko	saMSoXiwa	karawA	hE	karawA	.	hE
-1	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1
-0	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	0	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1
-1	0	0	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1
+ENG: The learning element modifies the performance element.
+
+ANU: jFAna wawva praxarSana wawwva suXArawA hE .
+
+0 NMT: SikRaNa wawva praxarSana wawva ko saMSoXiwa karawA hE .
+
+1 NMT: aXigama wawva niRpAxana wawva ko saMSoXiwa karawA hE .
+
+2 NMT: aXigama wawva praxarSana wawva ko saMSoXiwa karawA hE .
+
+3 NMT: SikRaNa wawva niRpAxana wawva ko saMSoXiwa karawA hE .
+
+4 NMT: sIKane vAlA wawva niRpAxana wawva ko saMSoXiwa karawA hE .
+
+aXigama_1+2/SikRaNa_0+3/sIKane_4 wawva_0+1+2+3/vAlA_4 wawva_4/niRpAxana_1+3/praxarSana_0+2 wawva_0+1+2+3/niRpAxana_4 wawva_4/ko_0+1+2+3 ko_4/saMSoXiwa_0+1+2+3 saMSoXiwa_4/karawA_0+1+2+3 karawA_4/hE_0+1+2+3 hE_4/._0+1+2+3 ._4

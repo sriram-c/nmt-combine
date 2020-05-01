@@ -1,7 +1,17 @@
-yaha	isa	xqRtikoNa	xqSya	vicAra	nirmANa	una	meM	maSInoM	una	nirmANa	se	maSInoM	saMbaMXiwa	se	ke	hE	nirmANa	saMbaMXiwa	jo	ke	kA	hE	warkasaMgawa	jo	varNana	bAre	rUpa	hE	warkasaMgawa	meM	DaMga	jo	rUpa	se	bawAyA	kArya	se	gayA	warkasaMgawa	karawI	karawe	hE	kArya	DaMga	jo	se	hEM	karawI	.	hEM	warkasaMgawa	kArya
-1	0	1	0	0	1	0	0	1	0	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	0	1	1	1	0	0	1	1	1	0	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	0	1	1	1	0	0	1	1	1	0	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1
-1	0	0	1	0	1	0	0	1	0	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	0	1	1	1	0	0	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	1	0	1	1	1	1
-1	0	0	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	0	0	1	1	0	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	0	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	0
+ENG: This view deals with building machines that act rationally.
+
+ANU: yaha imArawa maSInoM se jo warkasafgawa Dafga se kArya karawI hEM dIla xeKawA hE .
+
+0 NMT: yaha xqRtikoNa nirmANa maSInoM se saMbaMXiwa hE jo warkasaMgawa rUpa se kArya karawI hEM .
+
+1 NMT: yaha xqRtikoNa una nirmANa maSInoM se saMbaMXiwa hE jo warkasaMgawa rUpa se kArya karawI hEM .
+
+2 NMT: yaha xqSya nirmANa maSInoM se saMbaMXiwa hE jo warkasaMgawa rUpa se kArya karawe hEM .
+
+3 NMT: yaha vicAra una nirmANa maSInoM se saMbaMXiwa hE jo warkasaMgawa DaMga se kArya karawI hEM .
+
+4 NMT: isa xqSya meM una maSInoM ke nirmANa kA varNana hE jo warkasaMgawa DaMga se kArya karawI hEM .
+
+5 NMT: isa xqSya meM una maSInoM ke nirmANa ke bAre meM bawAyA gayA hE jo warkasaMgawa DaMga se kAma karawI hEM .
+
+isa_4+5/yaha_0+1+2+3 xqSya_2+4+5/vicAra_3 nirmANa_0+2/una_1+3/meM_4+5 maSInoM_0+2/nirmANa_1+3/una_4+5 se_0+2/maSInoM_1+3+4+5 se_1+3/saMbaMXiwa_0+2/ke_4+5 hE_0+2/nirmANa_4+5/saMbaMXiwa_1+3 hE_1+3/jo_0+2/ke_5/kA_4 jo_1+3/warkasaMgawa_0+2/bAre_5/varNana_4 hE_4/warkasaMgawa_1+3/meM_5/rUpa_0+2 se_0+2/jo_4/DaMga_3/rUpa_1/bawAyA_5 se_1+3/warkasaMgawa_4/kArya_0+2/gayA_5 hE_5/karawI_0/kArya_1+3/DaMga_4/karawe_2 se_4/jo_5/hEM_0+2/karawI_1+3 warkasaMgawa_5/hEM_1+3/._0+2/kArya_4 ._1+3/karawI_4/DaMga_5 se_5/hEM_4 ._4/kAma_5 karawI_5 hEM_5 ._5

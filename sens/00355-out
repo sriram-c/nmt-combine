@@ -1,5 +1,13 @@
-kaI	mAmaloM	meM	hama	bAra	xoharAyA	Koja	->>	bAra	rAjya	ko	viswAra	rAjya	saMSoXiwa	se	viswAra	rAjya	viswAra	bacane	se	se	viswAra	bacane	ke	se	bacane	lie	ke	ke	bacane	Koja	lie	lie	ke	elgoriWma	Koja	Koja}	elgoriWma}	ko}	saMSoXiwa}	kara}	sakawe}	hEM}
-1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0
-1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0
-1	1	1	1	0	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0
-1	1	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0
+ENG: In many cases we can modify the search algorithm to avoid repeated state expansions.
+
+ANU: bahuwa mAmaloM meM hama punarAvarwI rAjya prasAra ko tAlane ke lie walASa praNAlI suXAra sakawe hEM .
+
+0 NMT: kaI mAmaloM meM hama bAra - bAra rAjya viswAra se bacane ke lie Koja elgoriWma ko saMSoXiwa kara sakawe hEM .
+
+1 NMT: kaI mAmaloM meM hama bAra bAra rAjya viswAra se bacane ke lie Koja elgoriWma ko saMSoXiwa kara sakawe hEM .
+
+2 NMT: kaI mAmaloM meM hama Koja elgoriWma ko saMSoXiwa rAjya viswAra se bacane ke lie saMSoXiwa kara sakawe hEM .
+
+3 NMT: kaI mAmaloM meM hama xoharAyA rAjya viswAra se bacane ke lie Koja elgoriWma ko saMSoXiwa kara sakawe hEM .
+
+kaI_0+1+2+3 mAmaloM_0+1+2+3 meM_0+1+2+3 hama_0+1+2+3 Koja_2/xoharAyA_3/bAra_0+1 rAjya_3/elgoriWma_2/bAra_1/-_0 rAjya_1/viswAra_3/ko_2/bAra_0 saMSoXiwa_2/rAjya_0/viswAra_1/se_3 rAjya_2/viswAra_0/se_1/bacane_3 viswAra_2/se_0/bacane_1/ke_3 se_2/bacane_0/ke_1/lie_3 bacane_2/ke_0/lie_1/Koja_3 ke_2/lie_0/Koja_1/elgoriWma_3 lie_2/Koja_0/elgoriWma_1/ko_3 saMSoXiwa_2+3/elgoriWma_0/ko_1 saMSoXiwa_1/kara_2+3/ko_0 saMSoXiwa_0/kara_1/sakawe_2+3 kara_0/sakawe_1/hEM_2+3 sakawe_0/hEM_1/._2+3 hEM_0/._1 ._0

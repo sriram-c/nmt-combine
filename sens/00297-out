@@ -1,7 +1,17 @@
-hama	jalxa	SIGra	hI	xeKeMge	ki	krama]	jisameM>>	uwwarAXikAriyoM	jisa	meM	ko	uwwarAXikAriyoM	krama	JAlara	ko	meM	meM}	raKA	meM	kiyA	jAwA	raKA	jAwA	hE	Koja]	elgoriWma]	kI]	saMpawwi]	kA	elgoriWma	kI	saMpawwi	nirXAraNa	kA	kI	saMpawwi	karegA]	.]
-1	1	0	1	1	1	0	0	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	0	0
-1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	0	0
-1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	0	0
-1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	0	0	0	0	1	1	1	0	0	1	1	0	0
-1	0	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	0	1	1	1	0	1	1	0	0	0	0	1	1	1	1	1	1	1	1	0	0
-1	0	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	0	0
+ENG: We will soon see that the order in which the successors are put in fringe will determine the property of the search algorithm.
+
+ANU: hama SIGra xeKeMge ki jisameM vArisa kinAre meM dAle jAwe hEM jo vaha AjFA walASa praNAlI kA guNa nirXAriwa karegI .
+
+0 NMT: hama jalxa hI xeKeMge ki krama jisameM uwwarAXikAriyoM ko JAlara meM raKA jAwA hE Koja elgoriWma kI saMpawwi kA nirXAraNa karegA .
+
+1 NMT: hama jalxa hI xeKeMge ki jisa krama meM uwwarAXikAriyoM ko JAlara meM raKA jAwA hE vaha Koja elgoriWma kI saMpawwi kA nirXAraNa karegA .
+
+2 NMT: hama jalxa hI xeKeMge ki jisa krama meM uwwarAXikAriyoM ko JAlara meM raKA jAwA hE , vaha Koja elgoriWma kI saMpawwi kA nirXAraNa karegA .
+
+3 NMT: hama jalxa hI xeKeMge ki jisa krama meM uwwarAXikAriyoM ko JAlara meM raKA jAwA hE , vaha Koja elgoriWma kI saMpawwi nirXAriwa karegA .
+
+4 NMT: hama SIGra hI xeKeMge ki uwwarAXikAriyoM ko jisa krama meM pAliwa kiyA jAwA hE vaha Koja elgoriWma kI saMpawwi kA nirXAraNa karegA .
+
+5 NMT: hama SIGra hI xeKeMge ki jisa krama meM uwwarAXikAriyoM ko PriMga meM raKA jAwA hE , vaha Koja elgoriWma kI saMpawwi kA nirXAraNa karegA .
+
+hama_0+1+2+3+4+5 jalxa_0+1+2+3/SIGra_4+5 hI_0+1+2+3+4+5 xeKeMge_0+1+2+3+4+5 ki_0+1+2+3+4+5 uwwarAXikAriyoM_4/krama_0/jisa_1+2+3+5 ko_4/krama_1+2+3+5/jisameM_0 meM_1+2+3+5/uwwarAXikAriyoM_0/jisa_4 uwwarAXikAriyoM_1+2+3+5/ko_0/krama_4 meM_4/ko_1+2+3+5/JAlara_0 meM_0/JAlara_1+2+3/PriMga_5/pAliwa_4 meM_1+2+3+5/raKA_0/kiyA_4 jAwA_0+4/raKA_1+2+3+5 jAwA_1+2+3+5/hE_0+4 Koja_0/hE_1+2+3+5/vaha_4 Koja_4/elgoriWma_0/vaha_1/,_2+3+5 Koja_1/elgoriWma_4/kI_0/vaha_2+3+5 Koja_2+3+5/elgoriWma_1/kI_4/saMpawwi_0 elgoriWma_2+3+5/kI_1/saMpawwi_4/kA_0 kI_2+3+5/saMpawwi_1/kA_4/nirXAraNa_0 saMpawwi_2+3+5/karegA_0/kA_1/nirXAraNa_4 karegA_4/._0/kA_2+5/nirXAraNa_1/nirXAriwa_3 karegA_1+3/._4/nirXAraNa_2+5 karegA_2+5/._1+3 ._2+5

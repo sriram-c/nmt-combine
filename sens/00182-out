@@ -1,6 +1,15 @@
-paryAvaraNa	vAwAvaraNa	meM	kevala	ekamAwra	vahI	ve	parivarwana	hI>>	ejeMta]	ke]	kAraNa]	howe	ejeMta	svayaM	hEM}	.]
-1	0	1	1	0	0	0	1	0	0	0	0	1	1	0	0	0
-1	0	1	1	0	0	1	1	0	0	0	0	1	1	1	0	0
-0	1	1	1	0	1	0	1	0	0	0	0	1	1	0	0	0
-0	1	1	0	1	0	1	1	0	0	0	0	1	1	1	0	0
-0	1	1	1	0	0	1	1	0	0	0	0	1	1	1	0	0
+ENG: The only changes to the environment are those caused by the agent itself.
+
+ANU: paryAvaraNa ekamAwra baxalAva prawiniXi ke xvArA svayam kAraNa bane gaye ki hEM .
+
+0 NMT: paryAvaraNa meM kevala parivarwana hI ejeMta ke kAraNa howe hEM .
+
+1 NMT: paryAvaraNa meM kevala ve parivarwana howe hEM jo svayaM ejeMta ke kAraNa howe hEM .
+
+2 NMT: vAwAvaraNa meM kevala vahI parivarwana howe hEM jo ejeMta ke kAraNa howe hEM .
+
+3 NMT: vAwAvaraNa meM ekamAwra parivarwana ve hEM jo svayaM ejeMta ke kAraNa howe hEM .
+
+4 NMT: vAwAvaraNa meM kevala ve parivarwana howe hEM jo svayaM ejeMta ke kAraNa howe hEM .
+
+vAwAvaraNa_2+3+4/paryAvaraNa_0+1 meM_0+1+2+3+4 kevala_0+1+2+4/ekamAwra_3 parivarwana_0+3/ve_1+4/vahI_2 parivarwana_1+2+4/ve_3/hI_0 hEM_3/howe_1+2+4/ejeMta_0 hEM_1+2+4/ke_0/jo_3 kAraNa_0/jo_1+2+4/svayaM_3 howe_0/ejeMta_2+3/svayaM_1+4 hEM_0/ejeMta_1+4/ke_2+3 ke_1+4/kAraNa_2+3/._0 howe_2+3/kAraNa_1+4 hEM_2+3/howe_1+4 hEM_1+4/._2+3 ._1+4

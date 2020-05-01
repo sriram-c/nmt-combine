@@ -1,9 +1,21 @@
-nayA	vAhana	vAwAvaraNa	jisa	jisameM	nae	vAhana	vAwAvaraNa	aMxara	sWiwa	SAmila	BramaNaSIla	meM	hE	hE	,	prakqwi	,	kA	prakqwi	stocastika	howA	vaha	prakqwi	meM	stocestika	meM	prakqwi	hE	stocestika	stocestika	stocAstika	kA	hE	stecastika	meM	.	hE}	.	hE
-1	1	1	0	1	0	1	1	1	0	0	0	1	1	1	1	1	1	0	1	0	0	0	1	1	1	1	1	1	1	1	0	0	1	0	1	1	0	1	1
-1	1	1	0	1	0	1	1	1	0	0	0	1	1	1	1	1	1	0	1	0	0	0	1	1	0	1	1	1	0	0	1	0	1	0	1	1	0	1	1
-1	1	1	0	1	0	1	1	0	0	0	0	1	1	1	1	1	1	0	1	0	0	0	1	1	1	1	1	1	1	1	0	0	1	0	1	1	0	1	1
-1	1	1	0	1	0	1	1	1	0	0	0	1	1	1	1	1	1	0	1	0	0	0	1	1	0	1	1	1	0	0	0	0	1	1	1	1	0	1	1
-0	1	1	1	0	1	1	1	0	0	0	0	1	1	1	1	1	1	0	1	0	0	1	1	1	0	1	1	1	0	0	0	0	1	0	1	1	0	1	1
-1	1	1	0	1	0	1	1	0	0	0	1	0	1	1	0	1	0	1	1	0	1	0	1	0	0	0	1	1	0	0	0	1	1	0	0	1	0	1	1
-1	1	1	0	1	0	1	1	0	1	0	0	0	1	1	1	1	1	1	1	1	0	0	1	0	0	0	1	1	0	0	0	1	1	0	0	1	0	1	1
-1	1	1	0	1	0	1	1	0	0	1	0	0	1	1	1	1	1	1	1	0	0	0	1	0	1	0	1	1	1	1	0	1	1	0	0	1	0	1	1
+ENG: The new environment in which the vehicle is in is stochastic in nature.
+
+ANU: vaha nayA vAwAvaraNa jisameM vAhana meM hE prakqwi meM stovkEstika hE .
+
+0 NMT: nayA vAwAvaraNa jisameM vAhana aMxara hE , prakqwi meM stocestika hE .
+
+1 NMT: nayA vAwAvaraNa jisameM vAhana aMxara hE , prakqwi meM stocAstika hE .
+
+2 NMT: nayA vAwAvaraNa jisameM vAhana hE , prakqwi meM stocestika hE .
+
+3 NMT: nayA vAwAvaraNa jisameM vAhana aMxara hE , prakqwi meM stecastika hE .
+
+4 NMT: vAhana jisa nae vAwAvaraNa meM hE , vaha prakqwi meM niSceRta hE .
+
+5 NMT: nayA vAwAvaraNa jisameM vAhana BramaNaSIla prakqwi kA howA hE .
+
+6 NMT: nayA vAwAvaraNa jisameM vAhana sWiwa hE , stocastika prakqwi kA hE .
+
+7 NMT: nayA vAwAvaraNa jisameM vAhana SAmila hE , stocestika prakqwi kA hE .
+
+vAhana_4/nayA_0+1+2+3+5+6+7 vAwAvaraNa_0+1+2+3+5+6+7/jisa_4 jisameM_0+1+2+3+5+6+7/nae_4 vAhana_0+1+2+3+5+6+7/vAwAvaraNa_4 hE_2/aMxara_0+1+3/meM_4/SAmila_7/sWiwa_6/BramaNaSIla_5 hE_0+1+3+4+6+7/prakqwi_5/,_2 prakqwi_2/,_0+1+3+4+6+7/kA_5 prakqwi_0+1+3/meM_2/stocestika_7/stocastika_6/howA_5/vaha_4 hE_5/prakqwi_4+6+7/meM_0+1+3/stocestika_2 hE_2/._5/kA_6+7/meM_4/stocestika_0/stecastika_3/stocAstika_1 hE_0+1+3+6+7/._2/niSceRta_4 hE_4/._0+1+3+6+7 ._4

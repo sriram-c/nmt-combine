@@ -1,9 +1,21 @@
-hamAre	hama	pAsa	BI	soYPtaveyara	ejeMta	ejeMtoM	yA	soYPtabotsa	soYPtaboYta	BI	hE	hEM	howe	ki	jo	jinakA	hEM	seMsara	seMsara	jinameM	jo	jinake	Ora	ke	ke	seMsara	pravarwaka	rUpa	rUpa	ke	meM	rUpa	meM	kuCa	kuCa	kAryoM	meM	kArya	kArya	kuCa	karawA	Ora	karawe	hE	pravarwakoM	kAryoM	howA	kArya	hEM	hE	howe	karawe	ke	Ora	Ora	kuCa	hEM	rUpa	.	kuCa}	kArya	ke	kuCa	karwA	kArya	rUpa	ke}	rUpa}	meM}	karawe	hE	meM	.	hEM	howe	karawe	.	hEM	.
-1	0	1	1	1	1	0	1	1	0	1	0	1	0	0	1	0	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	0	0	0	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	1	0	1	1	1	0	1	1	1	1
-1	0	1	1	1	1	0	1	1	0	1	0	1	1	0	1	0	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	0	1	1	0	1	1	1	0	0	0	1	1	1	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	0	1	1	1	1	0	0	1	1	1
-1	0	1	1	1	1	0	1	1	0	1	0	1	1	0	0	0	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	0	0	0	0	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	0	0	1	1	1	1	0	1	1	1
-1	0	1	1	1	1	0	1	1	0	1	0	1	1	0	0	0	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	0	0	0	0	0	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	0	0	1	1	1	1	0	1	1	1
-0	1	0	1	1	0	1	1	1	0	1	1	0	0	1	0	0	0	1	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	0	1	0	1	0	0	1	1	1	1	0	1	1	0	1	1	1	0	1	1	0	0	0	0	1	1	1	0	0	0	1	0	1
-0	1	0	1	1	0	1	1	0	1	1	1	0	0	1	0	0	0	1	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	0	1	0	0	1	1	1	1	0	1	1	0	1	1	1	0	1	1	0	0	0	0	1	1	1	0	0	0	1	0	1
-0	1	0	1	1	0	1	1	0	1	1	1	0	0	1	0	0	0	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	0	1	0	1	0	0	0	1	0	0	1	1	1	1	0	1	1	0	0	1	1	0	0	1	0	0	0	0	1	1	1	0	0	0	1	0	1
+ENG: We also have software agents or softbots that have some functions as sensors and some functions as actuators.
+
+ANU: hamAre BI soYPtaveyara prawiniXi yA softbots hE jinake seMsara ke jEsA kuCa samAroha Ora pravarwakoM ke jEsA kuCa samAroha hEM .
+
+0 NMT: hamAre pAsa soYPtaveyara ejeMta yA soYPtabotsa BI hEM jo seMsara ke rUpa meM kuCa kArya karawe hEM Ora kuCa kArya karwA ke rUpa meM karawe hEM .
+
+1 NMT: hamAre pAsa soYPtaveyara ejeMta yA soYPtabotsa BI howe hEM jo seMsara ke rUpa meM kuCa kArya karawe hEM Ora kuCa kArya karwA ke rUpa meM karawe hEM .
+
+2 NMT: hamAre pAsa soYPtaveyara ejeMta yA soYPtabotsa BI hEM jinakA seMsara ke rUpa meM kuCa kArya howA hE Ora kuCa kArya karwA ke rUpa meM .
+
+3 NMT: hamAre pAsa soYPtaveyara ejeMta yA soYPtabotsa BI howe hEM jinameM seMsara ke rUpa meM kuCa kArya howe hEM Ora kuCa kArya karwA ke rUpa meM howe hEM .
+
+4 NMT: hamAre pAsa soYPtaveyara ejeMta yA soYPtabotsa BI howe hEM jinake seMsara ke rUpa meM kuCa kArya howe hEM Ora kuCa kArya karwA ke rUpa meM howe hEM .
+
+5 NMT: hama BI soYPtaveyara ejeMtoM yA soYPtabotsa hE ki seMsara ke rUpa meM kuCa kArya karawA hE Ora kuCa sakriyaka ke rUpa meM kArya karawA hE .
+
+6 NMT: hama BI soYPtaveyara ejeMtoM yA soYPtaboYta hE ki seMsara ke rUpa meM kuCa kAryoM Ora pravarwakoM ke rUpa meM kuCa kArya hE .
+
+7 NMT: hama BI soYPtaveyara ejeMtoM yA soYPtaboYta hE ki seMsara Ora pravarwaka ke rUpa meM kuCa kAryoM hE .
+
+hamAre_0+1+2+3+4/hama_5+6+7 BI_5+6+7/pAsa_0+1+2+3+4 soYPtaveyara_0+1+2+3+4+5+6+7 ejeMta_0+1+2+3+4/ejeMtoM_5+6+7 yA_0+1+2+3+4+5+6+7 soYPtabotsa_0+1+2+3+4+5/soYPtaboYta_6+7 hE_5+6+7/BI_0+1+2+3+4 ki_5+6+7/hEM_0+2/howe_1+3+4 seMsara_5+6+7/hEM_1+3+4/jo_0/jinakA_2 ke_5+6/Ora_7/seMsara_0+2/jo_1/jinake_4/jinameM_3 ke_0+2/rUpa_5+6/seMsara_1+3+4/pravarwaka_7 ke_1+3+4+7/rUpa_0+2/meM_5+6 rUpa_1+3+4+7/meM_0+2/kuCa_5+6 meM_1+3+4+7/kuCa_0+2/kArya_5/kAryoM_6 kuCa_1+3+4+7/Ora_6/kArya_0+2/karawA_5 hE_5/kArya_1+3+4/kAryoM_7/karawe_0/pravarwakoM_6/howA_2 ke_6/hE_2+7/Ora_5/hEM_0/karawe_1/howe_3+4 rUpa_6/kuCa_5/._7/Ora_0+2/hEM_1+3+4 meM_6/kuCa_0+2/Ora_1+3+4/sakriyaka_5 ke_5/kuCa_1+3+4+6/kArya_0+2 rUpa_5/kArya_1+3+4+6/karwA_0+2 ke_0+2/meM_5/hE_6/karwA_1+3+4 ke_1+3+4/rUpa_0+2/._6/kArya_5 rUpa_1+3+4/meM_0+2/karawA_5 meM_1+3+4/hE_5/._2/karawe_0 ._5/hEM_0/karawe_1/howe_3+4 ._0/hEM_1+3+4 ._1+3+4

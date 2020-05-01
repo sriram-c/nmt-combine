@@ -1,8 +1,19 @@
-isa	sabaka	pATa	meM	hama	newrahIna	aMXe	Koja	yA	anajAne	asaMsUciwa	virUpiwa	jAnakArIhIna	jAnakArI	Koja}	ke	bAre	meM}	bAwa	kareMge	jo	samasyA	domena	ke}	bAre}	meM}	koI	kisI	awirikwa	jAnakArI	2	3	kA	upayoga	nahIM	karawA	hE	.
-1	1	0	1	1	1	0	1	1	1	0	0	0	1	0	1	1	0	1	1	1	1	1	0	0	0	1	0	1	1	0	0	1	1	1	1	1	1
-1	1	0	1	1	1	0	1	1	0	0	0	1	1	0	1	1	0	1	1	1	1	1	0	0	0	1	0	1	1	0	0	1	1	1	1	1	1
-1	1	0	1	1	1	0	1	1	0	0	0	0	1	0	1	1	0	1	1	1	1	1	0	0	0	1	0	1	1	0	0	1	1	1	1	1	1
-1	0	1	1	1	0	1	1	1	1	0	0	0	1	0	1	1	0	1	1	1	1	1	0	0	0	1	0	1	1	0	0	1	1	1	1	1	1
-1	1	0	1	1	1	0	1	1	0	1	0	0	1	0	1	1	0	1	1	1	1	1	0	0	0	0	1	1	1	0	0	1	1	1	1	1	1
-1	1	0	1	1	1	0	1	1	0	0	1	0	1	0	1	1	0	1	1	1	1	1	0	0	0	1	0	1	1	0	0	1	1	1	1	1	1
-1	1	0	1	1	0	1	1	1	0	0	1	0	1	0	1	1	0	1	1	1	1	1	0	0	0	1	0	1	1	0	0	1	1	1	1	1	1
+ENG: In this lesson we will talk about blind search or uninformed search that does not use any extra information about the problem domain.
+
+ANU: isa pATa meM hama anXI walASa yA anaBijFa walASa ke bAre meM jo samasyA kRewra ke bAre meM koI aXika sUcanA kA upayoga nahIM karawI hE bAwacIwa kareMge .
+
+0 NMT: isa sabaka meM hama newrahIna Koja yA anajAne Koja ke bAre meM bAwa kareMge jo samasyA domena ke bAre meM koI awirikwa jAnakArI kA upayoga nahIM karawA hE .
+
+1 NMT: isa sabaka meM hama newrahIna Koja yA jAnakArIhIna Koja ke bAre meM bAwa kareMge jo samasyA domena ke bAre meM koI awirikwa jAnakArI kA upayoga nahIM karawA hE .
+
+2 NMT: isa sabaka meM hama newrahIna Koja yA jAnakArI Koja ke bAre meM bAwa kareMge jo samasyA domena ke bAre meM koI awirikwa jAnakArI kA upayoga nahIM karawA hE .
+
+3 NMT: isa pATa meM hama aMXe Koja yA anajAne Koja ke bAre meM bAwa kareMge jo samasyA domena ke bAre meM koI awirikwa jAnakArI kA upayoga nahIM karawA hE .
+
+4 NMT: isa sabaka meM hama newrahIna Koja yA asaMsUciwa Koja ke bAre meM bAwa kareMge jo samasyA domena ke bAre meM kisI awirikwa jAnakArI kA upayoga nahIM karawA hE .
+
+5 NMT: isa sabaka meM hama newrahIna Koja yA virUpiwa Koja ke bAre meM bAwa kareMge jo samasyA domena ke bAre meM koI awirikwa jAnakArI kA upayoga nahIM karawA hE .
+
+6 NMT: isa sabaka meM hama aMXe Koja yA virUpiwa Koja ke bAre meM bAwa kareMge jo samasyA domena ke bAre meM koI awirikwa jAnakArI kA upayoga nahIM karawA hE .
+
+isa_0+1+2+3+4+5+6 sabaka_0+1+2+4+5+6/pATa_3 meM_0+1+2+3+4+5+6 hama_0+1+2+3+4+5+6 newrahIna_0+1+2+4+5/aMXe_3+6 Koja_0+1+2+3+4+5+6 yA_0+1+2+3+4+5+6 jAnakArI_2/virUpiwa_5+6/anajAne_0+3/asaMsUciwa_4/jAnakArIhIna_1 Koja_0+1+2+3+4+5+6 ke_0+1+2+3+4+5+6 bAre_0+1+2+3+4+5+6 meM_0+1+2+3+4+5+6 bAwa_0+1+2+3+4+5+6 kareMge_0+1+2+3+4+5+6 jo_0+1+2+3+4+5+6 samasyA_0+1+2+3+4+5+6 domena_0+1+2+3+4+5+6 ke_0+1+2+3+4+5+6 bAre_0+1+2+3+4+5+6 meM_0+1+2+3+4+5+6 koI_0+1+2+3+5+6/kisI_4 awirikwa_0+1+2+3+4+5+6 jAnakArI_0+1+2+3+4+5+6 kA_0+1+2+3+4+5+6 upayoga_0+1+2+3+4+5+6 nahIM_0+1+2+3+4+5+6 karawA_0+1+2+3+4+5+6 hE_0+1+2+3+4+5+6 ._0+1+2+3+4+5+6

@@ -1,7 +1,17 @@
-warkasaMgawa	aBikarwA	ejeMta	vaha	hE	howA	hE	jo	warkasaMgawa}	rUpa	yukwisaMgawa	DaMga	warkasaMgawa	se	DaMga	rUpa	se	kArya	kArya	karawA	hE}	hE	arWAwa	sarvowwama	,	arWAwa	saMBava	arWAwa	sarvowwama	DaMga	warIke	sarvowwama	saMBava	se	se}	.	se	warIke
-1	1	0	1	1	0	1	1	0	1	0	0	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1
-1	1	0	1	1	0	1	1	0	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	1	0	1	0	1	0	1	1	0
-1	1	0	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1
-1	1	0	1	1	1	1	1	0	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
-1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1
-1	0	1	1	1	1	1	1	0	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
+ENG: A rational agent is one that acts rationally, that is, is in the best possible manner.
+
+ANU: eka howA hE jo arWAw, warkasafgawa Dafga se kArya karawA hE eka warkasafgawa prawiniXi sarvowwama samBava SiRtAcAra meM hE .
+
+0 NMT: warkasaMgawa aBikarwA vaha hE jo warkasaMgawa rUpa se kArya karawA hE arWAwa sarvowwama saMBava warIke se .
+
+1 NMT: warkasaMgawa aBikarwA vaha hE jo warkasaMgawa DaMga se kArya karawA hE arWAwa sarvowwama DaMga se .
+
+2 NMT: warkasaMgawa aBikarwA vaha howA hE jo warkasaMgawa rUpa se kArya karawA hE arWAwa sarvowwama saMBava warIke se .
+
+3 NMT: warkasaMgawa aBikarwA vaha howA hE jo warkasaMgawa DaMga se kArya karawA hE , arWAwa sarvowwama saMBava warIke se kArya karawA hE .
+
+4 NMT: warkasaMgawa aBikarwA vaha howA hE jo yukwisaMgawa DaMga se kArya karawA hE arWAwa sarvowwama saMBava warIke se kArya karawA hE .
+
+5 NMT: warkasaMgawa ejeMta vaha howA hE jo warkasaMgawa DaMga se kArya karawA hE , arWAwa sarvowwama saMBava warIke se .
+
+warkasaMgawa_0+1+2+3+4+5 aBikarwA_0+1+2+3+4/ejeMta_5 vaha_0+1+2+3+4+5 hE_0+1/howA_2+3+4+5 hE_2+3+4+5/jo_0+1 warkasaMgawa_0+1/jo_2+3+4+5 warkasaMgawa_2+3+5/DaMga_1/rUpa_0/yukwisaMgawa_4 se_0+1/DaMga_3+4+5/rUpa_2 se_2+3+4+5/kArya_0+1 kArya_2+3+4+5/karawA_0+1 hE_0+1/karawA_2+3+4+5 hE_2+3+4+5/arWAwa_0+1 arWAwa_2+4/sarvowwama_0+1/,_3+5 arWAwa_3+5/sarvowwama_2+4/DaMga_1/saMBava_0 se_1/sarvowwama_3+5/saMBava_2+4/warIke_0 se_0/._1/saMBava_3+5/warIke_2+4 se_2+4/._0/warIke_3+5 se_3+5/kArya_4/._2 kArya_3/karawA_4/._5 hE_4/karawA_3 hE_3/._4 ._3

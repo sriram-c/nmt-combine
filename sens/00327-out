@@ -1,6 +1,15 @@
-badZe	rAjya	rAjyoM	sWAnoM	[	3	ke}	lie]	,	{	6	pUre	,	saMpUrNa	aMwarikRa	spesa	pUre	kA	aMwarikRa	sWAna	prawiniXiwva	kA	karanA	prawiniXiwva	vyAvahArika	karanA	nahIM	vyAvahArika	hE	nahIM	.	hE
-1	1	0	1	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	0	0	0	0	1	0	0	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: For large state spaces, it is not practical to represent the whole space.
+
+ANU: badI rAjya jagaha ke lie, yaha pUrI jagaha vyakwa karanA vyAvahArika nahIM hE .
+
+0 NMT: badZe rAjya sWAnoM ke lie , pUre aMwarikRa kA prawiniXiwva karanA vyAvahArika nahIM hE .
+
+1 NMT: badZe rAjya ke sWAnoM ke lie , pUre sWAna kA prawiniXiwva karanA vyAvahArika nahIM hE .
+
+2 NMT: badZe rAjyoM ke sWAnoM ke lie saMpUrNa aMwarikRa kA prawiniXiwva karanA vyAvahArika nahIM hE .
+
+3 NMT: badZe rAjyoM ke sWAnoM ke lie , pUre aMwarikRa kA prawiniXiwva karanA vyAvahArika nahIM hE .
+
+4 NMT: badZe rAjyoM ke spesa ke lie pUre spesa kA prawiniXiwva karanA vyAvahArika nahIM hE .
+
+badZe_0+1+2+3+4 rAjyoM_2+3+4/rAjya_0+1 ke_1+2+3+4/sWAnoM_0 ke_0/sWAnoM_1+2+3/spesa_4 ke_1+2+3+4/lie_0 lie_1+2+3+4/,_0 pUre_0+4/,_1+3/saMpUrNa_2 pUre_1+3/aMwarikRa_0+2/spesa_4 kA_0+2+4/aMwarikRa_3/sWAna_1 kA_1+3/prawiniXiwva_0+2+4 prawiniXiwva_1+3/karanA_0+2+4 karanA_1+3/vyAvahArika_0+2+4 vyAvahArika_1+3/nahIM_0+2+4 nahIM_1+3/hE_0+2+4 hE_1+3/._0+2+4 ._1+3

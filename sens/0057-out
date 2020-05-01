@@ -1,7 +1,17 @@
-kamajora	vIka	eAI	kA	pakadZawA	mawa	mAnanA	hE	hE	ki	ki	upayukwa	upayukwa	uciwa	kramAxeSiwa	kramAxeSiwa	rUpa	maSInoM	maSIneM	se	mAnava	kramAxeSiwa	mAnava	saMjFAna	saMjFAna	maSInoM	maSIneM	kA	jFAna	kA}	anukaraNa	saMjFAna	kara	kara	kA	sakawe	ko	sakawI	anukaraNa	simuleta	hEM	hEM	kara	.	sakawI	sakawe	.
-1	0	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	1	1	1	0	1	1	0	0	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	0	1
-0	1	1	1	0	1	0	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	1	1	1	0	1	1	0	0	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	0	1
-1	0	1	1	0	0	1	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	1	0	0	0	1	1	1	0	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	0	1
-1	0	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	0	0	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1
-1	0	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1
-1	0	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	0	0	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1
+ENG: Weak AI holds that suitably programmed machines can simulate human cognition.
+
+ANU: kamajora e. AI. pakadawA hE ki upayukwa rUpa se yojanAbaxXa maSIneM mAnavIya parokRa jFAna xiKAvA kara sakawIM hEM .
+
+0 NMT: kamajora eAI kA mawa hE ki upayukwa kramAxeSiwa maSIneM mAnava saMjFAna kA anukaraNa kara sakawI hEM .
+
+1 NMT: vIka eAI kA mawa hE ki upayukwa kramAxeSiwa maSIneM mAnava saMjFAna kA anukaraNa kara sakawI hEM .
+
+2 NMT: kamajora eAI kA mAnanA hE ki upayukwa kramAxeSiwa maSIneM mAnava jFAna kA anukaraNa kara sakawI hEM .
+
+3 NMT: kamajora eAI kA mAnanA hE ki uciwa rUpa se kramAxeSiwa maSIneM mAnava saMjFAna ko simuleta kara sakawI hEM .
+
+4 NMT: kamajora eAI kA mAnanA hE ki uciwa rUpa se kramAxeSiwa maSInoM mAnava saMjFAna kA anukaraNa kara sakawe hEM .
+
+5 NMT: kamajora eAI pakadZawA hE ki upayukwa kramAxeSiwa maSInoM mAnava saMjFAna kA anukaraNa kara sakawe hEM .
+
+kamajora_0+2+3+4+5/vIka_1 eAI_0+1+2+3+4+5 kA_0+1+2+3+4/pakadZawA_5 hE_5/mAnanA_2+3+4/mawa_0+1 hE_0+1+2+3+4/ki_5 ki_0+1+2+3+4/upayukwa_5 kramAxeSiwa_5/upayukwa_0+1+2/uciwa_3+4 kramAxeSiwa_0+1+2/maSInoM_5/rUpa_3+4 mAnava_5/maSIneM_0+1+2/se_3+4 mAnava_0+1+2/kramAxeSiwa_3+4/saMjFAna_5 kA_5/saMjFAna_0+1/maSIneM_3/maSInoM_4/jFAna_2 kA_0+1+2/mAnava_3+4/anukaraNa_5 kara_5/anukaraNa_0+1+2/saMjFAna_3+4 kA_4/kara_0+1+2/sakawe_5/ko_3 hEM_5/anukaraNa_4/sakawI_0+1+2/simuleta_3 hEM_0+1+2/._5/kara_3+4 ._0+1+2/sakawI_3/sakawe_4 hEM_3+4 ._3+4

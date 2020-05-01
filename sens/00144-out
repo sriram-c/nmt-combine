@@ -1,8 +1,19 @@
-kaI	bahuwa	se	robotika	ejeMta	robotika	saMvexana	ejeMta	Ora	saMvexana	aBinaya	Ora	para	aBinaya	para	jora	xewe	jora	hEM	xewe	,	hEM	Ora	Ora}	unakI	unheM	Ora	samaJa	samaJa	meM	unakI	nahIM	nahIM	meM	samaJa	raKawe	howI	howI	hEM	AwA	nahIM	.	hE	howI	AwA	.	.
-1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	0	1	1	1	1	0	1	1
-1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	1	1	0	1	0	1	1	1	0	1	1	0	1	0	1	1
-1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	0	0	0	1	1	1	1	0	0	1	1	1
-1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	0	0	1	1	0	1	1	0	0	1	0	1	1	0	0	0	1	1
-1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	0	1	1	0	1	0	1	1
-0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	0	1	1	0	1	0	1	1
-1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	0	1	1	1	1	0	0	0	1	1	1	1	1	0	1	1	1
+ENG: Many robotic agents stress sensing and acting, and do not have understanding.
+
+ANU: bahuwa yanwramAnavavaw prawiniXiyoM ke anuBava karanA Ora kArya karawA huA bala xewA hE, Ora samaJa nahIM hE .
+
+0 NMT: kaI robotika ejeMta saMvexana Ora aBinaya para jora xewe hEM , Ora unakI samaJa nahIM howI hE .
+
+1 NMT: kaI robotika ejeMta saMvexana Ora aBinaya para jora xewe hEM , Ora unheM samaJa nahIM howI .
+
+2 NMT: kaI robotika ejeMta saMvexana Ora aBinaya para jora xewe hEM , Ora unheM samaJa meM nahIM AwA .
+
+3 NMT: kaI robotika ejeMta saMvexana Ora aBinaya para jora xewe hEM , Ora samaJa nahIM raKawe hEM .
+
+4 NMT: kaI robotika ejeMta saMvexana Ora aBinaya para jora xewe hEM Ora unakI samaJa nahIM howI .
+
+5 NMT: bahuwa se robotika ejeMta saMvexana Ora aBinaya para jora xewe hEM , Ora unakI samaJa nahIM howI .
+
+6 NMT: kaI robotika ejeMta saMvexana Ora aBinaya para jora xewe hEM , Ora samaJa meM nahIM AwA hE .
+
+kaI_0+1+2+3+4+6/bahuwa_5 robotika_0+1+2+3+4+6/se_5 robotika_5/ejeMta_0+1+2+3+4+6 ejeMta_5/saMvexana_0+1+2+3+4+6 Ora_0+1+2+3+4+6/saMvexana_5 Ora_5/aBinaya_0+1+2+3+4+6 aBinaya_5/para_0+1+2+3+4+6 para_5/jora_0+1+2+3+4+6 jora_5/xewe_0+1+2+3+4+6 hEM_0+1+2+3+4+6/xewe_5 Ora_4/hEM_5/,_0+1+2+3+6 Ora_0+1+2+3+6/,_5/unakI_4 Ora_5/samaJa_3+4+6/unakI_0/unheM_1+2 nahIM_3+4/samaJa_0+1+2/unakI_5/meM_6 nahIM_0+1+6/samaJa_5/howI_4/meM_2/raKawe_3 hEM_3/._4/nahIM_2+5/howI_0+1/AwA_6 ._1+3/howI_5/AwA_2/hE_0+6 ._0+2+5+6

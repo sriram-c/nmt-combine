@@ -1,3 +1,9 @@
-eka]	prAraMBika]	avasWA]	ejeMta}	ke}	prAraMBika}	vinyAsa}	kA}	varNana}	hE	.
-0	0	0	0	0	0	0	0	0	1	1
-0	0	0	0	0	0	0	0	0	1	1
+ENG: An initial state is the description of the starting configuration of the agent.
+
+ANU: AramBika avasWA prawiniXi ke Suru karawA huA samAkqwi kA varNana hE .
+
+0 NMT: eka prAraMBika avasWA ejeMta ke prAraMBika vinyAsa kA varNana hE .
+
+1 NMT: ejeMta ke prAraMBika vinyAsa kA varNana eka prAraMBika avasWA hE .
+
+ejeMta_1/eka_0 prAraMBika_0/ke_1 prAraMBika_1/avasWA_0 ejeMta_0/vinyAsa_1 ke_0/kA_1 prAraMBika_0/varNana_1 vinyAsa_0/eka_1 prAraMBika_1/kA_0 varNana_0/avasWA_1 hE_0+1 ._0+1

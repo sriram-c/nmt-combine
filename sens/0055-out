@@ -1,8 +1,19 @@
-majabUwa	SakwiSAlI	eAI	kA	kahanA	hE	ki	upayukwa	uciwa	kramAxeSiwa	rUpa	kAryakrama	maSIneM	maSInoM	se	saMjFAnAwmaka	kramAxeSiwa	maSInoM	mAnasika	avasWAoM>>	meM	mAnasika	ke	sakRama	lie	rAjyoM	howI	sakRama	ke	hEM	hEM	lie	.	.	sakRama
-1	0	1	1	1	1	1	1	0	1	0	0	1	0	0	1	1	0	1	0	1	1	0	1	0	0	1	1	0	1	1	0	1	1	1
-1	0	1	1	1	1	1	1	0	1	0	0	1	0	0	1	1	0	1	0	1	1	0	1	0	1	0	1	0	1	1	0	1	1	1
-1	0	1	1	1	1	1	1	0	1	0	0	1	0	0	1	1	0	1	0	1	1	0	1	0	1	1	1	0	1	1	0	1	1	1
-1	0	1	1	1	1	1	1	0	1	0	0	1	0	0	1	1	0	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	0	1	0	0	1	0	1	0	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	1	0	1	0	0	0	1	0	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+ENG: Strong AI maintains that suitably programmed machines are capable of cognitive mental states.
+
+ANU: majabUwa e. AI. mAnawA hE ki upayukwa rUpa se yojanAbaxXa maSIneM boXa mAnasika- avasWAoM ke samarWa hEM .
+
+0 NMT: majabUwa eAI kA kahanA hE ki upayukwa kramAxeSiwa maSIneM saMjFAnAwmaka mAnasika avasWAoM meM sakRama howI hEM .
+
+1 NMT: majabUwa eAI kA kahanA hE ki upayukwa kramAxeSiwa maSIneM saMjFAnAwmaka mAnasika rAjyoM meM sakRama hEM .
+
+2 NMT: majabUwa eAI kA kahanA hE ki upayukwa kramAxeSiwa maSIneM saMjFAnAwmaka mAnasika rAjyoM meM sakRama howI hEM .
+
+3 NMT: majabUwa eAI kA kahanA hE ki upayukwa kramAxeSiwa maSIneM saMjFAnAwmaka mAnasika sWiwi ke lie sakRama hEM .
+
+4 NMT: majabUwa eAI kA kahanA hE ki uciwa rUpa se kramAxeSiwa maSInoM saMjFAnAwmaka mAnasika rAjyoM ke lie sakRama hEM .
+
+5 NMT: majabUwa eAI kA kahanA hE ki uciwa kAryakrama maSInoM saMjFAnAwmaka mAnasika rAjyoM ke lie sakRama hEM .
+
+6 NMT: SakwiSAlI eAI kA kahanA hE ki upayukwa kramAxeSiwa maSInoM saMjFAnAwmaka mAnasika rAjyoM ke lie sakRama hEM .
+
+majabUwa_0+1+2+3+4+5/SakwiSAlI_6 eAI_0+1+2+3+4+5+6 kA_0+1+2+3+4+5+6 kahanA_0+1+2+3+4+5+6 hE_0+1+2+3+4+5+6 ki_0+1+2+3+4+5+6 upayukwa_0+1+2+3+6/uciwa_4+5 kramAxeSiwa_0+1+2+3+6/kAryakrama_5/rUpa_4 maSIneM_0+1+2+3/maSInoM_5+6/se_4 saMjFAnAwmaka_0+1+2+3+5+6/kramAxeSiwa_4 mAnasika_0+1+2+3+5+6/maSInoM_4 saMjFAnAwmaka_4/rAjyoM_1+2+5+6/sWiwi_3/avasWAoM_0 mAnasika_4/ke_3+5+6/meM_0+1+2 sakRama_0+1+2/rAjyoM_4/lie_3+5+6 hEM_1/sakRama_3+5+6/ke_4/howI_0+2 hEM_0+2+3+5+6/._1/lie_4 ._0+2+3+5+6/sakRama_4 hEM_4 ._4

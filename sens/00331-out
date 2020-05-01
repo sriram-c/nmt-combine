@@ -1,14 +1,31 @@
-samAna	ekasamAna	eka	samAna	lAgawa	Koja	lAgawa	kI	meM	meM	Koja	nae	nava	meM	nae	uwpanna	uwpanna	nava	sqjiwa	nae	nodsa	nodsa	janiwa	uwpanna	ko	ko	nodsa	unake	unake	ko	apane	paWa	paWa	mArga	unake	lAgawa	lAgawa}	lAgawa	ke	anusAra	anusAra	opena	ke	opIena	anusAra	opena	meM	meM}	raKA	meM	dAla	jAwA	jAwA	rahe	raKA	hE	hE	jAwA	hEM	.	.	hE
-1	0	0	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-1	0	0	1	1	1	1	0	1	1	1	0	1	1	0	0	0	1	1	0	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-0	1	0	0	1	0	1	0	1	1	0	1	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-1	0	0	1	1	0	1	0	1	1	0	1	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-0	1	0	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	0	1	0	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	0	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-1	0	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	1	0	0	1	0	0	0	1	1	1	0	0	1	0	1	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0	0	0	1	1	1	0
-0	1	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
-1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	1	0	1	1	1	1	0	0	1	1	1	1	0	0	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1
+ENG: In uniform cost search the newly generated nodes are put in OPEN according to their path costs.
+
+ANU: ekasamAna kImawa walASa meM nayI uwpanna kara gAzTa unake paWa KarcoM ke anusAra ovpana meM dAlI jAwIM hEM .
+
+0 NMT: samAna lAgawa Koja meM nava uwpanna nodsa ko unake paWa lAgawa ke anusAra opIena meM raKA jAwA hE .
+
+1 NMT: samAna lAgawa Koja meM nae uwpanna nodsa ko unake paWa lAgawa ke anusAra opIena meM raKA jAwA hE .
+
+2 NMT: samAna lAgawa Koja meM nava sqjiwa nodsa ko unake paWa lAgawa ke anusAra opIena meM raKA jAwA hE .
+
+3 NMT: ekasamAna lAgawa meM nae uwpanna nodsa ko unake paWa lAgawa ke anusAra opena meM raKA jAwA hE .
+
+4 NMT: samAna lAgawa meM nae uwpanna nodsa ko unake paWa lAgawa ke anusAra opena meM raKA jAwA hE .
+
+5 NMT: ekasamAna lAgawa Koja meM nava uwpanna nodsa ko unake paWa lAgawa ke anusAra opena meM raKA jAwA hE .
+
+6 NMT: samAna lAgawa kI Koja meM nava uwpanna nodsa ko unake paWa lAgawa ke anusAra opIena meM raKA jAwA hE .
+
+7 NMT: samAna lAgawa kI Koja meM nava uwpanna nodsa ko unake paWa lAgawa ke anusAra opIna meM raKA jAwA hE .
+
+8 NMT: samAna lAgawa kI Koja meM nava janiwa nodsa ko unake paWa lAgawa ke anusAra opIena meM raKA jAwA hE .
+
+9 NMT: eka samAna lAgawa Koja meM nae uwpanna nodsa apane paWa lAgawa ke anusAra opena meM dAla rahe hEM .
+
+10 NMT: ekasamAna lAgawa Koja meM nae uwpanna nodsa ko unake mArga lAgawa ke anusAra opena meM raKA jAwA hE .
+
+11 NMT: samAna lAgawa Koja meM nae uwpanna nodsa ko unake paWa lAgawa ke anusAra opena meM raKA jAwA hE .
+
+12 NMT: samAna lAgawa Koja meM nae uwpanna nodsa ko apane paWa lAgawa ke anusAra opena meM raKA jAwA hE .
+
+samAna_0+1+2+4+6+7+8+11+12/ekasamAna_3+5+10/eka_9 lAgawa_0+1+2+3+4+5+6+7+8+10+11+12/samAna_9 meM_3+4/lAgawa_9/Koja_0+1+2+5+10+11+12/kI_6+7+8 meM_0+1+2+5+10+11+12/Koja_6+7+8+9/nae_3+4 meM_6+7+8+9/uwpanna_3+4/nae_1+10+11+12/nava_0+2+5 nodsa_3+4/uwpanna_0+1+5+10+11+12/nae_9/nava_6+7+8/sqjiwa_2 nodsa_0+1+2+5+10+11+12/ko_3+4/uwpanna_6+7+9/janiwa_8 nodsa_6+7+8+9/ko_0+1+2+5+10+11+12/unake_3+4 paWa_3+4/ko_6+7+8/unake_0+1+2+5+10+11/apane_9+12 lAgawa_3+4/paWa_0+1+2+5+9+11+12/unake_6+7+8/mArga_10 lAgawa_0+1+2+5+9+10+11+12/ke_3+4/paWa_6+7+8 lAgawa_6+7+8/ke_0+1+2+5+9+10+11+12/anusAra_3+4 ke_6+7+8/anusAra_0+1+2+5+9+10+11+12/opena_3+4 meM_3+4/anusAra_6+7+8/opena_5+9+10+11+12/opIena_0+1+2 meM_0+1+2+5+9+10+11+12/raKA_3+4/opIena_6+8/opIna_7 meM_6+7+8/raKA_0+1+2+5+10+11+12/jAwA_3+4/dAla_9 raKA_6+7+8/jAwA_0+1+2+5+10+11+12/hE_3+4/rahe_9 ._3+4/jAwA_6+7+8/hE_0+1+2+5+10+11+12/hEM_9 ._0+1+2+5+9+10+11+12/hE_6+7+8 ._6+7+8

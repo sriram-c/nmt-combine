@@ -1,8 +1,19 @@
-isa	prakAra	pahalA>>	Koja	praWama	pUrNa	Koja	pUrI	pUrNa	nahIM	hE	nahIM	howI	huI	.	hE	huA
-1	1	0	1	0	1	1	0	1	1	1	1	0	0	1	1	0
-1	1	0	1	0	1	1	0	1	1	1	1	0	0	1	1	0
-1	1	0	1	0	0	1	1	0	1	0	1	1	0	1	0	0
-1	1	0	1	0	0	1	1	0	1	1	1	0	1	1	1	0
-1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	0
-1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	0
-1	1	0	1	1	1	1	0	1	1	1	1	0	0	1	1	1
+ENG: Thus Depth First Search is not complete.
+
+ANU: isa prakAra gamBIra praWama anveRaNa pUrA nahIM hE .
+
+0 NMT: isa prakAra pahalA Koja pUrNa nahIM hE .
+
+1 NMT: isa prakAra pahalI Koja pUrNa nahIM hE .
+
+2 NMT: isa prakAra pahalI Koja pUrI nahIM howI .
+
+3 NMT: isa prakAra pahalI Koja pUrI nahIM huI hE .
+
+4 NMT: isa prakAra praWama Koja pUrNa nahIM hE .
+
+5 NMT: isa prakAra gaharAI praWama Koja pUrNa nahIM hE .
+
+6 NMT: isa prakAra gaharAI praWama Koja pUrNa nahIM huA hE .
+
+isa_0+1+2+3+4+5+6 prakAra_0+1+2+3+4+5+6 praWama_4/pahalI_1+2+3/gaharAI_5+6/pahalA_0 Koja_0+1+2+3+4/praWama_5+6 Koja_5+6/pUrNa_0+1+4/pUrI_2+3 nahIM_0+1+2+3+4/pUrNa_5+6 nahIM_5+6/hE_0+1+4/huI_3/howI_2 ._0+1+2+4/hE_3+5/huA_6 ._3+5/hE_6 ._6

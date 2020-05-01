@@ -1,6 +1,15 @@
-mAnaciwraNa	ko	eka	niyama	AXAriwa	praNAlI	xvArA	,	,	waMwrika	waMwrikA	waMwrikA	eka	netavarka	netavarka	waMwrikA	yA	xvArA	netavarka	prakriyA	{	yA	1	kriyAnviwa	yA	prakriyA	kAryAnviwa	xvArA}	kAryAnviwa	prakriyA	jA	kiyA	xvArA	sakawA	jA	lAgU	hE	sakawA	kiyA	.	hE	jA	sakawA	.
-1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	0	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	1	1	1	1	1	1	0	0	0	1	1	0	1	1	1	1	0	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	0	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	0	1	0	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+ENG: The mapping may be implemented by a rule based system, by a neural network or by a procedure.
+
+ANU: prawiciwraNa eka snAyu sambanXI jAla ke xvArA yA kAryaviXi ke xvArA praNAlI, AXAriwa niyama ke xvArA kAryAnviwa kiyA jA sakawA hE .
+
+0 NMT: mAnaciwraNa ko niyama AXAriwa praNAlI xvArA , waMwrikA netavarka xvArA yA prakriyA xvArA kAryAnviwa kiyA jA sakawA hE .
+
+1 NMT: mAnaciwraNa eka niyama AXAriwa praNAlI xvArA , eka waMwrikA netavarka xvArA yA eka prakriyA xvArA lAgU kiyA jA sakawA hE .
+
+2 NMT: mAnaciwraNa ko niyama AXAriwa praNAlI , waMwrika netavarka yA prakriyA xvArA kAryAnviwa kiyA jA sakawA hE .
+
+3 NMT: mAnaciwraNa ko niyama AXAriwa praNAlI , waMwrikA netavarka yA prakriyA xvArA kriyAnviwa kiyA jA sakawA hE .
+
+4 NMT: mAnaciwraNa ko niyama AXAriwa praNAlI , waMwrikA netavarka yA prakriyA xvArA kAryAnviwa kiyA jA sakawA hE .
+
+mAnaciwraNa_0+1+2+3+4 ko_0+2+3+4/eka_1 niyama_0+1+2+3+4 AXAriwa_0+1+2+3+4 praNAlI_0+1+2+3+4 xvArA_0+1/,_2+3+4 ,_0+1/waMwrikA_3+4/waMwrika_2 netavarka_2+3+4/waMwrikA_0/eka_1 yA_2+3+4/netavarka_0/waMwrikA_1 xvArA_0/prakriyA_2+3+4/netavarka_1 xvArA_1+2+3+4/yA_0 prakriyA_0/yA_1/kAryAnviwa_2+4/kriyAnviwa_3 xvArA_0/kiyA_2+3+4/eka_1 jA_2+3+4/prakriyA_1/kAryAnviwa_0 xvArA_1/kiyA_0/sakawA_2+3+4 jA_0/hE_2+3+4/lAgU_1 kiyA_1/sakawA_0/._2+3+4 jA_1/hE_0 sakawA_1/._0 hE_1 ._1

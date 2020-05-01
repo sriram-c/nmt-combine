@@ -1,5 +1,13 @@
-hama	ina	inheM	nodsa	ke	rUpa	meM	koYla>>	kareMge>>	.
-1	1	0	1	1	1	1	0	0	1
-1	0	1	1	1	1	1	0	0	1
-1	0	1	1	1	1	1	0	0	1
-1	1	0	1	1	1	1	0	0	1
+ENG: We will call these as nodes.
+
+ANU: hama gAzTa ke jEsA ye bulAeMge .
+
+0 NMT: hama ina nodsa ke rUpa meM koYla kareMge .
+
+1 NMT: hama inheM nodsa ke rUpa meM kaheMge .
+
+2 NMT: hama inheM nodsa ke rUpa meM bulAeMge .
+
+3 NMT: hama ina nodsa ke rUpa meM Pona karegA .
+
+hama_0+1+2+3 inheM_1+2/ina_0+3 nodsa_0+1+2+3 ke_0+1+2+3 rUpa_0+1+2+3 meM_0+1+2+3 Pona_3/bulAeMge_2/kaheMge_1/koYla_0 ._1+2/karegA_3/kareMge_0 ._0+3

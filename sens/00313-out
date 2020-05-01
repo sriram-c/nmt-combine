@@ -1,7 +1,17 @@
-yaxi	vahAz	kaI	paWa	kaI	rAswe	hEM	rAswe	jo	jinheM	hEM	,	?	paWa	cunanA	kOna	jo	cunA	cunA	paWa	sA	jAnA	cAhie	jAnA	cunA	rAswA	cAhie	?	cAhie	cunA	jAnA	?	jAnA	cAhie	?
-1	0	1	1	1	0	1	0	1	0	1	0	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	0	1	0	0	0	1	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1
-1	0	1	1	1	0	1	0	0	1	1	0	1	1	1	0	0	0	0	1	0	0	1	0	0	0	1	1	1	0	0	1	0	1	1
-1	0	1	1	1	0	1	0	0	1	1	0	1	1	0	0	0	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	1	0	0	1	1	1	0	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: If there are several paths which path should be chosen?
+
+ANU: yaxi kaI paWa hEM wo kOna sA paWa kyA cunA jAnA cAhie?
+
+0 NMT: yaxi kaI paWa hEM jo paWa cunA jAnA cAhie ?
+
+1 NMT: yaxi kaI paWa hEM ?
+
+2 NMT: yaxi kaI paWa hEM jinheM cunanA cAhie ?
+
+3 NMT: yaxi kaI paWa hEM jinheM cunA jAnA cAhie ?
+
+4 NMT: yaxi vahAz kaI rAswe hEM jo paWa cunA jAnA cAhie ?
+
+5 NMT: yaxi kaI rAswe hEM , kOna sA rAswA cunA jAnA cAhie ?
+
+yaxi_0+1+2+3+4+5 kaI_0+1+2+3+5/vahAz_4 kaI_4/rAswe_5/paWa_0+1+2+3 hEM_0+1+2+3+5/rAswe_4 ?_1/hEM_4/jinheM_2+3/jo_0/,_5 cunA_3/paWa_0/jo_4/kOna_5/cunanA_2 cAhie_2/cunA_0/jAnA_3/paWa_4/sA_5 ?_2/cAhie_3/cunA_4/jAnA_0/rAswA_5 ?_3/cAhie_0/cunA_5/jAnA_4 ?_0/cAhie_4/jAnA_5 ?_4/cAhie_5 ?_5

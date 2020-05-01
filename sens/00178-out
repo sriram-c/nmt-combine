@@ -1,9 +1,21 @@
-SawaraMja	meM	,	xo	ejeMta	ejeMtoM	howe	,	hEM	hEM	,	KilAdZiyoM	,}	KilAdZI	borda	Ora	KilAdZiyoM	Ora	borda	ke	borda	agale	ke	ke	agale	kA	rAjya	agale	agalA	rAjya	raNanIwika	rAjya	sAmarika	raNanIwika	rUpa	kA	sAmarika	se	raNanIwika	rUpa	nirXAraNa>>	raNanIwika	ke	KilAdZiyoM	se	rUpa}	se}	KilAdZiyoM}	ke}	kAryoM}	xvArA}	kiyA	.	jAwA	hE	jAwA	.	hE	hE	.
-1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	0	1	0	1	1	0	1	0	0	1	1	1	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	0	1	0	1	1	0	1	0	0	1	1	1	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	0	0	1	1	1	0	1	1	1	1	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	0	0	1	1	1	0	1	1	1	1	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1
-1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1	1	1	1
-1	1	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	0	0	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1	1	1	1
-1	1	1	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	0	0	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1
+ENG: In chess, there are two agents, the players and the next state of the board is strategically determined by the players’ actions.
+
+ANU: SawaraFja meM xo prawiniXi hEM, KilAdI Ora borda kI agalI avasWA KilAdiyoM kI harakawoM ke xvArA yukwipUrvaka nirXAriwa kiyA gayA hE .
+
+0 NMT: SawaraMja meM , xo ejeMta howe hEM , KilAdZI Ora borda ke agale rAjya kA nirXAraNa raNanIwika rUpa se KilAdZiyoM ke kAryoM xvArA kiyA jAwA hE .
+
+1 NMT: SawaraMja meM , xo ejeMta howe hEM , KilAdZiyoM Ora borda ke agale rAjya sAmarika rUpa se KilAdZiyoM ke kAryoM xvArA nirXAriwa kiyA jAwA hE .
+
+2 NMT: SawaraMja meM , xo ejeMta hEM , KilAdZiyoM Ora borda ke agale rAjya sAmarika rUpa se KilAdZiyoM ke kAryoM xvArA nirXAriwa kiyA jAwA hE .
+
+3 NMT: SawaraMja meM , xo ejeMta hEM , KilAdZiyoM Ora borda ke agale rAjya raNanIwika rUpa se KilAdZiyoM ke kAryoM xvArA nirXAriwa kiyA jAwA hE .
+
+4 NMT: SawaraMja meM , xo ejeMta hEM , KilAdZI Ora borda ke agale rAjya raNanIwika rUpa se KilAdZiyoM ke kAryoM xvArA nirXAriwa kiyA jAwA hE .
+
+5 NMT: SawaraMja meM , xo ejeMta howe hEM , KilAdZI Ora borda kA agalA rAjya raNanIwika rUpa se KilAdZiyoM ke kAryoM xvArA nirXAriwa howA hE .
+
+6 NMT: SawaraMja meM , xo ejeMta hEM , KilAdZiyoM Ora borda ke agale rAjya raNanIwika rUpa se KilAdZiyoM ke kAryoM xvArA nirXAriwa hE .
+
+7 NMT: SawaraMja meM , xo ejeMtoM , KilAdZiyoM Ora borda ke agale rAjya raNanIwika rUpa se KilAdZiyoM ke kAryoM xvArA nirXAriwa kara rahe hEM .
+
+SawaraMja_0+1+2+3+4+5+6+7 meM_0+1+2+3+4+5+6+7 ,_0+1+2+3+4+5+6+7 xo_0+1+2+3+4+5+6+7 ejeMta_0+1+2+3+4+5+6/ejeMtoM_7 ,_7/hEM_2+3+4+6/howe_0+1+5 ,_2+3+4+6/KilAdZiyoM_7/hEM_0+1+5 ,_0+1+5/KilAdZiyoM_2+3+6/Ora_7/KilAdZI_4 KilAdZiyoM_1/Ora_2+3+4+6/borda_7/KilAdZI_0+5 ke_7/Ora_0+1+5/borda_2+3+4+6 ke_2+3+4+6/borda_0+1+5/agale_7 ke_0+1/rAjya_7/agale_2+3+4+6/kA_5 rAjya_2+3+4+6/agale_0+1/raNanIwika_7/agalA_5 rUpa_7/rAjya_0+1+5/raNanIwika_3+4+6/sAmarika_2 rUpa_2+3+4+6/se_7/raNanIwika_5/sAmarika_1/kA_0 KilAdZiyoM_7/rUpa_1+5/se_2+3+4+6/nirXAraNa_0 ke_7/KilAdZiyoM_2+3+4+6/se_1+5/raNanIwika_0 ke_2+3+4+6/KilAdZiyoM_1+5/rUpa_0/kAryoM_7 ke_1+5/se_0/kAryoM_2+3+4+6/xvArA_7 KilAdZiyoM_0/kAryoM_1+5/xvArA_2+3+4+6/nirXAriwa_7 ke_0/xvArA_1+5/nirXAriwa_2+3+4+6/kara_7 kAryoM_0/nirXAriwa_1+5/hE_6/kiyA_2+3+4/rahe_7 xvArA_0/._6/hEM_7/kiyA_1/jAwA_2+3+4/howA_5 ._7/hE_2+3+4+5/kiyA_0/jAwA_1 ._2+3+4+5/hE_1/jAwA_0 ._1/hE_0 ._0

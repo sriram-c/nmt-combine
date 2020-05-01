@@ -1,4 +1,11 @@
-aba	hama	eka	Koja	samasyA	kI	avaXAraNA	para	ko	xeKo	najara	.	dAleM
-1	1	1	1	1	1	1	1	0	1	0	1	0
-1	1	1	1	1	1	1	0	1	1	0	1	0
-1	1	1	1	1	1	1	1	0	0	1	1	1
+ENG: Now let us look at the concept of a search problem.
+
+ANU: aba caliye hama eka walASa samasyA kI XAraNA kI ora xeKeM .
+
+0 NMT: aba hama eka Koja samasyA kI avaXAraNA para xeKo .
+
+1 NMT: aba hama eka Koja samasyA kI avaXAraNA ko xeKo .
+
+2 NMT: aba hama eka Koja samasyA kI avaXAraNA para najara dAleM .
+
+aba_0+1+2 hama_0+1+2 eka_0+1+2 Koja_0+1+2 samasyA_0+1+2 kI_0+1+2 avaXAraNA_0+1+2 para_0+2/ko_1 xeKo_0+1/najara_2 ._0+1/dAleM_2 ._2

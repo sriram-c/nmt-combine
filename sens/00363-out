@@ -1,7 +1,17 @@
-isa	EsI	waraha	raNanIwiyoM	kI	se	duplIketa	raNanIwiyoM	rAjyoM	duplIketa	duplIketa	uwpanna	rAjyoM	rAjyoM	hone	ko	pExA	ko	se	uwpanna	dupliketa	roka	hone	hone	rAjyoM	se	nahIM	se	ko	nahIM	hE	rokA	roka	nahIM	,	rokawA>>	hE	sakawA	Ese	hEM	,	mAmaloM	lekina	balki	ke	meM	Ese	se	kaI	kaI	ko	mAmaloM	mAmaloM	ke	ko	kama	ko}	kama	ko	meM	karane	karane	kiyA	kama	meM	sakRama	meM	karane	jA	sakRama	hEM	sakRama	sakawA	meM	hEM	.	hEM	sakRama	hE	.	.	hEM
-1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1
-0	1	0	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	0	1	0	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	1	0	0	1	1	1	0
-0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1
+ENG: Such strategies do not stop duplicate states from being generated, but are able to reduce many of such cases.
+
+ANU: EsI yukwiyAz uwpanna kiyA yA jA rahA se prawi avasWAoM ko nahIM rokawI hEM, paranwu Ese mAmaloM meM se bahuwa kama karane meM samarWa hEM .
+
+0 NMT: isa waraha kI raNanIwiyoM duplIketa rAjyoM ko uwpanna hone se nahIM rokawA hE , lekina Ese kaI mAmaloM ko kama karane meM sakRama hEM .
+
+1 NMT: isa waraha kI raNanIwiyoM duplIketa rAjyoM ko uwpanna hone se nahIM rokawe hEM , lekina Ese kaI mAmaloM ko kama karane meM sakRama hEM .
+
+2 NMT: EsI raNanIwiyoM se duplIketa rAjyoM ko pExA hone se nahIM rokA jA sakawA , balki Ese kaI mAmaloM ko kama kiyA jA sakawA hE .
+
+3 NMT: EsI raNanIwiyoM duplIketa rAjyoM uwpanna hone se roka nahIM hE , lekina Ese mAmaloM meM se kaI ko kama karane meM sakRama hEM .
+
+4 NMT: EsI raNanIwiyoM duplIketa rAjyoM uwpanna hone se roka nahIM hE , lekina Ese mAmaloM ke kaI ko kama karane meM sakRama hEM .
+
+5 NMT: isa waraha kI raNanIwiyoM uwpanna hone se dupliketa rAjyoM ko roka nahIM hE , lekina Ese mAmaloM ke kaI ko kama karane meM sakRama hEM .
+
+EsI_2+3+4/isa_0+1+5 raNanIwiyoM_2+3+4/waraha_0+1+5 se_2/duplIketa_3+4/kI_0+1+5 rAjyoM_3+4/raNanIwiyoM_0+1+5/duplIketa_2 rAjyoM_2/uwpanna_3+4+5/duplIketa_0+1 ko_2/hone_3+4+5/rAjyoM_0+1 ko_0+1/se_3+4+5/pExA_2 hone_2/uwpanna_0+1/roka_3+4/dupliketa_5 se_2/hone_0+1/nahIM_3+4/rAjyoM_5 ko_5/se_0+1/nahIM_2/hE_3+4 ,_3+4/nahIM_0+1/roka_5/rokA_2 nahIM_5/lekina_3+4/jA_2/rokawe_1/rokawA_0 hEM_1/Ese_3+4/hE_0+5/sakawA_2 mAmaloM_3+4/,_0+1+2+5 meM_3/lekina_0+1+5/ke_4/balki_2 se_3/kaI_4/Ese_0+1+2+5 ko_4/mAmaloM_5/kaI_0+1+2+3 ko_3/kama_4/mAmaloM_0+1+2/ke_5 ko_0+1+2/kama_3/kaI_5/karane_4 ko_5/kama_0+1+2/meM_4/karane_3 kama_5/meM_3/karane_0+1/sakRama_4/kiyA_2 hEM_4/meM_0+1/karane_5/sakRama_3/jA_2 ._4/hEM_3/meM_5/sakRama_0+1/sakawA_2 ._3/hEM_0+1/sakRama_5/hE_2 ._0+1+2/hEM_5 ._5

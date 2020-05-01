@@ -1,7 +1,17 @@
-buxXi	ke>>	sAWa>>	eka>>	praNAlI}	sabase>>	acCA>>	saMBava	jAwI	vyavahAra	hE	warIke	ki	hE	karane	se}	vaha	sarvowwama	apekRA	vyavahAra	karane	yaWAsamBava	saMBava	yaWASakwi	uwwama	kI	kI}	ummIxa>>	hE}	.	kare	se
-1	0	0	0	0	0	0	1	0	1	1	1	0	1	1	0	0	0	0	1	1	0	1	0	0	1	0	0	0	1	0	1
-1	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	1	0	0	1	0	0	0	1	1	1
-1	0	0	0	0	0	0	0	1	1	1	0	0	1	1	0	0	1	1	1	1	0	0	0	0	1	0	0	0	1	0	1
-1	0	0	0	0	0	0	0	1	1	1	0	1	1	0	0	1	0	1	1	0	0	0	1	0	1	0	0	0	1	1	1
-1	0	0	0	0	0	0	0	1	1	1	0	1	1	0	0	1	0	1	1	0	0	0	0	1	1	0	0	0	1	1	1
-1	0	0	0	0	0	0	0	1	1	1	0	1	1	0	0	1	0	1	1	0	1	0	0	1	1	0	0	0	1	1	1
+ENG: A system with intelligence is expected to behave in the best possible manner.
+
+ANU: jFAna vAlI praNAlI se sarvowwama samBava SiRtAcAra meM vyavahAra karane kI ummIxa kI huI hE .
+
+0 NMT: buxXi ke sAWa eka praNAlI sabase acCA saMBava warIke se vyavahAra karane kI ummIxa hE .
+
+1 NMT: buxXi vAlI praNAlI se apekRA kI jAwI hE ki vaha sarvowwama saMBava warIke se vyavahAra kare .
+
+2 NMT: buxXi yukwa praNAlI se sarvowwama DaMga se vyavahAra karane kI apekRA kI jAwI hE .
+
+3 NMT: buxXi se yukwa praNAlI se apekRA kI jAwI hE ki vaha yaWASakwi vyavahAra kare .
+
+4 NMT: buxXi se yukwa praNAlI se apekRA kI jAwI hE ki vaha uwwama se uwwama DaMga se vyavahAra kare .
+
+5 NMT: buxXi se yukwa praNAlI se apekRA kI jAwI hE ki vaha yaWAsamBava uwwama vyavahAra kare .
+
+buxXi_0+1+2+3+4+5 se_3+4+5/yukwa_2/vAlI_1/ke_0 praNAlI_1+2/yukwa_3+4+5/sAWa_0 se_1+2/praNAlI_3+4+5/eka_0 se_3+4+5/praNAlI_0/apekRA_1/sarvowwama_2 kI_1/apekRA_3+4+5/DaMga_2/sabase_0 se_2/kI_3+4+5/jAwI_1/acCA_0 hE_1/vyavahAra_2/jAwI_3+4+5/saMBava_0 hE_3+4+5/ki_1/karane_2/warIke_0 se_0/kI_2/ki_3+4+5/vaha_1 vyavahAra_0/apekRA_2/vaha_3+4+5/sarvowwama_1 kI_2/uwwama_4/karane_0/saMBava_1/yaWAsamBava_5/yaWASakwi_3 se_4/kI_0/vyavahAra_3/jAwI_2/uwwama_5/warIke_1 se_1/hE_2/vyavahAra_5/kare_3/uwwama_4/ummIxa_0 ._2+3/hE_0/vyavahAra_1/kare_5/DaMga_4 se_4/._0+5/kare_1 ._1/vyavahAra_4 kare_4 ._4

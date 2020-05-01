@@ -1,5 +1,13 @@
-eAI	wiWi	wArIKa	kI	kI	bOxXika	ke	bOxXika	jadZeM	jadZeM	jadZoM	jFAna	jFAna	Ora	Ora	warka	warka	kI	kI	prakqwi	prakqwi	ke	ke	prAraMBika	prAraMBika	aXyayana	aXyayana	ke	ke}	lie	vApasa	vApasa	wiWi	.
-1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1
+ENG: Intellectual roots of AI date back to the early studies of the nature of knowledge and reasoning.
+
+ANU: e. AI. ke bOxXika mUla jFAna Ora safkewa kA prakqwi ke prAramBika aXyayana ke lie wiWi dAlawe hEM .
+
+0 NMT: eAI wiWi kI bOxXika jadZeM jFAna Ora warka kI prakqwi ke prAraMBika aXyayana ke lie vApasa .
+
+1 NMT: eAI kI bOxXika jadZeM jFAna Ora warka kI prakqwi ke prAraMBika aXyayana ke lie vApasa wiWi .
+
+2 NMT: eAI wiWi kI bOxXika jadZoM jFAna Ora warka kI prakqwi ke prAraMBika aXyayana ke lie vApasa .
+
+3 NMT: eAI wArIKa ke bOxXika jadZoM jFAna Ora warka kI prakqwi ke prAraMBika aXyayana ke lie vApasa .
+
+eAI_0+1+2+3 kI_1/wArIKa_3 ke_3/kI_0+2/bOxXika_1 bOxXika_0+2+3/jadZeM_1 jFAna_1/jadZoM_2+3/jadZeM_0 jFAna_0+2+3/Ora_1 Ora_0+2+3/warka_1 kI_1/warka_0+2+3 kI_0+2+3/prakqwi_1 ke_1/prakqwi_0+2+3 ke_0+2+3/prAraMBika_1 prAraMBika_0+2+3/aXyayana_1 ke_1/aXyayana_0+2+3 ke_0+2+3/lie_1 lie_0+2+3/vApasa_1 vApasa_0+2+3 ._0+1+2+3

@@ -1,7 +1,17 @@
-kisI	koI	vyakwi	eka	pUrvavarwI	ko	BI	pUrvavarwI	rAjyoM	pUrvavarwI	ko	rAjya	rAjyoM	uwpanna	kA	ko	karane	uwpAxana>>	karane	sakRama	meM	honA	sakRama	cAhie	honA	.	cAhie	.
-1	0	0	0	1	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	0	0	0	1	1	0	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1
-1	0	0	0	1	1	0	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	0	1	0	1	1	0	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1
-0	0	0	1	1	0	0	1	0	1	0	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1
+ENG: One should be able to generate predecessor states.
+
+ANU: eka pUrva aXikArI rAjya uwpanna kara .
+
+0 NMT: kisI ko pUrvavarwI rAjyoM kA uwpAxana karane meM sakRama honA cAhie .
+
+1 NMT: pUrvavarwI rAjyoM ko uwpanna karane meM sakRama honA cAhie .
+
+2 NMT: koI BI pUrvavarwI rAjyoM ko uwpanna karane meM sakRama honA cAhie .
+
+3 NMT: kisI ko pUrvavarwI rAjyoM ko uwpanna karane meM sakRama honA cAhie .
+
+4 NMT: vyakwi ko pUrvavarwI rAjyoM kA nirmANa karane meM sakRama honA cAhie .
+
+5 NMT: eka pUrvavarwI rAjya uwpanna karane meM sakRama honA cAhie .
+
+pUrvavarwI_1/kisI_0+3/eka_5/vyakwi_4/koI_2 pUrvavarwI_5/rAjyoM_1/ko_0+3+4/BI_2 pUrvavarwI_0+2+3+4/ko_1/rAjya_5 rAjyoM_0+2+3+4/uwpanna_1+5 karane_1+5/ko_2+3/kA_0+4 meM_1+5/uwpanna_2+3/nirmANa_4/uwpAxana_0 karane_0+2+3+4/sakRama_1+5 meM_0+2+3+4/honA_1+5 sakRama_0+2+3+4/cAhie_1+5 honA_0+2+3+4/._1+5 cAhie_0+2+3+4 ._0+2+3+4

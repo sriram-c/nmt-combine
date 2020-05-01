@@ -1,13 +1,29 @@
-isa	prakAra	,	ejeMta	aBikarwA	eka	ko	ejeMta	aBikarwA	eka	ko	EsI	eka	EsI	praNAlI	ke	praNAlI	rUpa	ke	rUpa	meM	meM	xeKA	jA	xeKA	sakawA	jA	hE	sakawA	jo	hE	boXa	saMvexanA	parsepta	,	jo	anukramoM	boXa	anukrama	jo	anukramoM	anukrama	se	anucCinna	kAryoM	kriyAoM	anukramoM	se	kriyA	waka	kriyA	kriyAoM	se	mAnaciwraNa	kriyA	waka	ko}	kAryAnviwa	ko	prawiciwraNa	karawI	karawI	karawA	ko	hE	kAryAnviwa	hE}	.	karawA	hE
-1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	0	1	0	1	0	1	1	0	1	0	0	1	1	0	1	0	1	1	0	1	1	0	1	1	1	0	1	0	1
-1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	0	1	0	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	0	1	0	1
-1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	0	1	0	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	0	1	0	1
-1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	0	1	0	0	1	1	1	0	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	0	1	0	1
-1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1	1	0	0	0	0	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	0	1	1	1	0	1	0	1
-1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1	1	0	0	1	0	1	0	1	0	1	1	1	0	1	0	1	1	0	1	1	0	1	1	1	0	1	0	1
-1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1	1	0	0	0	0	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	0	1	1	1	0	1	0	1
-1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	0	1	0	0	1	1	1	0	1	0	1	1	0	0	1	0	1	1	1	1	1	0	1	1	1	0	1	0	1
-1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	0	0	1	1	0	1	1	0	0	1	1	1	0	1	0	1	0	1	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1
-1	1	1	1	0	1	1	1	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	0	0	0	0	1	1	1	1	0	1	1	1	1	0	1	1	0	0	0	1	1	1	1	0	1	1	1
-1	1	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	1	0	1	1	0	1	1	0	0	1	0	1
-1	1	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	0	1	1	0	1	1	0	0	0	0	1	1	1	1	0	1	1	1	1	0	0	1	0	1	1	0	1	1	0	0	1	0	1
+ENG: Thus, an agent can be looked upon as a system that implements a mapping from percept sequences to actions.
+
+ANU: isa prakAra, eka prawiniXi ke Upara eka EsI praNAlI ke jEsA jo kriyAez boXa anukrama se prawiciwraNa kAryAnviwa karawI hE xeKA jA sakawA hE .
+
+0 NMT: isa prakAra , ejeMta ko eka EsI praNAlI ke rUpa meM xeKA jA sakawA hE jo boXa anukramoM se kAryoM waka mAnaciwraNa ko kAryAnviwa karawI hE .
+
+1 NMT: isa prakAra , ejeMta ko eka EsI praNAlI ke rUpa meM xeKA jA sakawA hE jo boXa anukramoM se kriyAoM waka mAnaciwraNa ko kAryAnviwa karawI hE .
+
+2 NMT: isa prakAra , aBikarwA ko eka EsI praNAlI ke rUpa meM xeKA jA sakawA hE jo boXa anukramoM se kriyAoM waka mAnaciwraNa ko kAryAnviwa karawI hE .
+
+3 NMT: isa prakAra , eka ejeMta ko eka EsI praNAlI ke rUpa meM xeKA jA sakawA hE jo boXa anukramoM se kriyAoM waka mAnaciwraNa ko kAryAnviwa karawI hE .
+
+4 NMT: isa prakAra , eka aBikarwA ko eka EsI praNAlI ke rUpa meM xeKA jA sakawA hE jo boXa anukrama se kriyA waka mAnaciwraNa ko kAryAnviwa karawI hE .
+
+5 NMT: isa prakAra , eka aBikarwA ko eka EsI praNAlI ke rUpa meM xeKA jA sakawA hE jo boXa anukrama se kriyAoM waka mAnaciwraNa ko kAryAnviwa karawI hE .
+
+6 NMT: isa prakAra , eka ejeMta ko eka EsI praNAlI ke rUpa meM xeKA jA sakawA hE jo boXa anukrama se kriyA waka prawiciwraNa ko kAryAnviwa karawI hE .
+
+7 NMT: isa prakAra , eka aBikarwA ko eka EsI praNAlI ke rUpa meM xeKA jA sakawA hE jo boXa anukramoM se kriyAoM waka prawiciwraNa ko kAryAnviwa karawI hE .
+
+8 NMT: isa prakAra , eka ejeMta ko eka EsI praNAlI ke rUpa meM xeKA jA sakawA hE , jo anucCinna anukramoM se kriyA ke prawiciwraNa ko kAryAnviwa karawA hE .
+
+9 NMT: isa prakAra , eka ejeMta ko eka praNAlI ke rUpa meM xeKA jA sakawA hE jo parsepta anukrama se kriyA waka mAnaciwraNa ko kAryAnviwa karawA hE .
+
+10 NMT: isa prakAra , eka aBikarwA ko eka praNAlI ke rUpa meM xeKA jA sakawA hE jo parsepta anukrama se kAryoM waka mAnaciwraNa lAgU karawI hE .
+
+11 NMT: isa prakAra , eka aBikarwA ko eka praNAlI ke rUpa meM xeKA jA sakawA hE jo saMvexanA anukrama se kriyA waka mAnaciwraNa lAgU karawI hE .
+
+isa_0+1+2+3+4+5+6+7+8+9+10+11 prakAra_0+1+2+3+4+5+6+7+8+9+10+11 ,_0+1+2+3+4+5+6+7+8+9+10+11 eka_3+4+5+6+7+8+9+10+11/aBikarwA_2/ejeMta_0+1 ko_0+1+2/aBikarwA_4+5+7+10+11/ejeMta_3+6+8+9 ko_3+4+5+6+7+8+9+10+11/eka_0+1+2 eka_3+4+5+6+7+8+9+10+11/EsI_0+1+2 praNAlI_0+1+2+9+10+11/EsI_3+4+5+6+7+8 ke_0+1+2+9+10+11/praNAlI_3+4+5+6+7+8 ke_3+4+5+6+7+8/rUpa_0+1+2+9+10+11 rUpa_3+4+5+6+7+8/meM_0+1+2+9+10+11 meM_3+4+5+6+7+8/xeKA_0+1+2+9+10+11 xeKA_3+4+5+6+7+8/jA_0+1+2+9+10+11 jA_3+4+5+6+7+8/sakawA_0+1+2+9+10+11 hE_0+1+2+9+10+11/sakawA_3+4+5+6+7+8 hE_3+4+5+6+7+8/jo_0+1+2+9+10+11 ,_8/jo_3+4+5+6+7/boXa_0+1+2/parsepta_9+10/saMvexanA_11 jo_8/boXa_3+4+5+6+7/anukrama_9+10+11/anukramoM_0+1+2 se_0+1+2+9+10+11/anukrama_4+5+6/anukramoM_3+7/anucCinna_8 se_3+4+5+6+7/anukramoM_8/kriyA_9+11/kriyAoM_1+2/kAryoM_0+10 se_8/waka_0+1+2+9+10+11/kriyA_4+6/kriyAoM_3+5+7 waka_3+4+5+6+7/mAnaciwraNa_0+1+2+9+10+11/kriyA_8 ko_0+1+2+9/ke_8/mAnaciwraNa_3+4+5/prawiciwraNa_6+7/lAgU_10+11 ko_3+4+5+6+7/karawI_10+11/kAryAnviwa_0+1+2+9/prawiciwraNa_8 hE_10+11/ko_8/karawI_0+1+2/kAryAnviwa_3+4+5+6+7/karawA_9 hE_0+1+2+9/._10+11/karawI_3+4+5+6+7/kAryAnviwa_8 hE_3+4+5+6+7/._0+1+2+9/karawA_8 hE_8/._3+4+5+6+7 ._8

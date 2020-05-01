@@ -1,6 +1,15 @@
-ise	yaha	aBikarwA>>	xvArA	prApwa	samAXAnoM	samAXAna	kI	yaWArWawA>>	yA	guNavawwA	se	xvArA	mApA	jA	sakawA	hE	.
-1	0	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1
-1	0	0	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1
-0	1	0	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1
-0	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1
+ENG: It can be measured by the accuracy or the quality of the solutions achieved by the agent.
+
+ANU: yaha yaWArWawA yA prawiniXi ke xvArA hAsila kie gaye haloM kI guNavawwA ke xvArA nApA jA sakawA hE .
+
+0 NMT: ise aBikarwA xvArA prApwa samAXAnoM kI yaWArWawA yA guNavawwA se mApA jA sakawA hE .
+
+1 NMT: ise ejeMta xvArA prApwa samAXAnoM kI satIkawA yA guNavawwA se mApA jA sakawA hE .
+
+2 NMT: ise ejeMta xvArA prApwa samAXAnoM kI SuxXawA yA guNavawwA xvArA mApA jA sakawA hE .
+
+3 NMT: yaha ejeMta xvArA prApwa samAXAnoM kI satIkawA yA guNavawwA se mApA jA sakawA hE .
+
+4 NMT: yaha ejeMta xvArA prApwa samAXAna kI satIkawA yA guNavawwA se mApA jA sakawA hE .
+
+yaha_3+4/ise_0+1+2 ejeMta_1+2+3+4/aBikarwA_0 xvArA_0+1+2+3+4 prApwa_0+1+2+3+4 samAXAnoM_0+1+2+3/samAXAna_4 kI_0+1+2+3+4 satIkawA_1+3+4/SuxXawA_2/yaWArWawA_0 yA_0+1+2+3+4 guNavawwA_0+1+2+3+4 xvArA_2/se_0+1+3+4 mApA_0+1+2+3+4 jA_0+1+2+3+4 sakawA_0+1+2+3+4 hE_0+1+2+3+4 ._0+1+2+3+4

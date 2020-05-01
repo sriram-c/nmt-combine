@@ -1,9 +1,21 @@
-ena	Nqueens	hama	-	kve	kevala	jEsI	kveMsa>>	jEsI	ke	avasWA	samasyAoM	samasyAoM	ke	meM	lie	ke	hI	lie	hama	lie	kevala	ruci	hama	hama	lakRya	kevala	raKawe	kevala	rAjya	hEM	lakRya	lakRya	rAjya	meM	.	avasWA	rAjya	kI	ruci	meM	sWiwi	meM	raKawe	ruci	ruci	meM	raKawe	hEM	ruci	raKawe	hEM	.	hEM	raKawe	.	.	hEM
-1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	0	0	1	0	1	0	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: For problems like N-queens we are only interested in the goal state.
+
+ANU: -nkZuInas jEsA samasyAoM ke lie hama lakRya rAjya meM sirPa ruci raKanevAlA hEM .
+
+0 NMT: ena - kveMsa jEsI samasyAoM ke lie hama kevala lakRya avasWA meM ruci raKawe hEM .
+
+1 NMT: ena - kvena jEsI samasyAoM ke lie hama kevala lakRya avasWA meM ruci raKawe hEM .
+
+2 NMT: ena - kvena jEsI samasyAoM ke lie hama kevala lakRya kI sWiwi meM ruci raKawe hEM .
+
+3 NMT: Nqueens jEsI samasyAoM ke lie hama kevala lakRya rAjya meM ruci raKawe hEM .
+
+4 NMT: hama kevala lakRya avasWA meM hI ruci raKawe hEM .
+
+5 NMT: ena - kvIMsa jEsI samasyAoM ke lie hama kevala lakRya avasWA meM ruci raKawe hEM .
+
+6 NMT: ena - kvIMsa jEsI samasyAoM ke lie hama kevala lakRya rAjya meM ruci raKawe hEM .
+
+7 NMT: ena kve jEsI samasyAoM ke lie hama kevala lakRya rAjya meM ruci raKawe hEM .
+
+hama_4/ena_0+1+2+5+6+7/Nqueens_3 kevala_4/jEsI_3/-_0+1+2+5+6/kve_7 lakRya_4/jEsI_7/samasyAoM_3/kvIMsa_5+6/kvena_1+2/kveMsa_0 jEsI_0+1+2+5+6/samasyAoM_7/ke_3/avasWA_4 meM_4/samasyAoM_0+1+2+5+6/ke_7/lie_3 hama_3/ke_0+1+2+5+6/lie_7/hI_4 ruci_4/hama_7/kevala_3/lie_0+1+2+5+6 raKawe_4/hama_0+1+2+5+6/kevala_7/lakRya_3 hEM_4/kevala_0+1+2+5+6/lakRya_7/rAjya_3 ._4/lakRya_0+1+2+5+6/meM_3/rAjya_7 ruci_3/meM_7/avasWA_0+1+5/rAjya_6/kI_2 ruci_7/raKawe_3/meM_0+1+5+6/sWiwi_2 ruci_0+1+5+6/raKawe_7/hEM_3/meM_2 ruci_2/raKawe_0+1+5+6/hEM_7/._3 raKawe_2/hEM_0+1+5+6/._7 hEM_2/._0+1+5+6 ._2

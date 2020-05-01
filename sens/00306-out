@@ -1,7 +1,17 @@
-15	-	-pujila	apajala>>	karodZa	jEsI	samasyAoM	jEsI	samasyAoM	ke	ke	samasyAoM	lie	lie	ke	,	,	hama	samAXAna	hama	samAXAna	meM	samAXAna	hamArI	mArga	paWa	paWa	xilacaspI	meM	meM	hE	ruci	ruci	.	raKawe	raKawe	hEM	hEM	.	.
-1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1
-1	1	0	0	1	1	1	1	1	1	1	1	0	0	1	0	0	0	1	0	1	1	1	1	0	0	0	1	1	1	1	0	0	1	0	0	0	0	1	1
+ENG: For problems like 15-puzzle, we are interested in the solution path.
+
+ANU: FALSE-samasyA jEsA samasyAoM ke lie, hama hala paWa meM ruci raKanevAlA hEM .
+
+0 NMT: 15 - apajala jEsI samasyAoM ke lie , hama samAXAna paWa meM ruci raKawe hEM .
+
+1 NMT: 15 - apaMjala jEsI samasyAoM ke lie , hama samAXAna paWa meM ruci raKawe hEM .
+
+2 NMT: 15 - kaNtrola jEsI samasyAoM ke lie hama samAXAna mArga meM ruci raKawe hEM .
+
+3 NMT: 15 -pujila jEsI samasyAoM ke lie , hama samAXAna paWa meM ruci raKawe hEM .
+
+4 NMT: 15 - pahelI jEsI samasyAoM ke lie , hama samAXAna paWa meM ruci raKawe hEM .
+
+5 NMT: 15 - 47 karodZa jEsI samasyAoM ke samAXAna meM hamArI xilacaspI hE .
+
+15_0+1+2+3+4+5 -_0+1+2+4+5/-pujila_3 jEsI_3/47_5/pahelI_4/kaNtrola_2/apaMjala_1/apajala_0 jEsI_0+1+2+4/samasyAoM_3/karodZa_5 jEsI_5/samasyAoM_0+1+2+4/ke_3 samasyAoM_5/ke_0+1+2+4/lie_3 ke_5/lie_0+1+2+4/,_3 samAXAna_5/hama_2+3/,_0+1+4 meM_5/samAXAna_2+3/hama_0+1+4 samAXAna_0+1+4/paWa_3/hamArI_5/mArga_2 meM_2+3/paWa_0+1+4/xilacaspI_5 meM_0+1+4/ruci_2+3/hE_5 ._5/ruci_0+1+4/raKawe_2+3 raKawe_0+1+4/hEM_2+3 ._2+3/hEM_0+1+4 ._0+1+4

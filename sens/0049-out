@@ -1,8 +1,19 @@
-isa	prakAra	eAI	ne	buxXi	buxXi	kI	prakqwi	kI	ke	ke	prakqwi	svarUpa	kI	bAre	kI	ke	ko	samaJa	meM	samaJane	bAre	samaJa	samaJa	meM	baDZA	vqxXi	meM	samaJa	xI	vqxXi	huI	vqxXi	baDZA	kI	hE	huI	xI	Ora	hE	hE	Ora	kaI	Ora	kaI	anuprayogoM	kaI	ko	pAyA	anuprayogoM	anuprayogoM	anuprayoga	ko	.	pAyA	pAyA	pAe	hE	.	hE	.	hEM
-1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	0
-1	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	0	0	0	1	1	0	1	0	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0
-1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1	1	1	0	1	0	0	0	0	1	0	1	0	0	1	1	1	1	1	1
-1	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	0	0	0	1	1	0	1	0	0	1	1	0	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0
-1	1	1	1	1	1	1	1	1	0	0	1	0	1	0	1	0	1	0	1	1	0	0	0	1	0	1	1	0	0	1	0	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0
-1	1	1	0	1	1	1	1	1	0	0	1	0	1	0	1	0	0	1	1	0	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	1	0	1	1	1	1	0
-1	1	1	0	1	1	1	1	1	0	0	1	0	1	0	1	0	1	1	1	0	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0
+ENG: Thus AI has increased understanding of the nature of intelligence and found many applications.
+
+ANU: isa prakAra e. AI. ke jFAna kI prakqwi kI baDI huI samaJa hE Ora bahuwa upayoga milawe hEM .
+
+0 NMT: isa prakAra eAI buxXi kI prakqwi ke bAre meM samaJa meM vqxXi huI hE Ora kaI anuprayogoM pAyA .
+
+1 NMT: isa prakAra eAI ne buxXi ke svarUpa kI samaJa baDZA xI hE Ora kaI anuprayogoM ko pAyA hE .
+
+2 NMT: isa prakAra eAI ne buxXi kI prakqwi ke bAre meM samaJa baDZA xI hE Ora kaI anuprayoga pAe hEM .
+
+3 NMT: isa prakAra eAI ne buxXi ke svarUpa kI samaJa baDZA xI hE Ora kaI anuprayogoM ko pAyA .
+
+4 NMT: isa prakAra eAI ne buxXi kI prakqwi ko samaJane meM vqxXi kI hE Ora kaI anuprayogoM ko pAyA hE .
+
+5 NMT: isa prakAra eAI buxXi kI prakqwi kI samaJa meM vqxXi huI hE Ora kaI anuprayogoM pAyA .
+
+6 NMT: isa prakAra eAI buxXi kI prakqwi kI samaJa meM vqxXi huI hE Ora kaI anuprayogoM ko pAyA .
+
+isa_0+1+2+3+4+5+6 prakAra_0+1+2+3+4+5+6 eAI_0+1+2+3+4+5+6 buxXi_0+5+6/ne_1+2+3+4 kI_0+5+6/buxXi_1+2+3+4 kI_2+4/prakqwi_0+5+6/ke_1+3 kI_5+6/prakqwi_2+4/ke_0/svarUpa_1+3 kI_1+3/samaJa_5+6/ko_4/ke_2/bAre_0 samaJa_1+3/meM_0+5+6/bAre_2/samaJane_4 samaJa_0/meM_2+4/vqxXi_5+6/baDZA_1+3 samaJa_2/meM_0/vqxXi_4/xI_1+3/huI_5+6 kI_4/hE_1+3+5+6/vqxXi_0/baDZA_2 hE_4/Ora_1+3+5+6/xI_2/huI_0 hE_0+2/Ora_4/kaI_1+3+5+6 Ora_0+2/kaI_4/anuprayogoM_1+3+5+6 kaI_0+2/anuprayogoM_4/pAyA_5/ko_1+3+6 ._5/anuprayogoM_0/pAyA_1+3+6/ko_4/anuprayoga_2 hE_1/._3+6/pAyA_0+4/pAe_2 hE_4/._0+1/hEM_2 ._2+4

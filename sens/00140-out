@@ -1,8 +1,19 @@
-kArdiyoloYjista	hqxaroga	hqxvijFAnI	hqxarogavijFAnI	jEsI	vijFAnI	kI	jEse	viSeRajFa	jEse	waraha	praNAliyAM	sistama	viSeRajFa	waMwra	eka	ejeMta	howI>>	hEM	hE	.	.
-1	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	1	0	1	1
-1	0	0	0	0	0	0	1	1	1	0	0	1	1	0	1	1	0	0	1	1	1
-1	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	1	0	1	1
-0	0	1	0	1	0	0	0	1	0	0	1	0	1	0	1	1	0	1	0	1	1
-0	0	0	1	0	0	1	0	1	0	1	0	0	1	0	1	1	0	0	1	1	1
-0	1	0	0	0	1	0	1	1	1	0	0	0	1	0	1	1	0	0	1	1	1
-0	0	1	0	0	0	0	1	1	1	0	0	0	1	1	1	1	0	0	1	0	0
+ENG: Expert systems like the Cardiologist is an agent.
+
+ANU: hqxaya viSeRajFa jEsA nipuNa praNAlI eka prawiniXi hE .
+
+0 NMT: kArdiyoloYjista jEsI viSeRajFa praNAliyAM ejeMta howI hEM .
+
+1 NMT: kArdiyoloYjista jEse viSeRajFa sistama eka ejeMta hE .
+
+2 NMT: kArdiyoloYjista jEsI viSeRajFa praNAliyAM ejeMta hEM .
+
+3 NMT: hqxvijFAnI jEsI viSeRajFa praNAliyAM eka ejeMta hEM .
+
+4 NMT: hqxarogavijFAnI kI waraha viSeRajFa eka ejeMta hE .
+
+5 NMT: hqxaroga vijFAnI jEse viSeRajFa eka ejeMta hE .
+
+6 NMT: hqxvijFAnI jEse viSeRajFa waMwra eka ejeMta hE
+
+hqxvijFAnI_3+6/hqxaroga_5/hqxarogavijFAnI_4/kArdiyoloYjista_0+1+2 jEse_1+6/jEsI_0+2+3/vijFAnI_5/kI_4 viSeRajFa_0+1+2+3+6/jEse_5/waraha_4 viSeRajFa_4+5/praNAliyAM_0+2+3/waMwra_6/sistama_1 ejeMta_0+2/eka_1+3+4+5+6 ejeMta_1+3+4+5+6/howI_0/hEM_2 hE_1+4+5+6/._2/hEM_0+3 ._0+1+3+4+5

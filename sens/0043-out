@@ -1,5 +1,13 @@
-mAnava	manuRya	Ora	paSu	BI	jatila	jatila	saMvexI	saMvexI	sUcanAoM	jAnakArI>>	kI	vyAKyA	vyAKyA	karane	karane	meM	meM	BI	sakRama	hEM	.
-1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1
+ENG: Humans and animals are also capable of interpreting complex sensory information.
+
+ANU: mAnava Ora paSu jatila saMvexI sUcanA vyAKyA karane ke BI samarWa hEM .
+
+0 NMT: mAnava Ora paSu BI jatila saMvexI jAnakArI kI vyAKyA karane meM sakRama hEM .
+
+1 NMT: mAnava Ora paSu BI jatila saMvexI sUcanA kI vyAKyA karane meM sakRama hEM .
+
+2 NMT: manuRya Ora paSu jatila saMvexI sUcanAoM kI vyAKyA karane meM BI sakRama hEM .
+
+3 NMT: manuRya Ora paSu BI jatila saMvexI sUcanA kI vyAKyA karane meM sakRama hEM .
+
+manuRya_2+3/mAnava_0+1 Ora_0+1+2+3 paSu_0+1+2+3 jatila_2/BI_0+1+3 jatila_0+1+3/saMvexI_2 saMvexI_0+1+3/sUcanAoM_2 kI_2/sUcanA_1+3/jAnakArI_0 kI_0+1+3/vyAKyA_2 vyAKyA_0+1+3/karane_2 karane_0+1+3/meM_2 meM_0+1+3/BI_2 sakRama_0+1+2+3 hEM_0+1+2+3 ._0+1+2+3

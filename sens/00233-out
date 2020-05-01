@@ -1,9 +1,21 @@
-prawivarwa	prawivarwI	ejeMta	aBikarmaka	aBikarwA	prawigrAhI	parigrAhI	parsepta	prawixIpwi	saMvexanAoM	prawiboXa	ko	ke	para	prawi	wuraMwa	prawikriyA	wuraMwa	prawyuwwara	xewe	karawe	prawikriyA	hEM	vyakwa	xewe	.	karawe	hEM
-1	0	1	0	0	1	0	0	0	0	0	1	0	0	0	1	1	1	0	1	0	1	1	0	1	1	0	1
-1	0	0	0	1	1	0	0	0	0	0	0	1	0	0	1	0	1	1	1	0	0	1	0	1	1	0	1
-1	0	0	0	1	1	0	0	0	0	0	1	0	0	0	1	1	1	0	1	0	1	1	0	1	1	0	1
-1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	1	0	0	1	1	1	0	0	1	1	1
-1	0	1	0	0	0	1	0	0	0	0	1	0	0	0	1	1	1	0	1	0	1	1	0	1	1	0	1
-0	1	0	0	1	0	0	1	0	0	0	0	1	0	1	1	1	1	0	1	0	1	1	0	1	1	0	1
-0	1	0	0	1	0	0	0	0	0	1	0	1	0	1	1	1	1	0	1	0	1	1	0	1	1	0	1
-0	1	0	1	0	0	0	0	0	1	0	0	1	0	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+ENG: Reflex agents respond immediately to percepts.
+
+ANU: palate hue prawiniXi boXa wawkAla prawikriyA vyakwa karawe hEM .
+
+0 NMT: prawivarwa ejeMta prawigrAhI ko wuraMwa prawikriyA xewe hEM .
+
+1 NMT: prawivarwa aBikarwA prawigrAhI ke wuraMwa prawyuwwara xewe hEM .
+
+2 NMT: prawivarwa aBikarwA prawigrAhI ko wuraMwa prawikriyA xewe hEM .
+
+3 NMT: prawivarwa aBikarwA prawixIpwi para wuraMwa prawikriyA karawe hEM .
+
+4 NMT: prawivarwa ejeMta parigrAhI ko wuraMwa prawikriyA xewe hEM .
+
+5 NMT: prawivarwI aBikarwA parsepta ke prawi wuraMwa prawikriyA xewe hEM .
+
+6 NMT: prawivarwI aBikarwA prawiboXa ke prawi wuraMwa prawikriyA xewe hEM .
+
+7 NMT: prawivarwI aBikarmaka saMvexanAoM ke prawi wuraMwa prawikriyA vyakwa karawe hEM .
+
+prawivarwI_5+6+7/prawivarwa_0+1+2+3+4 aBikarmaka_7/aBikarwA_1+2+3+5+6/ejeMta_0+4 saMvexanAoM_7/prawiboXa_6/parsepta_5/parigrAhI_4/prawixIpwi_3/prawigrAhI_0+1+2 ke_1+5+6+7/ko_0+2+4/para_3 wuraMwa_0+1+2+3+4/prawi_5+6+7 wuraMwa_5+6+7/prawikriyA_0+2+3+4/prawyuwwara_1 prawikriyA_5+6+7/xewe_0+1+2+4/karawe_3 hEM_0+1+2+3+4/xewe_5+6/vyakwa_7 hEM_5+6/._0+1+2+3+4/karawe_7 hEM_7/._5+6 ._7

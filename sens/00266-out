@@ -1,5 +1,13 @@
-AmawOra	para	Koja	vqkRa	trI	eka	ko	samaya	eka	meM	samaya	eka}	noda	eka	baDZAyA	noda	viswAriwa	jAwA]	hE]	.]
-1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	0	0	0
-1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	0	0	0
-1	1	1	0	1	1	0	1	1	1	1	0	1	1	0	1	1	0	0	0
-1	1	1	1	0	1	0	1	1	1	1	0	1	1	0	1	1	0	0	0
+ENG: Usually the search tree is extended one node at a time.
+
+ANU: Ama wOra para Koja waru eka sAWa eka gAzTa baDAyA huA hE .
+
+0 NMT: AmawOra para Koja vqkRa eka samaya meM eka noda baDZAyA jAwA hE .
+
+1 NMT: AmawOra para Koja vqkRa ko eka samaya meM eka noda baDZAyA jAwA hE .
+
+2 NMT: AmawOra para Koja trI eka samaya meM eka noda viswAriwa kiyA jAwA hE .
+
+3 NMT: AmawOra para Koja vqkRa eka samaya meM eka noda viswAriwa kiyA jAwA hE .
+
+AmawOra_0+1+2+3 para_0+1+2+3 Koja_0+1+2+3 vqkRa_0+1+3/trI_2 eka_0+2+3/ko_1 eka_1/samaya_0+2+3 samaya_1/meM_0+2+3 eka_0+2+3/meM_1 eka_1/noda_0+2+3 noda_1/viswAriwa_2+3/baDZAyA_0 jAwA_0/kiyA_2+3/baDZAyA_1 jAwA_1+2+3/hE_0 hE_1+2+3/._0 ._1+2+3

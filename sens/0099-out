@@ -1,5 +1,13 @@
-unhoMne	SawaraMja	ke	kA	saMxarBa	havAlA	meM	xekara	maSInI	buxXi	para	apane	vicAroM	vicAra	ko>>	saciwra	kie	praswuwa>>	kiyA	.
-1	1	1	0	1	0	1	0	1	1	1	1	1	0	0	1	0	0	1	1
-1	1	1	0	1	0	1	0	1	1	1	1	0	1	0	0	1	0	0	1
-1	1	0	1	0	1	0	1	1	1	1	1	1	0	0	1	0	0	1	1
-1	1	1	1	1	0	1	0	1	1	1	1	1	0	0	1	0	0	1	1
+ENG: He illustrated his ideas on machine intelligence by reference to chess.
+
+ANU: usane SawaraFja havAle ke xvArA yanwra buxXi para usake vicAra vyakwa kie .
+
+0 NMT: unhoMne SawaraMja ke saMxarBa meM maSInI buxXi para apane vicAroM ko saciwra praswuwa kiyA .
+
+1 NMT: unhoMne SawaraMja ke saMxarBa meM maSInI buxXi para apane vicAra vyakwa kie .
+
+2 NMT: unhoMne SawaraMja kA havAlA xekara maSInI buxXi para apane vicAroM kA saciwra varNana kiyA .
+
+3 NMT: unhoMne SawaraMja ke saMxarBa meM maSInI buxXi para apane vicAroM kA saciwra varNana kiyA .
+
+unhoMne_0+1+2+3 SawaraMja_0+1+2+3 kA_2/ke_0+1+3 saMxarBa_0+1+3/havAlA_2 meM_0+1+3/xekara_2 maSInI_0+1+2+3 buxXi_0+1+2+3 para_0+1+2+3 apane_0+1+2+3 vicAroM_0+2+3/vicAra_1 kA_2+3/vyakwa_1/ko_0 saciwra_0+2+3/kie_1 ._1/varNana_2+3/praswuwa_0 kiyA_0+2+3 ._0+2+3

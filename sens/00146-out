@@ -1,3 +1,9 @@
-yaha	BI]	warkasaMgawa}	honA	cAhie	.
-1	0	0	1	1	1
-1	0	0	1	1	1
+ENG: It also must be rational.
+
+ANU: yaha BI warkasafgawa honA cAhie .
+
+0 NMT: yaha BI warkasaMgawa honA cAhie .
+
+1 NMT: yaha warkasaMgawa BI honA cAhie .
+
+yaha_0+1 warkasaMgawa_1/BI_0 warkasaMgawa_0/BI_1 honA_0+1 cAhie_0+1 ._0+1

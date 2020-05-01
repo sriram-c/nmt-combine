@@ -1,7 +1,17 @@
-yaha	eka	aBikarwA	ejeMta	amUrwana	ke	hE	vinyAsa	jo	ko	ejeMta	aBikarwA	nirxiRta	ke	karane	vinyAsa	eka	vAlA	eka	ko	vinyAsa	nirxiRta	xarSAwA	ko	amUrwana	karawA	nirxiRta	hE	hE}	.	hE
-1	1	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1
-1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1
-1	1	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	0	1	1
-1	1	1	0	1	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	0	1	1	1	0	0	1	0	1	1
-1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1
-1	1	1	0	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1
+ENG: It is an abstraction that denotes a configuration of the agent.
+
+ANU: eka SUnyamanaskawA hE jo prawiniXi kA eka samAkqwi xarSAwA hE .
+
+0 NMT: yaha eka amUrwana hE jo ejeMta ke vinyAsa ko nirxiRta karawA hE .
+
+1 NMT: yaha eka amUrwana hE jo aBikarwA ke vinyAsa ko nirxiRta karawA hE .
+
+2 NMT: yaha eka amUrwana hE jo ejeMta ke eka vinyAsa ko nirxiRta karawA hE .
+
+3 NMT: yaha eka amUrwana hE jo aBikarwA ke vinyAsa ko xarSAwA hE .
+
+4 NMT: yaha ejeMta ke vinyAsa ko nirxiRta karane vAlA eka amUrwana hE .
+
+5 NMT: yaha aBikarwA ke vinyAsa ko nirxiRta karane vAlA eka amUrwana hE .
+
+yaha_0+1+2+3+4+5 eka_0+1+2+3/aBikarwA_5/ejeMta_4 amUrwana_0+1+2+3/ke_4+5 hE_0+1+2+3/vinyAsa_4+5 ko_4+5/jo_0+1+2+3 nirxiRta_4+5/aBikarwA_1+3/ejeMta_0+2 ke_0+1+2+3/karane_4+5 eka_2/vinyAsa_0+1+3/vAlA_4+5 eka_4+5/vinyAsa_2/ko_0+1+3 amUrwana_4+5/ko_2/nirxiRta_0+1/xarSAwA_3 hE_3+4+5/nirxiRta_2/karawA_0+1 hE_0+1/._3+4+5/karawA_2 hE_2/._0+1 ._2

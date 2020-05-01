@@ -1,11 +1,25 @@
-kaMpyUtara	saMgaNaka	xqRti	meM	,	sistama	praNAliyoM	praNAliyAM	cehare>>	kI>>	pahacAna	kA	sAmane	prApwa	sAmanA	karane	mAnyawA	sAmanA	meM}	sakRama	karane	meM	hEM	sakRama	meM	howI	sakRama	hEM	.
-1	0	1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	1	1	1	1	1	1	0	1	1	1
-1	0	1	1	1	1	0	0	0	0	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1
-1	0	1	1	1	1	0	0	0	0	0	0	0	1	0	1	1	0	0	1	1	1	1	1	1	0	1	1	1
-1	0	1	1	1	1	0	0	0	0	1	1	0	0	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1
-1	0	1	1	1	1	0	0	0	0	0	0	0	1	0	1	1	0	0	1	1	1	1	1	1	0	1	1	1
-1	0	1	1	1	1	0	0	0	0	0	0	1	1	0	1	1	0	0	1	1	1	1	1	1	0	1	1	1
-1	0	1	1	1	0	1	0	0	0	1	1	0	0	1	1	0	1	0	1	1	1	1	1	1	0	1	1	1
-1	0	1	1	1	0	1	0	0	0	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1
-1	0	1	1	1	0	1	0	0	0	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1
-0	1	1	1	1	0	0	1	0	0	0	1	0	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1
+ENG: In Computer vision, the systems are capable of face recognition.
+
+ANU: kampyUtara xqRti meM, praNAliyAz ceharA mAnyawA ke samarWa hEM .
+
+0 NMT: kaMpyUtara xqRti meM , sistama cehare kI pahacAna karane meM sakRama hEM .
+
+1 NMT: kaMpyUtara xqRti meM , sistama mAnyawA kA sAmanA karane meM sakRama hEM .
+
+2 NMT: kaMpyUtara xqRti meM , sistama Pesa mAnyawA prApwa karane meM sakRama hEM .
+
+3 NMT: kaMpyUtara xqRti meM , sistama pahacAna kA sAmanA karane meM sakRama hEM .
+
+4 NMT: kaMpyUtara xqRti meM , sistama ceharA mAnyawA prApwa karane meM sakRama hEM .
+
+5 NMT: kaMpyUtara xqRti meM , sistama Amane - sAmane mAnyawA prApwa karane meM sakRama hEM .
+
+6 NMT: kaMpyUtara xqRti meM , praNAliyoM ko pahacAna kA sAmanA karane meM sakRama hEM .
+
+7 NMT: kaMpyUtara xqRti meM , praNAliyoM ko mAnyawA kA sAmanA karane meM sakRama hEM .
+
+8 NMT: kaMpyUtara xqRti meM , praNAliyoM mAnyawA kA sAmanA karane meM sakRama hEM .
+
+9 NMT: saMgaNaka xqRti meM , praNAliyAM aBijFAna kA sAmanA karane meM sakRama howI hEM .
+
+kaMpyUtara_0+1+2+3+4+5+6+7+8/saMgaNaka_9 xqRti_0+1+2+3+4+5+6+7+8+9 meM_0+1+2+3+4+5+6+7+8+9 ,_0+1+2+3+4+5+6+7+8+9 sistama_0+1+2+3+4+5/praNAliyoM_6+7+8/praNAliyAM_9 mAnyawA_1+8/ko_6+7/aBijFAna_9/Amane_5/ceharA_4/Pesa_2/cehare_0/pahacAna_3 kA_1+3+8+9/mAnyawA_2+4+7/-_5/kI_0/pahacAna_6 kA_6+7/sAmanA_1+3+8+9/prApwa_2+4/sAmane_5/pahacAna_0 karane_0+1+2+3+4+8+9/sAmanA_6+7/mAnyawA_5 meM_0+1+2+3+4+8+9/karane_6+7/prApwa_5 meM_6+7/karane_5/sakRama_0+1+2+3+4+8+9 meM_5/sakRama_6+7/hEM_0+1+2+3+4+8/howI_9 sakRama_5/hEM_6+7+9/._0+1+2+3+4+8 hEM_5/._6+7+9 ._5

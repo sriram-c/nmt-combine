@@ -1,9 +1,21 @@
-xUsarI	xUsare	SreNI	prakAra	ke	kAryoM	ke}	lie	kOSala	vikAsa	Ora	praveSa	rEnabEksI	/	->>	buxXi	AvaSyakawA	kI	kI}	AvaSyakawA}	howI}	hE}	Ora}	kevala}	kuCa}	viSeRajFa}	hI}	unheM	acCI	praxarSana	acCA	acCA	waraha	kara	praxarSana	praxarSana	se	sakawe	kara	niRpAxana	kara	hEM	sakawe	sakawe	kara	hEM	.	hEM	sakawe	.	.	hEM
-1	0	1	0	1	1	0	1	1	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	0	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	0	1	1	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	0	1	1	1	1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	0	1	0	1	1	0	1	1	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	1	1	0	1	1	1	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	1	1	0	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	1	1	0	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: The second range of tasks requires skill development and/or intelligence and only some specialists can perform them well.
+
+ANU: kAmoM kA xUsarA viBinna prakAra kOSala vikAsa Ora prawIka-cIra kI yA jFAna AvaSyakawA howA hE Ora sirPa kuCa viSeRajFa acCA unako kArya kara sakawe hEM .
+
+0 NMT: xUsarI SreNI ke kAryoM ke lie kOSala vikAsa Ora praveSa - buxXi kI AvaSyakawA howI hE Ora kevala kuCa viSeRajFa hI unheM acCA praxarSana kara sakawe hEM .
+
+1 NMT: xUsarI SreNI ke kAryoM ke lie kOSala vikAsa Ora praveSa KuPiyA kI AvaSyakawA howI hE Ora kevala kuCa viSeRajFa hI unheM acCA praxarSana kara sakawe hEM .
+
+2 NMT: xUsarI SreNI ke kAryoM ke lie kOSala vikAsa Ora praveSa buxXi kI AvaSyakawA howI hE Ora kevala kuCa viSeRajFa hI unheM acCI waraha se kara sakawe hEM .
+
+3 NMT: xUsarI SreNI ke kAryoM ke lie kOSala vikAsa Ora / AsUcanA kI AvaSyakawA howI hE Ora kevala kuCa viSeRajFa hI unheM acCA praxarSana kara sakawe hEM .
+
+4 NMT: xUsarI SreNI ke kAryoM ke lie kOSala vikAsa Ora praveSa buxXi kI AvaSyakawA howI hE Ora kevala kuCa viSeRajFa hI unheM acCA praxarSana kara sakawe hEM .
+
+5 NMT: xUsare prakAra ke kAryoM ke lie kOSala vikAsa Ora rEnabEksI kI AvaSyakawA howI hE Ora kevala kuCa viSeRajFa hI unheM acCA praxarSana kara sakawe hEM .
+
+6 NMT: xUsare prakAra ke kAryoM ke lie kOSala vikAsa Ora praveSa prawiBA kI AvaSyakawA howI hE Ora kevala kuCa viSeRajFa hI inakA acCI waraha se niRpAxana kara sakawe hEM .
+
+7 NMT: xUsare prakAra ke kAryoM ke lie kOSala vikAsa Ora praveSa prawiBA kI AvaSyakawA howI hE Ora kevala kuCa viSeRajFa hI inakA acCA praxarSana kara sakawe hEM .
+
+xUsarI_0+1+2+3+4/xUsare_5+6+7 SreNI_0+1+2+3+4/prakAra_5+6+7 ke_0+1+2+3+4+5+6+7 kAryoM_0+1+2+3+4+5+6+7 ke_0+1+2+3+4+5+6+7 lie_0+1+2+3+4+5+6+7 kOSala_0+1+2+3+4+5+6+7 vikAsa_0+1+2+3+4+5+6+7 Ora_0+1+2+3+4+5+6+7 praveSa_0+1+2+4+6+7/rEnabEksI_5//_3 kI_5/buxXi_2+4/prawiBA_6+7/AsUcanA_3/KuPiyA_1/-_0 kI_1+2+3+4+6+7/AvaSyakawA_5/buxXi_0 kI_0/AvaSyakawA_1+2+3+4+6+7/howI_5 AvaSyakawA_0/howI_1+2+3+4+6+7/hE_5 Ora_5/howI_0/hE_1+2+3+4+6+7 Ora_1+2+3+4+6+7/hE_0/kevala_5 Ora_0/kevala_1+2+3+4+6+7/kuCa_5 kevala_0/kuCa_1+2+3+4+6+7/viSeRajFa_5 kuCa_0/viSeRajFa_1+2+3+4+6+7/hI_5 viSeRajFa_0/hI_1+2+3+4+6+7/unheM_5 hI_0/unheM_1+2+3+4/acCA_5/inakA_6+7 unheM_0/acCA_1+3+4+7/praxarSana_5/acCI_2+6 kara_5/acCA_0/praxarSana_1+3+4+7/waraha_2+6 kara_1+3+4+7/sakawe_5/praxarSana_0/se_2+6 kara_0+2/sakawe_1+3+4+7/hEM_5/niRpAxana_6 kara_6/sakawe_0+2/hEM_1+3+4+7/._5 sakawe_6/hEM_0+2/._1+3+4+7 hEM_6/._0+2 ._6

@@ -1,12 +1,27 @@
-kriyAoM	kriyA	kramoM	anukramoM	ko	ko	kArya	kriyA	meM	kriyA}	kramoM	kI	kiyA	meM	samUhIkqwa	meM	samUhabaxXa	vargIkqwa	kI	samUhIkqwa	jA	samUhIkqwa	sakawI	vargIkqwa	kiyA	sakawA	jA	kiyA	sakawI	hE	jA	jA	.	hE	sakawA	sakawA	hE	.	hE	.	.
-0	1	1	0	1	1	0	1	1	0	1	0	1	1	1	1	0	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	1	0	1	1	0	1	1	0	1	0	1	1	0	1	0	1	0	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	1	1	0	1	1	0	0	0	1	1	0	1	0	1	0	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-1	1	0	1	1	1	0	1	1	0	0	0	1	1	1	1	0	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	1	0	0	0	1	1	0	0	1	0	1	1	1	0	0	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1
-0	1	0	1	0	0	0	1	1	0	0	1	0	1	1	1	0	0	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1
-0	1	0	1	1	1	0	1	0	0	0	0	1	0	1	0	0	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	1	0	1	1	0	0	0	1	1	0	1	0	1	0	0	1	0	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	1	0	1	1	0	0	0	1	1	1	1	0	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	1	0	1	1	0	0	0	1	1	0	1	1	0	0	0	1	0	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
-0	1	0	0	1	1	1	1	1	0	0	0	1	1	1	1	0	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
+ENG: Actions can be grouped into action sequences.
+
+ANU: kriyAez kriyA anukrama ke anxara ikatTA huI jA sakawIM hEM .
+
+0 NMT: kriyA kramoM ko kriyA kramoM meM samUhIkqwa kiyA jA sakawA hE .
+
+1 NMT: kriyA kramoM ko kriyA kramoM meM vargIkqwa kiyA jA sakawA hE .
+
+2 NMT: kriyA ko kriyA anukramoM meM vargIkqwa kiyA jA sakawA hE .
+
+3 NMT: kriyAoM ko kriyA anukramoM meM samUhIkqwa kiyA jA sakawA hE .
+
+4 NMT: kriyA anukramoM meM samUhIkqwa kI jA sakawI hE .
+
+5 NMT: kriyA anukramoM meM kriyA samUhIkqwa kI jA sakawI hE .
+
+6 NMT: kriyA anukramoM ko samUhIkqwa kiyA jA sakawA hE .
+
+7 NMT: kriyA ko kriyA anukrama meM vargIkqwa kiyA jA sakawA hE .
+
+8 NMT: kriyA ko kriyA anukrama meM samUhIkqwa kiyA jA sakawA hE .
+
+9 NMT: kriyA ko kriyA krama meM samUhabaxXa kiyA jA sakawA hE .
+
+10 NMT: kriyA ko kArya anukrama meM samUhIkqwa kiyA jA sakawA hE .
+
+kriyA_0+1+2+4+5+6+7+8+9+10/kriyAoM_3 ko_2+3+7+8+9+10/anukramoM_4+5+6/kramoM_0+1 kriyA_2+3+7+8+9/meM_4+5/ko_0+1+6/kArya_10 kriyA_0+1+5/samUhIkqwa_4+6/anukramoM_2+3/anukrama_7+8+10/krama_9 meM_2+3+7+8+9+10/kiyA_6/samUhIkqwa_5/kramoM_0+1/kI_4 jA_4+6/meM_0+1/samUhIkqwa_3+8+10/vargIkqwa_2+7/kI_5/samUhabaxXa_9 jA_5/kiyA_2+3+7+8+9+10/sakawA_6/samUhIkqwa_0/vargIkqwa_1/sakawI_4 hE_4+6/jA_2+3+7+8+9+10/kiyA_0+1/sakawI_5 hE_5/._4+6/jA_0+1/sakawA_2+3+7+8+9+10 hE_2+3+7+8+9+10/._5/sakawA_0+1 hE_0+1/._2+3+7+8+9+10 ._0+1

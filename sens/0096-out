@@ -1,6 +1,15 @@
-1943	meM	mEkakloYca>>	eMda	Ora	pitsa	ne	maswiRka	ximAga	kA	eka	bUliyana	sarkita	bUliyana	paripaWa	moYdala	sarkita	vikasiwa	moYdala	kiyA	vikasiwa	.	kiyA
-1	1	0	1	0	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	0	1	0	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	0	0	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	1
-1	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-1	1	0	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+ENG: In 1943 McCulloch & Pitts developed a Boolean circuit model of brain.
+
+ANU: 1943 meM makalaka ne Ora pitsa ne buxXi ke eka bUlIana cakkara namUne kA vikAsa kiyA .
+
+0 NMT: 1943 meM mEkakloYca eMda pitsa ne maswiRka kA bUliyana sarkita moYdala vikasiwa kiyA .
+
+1 NMT: 1943 meM mEkakuloca eMda pitsa ne maswiRka kA bUliyana sarkita moYdala vikasiwa kiyA .
+
+2 NMT: 1943 meM mekkeloca Ora pitsa ne maswiRka kA eka bUliyana paripaWa moYdala vikasiwa kiyA .
+
+3 NMT: 1943 meM mEkakuloca Ora pitsa ne maswiRka kA eka bUliyana sarkita moYdala vikasiwa kiyA .
+
+4 NMT: 1943 meM mEYkkuloca Ora pitsa ne ximAga kA eka bUliyana sarkita moYdala vikasiwa kiyA .
+
+1943_0+1+2+3+4 meM_0+1+2+3+4 mEkakuloca_1+3/mEYkkuloca_4/mekkeloca_2/mEkakloYca_0 Ora_2+3+4/eMda_0+1 pitsa_0+1+2+3+4 ne_0+1+2+3+4 maswiRka_0+1+2+3/ximAga_4 kA_0+1+2+3+4 bUliyana_0+1/eka_2+3+4 bUliyana_2+3+4/sarkita_0+1 moYdala_0+1/sarkita_3+4/paripaWa_2 moYdala_2+3+4/vikasiwa_0+1 vikasiwa_2+3+4/kiyA_0+1 kiyA_2+3+4/._0+1 ._2+3+4

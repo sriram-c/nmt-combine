@@ -1,9 +1,21 @@
-buxXimAnI	samaJaxArI	se	kArya	kAma	karane	lene	ke	lie	vyakwi	wo	kisI	manuRya	ko	akla	boXa	samaJa	buxXi	samaJanA	lagAnI	honA	kA	hogA	hI	lenA	cAhie	cAhie	hogI	honA	.	.	AvaSyaka
-1	0	1	1	0	1	0	1	1	1	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1	1	0	1	1	1	0
-1	0	1	1	0	1	0	1	1	1	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0
-0	1	1	0	1	0	1	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	1	1	0	0	1	1	0
-1	0	1	0	1	1	0	1	1	1	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1	1	0	1	1	1	0
-0	1	1	0	1	0	1	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	1	1	0	0	1	1	0
-0	1	1	0	1	0	1	1	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	1	1	0
-1	0	1	1	0	1	0	1	1	0	0	0	1	1	0	0	0	1	0	0	1	1	0	0	0	0	0	0	1	1	1	1
-0	1	1	0	1	0	1	1	1	0	1	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	1	1	0
+ENG: In order to act intelligently, one must sense.
+
+ANU: buxXimawwApUrvaka kArya karane ke lie, hara eka ko anuBava karanA cAhie .
+
+0 NMT: buxXimAnI se kArya karane ke lie vyakwi ko boXa honA cAhie .
+
+1 NMT: buxXimAnI se kArya karane ke lie vyakwi ko samaJanA hogA .
+
+2 NMT: samaJaxArI se kAma lene ke lie vyakwi ko samaJa lenA cAhie .
+
+3 NMT: buxXimAnI se kAma karane ke lie vyakwi ko boXa honA cAhie .
+
+4 NMT: samaJaxArI se kAma lene ke lie kisI ko samaJa lenA cAhie .
+
+5 NMT: samaJaxArI se kAma lene ke lie vyakwi ko samaJanA cAhie .
+
+6 NMT: buxXimAnI se kArya karane ke lie manuRya ko buxXi kA honA AvaSyaka hE .
+
+7 NMT: samaJaxArI se kAma lene ke lie wo akla lagAnI hI hogI .
+
+samaJaxArI_2+4+5+7/buxXimAnI_0+1+3+6 se_0+1+2+3+4+5+6+7 kAma_2+3+4+5+7/kArya_0+1+6 lene_2+4+5+7/karane_0+1+3+6 ke_0+1+2+3+4+5+6+7 lie_0+1+2+3+4+5+6+7 vyakwi_0+1+2+3+5/wo_7/manuRya_6/kisI_4 ko_0+1+2+3+4+5+6/akla_7 samaJa_2+4/samaJanA_1+5/boXa_0+3/lagAnI_7/buxXi_6 cAhie_5/lenA_2+4/honA_0+3/hI_7/kA_6/hogA_1 ._1+5/cAhie_0+2+3+4/honA_6/hogI_7 ._0+2+3+4+7/AvaSyaka_6 hE_6 ._6

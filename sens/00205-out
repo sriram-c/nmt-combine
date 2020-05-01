@@ -1,4 +1,11 @@
-yaha	vAswuSilpa	vAswukalA	prawikriyAwmaka	prawikriyASIla	praNAliyoM	para	AXAriwa	hE	.
-1	1	0	1	0	1	1	1	1	1
-1	1	0	0	1	1	1	1	1	1
-1	0	1	1	0	1	1	1	1	1
+ENG: This architecture is based on reactive systems.
+
+ANU: yaha vAswukalA prawiGAwaka praNAliyoM para AXAriwa hE .
+
+0 NMT: yaha vAswuSilpa prawikriyAwmaka praNAliyoM para AXAriwa hE .
+
+1 NMT: yaha vAswuSilpa prawikriyASIla praNAliyoM para AXAriwa hE .
+
+2 NMT: yaha vAswukalA prawikriyAwmaka praNAliyoM para AXAriwa hE .
+
+yaha_0+1+2 vAswuSilpa_0+1/vAswukalA_2 prawikriyAwmaka_0+2/prawikriyASIla_1 praNAliyoM_0+1+2 para_0+1+2 AXAriwa_0+1+2 hE_0+1+2 ._0+1+2

@@ -1,9 +1,21 @@
-gre	XUsara	nodsa	Koja	vqkRa	trI	pedZa	ko	pariBARiwa	pariBARiwa	karawe	karawe	karawA	hEM	hEM	hE	.	.
-1	0	1	1	1	0	0	1	1	1	1	1	0	1	1	0	1	1
-1	0	1	1	0	0	1	0	1	1	1	1	0	1	1	0	1	1
-1	0	1	1	1	0	0	0	1	1	1	1	0	1	1	0	1	1
-1	0	1	1	0	1	0	0	1	1	1	1	0	1	1	0	1	1
-0	1	1	1	0	1	0	1	1	1	1	1	0	1	1	0	1	1
-0	1	1	1	1	0	0	1	1	1	0	0	1	0	0	1	1	1
-0	1	1	1	1	0	0	1	1	1	1	1	0	1	1	0	1	1
-0	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1
+ENG: The grey nodes define the search tree.
+
+ANU: aXeda gAzTa Koja waru pariBARiwa karawI hEM .
+
+0 NMT: gre nodsa Koja vqkRa ko pariBARiwa karawe hEM .
+
+1 NMT: gre nodsa Koja pedZa pariBARiwa karawe hEM .
+
+2 NMT: gre nodsa Koja vqkRa pariBARiwa karawe hEM .
+
+3 NMT: gre nodsa Koja trI pariBARiwa karawe hEM .
+
+4 NMT: XUsara nodsa Koja trI ko pariBARiwa karawe hEM .
+
+5 NMT: XUsara nodsa Koja vqkRa ko pariBARiwa karawA hE .
+
+6 NMT: XUsara nodsa Koja vqkRa ko pariBARiwa karawe hEM .
+
+7 NMT: XUsara nodsa Koja pedZa ko pariBARiwa karawe hEM .
+
+XUsara_4+5+6+7/gre_0+1+2+3 nodsa_0+1+2+3+4+5+6+7 Koja_0+1+2+3+4+5+6+7 vqkRa_0+2+5+6/trI_3+4/pedZa_1+7 pariBARiwa_1+2+3/ko_0+4+5+6+7 pariBARiwa_0+4+5+6+7/karawe_1+2+3 karawe_0+4+6+7/hEM_1+2+3/karawA_5 ._1+2+3/hEM_0+4+6+7/hE_5 ._0+4+5+6+7

@@ -1,4 +1,11 @@
-yaha	ho]	sakawA]	hE]	agara>>	rAjya]	aMwarikRa>>	anaMwa]	hE}	.]
-1	0	0	0	0	0	0	0	0	0
-1	0	0	0	0	0	0	0	0	0
-1	0	0	0	0	0	0	0	0	0
+ENG: This may happen if the state space is infinite.
+
+ANU: yaha ho sakawA hE yaxi avasWA sWAna asImiwa hE .
+
+0 NMT: yaha ho sakawA hE agara rAjya aMwarikRa anaMwa hE .
+
+1 NMT: yaha waba ho sakawA hE jaba rAjya kA sWAna anaMwa ho .
+
+2 NMT: yaha waba ho sakawA hE jaba rAjya sWAna anaMwa ho .
+
+yaha_0+1+2 ho_0/waba_1+2 ho_1+2/sakawA_0 hE_0/sakawA_1+2 hE_1+2/agara_0 rAjya_0/jaba_1+2 rAjya_1+2/aMwarikRa_0 anaMwa_0/sWAna_2/kA_1 hE_0/anaMwa_2/sWAna_1 ho_2/._0/anaMwa_1 ho_1/._2 ._1

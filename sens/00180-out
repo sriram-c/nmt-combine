@@ -1,8 +1,19 @@
-anukramika	eka	vAwAvaraNa	anukramika	meM	vAwAvaraNa	,	meM	ejeMta	,	saMbaMXiwa	judZe	kanekteda	ejeMta	eka	episoda	saMbaMXiwa	judZe	kI	episoda	eka	kI	SrqMKalA	eka	meM}	saMlagna	meM	karawA	saMlagna	hE	hE	.
-1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1
-1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1
+ENG: In a sequential environment, the agent engages in a series of connected episodes.
+
+ANU: eka kramika vAwAvaraNa meM, prawiniXi jodanA kadiyoM kI eka SqfKalA meM vyaswa hE .
+
+0 NMT: anukramika vAwAvaraNa meM , ejeMta saMbaMXiwa episoda kI eka SrqMKalA meM saMlagna hE .
+
+1 NMT: eka anukramika vAwAvaraNa meM , ejeMta saMbaMXiwa episoda kI eka SrqMKalA meM saMlagna hE .
+
+2 NMT: anukramika vAwAvaraNa meM , ejeMta kanekteda episoda kI eka SrqMKalA meM saMlagna hE .
+
+3 NMT: anukramika vAwAvaraNa meM , ejeMta kanekteda episoda kI eka SrqMKalA meM saMlagna karawA hE .
+
+4 NMT: anukramika vAwAvaraNa meM , ejeMta saMbaMXiwa episoda kI eka SrqMKalA meM saMlagna karawA hE .
+
+5 NMT: anukramika vAwAvaraNa meM , ejeMta judZe episoda kI eka SrqMKalA meM saMlagna hE .
+
+6 NMT: anukramika vAwAvaraNa meM , ejeMta eka judZe episoda kI eka SrqMKalA meM saMlagna hE .
+
+eka_1/anukramika_0+2+3+4+5+6 anukramika_1/vAwAvaraNa_0+2+3+4+5+6 meM_0+2+3+4+5+6/vAwAvaraNa_1 meM_1/,_0+2+3+4+5+6 ,_1/ejeMta_0+2+3+4+5+6 eka_6/ejeMta_1/saMbaMXiwa_0+4/judZe_5/kanekteda_2+3 episoda_0+2+3+4+5/saMbaMXiwa_1/judZe_6 episoda_1+6/kI_0+2+3+4+5 eka_0+2+3+4+5/kI_1+6 eka_1+6/SrqMKalA_0+2+3+4+5 meM_0+2+3+4+5/SrqMKalA_1+6 meM_1+6/saMlagna_0+2+3+4+5 saMlagna_1+6/hE_0+2+5/karawA_3+4 hE_1+3+4+6/._0+2+5 ._1+3+4+6

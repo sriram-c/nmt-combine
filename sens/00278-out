@@ -1,3 +1,9 @@
-prAraMBika	rAjya	ke>>	64	uwwarAXikArI	hEM	.
-1	1	0	1	1	1	1
-1	1	0	1	1	1	1
+ENG: The initial state has 64 successors.
+
+ANU: AramBika avasWA meM 64 vArisa hEM .
+
+0 NMT: prAraMBika rAjya ke 64 uwwarAXikArI hEM .
+
+1 NMT: prAraMBika rAjya meM 64 uwwarAXikArI hEM .
+
+prAraMBika_0+1 rAjya_0+1 meM_1/ke_0 64_0+1 uwwarAXikArI_0+1 hEM_0+1 ._0+1

@@ -1,7 +1,17 @@
-saccI	svAyawwawA	Ora	buxXimawwA	buxXi	ko	kA	kI	praxarSiwa	praxarSanI	praxarSana	karanA>>	.
-1	1	1	1	0	1	0	0	1	0	0	0	1
-1	1	1	1	0	0	1	0	0	0	1	0	1
-1	1	1	1	0	1	0	0	1	0	0	0	1
-1	1	1	1	0	0	1	0	0	0	1	0	1
-1	1	1	0	1	0	1	0	0	0	1	0	1
-1	1	1	1	0	0	0	1	0	1	0	0	1
+ENG: Exhibit true autonomy and intelligence.
+
+ANU: vAswavika svaSAsana Ora jFAna xiKAie .
+
+0 NMT: saccI svAyawwawA Ora buxXimawwA ko praxarSiwa karanA .
+
+1 NMT: saccI svAyawwawA Ora buxXimawwA kA praxarSana .
+
+2 NMT: saccI svAyawwawA Ora buxXimawwA ko praxarSiwa kareM .
+
+3 NMT: saccI svAyawwawA Ora buxXimawwA kA praxarSana kareM .
+
+4 NMT: saccI svAyawwawA Ora buxXi kA praxarSana kareM .
+
+5 NMT: saccI svAyawwawA Ora buxXimawwA kI praxarSanI kareM .
+
+saccI_0+1+2+3+4+5 svAyawwawA_0+1+2+3+4+5 Ora_0+1+2+3+4+5 buxXimawwA_0+1+2+3+5/buxXi_4 ko_0+2/kI_5/kA_1+3+4 praxarSiwa_0+2/praxarSanI_5/praxarSana_1+3+4 ._1/kareM_2+3+4+5/karanA_0 ._0+2+3+4+5
